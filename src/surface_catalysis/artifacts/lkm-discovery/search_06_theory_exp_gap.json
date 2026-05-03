@@ -1,0 +1,711 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811100151887167489": {
+        "area": "Chemistry",
+        "authors": "Tengfei Li | Zelin Wang | Wei Chen | Haralampos N. Miras | Yu-Fei Song",
+        "available_online": "2016-12-9",
+        "cover_date_start": "2016-12-09",
+        "created_at": "2022-12-17T21:02:27+08:00",
+        "doi": "10.1002/chem.201605198",
+        "en_title": "Back Cover: Rational Design of a Polyoxometalate Intercalated Layered Double Hydroxide: Highly Efficient Catalytic Epoxidation of Allylic Alcohols under Mild and Solvent-Free Conditions (Chem. Eur. J. 5/2017)",
+        "id": "811100151887167489",
+        "keywords": "",
+        "publication_date": "2017-1-23",
+        "publication_id": "3412",
+        "publication_name": "Chemistry   A European Journal _ Chem. Eur. J.",
+        "research_categories": "",
+        "zh_title": "封底：多金属氧酸盐插层层状双氢氧化物的合理设计：在温和无溶剂条件下烯丙醇的高效催化环氧化反应（《欧洲化学杂志》2017年5月）"
+      },
+      "paper:811643331418259457": {
+        "area": "Engineering Technology",
+        "authors": "Xian-yong WEI | Eisuke OGATA | Etsuo NIKI",
+        "available_online": "",
+        "cover_date_start": "1992-01-01",
+        "created_at": "2022-12-19T09:00:50+08:00",
+        "doi": "10.1627/jpi1958.35.358",
+        "en_title": "FeS2-Catalyzed Hydrocracking of Diarylmethanes.",
+        "id": "811643331418259457",
+        "keywords": "",
+        "publication_date": "1992",
+        "publication_id": "4852",
+        "publication_name": "Journal of The Japan Petroleum Institute _ Sekiyu Gakkaishi",
+        "research_categories": "",
+        "zh_title": "二硫化亚铁催化的二芳基甲烷加氢裂化反应"
+      },
+      "paper:811679936858292226": {
+        "area": "Chemistry",
+        "authors": "Raju Jannapu Reddy | Kwunmin Chen",
+        "available_online": "2011-2-18",
+        "cover_date_start": "2011-02-18",
+        "created_at": "2022-12-19T11:26:18+08:00",
+        "doi": "10.1021/ol200133y",
+        "en_title": "Highly Efficient Organocatalytic Kinetic Resolution of Activated Nitroallylic Acetates with Aldehydes via Conjugate Addition−Elimination",
+        "id": "811679936858292226",
+        "keywords": "",
+        "publication_date": "2011-3-18",
+        "publication_id": "3365",
+        "publication_name": "Organic Letters _ Org. Lett.",
+        "research_categories": "",
+        "zh_title": "通过共轭加成-消除反应实现醛对活化硝基烯丙基乙酸酯的高效有机催化动力学拆分"
+      },
+      "paper:812081763630186499": {
+        "area": "Chemistry",
+        "authors": "R. Alan Aitken | Nouria A. Al-Awadi | Osman M. E. El-Dusouqui | Dorcas M. M. Farrell | Ajith Kumar",
+        "available_online": "2006",
+        "cover_date_start": "2006-01-01",
+        "created_at": "2022-12-20T14:03:00+08:00",
+        "doi": "10.1002/kin.20170",
+        "en_title": "Synthesis, thermal reactivity, and kinetics of stabilized phosphorus ylides, part 2: [(Arylcarbamoyl)(cyano)methylene]triphenylphosphoranes and their thiocarbamoyl analogues",
+        "id": "812081763630186499",
+        "keywords": "",
+        "publication_date": "2006-8",
+        "publication_id": "3619",
+        "publication_name": "International Journal of Chemical Kinetics _ Int. J. Chem. Kinet.",
+        "research_categories": "",
+        "zh_title": "稳定磷叶立德的合成、热反应性及动力学，第2部分：[(芳基氨基甲酰基)(氰基)亚甲基]三苯基磷烷及其硫代氨基甲酰基类似物"
+      },
+      "paper:812348494353268738": {
+        "area": "Chemistry",
+        "authors": "R WRAGG",
+        "available_online": "",
+        "cover_date_start": "1973-11-01",
+        "created_at": "2022-12-21T07:42:54+08:00",
+        "doi": "10.1016/0021-9517(73)90337-0",
+        "en_title": "Heterogeneous selective ammoxidation over bismuth molybdate catalysts",
+        "id": "812348494353268738",
+        "keywords": "",
+        "publication_date": "1973-11",
+        "publication_id": "3381",
+        "publication_name": "Journal of Catalysis _ Journal of Catalysis",
+        "research_categories": "",
+        "zh_title": "钼酸铋催化剂上的多相选择性氨氧化反应"
+      },
+      "paper:812348695390453761": {
+        "area": "Chemistry",
+        "authors": "I MOCHIDA | A UCHINO | H FUJITSU | K TAKESHITA",
+        "available_online": "",
+        "cover_date_start": "1976-06-30",
+        "created_at": "2022-12-21T07:43:42+08:00",
+        "doi": "10.1016/0021-9517(76)90313-4",
+        "en_title": "Product distributions in the dehydrochlorination of some chloroalkanes over alumina, silica-alumina, and potassium hydroxide-silica gel",
+        "id": "812348695390453761",
+        "keywords": "",
+        "publication_date": "1976-6-30",
+        "publication_id": "3381",
+        "publication_name": "Journal of Catalysis _ Journal of Catalysis",
+        "research_categories": "",
+        "zh_title": "某些氯代烷在氧化铝、硅铝酸盐和氢氧化钾-硅胶上进行脱氯化氢反应时的产物分布"
+      },
+      "paper:812358334039457793": {
+        "area": "Geoscience",
+        "authors": "Changlin Chen | Pinjie Hong | Shushan Dai | Jiade Kan",
+        "available_online": "",
+        "cover_date_start": "1995-01-01",
+        "created_at": "2022-12-21T08:22:00+08:00",
+        "doi": "10.1039/ft9959101179",
+        "en_title": "Microwave effects on the oxidative coupling of methane over proton conductive catalysts",
+        "id": "812358334039457793",
+        "keywords": "",
+        "publication_date": "1995",
+        "publication_id": "13220",
+        "publication_name": "Journal of the Chemical Society, Faraday Transactions _ Faraday Trans.",
+        "research_categories": "",
+        "zh_title": "微波对质子传导催化剂上甲烷氧化偶联反应的影响"
+      },
+      "paper:812363607974084608": {
+        "area": "",
+        "authors": "Françlois Hugues | Bernard Besson | Jean M. Basset",
+        "available_online": "1980",
+        "cover_date_start": "1980-01-01",
+        "created_at": "2022-12-21T08:42:58+08:00",
+        "doi": "10.1039/c39800000719",
+        "en_title": "Selective formation of propene from CO + H 2 or C 2 H 4 with Fe 3 (CO) 12 supported on inorganic oxides. mechanistic implication in Fischer–Tropsch synthesis",
+        "id": "812363607974084608",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "100274",
+        "publication_name": "J. Chem. Soc., Chem. Commun. _ J. Chem. Soc., Chem. Commun.",
+        "research_categories": "",
+        "zh_title": "以负载在无机氧化物上的Fe₃(CO)₁₂从CO + H₂或C₂H₄选择性生成丙烯。费托合成中的机理意义 "
+      },
+      "paper:812383989351317505": {
+        "area": "Chemistry",
+        "authors": "Gabriel Chuchani | Edgar Marquez | Armando Herize | Rosa María Domínguez | María Tosta | Doris Brusco",
+        "available_online": "2003-10-6",
+        "cover_date_start": "2003-10-06",
+        "created_at": "2022-12-21T10:03:57+08:00",
+        "doi": "10.1002/poc.665",
+        "en_title": "Mechanism and structure-reactivity correlation in the homogeneous, unimolecular elimination kinetics of 2-substituted ethyl methylcarbonates in the gas phase",
+        "id": "812383989351317505",
+        "keywords": "[{\"ch_name\":\"2-取代碳酸甲乙酯\",\"en_name\":\"2-substituted ethyl methyl carbonates\"},{\"ch_name\":\"消除\",\"en_name\":\"Elimination\"},{\"ch_name\":\"气相\",\"en_name\":\"Gas phase\"},{\"ch_name\":\"动力学\",\"en_name\":\"Kinetics\"},{\"ch_name\":\"热解\",\"en_name\":\"Pyrolysis\"},{\"ch_name\":\"Taft-Topsom 相关性\",\"en_name\":\"Taft-Topsom correlation\"}]",
+        "publication_date": "2003-11",
+        "publication_id": "3599",
+        "publication_name": "Journal of Physical Organic Chemistry _ J. Phys. Org. Chem.",
+        "research_categories": "[\"Chemical Sciences\", \"Organic Chemistry\", \"Physical Chemistry\", \"Theoretical and Computational Chemistry\"]",
+        "zh_title": "气相中2-取代碳酸甲乙酯均相单分子消除动力学的机理及结构-反应活性相关性"
+      },
+      "paper:812413145510313985": {
+        "area": "Chemistry",
+        "authors": "Susanta K. Mohapatra | Parasuraman Selvam",
+        "available_online": "",
+        "cover_date_start": "2003-01-01",
+        "created_at": "2022-12-21T11:59:48+08:00",
+        "doi": "10.1023/a:1021403426304",
+        "en_title": "Synthesis, Characterization and Catalytic Properties of Mesoporous Cobalt Aluminophosphate Molecular Sieves",
+        "id": "812413145510313985",
+        "keywords": "",
+        "publication_date": "2003",
+        "publication_id": "3522",
+        "publication_name": "Topics in Catalysis _ ",
+        "research_categories": "",
+        "zh_title": "介孔钴铝磷酸盐分子筛的合成、表征及催化性能"
+      },
+      "paper:812589016917475328": {
+        "area": "Environmental Science and Ecology",
+        "authors": "Andraž Pavlišič | Matej Huš | Anže Prašnikar | Blaž Likozar",
+        "available_online": "",
+        "cover_date_start": "2020-12-01",
+        "created_at": "2022-12-21T23:38:40+08:00",
+        "doi": "10.1016/j.jclepro.2020.122958",
+        "en_title": "Multiscale modelling of CO2 reduction to methanol over industrial Cu/ZnO/Al2O3 heterogeneous catalyst: Linking ab initio surface reaction kinetics with reactor fluid dynamics",
+        "id": "812589016917475328",
+        "keywords": "[{\"en_name\": \"Catalytic reaction microkinetic\", \"ch_name\": \"\"}, {\"en_name\": \"Computational fluid dynamics (CFD)\", \"ch_name\": \"\"}, {\"en_name\": \"Density functional theory (DFT)\", \"ch_name\": \"\"}, {\"en_name\": \"Hierarchical multiscale modelling\", \"ch_name\": \"\"}, {\"en_name\": \"Kinetic Monte Carlo (KMC)\", \"ch_name\": \"\"}]",
+        "publication_date": "2020-12",
+        "publication_id": "2969",
+        "publication_name": "Journal of Cleaner Production _ Journal of Cleaner Production",
+        "research_categories": "[\"Engineering\", \"Chemical Engineering\"]",
+        "zh_title": "工业Cu/ZnO/Al₂O₃多相催化剂上CO₂还原制甲醇的多尺度建模：从头算表面反应动力学与反应器流体动力学的关联"
+      },
+      "paper:813002663946878978": {
+        "area": "Engineering Technology",
+        "authors": "M. R. Kamaruzaman | S. Y. Chin | E. C. L. Pui | H. Prasetiawan | Nurwadiah Azizan",
+        "available_online": "2018-8-21",
+        "cover_date_start": "2018-08-21",
+        "created_at": "2022-12-23T03:02:20+08:00",
+        "doi": "10.1021/acs.iecr.8b02506",
+        "en_title": "Synthesis of Biobased Polyester Polyol through Esterification of Sorbitol with Azelaic Acid Catalyzed by Tin(II) Oxide: A Kinetic Modeling Study",
+        "id": "813002663946878978",
+        "keywords": "",
+        "publication_date": "2019-1-16",
+        "publication_id": "4160",
+        "publication_name": "Industrial and Engineering Chemistry Research _ Ind. Eng. Chem. Res.",
+        "research_categories": "",
+        "zh_title": "通过氧化锡催化山梨醇与壬二酸的酯化反应合成生物基聚酯多元醇：动力学建模研究"
+      },
+      "paper:813126241434468353": {
+        "area": "Material science",
+        "authors": "G. TEETER | J. L. ERSKINE",
+        "available_online": "2012-1-25",
+        "cover_date_start": "1999-10-01",
+        "created_at": "2022-12-23T11:13:23+08:00",
+        "doi": "10.1142/s0218625x99000846",
+        "en_title": "STUDIES OF CLEAN METAL SURFACE RELAXATION EXPERIMENT–THEORY DISCREPANCIES",
+        "id": "813126241434468353",
+        "keywords": "",
+        "publication_date": "1999-10",
+        "publication_id": "2347",
+        "publication_name": "Surface Review and Letters _ Surf. Rev. Lett.",
+        "research_categories": "[\"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "清洁金属表面弛豫实验 - 理论差异的研究"
+      },
+      "paper:813175044103471104": {
+        "area": "Chemistry",
+        "authors": "Xiu-Chun Yi | Meng-Xuan Huang | Yan Qi | En-Qing Gao",
+        "available_online": "",
+        "cover_date_start": "2014-01-01",
+        "created_at": "2022-12-23T14:27:19+08:00",
+        "doi": "10.1039/c3dt53109k",
+        "en_title": "Synthesis, structure, luminescence and catalytic properties of cadmium(ii) coordination polymers with 9H-carbazole-2,7-dicarboxylic acid",
+        "id": "813175044103471104",
+        "keywords": "",
+        "publication_date": "2014",
+        "publication_id": "3436",
+        "publication_name": "Dalton Transactions _ Dalton Trans.",
+        "research_categories": "",
+        "zh_title": "镉（II）与9H-咔唑-2,7-二羧酸配位聚合物的合成、结构、发光及催化性能"
+      },
+      "paper:813296068094590977": {
+        "area": "Geoscience",
+        "authors": "W. Hack | H. Kurzke | P. Rouveirolles | H. Gg. Wagner",
+        "available_online": "2010-5-7",
+        "cover_date_start": "1986-12-01",
+        "created_at": "2022-12-23T22:28:14+08:00",
+        "doi": "10.1002/bbpc.19860901218",
+        "en_title": "Hydrogen Abstraction Reactions by NH2(X̃2B1)-Radicals from Hydrocarbons in the Gas Phase",
+        "id": "813296068094590977",
+        "keywords": "",
+        "publication_date": "1986-12",
+        "publication_id": "22579",
+        "publication_name": "Berichte der Bunsengesellschaft für physikalische Chemie _ Berichte der Bunsengesellschaft für physikalische Chemie",
+        "research_categories": "",
+        "zh_title": "气相中NH2(X̃2B1)自由基从烃类中夺取氢的反应"
+      },
+      "paper:813298505329147906": {
+        "area": "Chemistry",
+        "authors": "Wei-Guang Liu | William A. Goddard",
+        "available_online": "2012-7-27",
+        "cover_date_start": "2012-07-27",
+        "created_at": "2022-12-23T22:37:55+08:00",
+        "doi": "10.1021/ja300545e",
+        "en_title": "First-Principles Study of the Role of Interconversion Between NO 2 , N 2 O 4 , cis- ONO-NO 2 , and trans -ONO-NO 2 in Chemical Processes",
+        "id": "813298505329147906",
+        "keywords": "",
+        "publication_date": "2012-8-8",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "二氧化氮（NO₂）、四氧化二氮（N₂O₄）、顺式亚硝酸根-亚硝酸（cis-ONO-NO₂）和反式亚硝酸根-亚硝酸（trans-ONO-NO₂）之间相互转化在化学过程中作用的第一性原理研究"
+      },
+      "paper:814547035431632896": {
+        "area": "Chemistry",
+        "authors": "Gong-Jun Chen | Jing-Si Wang | Fa-Zheng Jin | Ming-Yang Liu | Chao-Wei Zhao | Yan-An Li | Yu-Bin Dong",
+        "available_online": "2016-3-9",
+        "cover_date_start": "2016-03-09",
+        "created_at": "2022-12-27T09:19:08+08:00",
+        "doi": "10.1021/acs.inorgchem.5b02973",
+        "en_title": "Pd@Cu(II)-MOF-Catalyzed Aerobic Oxidation of Benzylic Alcohols in Air with High Conversion and Selectivity",
+        "id": "814547035431632896",
+        "keywords": "",
+        "publication_date": "2016-3-21",
+        "publication_id": "3393",
+        "publication_name": "Inorganic Chemistry _ Inorg. Chem.",
+        "research_categories": "",
+        "zh_title": "钯负载于铜（II）-金属有机框架催化的苄醇在空气中的有氧氧化反应，具有高转化率和选择性"
+      },
+      "paper:814674634313039874": {
+        "area": "Chemistry",
+        "authors": "Chao Lian | Fumin Ren | Yuxi Liu | Guofeng Zhao | Yongjun Ji | Hongpan Rong | Wei Jia | Lei Ma | Haiyuan Lu | Dingsheng Wang | Yadong Li",
+        "available_online": "2015",
+        "cover_date_start": "2015-01-01",
+        "created_at": "2022-12-27T17:46:10+08:00",
+        "doi": "10.1039/c4cc08247h",
+        "en_title": "Heterogeneous selective hydrogenation of ethylene carbonate to methanol and ethylene glycol over a copper chromite nanocatalyst",
+        "id": "814674634313039874",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3407",
+        "publication_name": "Chemical Communications _ Chem. Commun.",
+        "research_categories": "",
+        "zh_title": "碳酸亚乙酯在亚铬酸铜纳米催化剂上的多相选择性加氢制甲醇和乙二醇"
+      },
+      "paper:849055458596487170": {
+        "area": "Physics and Astrophysics",
+        "authors": "E. Sauter | N. V. Abrosimov | J. Hübner | and M. Oestreich",
+        "available_online": "",
+        "cover_date_start": "2023-03-16",
+        "created_at": "2023-04-01T14:43:18+08:00",
+        "doi": "10.1103/PhysRevResearch.5.013182",
+        "en_title": "Temperature dependence of the band gap of :P at very low temperatures measured via time-resolved optical spectroscopy",
+        "id": "849055458596487170",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "68812",
+        "publication_name": "Physical Review Research _ ",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\", \"Quantum Physics\"]",
+        "zh_title": "通过时间分辨光谱学测量的极低温度下磷（:P）的带隙与温度的关系"
+      },
+      "paper:969051088953016402": {
+        "area": "Chemistry",
+        "authors": "Siya T. Hulushe | Gareth M. Watkins | Setshaba D. Khanye",
+        "available_online": "",
+        "cover_date_start": "2024-02-26",
+        "created_at": "2024-02-26T17:43:03+08:00",
+        "doi": "10.1021/acsomega.3c05999",
+        "en_title": "Enhanced Catalytic Activity of a Copper(II) Metal-Organic Framework Constructed via Semireversible Single-Crystal-to-Single-Crystal Dehydration",
+        "id": "969051088953016402",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3485",
+        "publication_name": "ACS Omega _ ",
+        "research_categories": "[\"Chemical Sciences\", \"Inorganic Chemistry\"]",
+        "zh_title": "通过半可逆单晶到单晶脱水构建的铜（II）金属有机框架的增强催化活性"
+      }
+    },
+    "variables": [
+      {
+        "content": "An observed discrepancy between the theoretical transition-state-theory (TST) rate constant computed using gas-phase barriers and the larger experimental second-order rate constant measured in reactor experiments corresponds to an effective free-energy lowering of approximately 3.0 kcal·mol⁻¹, and this magnitude of discrepancy is attributed primarily to heterogeneous effects (stabilization or catalysis by reactor surfaces, such as increased surface area enhancing formation or stabilization of asymmetric dimers) rather than to errors in the gas-phase electronic energies or in the idealized kinetic model used for the TST estimate.",
+        "content_hash": "315ccf59294e45d19590ea97578ff2845a0c9fb8e86ddfd7bf4e9a6a32ff5588",
+        "id": "gcn_f2363f330d474dab",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813298505329147906::P11",
+            "package_id": "paper:813298505329147906",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813298505329147906"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026875901875901876,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In comparing catalysed (tin(II) oxide present) and uncatalysed (blank, no solid catalyst) batch runs, the observed initial reaction rate r_{obs} in the catalysed experiment is modelled as the arithmetic sum of an independent homogeneous uncatalysed rate r_{uncat} (measured in blank runs) and a heterogeneous catalysed surface rate r_{het}, i.e. r_{obs}=r_{uncat}+r_{het}; the proposition is that in the low‑conversion initial regime (conversion < 10%) the two pathways do not interact nonlinearly, so that subtracting the measured r_{uncat} from r_{obs} yields the intrinsic heterogeneous rate r_{het} used for kinetic parameter estimation.",
+        "content_hash": "8a7c45f9526fd5bcd419094f29e42e854019f8ec4bc71bbe707f560eec0b6181",
+        "id": "gcn_a98d253ff238488b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813002663946878978::P5",
+            "package_id": "paper:813002663946878978",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813002663946878978"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The high cyclohexane conversion and very high cyclohexanol selectivity observed when using the calcined CoHMA catalyst under the defined reaction conditions (50 mg catalyst, 18 mmol cyclohexane, 5 mmol 2‑butanone, 18 mmol 30 wt% H2O2, 10 mL acetic acid, reflux 80–110 °C) are attributed primarily to catalysis at heterogeneous framework‑stabilized cobalt sites in the solid CoHMA material rather than to catalysis by cobalt species leached into the reaction solution that operate as homogeneous catalysts; this attribution assumes that the preliminary single recycling experiment (first reuse: 86% conversion and 89% selectivity) together with the absence of obvious homogeneous‑product signatures in the product analysis are sufficient to exclude a dominant homogeneous contribution during catalysis.",
+        "content_hash": "6ebdf20b6a6e96bc01543f78695f508720cd4f8295bc898e64909eccf737b788",
+        "id": "gcn_f29eb782b2254090",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812413145510313985::P9",
+            "package_id": "paper:812413145510313985",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812413145510313985"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Within the heterogeneous catalysis literature available before 3 February 1995, no published study had reported that application of microwave energy to a catalytic reaction changed the identity of the product species formed, as distinct from changing only reaction rate, conversion, or selectivity among an unchanged set of products.",
+        "content_hash": "4334c456b8e044a49699d62db17b6b18693d88dc82e43da0d50f93865e2ba02c",
+        "id": "gcn_34f04e4163fb48b0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812358334039457793::P12",
+            "package_id": "paper:812358334039457793",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812358334039457793"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a heterogeneous reaction on a supported catalyst in which the conversion of inlet carbon monoxide ($CO$) to measured hydrocarbon products is approximately $1\\%$ (conversion defined here as the mole fraction of feed $CO$ consumed to form hydrocarbons during the experiment), and where \"primary selectivity\" is defined as the distribution of hydrocarbons formed directly from the first surface reaction events before any secondary re-adsorption and further surface transformation of those primary products, the rates of secondary re-adsorption and of subsequent homologation or isomerization reactions are negligible compared with the rate of primary product formation under static experimental conditions at $176\\ ^\\circ\\mathrm{C}$ and 760 Torr reported for the $CO+H_{2}$ experiments, so that the measured C$_1$–C$_5$ product distribution can be treated as an approximation to the primary selectivity.",
+        "content_hash": "8b31f457a4d66f975f64a1f2135ff06925a900a4b683360f6f4fd46f755e2bf0",
+        "id": "gcn_f46d584423334788",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812363607974084608::P1",
+            "package_id": "paper:812363607974084608",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812363607974084608"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "An auxiliary control experiment in which reaction tubes were packed with calibrated fused-silica/helical quartz elements (quartz helices) so as to increase internal surface area by approximately six-fold is taken to demonstrate that the measured first-order rate constants are essentially independent of heterogeneous internal surface area under the sealed-tube experimental protocol described, and therefore that heterogeneous surface-mediated catalysis or surface-propagated radical-chain pathways are not operative to a significant extent in the sealed-tube kinetic measurements reported here.\n      [32],[33]",
+        "content_hash": "114985d3134e015d3e75be4e9d2c677febc60d83a5480a2c2a815c983a179067",
+        "id": "gcn_5714daa503704f1d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812081763630186499::P5",
+            "package_id": "paper:812081763630186499",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812081763630186499"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "If two catalytic transformations measured under the same experimental conditions exhibit indistinguishable reaction orders with respect to the same reactants and the same apparent activation energy within the stated experimental uncertainties, then those transformations share the same rate-determining elementary step under those conditions, i.e., identical kinetic orders and identical apparent activation energies are sufficient empirical signatures to identify a common rate-determining elementary event in heterogeneous catalysis in the absence of evidence for multiple competing rate-limiting pathways.",
+        "content_hash": "e9e8fffa41e79b880ebf931252613cd9875b96b2af46338eca2b61860a13f068",
+        "id": "gcn_d99d8d1a598f4651",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812348494353268738::P7",
+            "package_id": "paper:812348494353268738",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812348494353268738"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A mean‑field first‑principles microkinetic closure that computes heterogeneous reaction rates r_i from site‑averaged surface coverages θ_j and transition‑state‑theory rate expressions—i.e., rates r_i that depend only on averaged θ_j and gas‑phase partial pressures and that omit explicit lateral adsorbate–adsorbate interactions, nanoscale site heterogeneity, and spatial correlation terms—provides an adequate boundary closure for reactor‑scale particle‑resolved CFD of CO2 hydrogenation on the Cu‑based catalyst studied; specifically, neglecting lateral interactions and surface spatial correlations does not materially change predicted steady‑state surface coverages, local reaction rates, or reactor‑scale conversion and selectivity trends for the operating conditions and kinetic network considered.",
+        "content_hash": "3bf4bae385c7c6055908ca7420eb17077e016e4b54c290fd60350058c1d879d3",
+        "id": "gcn_e2d0b5d07fc74f24",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812589016917475328::P19",
+            "package_id": "paper:812589016917475328",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812589016917475328"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "If two structurally related substrates (for example DNM and 1‑BN) give different time profiles of product selectivity in the same heterogeneous catalytic reaction over FeS2, the analysis assumes that these differences principally reflect intrinsic differences in chemical reactivity (differences in elementary‑step rates and activation barriers on the catalyst surface) of the substrates rather than being driven mainly by differing physical properties such as volatility, differential solubility in the reaction solvent, differing rates of mass transfer between bulk and catalyst surface, or differing adsorption/desorption kinetics that could alter apparent selectivity time profiles without corresponding intrinsic reactivity differences.",
+        "content_hash": "b5cc65865967b2f0137e1f17a4eaba32cce1da8c400d632971cdd1b2e58809d1",
+        "id": "gcn_e23dbe4430b345d9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811643331418259457::P12",
+            "package_id": "paper:811643331418259457",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811643331418259457"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Low-Energy Electron Diffraction intensity-versus-voltage (LEED I–V) measurements reported for Rh(001), W(110) and Ti(0001) produce experimental interlayer-relaxation values that are substantially closer to values given by contemporary first-principles calculations cited in the literature; specifically, the LEED I–V results resolve the previously reported experiment–theory discrepancy for Rh(001) and W(110) and greatly reduce the discrepancy for Ti(0001).",
+        "content_hash": "70746290110b1d9a7b58ca7dca1482c739a3fcc265b4714396534278a8f19826",
+        "id": "gcn_d1fa69d68df34ff5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813126241434468353::conclusion_4",
+            "package_id": "paper:813126241434468353",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813126241434468353"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: \"Product selectivity in a heterogeneously catalyzed reaction (defined here as the fraction of consumed reactant carbon appearing as a given product) can vary with overall reactant conversion because sequential reactions, parallel pathways, and conversion-dependent rates alter product distributions as the reaction proceeds; therefore comparing selectivities between catalysts at the same fixed reaction time but at different conversions can confound intrinsic selectivity differences with conversion-dependent changes in product distribution unless selectivity–conversion relationships are reported or conversions are equalized for the comparison.\"",
+        "content_hash": "142a2ebd166b538a5e3994f84df3c8c289204d4598b953d346fa173a670a1746",
+        "id": "gcn_4ea126ccd179476b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814674634313039874::P9",
+            "package_id": "paper:814674634313039874",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814674634313039874"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In a hot‑filtration (hot leaching) experiment the heterogeneous Pd@Cu(II)-MOF (2) was removed from the reaction mixture after 5 h under the optimized reaction conditions and the filtrate was allowed to continue under identical conditions for an additional 15 h; no further increase in benzyl alcohol conversion or in benzaldehyde selectivity was observed in the filtrate during that additional 15 h, demonstrating that catalytically active palladium species were not present in the reaction solution at levels sufficient to sustain the oxidation reaction and supporting a heterogeneous mode of catalysis.",
+        "content_hash": "f527ccf0911a2ac4ec87a356f4af48002feabbcaafb4ed4ac0d0db6d57356457",
+        "id": "gcn_3c4b3bd6a68c4eb7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814547035431632896::conclusion_5",
+            "package_id": "paper:814547035431632896",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814547035431632896"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The data-selection criterion applied to retain reactive experiments required that the independently measured heterogeneous wall-loss rate k_{w} be less than one half of the observed overall first-order rate k_{ex} (i.e., k_{w} < 0.5\\,k_{ex}); it is assumed that meeting this criterion is sufficient to ensure that the residual bias from heterogeneous loss on the extracted bimolecular rate constants is negligible for the purposes of the reported Arrhenius fits and mechanistic interpretations.",
+        "content_hash": "d1ed3433423321b7d4537b67f9b44847798a5a8b96bcbac436722eb32cb1278c",
+        "id": "gcn_f19aa8e8bf4348f1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813296068094590977::P12",
+            "package_id": "paper:813296068094590977",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813296068094590977"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "If independently measured first‑order rate coefficients $k_1$ for the same substrate, temperature and initial pressure are statistically indistinguishable when the reaction is performed in two Pyrex vessels that differ in surface‑to‑volume ratio by a factor of 6 (one vessel with $S/V=1.0$, the other with $S/V=6.0$), then any heterogeneous wall‑catalyzed contribution to the observed rate is negligible compared to the homogeneous unimolecular contribution under those experimental conditions, because a heterogeneous surface process that contributed appreciably would produce a measurable dependence of $k_1$ on $S/V$.",
+        "content_hash": "7dbd4e23ee3f94fd4aa01f1e177e7d59188dc04ded2e8ded7dcbf9fdc291a3dd",
+        "id": "gcn_3cac2822d46d40bf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812383989351317505::P4",
+            "package_id": "paper:812383989351317505",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812383989351317505"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The observed catalytic epoxidation activity and selectivity in reactions using hydrogen peroxide as oxidant under mild, solvent-free conditions are due predominantly to heterogeneous catalysis at active sites bound within or on the solid POM-intercalated, ionic-liquid-modified LDH particles (heterogeneous catalysis defined as catalytic turnover occurring at active sites bound to the solid), rather than being dominated by homogeneous catalysis arising from polyoxometalate species leached into the bulk reaction medium as dissolved molecular POM species during the reaction.",
+        "content_hash": "8d8ae8b5e9d86ee7a6cfe7a438a24ad1dde208b65505394c355e8441cf2da573",
+        "id": "gcn_2fa7943411fa4469",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811100151887167489::P4",
+            "package_id": "paper:811100151887167489",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811100151887167489"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The catalyst designated 3, after activation and use in the described styrene oxidation protocol, retains catalytic activity and benzaldehyde selectivity over five consecutive reaction cycles with negligible loss in conversion; post-use powder X-ray diffraction (PXRD) patterns of the recovered solid match the fresh catalyst pattern and thermogravimetric (TG) profiles of the reused material reproduce the fresh-sample thermal behavior (first-step dehydration at ≈393 K and decomposition at ≈573 K), and a hot-filtration experiment in which the activated solid catalyst was removed after 1 h of reaction and the filtrate was allowed to continue under the same conditions for the remaining 3 h shows no measurable further increase in conversion, collectively demonstrating heterogeneous catalysis and operational recyclability of 3 under the stated conditions.",
+        "content_hash": "021a43c7ba111c1bd11b9e555dd7565a98385fbdf90e3e424e4692d478325863",
+        "id": "gcn_ca2ce01e7f9348ad",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:969051088953016402::conclusion_8",
+            "package_id": "paper:969051088953016402",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:969051088953016402"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.014705882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition is that the experimental observations reported to support matched versus mismatched catalyst–substrate pairs are based on a limited set of single‑timepoint conversion measurements (for example, reported examples include a mismatched experiment showing 10% conversion in one test and matched experiments showing approximately 50% conversion in related tests), and therefore the inference that differing instantaneous rates establish a general matched/mismatched kinetic model assumes that these snapshot conversion values are representative of the full time‑dependent kinetic profiles and of other substrates and conditions not explicitly examined; more comprehensive timecourse kinetic data would be required to quantify rate differences and selectivity across reaction time, concentration, and temperature.",
+        "content_hash": "297c88b4766e41ca298796c0794883dac6f865e18b5474ae4acd113ad58f7888",
+        "id": "gcn_99b29597105246f6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811679936858292226::P6",
+            "package_id": "paper:811679936858292226",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811679936858292226"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014705882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In a liquid‑phase catalytic experiment carried out at elevated temperature, if the heterogeneous solid catalyst is removed by hot filtration (removal while the reaction mixture is maintained at reaction temperature) after a reaction interval and subsequent monitoring of the filtrate under the same reaction conditions shows only a conversion rate comparable to the blank (no catalyst) experiment, then the conclusion is that catalytically active species are not present in the filtrate in appreciable concentrations and the observed catalysis is heterogeneous rather than driven by homogeneous leached species.",
+        "content_hash": "1513145b9bc7abe9a4a79010e052cfcf74938a697fb299054eef1f52d0c22fcc",
+        "id": "gcn_5ee5aed1005a4f3a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813175044103471104::P9",
+            "package_id": "paper:813175044103471104",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813175044103471104"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014492753623188406,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Under the experimental regime used (microcatalytic operation at 300°C under hydrogen flow, measurements taken in a low-conversion regime where conversion was experimentally verified to be a linear function of reciprocal space velocity), the measured product selectivities expressed as percentages of converted substrate forming specific olefin isomers directly reflect the relative rates of competing elementary reaction channels operative at the rate-determining step; consequently, mechanistic inferences about whether the rate-determining step is concerted or stepwise can be drawn from the observed selectivity patterns in the first-pulse product distributions.",
+        "content_hash": "db50948589e9c6dd2bd69a01707eeaa8e284db2558c6cfbc6852b417a5b2547e",
+        "id": "gcn_e058abf02811424a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812348695390453761::P9",
+            "package_id": "paper:812348695390453761",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812348695390453761"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014492753623188406,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given the experimentally extracted acoustic-phonon coupling coefficient $A=-0.90(5)\\ \\mathrm{MHz}\\,\\mathrm{K}^{-p}$ and a cited first-principles theoretical estimate for the same coefficient of approximately $A_{\\mathrm{theory}}\\approx-0.03\\ \\mathrm{MHz}\\,\\mathrm{K}^{-4}$ (the theoretical estimate and its computational basis are those reported by Allen and Nery), the large numeric mismatch (a factor on the order of 30 between experiment and theory) indicates that current first-principles theoretical treatments likely do not fully capture cancellation effects among different electron–phonon coupling contributions relevant for the low-temperature band-gap shift, assuming that the experimental and theoretical definitions of $A$ and $p$ are directly comparable and that theoretical numerical uncertainties and omitted higher-order corrections are smaller than the stated factor-of-30 discrepancy.\n      [18]",
+        "content_hash": "19d24e2ab8455db3ef23f14696aa59c02131e1c3ba2acaeae4f625fd881ee301",
+        "id": "gcn_94ef7d41e5cf4b5d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:849055458596487170::P9",
+            "package_id": "paper:849055458596487170",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:849055458596487170"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014285714285714285,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "1af2e81cd6331a138814a12d8599aba3"
+}

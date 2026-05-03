@@ -1,0 +1,711 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811145415008190465": {
+        "area": "Material science",
+        "authors": "Bo Long | Yan Tang | Jun Li",
+        "available_online": "2016-9-22",
+        "cover_date_start": "2016-09-22",
+        "created_at": "2022-12-18T00:02:19+08:00",
+        "doi": "10.1007/s12274-016-1256-x",
+        "en_title": "New mechanistic pathways for CO oxidation catalyzed by single-atom catalysts: Supported and doped Au1/ThO2",
+        "id": "811145415008190465",
+        "keywords": "[{\"ch_name\":\"锕系氧化物\",\"en_name\":\"actinide oxides\"},{\"ch_name\":\"催化机理\",\"en_name\":\"catalytic mechanism\"},{\"ch_name\":\"CO氧化\",\"en_name\":\"CO oxidation\"},{\"ch_name\":\"单金催化\",\"en_name\":\"single gold catalysis\"}]",
+        "publication_date": "2016-12",
+        "publication_id": "2050",
+        "publication_name": "Nano Research _ Nano Res.",
+        "research_categories": "",
+        "zh_title": "单原子催化剂催化CO氧化的新机理途径：负载型和掺杂型Au1/ThO2"
+      },
+      "paper:811150596961730561": {
+        "area": "Chemistry",
+        "authors": "Glen R. Jenness | Weiming Wan | Jingguang G. Chen | Dionisios G. Vlachos",
+        "available_online": "2016-9-20",
+        "cover_date_start": "2016-09-20",
+        "created_at": "2022-12-18T00:22:54+08:00",
+        "doi": "10.1021/acscatal.6b01310",
+        "en_title": "Reaction Pathways and Intermediates in Selective Ring Opening of Biomass-Derived Heterocyclic Compounds by Iridium",
+        "id": "811150596961730561",
+        "keywords": "",
+        "publication_date": "2016-10-7",
+        "publication_id": "3352",
+        "publication_name": "ACS Catalysis _ ACS Catal.",
+        "research_categories": "",
+        "zh_title": "铱催化生物质衍生杂环化合物选择性开环反应中的反应途径与中间体"
+      },
+      "paper:811849078915727361": {
+        "area": "Chemistry",
+        "authors": "Jia Zhang | Wen Yang | Hui Zhu | Jing Li | Fan Yang | Bailin Zhang | Xiurong Yang",
+        "available_online": "",
+        "cover_date_start": "2009-10-01",
+        "created_at": "2022-12-19T22:38:24+08:00",
+        "doi": "10.1016/j.jcis.2009.05.057",
+        "en_title": "Synthesis and characterization of Prussian blue@platinum nanoparticle hybrids from a mixture solution of platinum nanocatalyst and ferric ferricyanide",
+        "id": "811849078915727361",
+        "keywords": "[{\"en_name\": \"Catalysis\", \"ch_name\": \"\"}, {\"en_name\": \"Platinum ferricyanide\", \"ch_name\": \"\"}, {\"en_name\": \"Platinum nanoparticles\", \"ch_name\": \"\"}, {\"en_name\": \"Prussian blue\", \"ch_name\": \"\"}]",
+        "publication_date": "2009-10",
+        "publication_id": "3382",
+        "publication_name": "Journal of Colloid and Interface Science _ Journal of Colloid and Interface Science",
+        "research_categories": "",
+        "zh_title": "由铂纳米催化剂和铁氰化铁的混合溶液合成普鲁士蓝@铂纳米粒子杂化物及其表征"
+      },
+      "paper:812488687030894592": {
+        "area": "Comprehensive Periodical",
+        "authors": "Yuehan Cao | Lan Guo | Meng Dan | Dmitry E. Doronkin | Chunqiu Han | Zhiqiang Rao | Yang Liu | Jie Meng | Zeai Huang | Kaibo Zheng | Peng Chen | Fan Dong | Ying Zhou",
+        "available_online": "2021-3-15",
+        "cover_date_start": "2021-03-15",
+        "created_at": "2022-12-21T16:59:59+08:00",
+        "doi": "10.1038/s41467-021-21925-7",
+        "en_title": "Modulating electron density of vacancy site by single Au atom for effective CO2 photoreduction",
+        "id": "812488687030894592",
+        "keywords": "",
+        "publication_date": "2021-12",
+        "publication_id": "10026",
+        "publication_name": "Nature Communications _ Nat Commun",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Engineering\", \"Chemical Engineering\"]",
+        "zh_title": "通过单个金原子调节空位位点的电子密度以实现高效的二氧化碳光还原"
+      },
+      "paper:812514726129958912": {
+        "area": "Material science",
+        "authors": "Lee Loong Wong | Kia Chai Phuah | Ruoyu Dai | Haomin Chen | Wee Shin Chew | Stefan Adams",
+        "available_online": "2021-1-7",
+        "cover_date_start": "2021-01-07",
+        "created_at": "2022-12-21T18:43:27+08:00",
+        "doi": "10.1021/acs.chemmater.0c03893",
+        "en_title": "Bond Valence Pathway Analyzer—An Automatic Rapid Screening Tool for Fast Ion Conductors within softBV",
+        "id": "812514726129958912",
+        "keywords": "",
+        "publication_date": "2021-1-26",
+        "publication_id": "2060",
+        "publication_name": "Chemistry of Materials _ Chem. Mater.",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Engineering\"]",
+        "zh_title": "键价途径分析器——一种用于软BV中快离子导体的自动快速筛选工具 "
+      },
+      "paper:812522551145136131": {
+        "area": "Chemistry",
+        "authors": "Lili Lin | Qiaolin Yu | Mi Peng | Aowen Li | Siyu Yao | Shuheng Tian | Xi Liu | Ang Li | Zheng Jiang | Rui Gao | Xiaodong Han | Yong-wang Li | Xiao-dong Wen | Wu Zhou | Ding Ma",
+        "available_online": "2020-12-28",
+        "cover_date_start": "2020-12-28",
+        "created_at": "2022-12-21T19:14:33+08:00",
+        "doi": "10.1021/jacs.0c10776",
+        "en_title": "Atomically Dispersed Ni/α-MoC Catalyst for Hydrogen Production from Methanol/Water",
+        "id": "812522551145136131",
+        "keywords": "",
+        "publication_date": "2021-1-13",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "用于甲醇/水制氢的原子级分散Ni/α-MoC催化剂"
+      },
+      "paper:812589041936498688": {
+        "area": "Comprehensive Periodical",
+        "authors": "Tian-Nan Ye | Sang-Won Park | Yangfan Lu | Jiang Li | Masato Sasase | Masaaki Kitano | Tomofumi Tada | Hideo Hosono",
+        "available_online": "2020-7-15",
+        "cover_date_start": "2020-07-15",
+        "created_at": "2022-12-21T23:38:46+08:00",
+        "doi": "10.1038/s41586-020-2464-9",
+        "en_title": "Vacancy-enabled N2 activation for ammonia synthesis on an Ni-loaded catalyst",
+        "id": "812589041936498688",
+        "keywords": "",
+        "publication_date": "2020-7-16",
+        "publication_id": "8233",
+        "publication_name": "Nature _ Nature",
+        "research_categories": "",
+        "zh_title": "空位启用的 N2 活化用于在载镍催化剂上合成氨"
+      },
+      "paper:812653761074823169": {
+        "area": "Material science",
+        "authors": "Taohong He | Xiaoshan Zeng | Shaopeng Rong",
+        "available_online": "2020",
+        "cover_date_start": "2020-01-01",
+        "created_at": "2022-12-22T03:55:56+08:00",
+        "doi": "10.1039/d0ta01346c",
+        "en_title": "The controllable synthesis of substitutional and interstitial nitrogen-doped manganese dioxide: the effects of doping sites on enhancing the catalytic activity",
+        "id": "812653761074823169",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ J. Mater. Chem. A",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Engineering\", \"Chemical Engineering\", \"Materials Engineering\"]",
+        "zh_title": "取代型和间隙型氮掺杂二氧化锰的可控合成：掺杂位点对增强催化活性的影响"
+      },
+      "paper:812659096711856129": {
+        "area": "Chemistry",
+        "authors": "Shigeki Kawai | Hongqian Sang | Lev Kantorovich | Keisuke Takahashi | Kyoko Nozaki | Shingo Ito",
+        "available_online": "2020-4-21",
+        "cover_date_start": "2020-04-21",
+        "created_at": "2022-12-22T04:17:08+08:00",
+        "doi": "10.1002/anie.202001268",
+        "en_title": "An Endergonic Synthesis of Single Sondheimer–Wong Diyne by Local Probe Chemistry",
+        "id": "812659096711856129",
+        "keywords": "[{\"en_name\": \"CO functionalized tip\", \"ch_name\": \"\"}, {\"en_name\": \"density functional calculations\", \"ch_name\": \"\"}, {\"en_name\": \"local probe chemistry\", \"ch_name\": \"\"}, {\"en_name\": \"scanning tunneling microscopy\", \"ch_name\": \"\"}, {\"en_name\": \"Sondheimer–Wong diynes\", \"ch_name\": \"\"}]",
+        "publication_date": "2020-6-26",
+        "publication_id": "3347",
+        "publication_name": "Angewandte Chemie International Edition _ Angew. Chem. Int. Ed.",
+        "research_categories": "[\"Chemical Sciences\", \"Organic Chemistry\"]",
+        "zh_title": "通过局部探针化学法对单桑德海默-王二炔进行的吸能合成"
+      },
+      "paper:812660839583580160": {
+        "area": "Material science",
+        "authors": "Jixing Liu | Huifang Cheng | Junbin Tan | Bing Liu | Zihao Zhang | Haidi Xu | Minjie Zhao | Wenshuai Zhu | Jian Liu | Zhen Zhao",
+        "available_online": "2020",
+        "cover_date_start": "2020-01-01",
+        "created_at": "2022-12-22T04:24:04+08:00",
+        "doi": "10.1039/d0ta01541e",
+        "en_title": "Solvent-free rapid synthesis of porous CeWO x by a mechanochemical self-assembly strategy for the abatement of NO x",
+        "id": "812660839583580160",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ J. Mater. Chem. A",
+        "research_categories": "",
+        "zh_title": "通过机械化学自组装策略无溶剂快速合成用于氮氧化物减排的多孔CeWOₓ"
+      },
+      "paper:812690847559581697": {
+        "area": "Material science",
+        "authors": "Qiaoqiao Zhang | Yongyong Cao | Yilong Yan | Bowen Yuan | Haiyang Zheng | Yu Gu | Xing Zhong | Jianguo Wang",
+        "available_online": "2020",
+        "cover_date_start": "2020-01-01",
+        "created_at": "2022-12-22T06:23:18+08:00",
+        "doi": "10.1039/c9ta12866b",
+        "en_title": "Synergetic effect of pyrrolic-N and doped boron in mesoporous carbon for electrocatalytic ozone production",
+        "id": "812690847559581697",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ J. Mater. Chem. A",
+        "research_categories": "[\"Chemical Sciences\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "吡咯氮和掺杂硼在介孔碳中对电催化臭氧生成的协同效应"
+      },
+      "paper:812728289129922561": {
+        "area": "Comprehensive Periodical",
+        "authors": "Yujing Ren | Yan Tang | Leilei Zhang | Xiaoyan Liu | Lin Li | Shu Miao | Dang Sheng Su | Aiqin Wang | Jun Li | Tao Zhang",
+        "available_online": "2019-10-3",
+        "cover_date_start": "2019-10-03",
+        "created_at": "2022-12-22T08:52:05+08:00",
+        "doi": "10.1038/s41467-019-12459-0",
+        "en_title": "Unraveling the coordination structure-performance relationship in Pt1/Fe2O3 single-atom catalyst",
+        "id": "812728289129922561",
+        "keywords": "",
+        "publication_date": "2019-12",
+        "publication_id": "10026",
+        "publication_name": "Nature Communications _ Nat Commun",
+        "research_categories": "[\"Chemical Sciences\", \"Inorganic Chemistry\"]",
+        "zh_title": "解析Pt1/Fe2O3单原子催化剂中的配位结构-性能关系"
+      },
+      "paper:812827517562912773": {
+        "area": "",
+        "authors": "Masanori Yamamoto | Qi Zhao | Shunsuke Goto | Yu Gu | Takaaki Toriyama | Tomokazu Yamamoto | Hirotomo Nishihara | Alex Aziz | Rachel Crespo-Otero | Devis Di Tommaso | Masazumi Tamura | Keiichi Tomishige | Takashi Kyotani | Kaoru Yamazaki",
+        "available_online": "2022",
+        "cover_date_start": "2022-01-01",
+        "created_at": "2022-12-22T15:26:21+08:00",
+        "doi": "10.1039/d1sc06578e",
+        "en_title": "Porous nanographene formation on γ-alumina nanoparticles via transition-metal-free methane activation",
+        "id": "812827517562912773",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "101269",
+        "publication_name": "Chemical Science _ Chem. Sci.",
+        "research_categories": "",
+        "zh_title": "通过无过渡金属的甲烷活化在γ-氧化铝纳米颗粒上形成多孔纳米石墨烯"
+      },
+      "paper:813041154260992000": {
+        "area": "Chemistry",
+        "authors": "Seung Hyeon Ko | Taekyoung Lee | Hongjun Park | Doo-Sik Ahn | Kyoungsoo Kim | Yonghyun Kwon | Sung June Cho | Ryong Ryoo",
+        "available_online": "2018-4-26",
+        "cover_date_start": "2018-04-26",
+        "created_at": "2022-12-23T05:35:17+08:00",
+        "doi": "10.1021/jacs.8b00900",
+        "en_title": "Nanocage-Confined Synthesis of Fluorescent Polycyclic Aromatic Hydrocarbons in Zeolite",
+        "id": "813041154260992000",
+        "keywords": "",
+        "publication_date": "2018-6-13",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "沸石中纳米笼限制合成荧光多环芳烃"
+      },
+      "paper:813087684904878080": {
+        "area": "Material science",
+        "authors": "Zhaoyu Ma | Penghui Li | Liqun Ye | Ying Zhou | Fengyun Su | Chenghua Ding | Haiquan Xie | Yang Bai | Po Keung Wong",
+        "available_online": "2017",
+        "cover_date_start": "2017-01-01",
+        "created_at": "2022-12-23T08:40:11+08:00",
+        "doi": "10.1039/c7ta08766g",
+        "en_title": "Oxygen vacancies induced exciton dissociation of flexible BiOCl nanosheets for effective photocatalytic CO 2 conversion",
+        "id": "813087684904878080",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ J. Mater. Chem. A",
+        "research_categories": "",
+        "zh_title": "氧空位诱导柔性BiOCl纳米片的激子解离以实现高效光催化CO₂转化"
+      },
+      "paper:813158507745378305": {
+        "area": "Chemistry",
+        "authors": "Yanwei Sun | Haiyang Jiang | Hao Tang | Haixia Xu | Huiling Liu | Kai Sun | Xuri Huang",
+        "available_online": "2014-2-20",
+        "cover_date_start": "2014-02-20",
+        "created_at": "2022-12-23T13:21:36+08:00",
+        "doi": "10.1080/00268976.2014.886738",
+        "en_title": "Theoretical investigation on the mechanism of FeCl 3 -catalysed cross-coupling reaction of alcohols with alkenes",
+        "id": "813158507745378305",
+        "keywords": "",
+        "publication_date": "2014-8-18",
+        "publication_id": "3534",
+        "publication_name": "Molecular Physics _ Molecular Physics",
+        "research_categories": "",
+        "zh_title": "FeCl₃催化醇与烯烃交叉偶联反应机理的理论研究"
+      },
+      "paper:813168406256680961": {
+        "area": "Chemistry",
+        "authors": "Claudio Saracini | Dimitrios G. Liakos | Jhon E. Zapata Rivera | Frank Neese | Gerald J. Meyer | Kenneth D. Karlin",
+        "available_online": "2014-1-15",
+        "cover_date_start": "2014-01-15",
+        "created_at": "2022-12-23T14:00:56+08:00",
+        "doi": "10.1021/ja4115314",
+        "en_title": "Excitation Wavelength Dependent O 2 Release from Copper(II)–Superoxide Compounds: Laser Flash-Photolysis Experiments and Theoretical Studies",
+        "id": "813168406256680961",
+        "keywords": "",
+        "publication_date": "2014-1-29",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "[\"Chemical Sciences\", \"Inorganic Chemistry\", \"Physical Chemistry\"]",
+        "zh_title": "铜（II）-超氧化物化合物中氧气释放的激发波长依赖性：激光闪光光解实验与理论研究"
+      },
+      "paper:814550787580493824": {
+        "area": "Material science",
+        "authors": "Xu Zhang | Jincheng Lei | Dihua Wu | Xudong Zhao | Yu Jing | Zhen Zhou",
+        "available_online": "2016",
+        "cover_date_start": "2016-01-01",
+        "created_at": "2022-12-27T09:34:02+08:00",
+        "doi": "10.1039/c6ta00554c",
+        "en_title": "A Ti-anchored Ti 2 CO 2 monolayer (MXene) as a single-atom catalyst for CO oxidation",
+        "id": "814550787580493824",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ J. Mater. Chem. A",
+        "research_categories": "",
+        "zh_title": "一种作为CO氧化单原子催化剂的Ti锚定Ti₂CO₂单层（MXene）"
+      },
+      "paper:814691650386264065": {
+        "area": "Comprehensive Periodical",
+        "authors": "M. Dürr | A. Biedermann | Z. Hu | U. Höfer | T. F. Heinz",
+        "available_online": "",
+        "cover_date_start": "2002-06-07",
+        "created_at": "2022-12-27T18:53:47+08:00",
+        "doi": "10.1126/science.1070859",
+        "en_title": "Probing High-Barrier Pathways of Surface Reactions by Scanning Tunneling Microscopy",
+        "id": "814691650386264065",
+        "keywords": "",
+        "publication_date": "2002-6-7",
+        "publication_id": "7984",
+        "publication_name": "Science _ Science",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "通过扫描隧道显微镜探测表面反应的高势垒路径"
+      },
+      "paper:867752083208536932": {
+        "area": "arXiv-Physics",
+        "authors": "Danil W. Boukhvalov | Young-Woo Son",
+        "available_online": "",
+        "cover_date_start": "2011-10-27",
+        "created_at": "2023-05-23T04:56:59+08:00",
+        "doi": "10.48550/arXiv.1110.6218",
+        "en_title": "Oxygen reduction reactions on pure and nitrogen-doped graphene: a first-principles modeling",
+        "id": "867752083208536932",
+        "keywords": "",
+        "publication_date": "2011-10-27",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "纯石墨烯和氮掺杂石墨烯上的氧还原反应：第一性原理建模"
+      }
+    },
+    "variables": [
+      {
+        "content": "Activation energies and kinetic spans obtained from zero-Kelvin DFT transition-state calculations on isolated, low-coverage surface models neglect finite-temperature contributions that affect experimental apparent activation energies and rates, including entropic free-energy corrections, surface-coverage–dependent lateral interactions among adsorbates, reaction-pathway branching across an ensemble of surface sites, and dynamic effects such as surface reconstruction under reaction conditions; here \"DFT barrier\" denotes the computed potential-energy barrier between local minima from a transition-state search and \"apparent activation energy\" denotes the experimentally observed temperature dependence of the net catalytic rate.",
+        "content_hash": "bff5b71c280c719269256545ab9375a83315123dddf0f2d5a0b13a21f22817e1",
+        "id": "gcn_bcd88fd5b3914e86",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812660839583580160::P13",
+            "package_id": "paper:812660839583580160",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812660839583580160"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025914384123339348,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the activation barrier for a surface elementary step (here, HCOOH decomposition on the catalyst surface) be estimated from DFT as the energy difference $\\Delta E^\\ddagger$ between a computed transition‑state structure and the reacting surface intermediate; the proposition is that the relative DFT‑computed barriers reported ($\\Delta E^\\ddagger=1.40\\ \\mathrm{eV}$ for interstitial N, $1.56\\ \\mathrm{eV}$ for substitutional N, $1.68\\ \\mathrm{eV}$ for pristine) directly determine the observed ordering and quantitative differences in catalytic performance measured in fixed‑bed flow‑reactor experiments at finite temperature (i.e., that these computed barriers map onto measured apparent activation energies, conversion temperatures and rates without substantial modification by entropic contributions, surface coverage effects, lateral interactions, mass‑transport limitations or coupling to other elementary steps in a full microkinetic network).",
+        "content_hash": "96db6117ec7cff54502862d59d48d13d5b2ba542b7045ecf952caed0d31c9d2b",
+        "id": "gcn_f7892d970988405e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812653761074823169::P8",
+            "package_id": "paper:812653761074823169",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812653761074823169"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The comparison that the DFT-computed overall energy barrier for producing the first NH₃ via lattice-N hydrogenation (≈0.54 eV, ≈52.1 kJ mol⁻¹) corresponds to the experimentally measured apparent activation energy E_a ≈ 57.5–60.4 kJ mol⁻¹ is predicated on the following conditions being met: (a) the DFT-computed barrier is the dominant energetic bottleneck that controls the temperature dependence of the steady-state ammonia synthesis rate under the experimental reaction conditions; (b) entropy and prefactor differences between the 0 K DFT energy landscape and finite-temperature activated-rate behavior are small or partially cancel in the comparison so that the DFT barrier magnitude can be directly related to the Arrhenius-derived slope; and (c) transport limitations, adsorbate-coverage effects and ensemble-averaging over different surface sites do not shift the apparent E_a away from the elementary-barrier value computed for the model; here \"DFT-computed overall energy barrier\" denotes the largest effective elementary barrier along the computed reaction pathway for first NH₃ formation, and \"apparent activation energy\" denotes the slope-derived activation energy from experimental Arrhenius plots of measured steady-state rates.",
+        "content_hash": "9f128932d0ca4cbc1f2972a6dbd1af3b1c23565b1db30667242287be809b04a1",
+        "id": "gcn_c03aaa2be108408f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812589041936498688::P3",
+            "package_id": "paper:812589041936498688",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812589041936498688"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A DFT-calculated desorption energy barrier for an oxygen-containing surface species on a heavily N-substituted graphene model that exceeds about $3\\ \\mathrm{eV}$ implies, under typical electrochemical oxygen-reduction reaction operating conditions (room temperature to moderately elevated temperature, aqueous electrolyte, relevant electrode polarization ranges), that the oxidized surface state is effectively irreversible, and hence such a high desorption barrier renders the heavily N-doped graphene scaffold incompatible with reversible ORR catalysis.",
+        "content_hash": "94a5d9e0af6a0c21f30b3f5ae78339cf8e50f5171641a68bfb5f2814bf1aaa9f",
+        "id": "gcn_d75583be0b714e30",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867752083208536932::P10",
+            "package_id": "paper:867752083208536932",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867752083208536932"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For two competing surface reactions on Ir(111) compared at the same temperature, a DFT‑computed difference in activation energies of $\\Delta E_{a}\\gtrsim 0.5\\ \\mathrm{eV}$ corresponds, via the exponential sensitivity of rate constants to activation energy in an Arrhenius‑type relation, to an orders‑of‑magnitude decrease in the experimental reaction rate for the higher‑barrier pathway; therefore, a species whose DFT barrier exceeds a competing species’ barrier by $\\gtrsim0.5\\ \\mathrm{eV}$ will exhibit appreciably slower hydrogenolysis kinetics under identical temperature and surface conditions.",
+        "content_hash": "2572a8d3b9b5ad3333f3a71c7d57a7f5e10d21978e986ca4edc209040b437d48",
+        "id": "gcn_c99705b9106b432a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811150596961730561::P10",
+            "package_id": "paper:811150596961730561",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811150596961730561"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The mechanistic-comparison claim is that comparing static, zero-Kelvin DFT-calculated activation barriers and reaction energies obtained on idealized surface models (single-adsorbate, single-defect, and selected coadsorption geometries) is sufficient to predict which of two competing mechanistic channels will dominate under realistic experimental conditions; specifically, when one channel exhibits computed elementary barriers of ≈0.46 and ≈0.39 eV and the competing channel exhibits a substantially larger computed barrier ≈1.0 eV, the static DFT comparison is taken to justify the conclusion that the lower-barrier channel will dominate, without explicitly accounting for dynamic effects such as surface diffusion, finite-temperature kinetics beyond barrier heights (pre-exponential factors), adsorbate coverages, lateral interactions, alternative surface reconstructions, or explicit solvent/pressure effects.",
+        "content_hash": "4ba8ab289c94c5e0ab033aed25e0877ececf5903c24f722b43dd2006a80bb2a1",
+        "id": "gcn_c7dca12866194184",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811145415008190465::P9",
+            "package_id": "paper:811145415008190465",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811145415008190465"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When a DFT-PBE computed total-energy difference between reactant and product on a surface is positive (for example, $E(4)-E(3b)=+1.33\\,$eV on Cu(111)), it is a defensible heuristic to infer that the activation energy barrier for the isomerization from reactant to product is at least of order the endothermicity (i.e., that the activation barrier is not smaller than the reported positive reaction enthalpy), so that a large positive computed energy difference implies a high activation barrier that can kinetically prevent the isomerization under the low-temperature experimental conditions.",
+        "content_hash": "c50bb71692562c303cf2ebe8512b7301159bcec9cec170eb62f896b13447b21b",
+        "id": "gcn_dffdb7ad3a3d4ea0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812659096711856129::P11",
+            "package_id": "paper:812659096711856129",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812659096711856129"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The interfacial heterogeneous electron-transfer reaction Fe^{3+} + 1/2 H2O → 1/4 O2 + H^+ + Fe^{2+} is considered here as an elementary surface-catalyzed step that produces Fe^{2+} at or near the platinum nanoparticle surface and thereby enables formation of mixed-valence Prussian blue by subsequent combination of Fe^{2+} with hexacyanoferrate species; this step is taken as operative in the presence of Pt_nano under the stated experimental mixing protocol because the overall coupled reaction sequence is exergonic and heterogeneous surface catalysis lowers the effective kinetic barrier despite the single-step reaction being thermodynamically uphill in isolation.",
+        "content_hash": "ee0d4b0b3a6dd1252573ac14cb51ff4212b914d1e69ae5f9c1f596950945f452",
+        "id": "gcn_8c142ec11ceb46a2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811849078915727361::P10",
+            "package_id": "paper:811849078915727361",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811849078915727361"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The assumption that activation barriers and mechanistic conclusions reported in distinct published studies on other catalysts (for example, noble-metal single-atom or cluster catalysts such as Pt/FeOx) are directly comparable to the present study’s DFT-PBE(+DFT-D2) computed barriers entails treating numerical barrier values from heterogeneous computational or experimental protocols as commensurate despite differences in exchange–correlation functionals, dispersion treatments, supercell sizes, inclusion or omission of ZPE and entropic terms, and differing reference states; this assumption underlies the inference that the numerically lower barriers reported here imply superior experimental catalytic activity.",
+        "content_hash": "172cf1a643706ff20fc7e38c8a28550ebca099fc9ba0fce2930779a569ecfd03",
+        "id": "gcn_76296441928e4102",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814550787580493824::P9",
+            "package_id": "paper:814550787580493824",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814550787580493824"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computational conclusion that the quartet potential‑energy surface controls catalysis is based on comparison of static electronic activation energies on separate spin manifolds (quartet barrier 19.7 kcal·mol⁻¹ versus sextet barrier 34.2 kcal·mol⁻¹) obtained from DFT single‑point energies; the study did not perform explicit nonadiabatic kinetics simulations or compute spin‑orbit coupling matrix elements and therefore does not report rate constants or probabilities for intersystem crossing (spin crossing) between the sextet and quartet surfaces along the hydrogen‑abstraction reaction coordinate.\n      Fig. 3",
+        "content_hash": "5b259ea11f25224fff43bcc3af73889b8f6ffe242583e89e14cd4afe4f944aa5",
+        "id": "gcn_5d46fee5f39b426c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813158507745378305::P2",
+            "package_id": "paper:813158507745378305",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813158507745378305"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The conclusion that H₂ dissociation is effectively barrierless on the two‑coordinated DFT model (and therefore spontaneous at 300 K in the static calculations) assumes that the static DFT potential‑energy profile including zero‑point and thermal corrections computed on the idealized periodic model with the chosen exchange–correlation functional and numerical parameters directly predicts experimental activation behavior at finite temperature and under realistic pressure and coverage conditions, i.e., that anharmonicity, entropic contributions, coverage‑dependent lateral interactions, and surface heterogeneity in the real catalyst do not introduce a residual activation barrier that would qualitatively change the experimental kinetics.",
+        "content_hash": "1bd996301d4407bda35aa76b89aa51131154292354fc01da95f044cab34af074",
+        "id": "gcn_7af3c238e3ff4616",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812728289129922561::P12",
+            "package_id": "paper:812728289129922561",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812728289129922561"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The interpretation that the DFT-predicted energetic effects of $Ca^{2+}$ (large lowering of acetylene-addition barrier; negligible change to dehydrogenation barrier) are the causal explanation for the experimental observation that products synthesized at 400 °C show enhanced hydrogenation signatures while products synthesized at 520 °C are more dehydrogenated rests on the assumption that local reaction kinetics inside $\\alpha$-cages follow the same mechanistic branching and energy partitioning as in the DFT model and that no other kinetic, transport, or secondary thermal processes (for example cage-to-cage transfer, surface reactions, or heterogeneous nucleation) dominate the observed product distributions; this causal linkage is plausible but not uniquely demonstrated by combining the single-step DFT model with the bulk experimental observables.",
+        "content_hash": "9094b711534af62dd2059ad4096b7625761ea8c86c3e03df787058960e89ff70",
+        "id": "gcn_d5d8f788bee44e0c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813041154260992000::P12",
+            "package_id": "paper:813041154260992000",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813041154260992000"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "DFT reaction-path calculations produce activation energies \\Delta E^\\ddagger for elementary steps such as CO_2+H\\rightarrow COOH. The proposition is: \"Relative comparisons of computed DFT activation barriers between two modeled surfaces (e.g., single-atom-anchored versus nanocluster-anchored) reliably indicate the trend that barriers are lower on the vacancy-electron-rich single-atom system even though absolute barrier heights and the precise percent reductions (e.g., reported \\sim 91.1\\%) may vary with exchange–correlation functional, solvation, coverage, and transition-state search details.\" This treats DFT-computed relative barrier ordering as trustworthy while flagging quantitative sensitivity.",
+        "content_hash": "a3274f6ef2a704055b453b8843a2463f31db6de9670016cb635d95ca00e50b70",
+        "id": "gcn_fe057e6c8cf2419d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812488687030894592::P14",
+            "package_id": "paper:812488687030894592",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812488687030894592"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the experimental activation enthalpy ΔH‡exp as the enthalpic barrier extracted from the temperature dependence of observed rate constants via Eyring analysis, and define the computed barrier ΔEcalc as the potential-energy barrier along a selected reaction coordinate obtained from electronic-structure (TD-DFT) calculations for the same molecular complex in its modeled environment. The proposition is: the experimental activation enthalpy ΔH‡exp for O2 dissociation or association is treated as corresponding directly to the computed barrier ΔEcalc on the TD-DFT electronic potential-energy surface (i.e., they are taken to represent the same physical barrier along the same reaction coordinate), such that direct numeric comparison between ΔH‡exp and ΔEcalc is justified for mechanistic inference and validation of the computational picture, neglecting differences arising from entropy, solvent reorganization, multi-dimensional reaction pathways, and dynamic effects.",
+        "content_hash": "175ed8c87050b5bc122f98dd56fd62274c3a3a168c338855b7b5cbefaade7d8a",
+        "id": "gcn_ea2ff67636784e80",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813168406256680961::P8",
+            "package_id": "paper:813168406256680961",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813168406256680961"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When DFT‑computed activation energies for competing elementary reaction steps differ by large magnitudes (for example, a computed barrier of ≈0.46 eV versus ≈2.46 eV for CO* formation on two surface models), those computed differences are sufficiently robust—despite methodological uncertainties such as functional choice, finite slab size, and transition‑state search convergence—to justify a qualitative rationalization that the lower‑barrier pathway will be kinetically favored under reaction conditions, and therefore such large computed energy differences can explain experimentally observed higher product selectivity toward the low‑barrier product.",
+        "content_hash": "38985d3b7770deb0c178cd7b1f2cf8a54ed3df21c9cd1d7fc7076a6abca37b9b",
+        "id": "gcn_c2959f2d9845402a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813087684904878080::P16",
+            "package_id": "paper:813087684904878080",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813087684904878080"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014705882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The combination of single-shot nanosecond laser heating and STM imaging extends the class of surface phenomena accessible to atomically resolved STM analysis to include thermally activated processes that have substantial activation barriers (processes whose activation energies exceed those of competing diffusion processes), thereby enabling direct study of elementary reaction steps such as highly activated diffusion at step edges and atomically resolved product formation in heterogeneous catalysis and providing an experimental route to probe branching ratios and microscopic pathways for high-barrier surface reactions that would otherwise be obscured by faster, low-barrier processes.",
+        "content_hash": "8e4eff9776f27dbd263c7019405704fd4f332bcb97e633ae402932750e4c372b",
+        "id": "gcn_229fecbc563d46aa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814691650386264065::conclusion_6",
+            "package_id": "paper:814691650386264065",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814691650386264065"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014705882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Direct numerical comparison of activation barriers obtained from static DFT CI-NEB calculations on the D-BNC-1 carbon-based model (for example an obtained barrier of 0.41 eV for O3 formation) with activation-energy values reported in the literature for chemically different benchmark oxide electrodes (for example values reported for β-PbO2 or NiSb/SnO2 electrodes) is assumed to be a valid basis for asserting that the computed barrier magnitude is similar to or lower than those benchmark values, despite differences in surface chemistry, solvent interactions, and experimental measurement conditions between the compared systems.",
+        "content_hash": "8ddb2af8da6d70d40d08c8284cf5f467d74fc6136b9e472ec7982b2c17f63ff2",
+        "id": "gcn_fb9c919639f145fb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812690847559581697::P9",
+            "package_id": "paper:812690847559581697",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812690847559581697"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014492753623188406,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Activation energy barriers computed by density functional theory (DFT) on vacuum slab models or using implicit/limited solvation approximations for elementary surface reaction steps (for example, methoxy C–H scission $\\mathrm{CH_3O}\\rightarrow\\mathrm{CH_2O}+\\mathrm{H}$) are sufficiently accurate and transferable to predict relative kinetics and mechanistic trends of the same steps under the experimental aqueous‑phase reaction conditions at $240\\ ^\\circ\\mathrm{C}$ with $n(\\mathrm{CH_3OH}):n(\\mathrm{H_2O})=1:1$, such that the magnitudes and rankings of barriers computed on different surfaces (e.g., $Ni_{\\text{kink}}/\\alpha$-MoC(111), $\\alpha$-MoC(111), and Ni(111)) reflect the true activity differences in the real catalytic system within the typical uncertainties of such DFT approaches; \"transferable\" here denotes correspondence of computed energetics to experimental relative trends despite environmental and entropic differences.",
+        "content_hash": "79cd05c9febd20d1e64a2f7966cb0d43867829ce5351cb7849a2a46bb173459f",
+        "id": "gcn_38d037b532ab4436",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812522551145136131::P11",
+            "package_id": "paper:812522551145136131",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812522551145136131"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014492753623188406,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a benchmark of about 120 migration barriers comparing BVPA-derived migration-barrier estimates with literature CI-NEB DFT barriers for $Li^{+}$, $Na^{+}$, and $Mg^{2+}$ conductors, the pointwise comparison shows a general predictive correlation that cannot be attributed solely to artifacts from mixed chemistries, inconsistent path definitions, or heterogeneous benchmark quality, and therefore the observed trend constitutes a scientifically meaningful, if approximate, validation of BVPA as a screening predictor.",
+        "content_hash": "1db5c5bb924e6150b391cfe7bbdf38d4f73cade0a76bca5572944a2155f857d2",
+        "id": "gcn_36ce4f942c284b83",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812514726129958912::P14",
+            "package_id": "paper:812514726129958912",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812514726129958912"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014285714285714285,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The reported DFT energetics and activation barriers, including $\\Delta E_{\\mathrm{a,TS1}}=140\\ \\mathrm{kJ}\\ \\mathrm{mol}^{-1}$ and $\\Delta E_{\\mathrm{a,TS2}}=88\\ \\mathrm{kJ}\\ \\mathrm{mol}^{-1}$, are computed as electronic energies or zero-point-energy-corrected potential-energy differences on static periodic slab models at effectively $0\\ \\mathrm{K}$ and at a fixed surface coverage corresponding to the chosen unit cell, and it is assumed that finite-temperature entropic contributions, configurational ensembles of surface hydroxylation and vacancy distributions, and CH$_4$ surface coverage effects at the experimental temperature of about $900\\ ^\\circ\\mathrm{C}$ do not qualitatively change the ranking or relative magnitudes of the reported barriers, so that the computed static barriers can be compared to high-temperature experimental apparent activation energies.",
+        "content_hash": "e84b6f13947e7ec7193ee6835b9d70b010523f58337b3d9425cb6d1e37cceef8",
+        "id": "gcn_224cf02083af4be6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812827517562912773::P10",
+            "package_id": "paper:812827517562912773",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812827517562912773"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014285714285714285,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "c857b4ac943d86ce49ff2f03e4df40c8"
+}

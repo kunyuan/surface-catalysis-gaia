@@ -1,0 +1,271 @@
+{
+  "beliefs": [
+    {
+      "belief": 0.7340195388034794,
+      "knowledge_id": "github:surface_catalysis::__conjunction_result_11302e07",
+      "label": "__conjunction_result_11302e07"
+    },
+    {
+      "belief": 0.8840266082772795,
+      "knowledge_id": "github:surface_catalysis::__conjunction_result_6e29e271",
+      "label": "__conjunction_result_6e29e271"
+    },
+    {
+      "belief": 0.94807300228215,
+      "knowledge_id": "github:surface_catalysis::__conjunction_result_7fc4a261",
+      "label": "__conjunction_result_7fc4a261"
+    },
+    {
+      "belief": 0.7037993397399839,
+      "knowledge_id": "github:surface_catalysis::__conjunction_result_9ce8f79c",
+      "label": "__conjunction_result_9ce8f79c"
+    },
+    {
+      "belief": 0.07406121634793188,
+      "knowledge_id": "github:surface_catalysis::__conjunction_result_c7264fd6",
+      "label": "__conjunction_result_c7264fd6"
+    },
+    {
+      "belief": 0.8853435385141867,
+      "knowledge_id": "github:surface_catalysis::co_2pi_mechanism",
+      "label": "co_2pi_mechanism"
+    },
+    {
+      "belief": 0.9979247447062939,
+      "knowledge_id": "github:surface_catalysis::contradiction_experiment_ambiguity",
+      "label": "contradiction_experiment_ambiguity"
+    },
+    {
+      "belief": 0.99936818591222,
+      "knowledge_id": "github:surface_catalysis::contradiction_hybrid",
+      "label": "contradiction_hybrid"
+    },
+    {
+      "belief": 0.9994355629209339,
+      "knowledge_id": "github:surface_catalysis::contradiction_site_ordering",
+      "label": "contradiction_site_ordering"
+    },
+    {
+      "belief": 0.9993775289451322,
+      "knowledge_id": "github:surface_catalysis::contradiction_vdw_gap",
+      "label": "contradiction_vdw_gap"
+    },
+    {
+      "belief": 0.44237843686227857,
+      "knowledge_id": "github:surface_catalysis::correction_reduces_site_spread",
+      "label": "correction_reduces_site_spread"
+    },
+    {
+      "belief": 0.5886110262182807,
+      "knowledge_id": "github:surface_catalysis::correction_site_reordering",
+      "label": "correction_site_reordering"
+    },
+    {
+      "belief": 0.9999031165780062,
+      "knowledge_id": "github:surface_catalysis::equiv_oxide_parallel",
+      "label": "equiv_oxide_parallel"
+    },
+    {
+      "belief": 0.32503191444679386,
+      "knowledge_id": "github:surface_catalysis::experimental_site_methods",
+      "label": "experimental_site_methods"
+    },
+    {
+      "belief": 0.954597517604978,
+      "knowledge_id": "github:surface_catalysis::gga_2pi_too_low",
+      "label": "gga_2pi_too_low"
+    },
+    {
+      "belief": 0.9857265491945825,
+      "knowledge_id": "github:surface_catalysis::gga_back_donation_overestimated",
+      "label": "gga_back_donation_overestimated"
+    },
+    {
+      "belief": 0.9987899737546624,
+      "knowledge_id": "github:surface_catalysis::gga_failure_origin",
+      "label": "gga_failure_origin"
+    },
+    {
+      "belief": 0.8669644002902879,
+      "knowledge_id": "github:surface_catalysis::gga_o2_sie_error",
+      "label": "gga_o2_sie_error"
+    },
+    {
+      "belief": 0.9986563111211697,
+      "knowledge_id": "github:surface_catalysis::gga_oxide_error_parallel",
+      "label": "gga_oxide_error_parallel"
+    },
+    {
+      "belief": 0.8337055003628598,
+      "knowledge_id": "github:surface_catalysis::gga_oxide_gap_error",
+      "label": "gga_oxide_gap_error"
+    },
+    {
+      "belief": 0.8192678332925712,
+      "knowledge_id": "github:surface_catalysis::hybrid_direction_inconsistent",
+      "label": "hybrid_direction_inconsistent"
+    },
+    {
+      "belief": 0.8875059342836727,
+      "knowledge_id": "github:surface_catalysis::hybrid_limitation",
+      "label": "hybrid_limitation"
+    },
+    {
+      "belief": 0.8521282272393764,
+      "knowledge_id": "github:surface_catalysis::hybrid_magnitude_nonuniform",
+      "label": "hybrid_magnitude_nonuniform"
+    },
+    {
+      "belief": 0.37809372424781873,
+      "knowledge_id": "github:surface_catalysis::mason_validation_pt_al2o3",
+      "label": "mason_validation_pt_al2o3"
+    },
+    {
+      "belief": 0.8107194346414834,
+      "knowledge_id": "github:surface_catalysis::method_cross_comparison",
+      "label": "method_cross_comparison"
+    },
+    {
+      "belief": 0.6712779048731603,
+      "knowledge_id": "github:surface_catalysis::pbe_pw91_rpbe_comparison",
+      "label": "pbe_pw91_rpbe_comparison"
+    },
+    {
+      "belief": 0.6773636049987612,
+      "knowledge_id": "github:surface_catalysis::prem_benchmark_valid",
+      "label": "prem_benchmark_valid"
+    },
+    {
+      "belief": 0.2024207186258847,
+      "knowledge_id": "github:surface_catalysis::prem_extrapolation_valid",
+      "label": "prem_extrapolation_valid"
+    },
+    {
+      "belief": 0.9827548331631655,
+      "knowledge_id": "github:surface_catalysis::prem_linear_mapping",
+      "label": "prem_linear_mapping"
+    },
+    {
+      "belief": 0.048010889594103524,
+      "knowledge_id": "github:surface_catalysis::root_correction_method",
+      "label": "root_correction_method"
+    },
+    {
+      "belief": 0.8865432885130182,
+      "knowledge_id": "github:surface_catalysis::vdw_effect_co",
+      "label": "vdw_effect_co"
+    },
+    {
+      "belief": 0.7547726282677005,
+      "knowledge_id": "github:surface_catalysis::vdw_geometry_issues",
+      "label": "vdw_geometry_issues"
+    }
+  ],
+  "diagnostics": {
+    "belief_history": {
+      "github:surface_catalysis::__conjunction_result_11302e07": [
+        0.7340195388034794
+      ],
+      "github:surface_catalysis::__conjunction_result_6e29e271": [
+        0.8840266082772795
+      ],
+      "github:surface_catalysis::__conjunction_result_7fc4a261": [
+        0.94807300228215
+      ],
+      "github:surface_catalysis::__conjunction_result_9ce8f79c": [
+        0.7037993397399839
+      ],
+      "github:surface_catalysis::__conjunction_result_c7264fd6": [
+        0.07406121634793188
+      ],
+      "github:surface_catalysis::co_2pi_mechanism": [
+        0.8853435385141867
+      ],
+      "github:surface_catalysis::contradiction_experiment_ambiguity": [
+        0.9979247447062939
+      ],
+      "github:surface_catalysis::contradiction_hybrid": [
+        0.99936818591222
+      ],
+      "github:surface_catalysis::contradiction_site_ordering": [
+        0.9994355629209339
+      ],
+      "github:surface_catalysis::contradiction_vdw_gap": [
+        0.9993775289451322
+      ],
+      "github:surface_catalysis::correction_reduces_site_spread": [
+        0.44237843686227857
+      ],
+      "github:surface_catalysis::correction_site_reordering": [
+        0.5886110262182807
+      ],
+      "github:surface_catalysis::equiv_oxide_parallel": [
+        0.9999031165780062
+      ],
+      "github:surface_catalysis::experimental_site_methods": [
+        0.32503191444679386
+      ],
+      "github:surface_catalysis::gga_2pi_too_low": [
+        0.954597517604978
+      ],
+      "github:surface_catalysis::gga_back_donation_overestimated": [
+        0.9857265491945825
+      ],
+      "github:surface_catalysis::gga_failure_origin": [
+        0.9987899737546624
+      ],
+      "github:surface_catalysis::gga_o2_sie_error": [
+        0.8669644002902879
+      ],
+      "github:surface_catalysis::gga_oxide_error_parallel": [
+        0.9986563111211697
+      ],
+      "github:surface_catalysis::gga_oxide_gap_error": [
+        0.8337055003628598
+      ],
+      "github:surface_catalysis::hybrid_direction_inconsistent": [
+        0.8192678332925712
+      ],
+      "github:surface_catalysis::hybrid_limitation": [
+        0.8875059342836727
+      ],
+      "github:surface_catalysis::hybrid_magnitude_nonuniform": [
+        0.8521282272393764
+      ],
+      "github:surface_catalysis::mason_validation_pt_al2o3": [
+        0.37809372424781873
+      ],
+      "github:surface_catalysis::method_cross_comparison": [
+        0.8107194346414834
+      ],
+      "github:surface_catalysis::pbe_pw91_rpbe_comparison": [
+        0.6712779048731603
+      ],
+      "github:surface_catalysis::prem_benchmark_valid": [
+        0.6773636049987612
+      ],
+      "github:surface_catalysis::prem_extrapolation_valid": [
+        0.2024207186258847
+      ],
+      "github:surface_catalysis::prem_linear_mapping": [
+        0.9827548331631655
+      ],
+      "github:surface_catalysis::root_correction_method": [
+        0.048010889594103524
+      ],
+      "github:surface_catalysis::vdw_effect_co": [
+        0.8865432885130182
+      ],
+      "github:surface_catalysis::vdw_geometry_issues": [
+        0.7547726282677005
+      ]
+    },
+    "converged": true,
+    "direction_changes": {},
+    "iterations_run": 2,
+    "max_change_at_stop": 0.0,
+    "treewidth": 3
+  },
+  "gaia_lang_version": "0.4.3",
+  "ir_hash": "sha256:94f16f4e1e0cec538c834cd9b5eae9dd7d0f29348e8e86c7ae930939e7684c0e"
+}

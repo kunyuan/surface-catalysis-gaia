@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Activation energies E_a for the considered elementary surface reactions are approximated by Brønsted–Evans–Polanyi (BEP) linear relations of the form E_a = α_BEP ΔE + β_BEP, where ΔE is the reaction energy of the elementary step, the BEP slope α_BEP is obtained from constrained-minimization calculations using initial transition-state-like geometries resembling the Ni transition states, and the intercept β_BEP is calibrated so that the BEP relation reproduces the explicitly computed Ni activation energy for each elementary reaction; the resulting α_BEP and β_BEP coefficients for the set of reactions considered allow estimation of activation barriers on other metals when combined with the two-descriptor scaling relations for intermediates (i.e., using only E_C and E_O as inputs).",
+      "content_hash": "f6d86f94446797f85ecb641e41c8b1023c61e42e289293678d7b800f75d82038",
+      "id": "gcn_7e321602258e4a82",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Activation energies E_a for the considered elementary surface reactions are approximated by Brønsted–Evans–Polanyi (BEP) linear relations of the form E_a = α_BEP ΔE + β_BEP, where ΔE is the reaction energy of the elementary step, the BEP slope α_BEP is obtained from constrained-minimization calculations using initial transition-state-like geometries resembling the Ni transition states, and the intercept β_BEP is calibrated so that the BEP relation reproduces the explicitly computed Ni activation energy for each elementary reaction; the resulting α_BEP and β_BEP coefficients for the set of reactions considered allow estimation of activation barriers on other metals when combined with the two-descriptor scaling relations for intermediates (i.e., using only E_C and E_O as inputs).",
+              "id": "gcn_7e321602258e4a82"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_9296260943b54ca9",
+            "premises": [
+              {
+                "content": "For each methane-oxidation elementary reaction on terrace-like and step-like metal surfaces, the activation energy on metals other than Ni is assumed to follow a Brønsted–Evans–Polanyi relation E_a = α_BEP ΔE + β_BEP, where the BEP slope α_BEP is obtained by constrained minimization calculations that start from transition-state-like geometries resembling the Ni transition states and the intercept β_BEP is chosen so that the BEP relation reproduces the explicitly computed Ni activation energy for that elementary reaction.\n      Table V",
+                "id": "gcn_7d2ec2d69466429f"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Starting point: the reaction energies $\\Delta E$ and TS geometries found on Ni (conclusion 1) and the constrained-minimization technique (CMT) TS templates are used to establish Brønsted–Evans–Polanyi (BEP) relations for activation energies across descriptor space. Definition: BEP relation = linear relation between activation energy $E_{\\mathrm{a}}$ and reaction energy $\\Delta E$ of the form $E_{\\mathrm{a}}=\\alpha_{\\mathrm{BEP}}\\Delta E+\\beta_{\\mathrm{BEP}}$.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Method to obtain slopes: the BEP slopes $\\alpha_{\\mathrm{BEP}}$ were obtained by applying the constrained minimization technique (CMT) to construct TS-like initial geometries on other metals (initial guesses formed by stretching the reactive bond to resemble the Ni TS) and by relaxing those constrained configurations to extract approximate barrier versus reaction-energy trends; this yields approximate linear slopes for each elementary reaction. Definition: CMT = constrained minimization technique using stretched-bond initial configurations to generate TS-like points.\nCMT",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Calibration of intercepts: for each elementary reaction the intercept $\\beta_{\\mathrm{BEP}}$ was calibrated so that the BEP line reproduces the explicitly computed Ni activation energy $E_{\\mathrm{a}}$ for that reaction (i.e., the BEP line passes through the Ni data point), ensuring consistency with the Ni reference. This calibration procedure ties the general BEP relation to the Ni reference barrier set.\nTable V",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Tabulated BEP parameters: the resulting BEP coefficients $\\alpha_{\\mathrm{BEP}}$ (slopes) and $\\beta_{\\mathrm{BEP}}$ (intercepts) for each elementary reaction on both {111} and {211} surfaces are collected in Table V (for example, for CH$_{4}$(g)+2$^{*}\\to$CH$_{3}^{*}$+H$^{*}$ $\\alpha_{\\mathrm{BEP}}=0.61$ ({111}) and $0.81$ ({211}) with $\\beta_{\\mathrm{BEP}}=0.72\\ \\mathrm{eV}$ ({111}) and $0.82\\ \\mathrm{eV}$ ({211})). The table contains analogous numbers for all listed elementary steps, and for the HCO$^{*}\\to$ H$^{*}$ + CO$^{*}$ step the authors treat it as quasi-equilibrated (QE) in the tabulation. Definitions: QE = quasi-equilibrated treatment indicated in Table V.\nTable V",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Practical use: combining each reaction's BEP relation with the scaling relations for intermediate adsorption energies (which provide $\\Delta E$ in terms of $E_{\\mathrm{C}}$ and $E_{\\mathrm{O}}$) permits estimation of activation barriers $E_{\\mathrm{a}}$ on arbitrary metals using only the two descriptors $E_{\\mathrm{C}}$ and $E_{\\mathrm{O}}$, thereby enabling high-throughput barrier estimation without explicit TS searches on every metal.\nTable IV\nTable V",
+                "step_id": "5"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Direct calculation of transition-state barriers for all reactions on many metal surfaces is computationally expensive and therefore incompatible with high-throughput screening. Prior to this work, reliable, pathway-specific BEP parameters calibrated at SOFC-relevant conditions and including both terrace and step geometries for methane-oxidation steps were not assembled. Without BEP relations tied to the DFT reference (Ni) and the scaling relations for intermediates, one cannot estimate reaction barriers systematically across candidate metals, preventing kinetic evaluation and construction of activity maps.",
+            "id": "paper:811828067033939968::conclusion_4_subproblem",
+            "source_package": "paper:811828067033939968"
+          }
+        ],
+        "source_package": "paper:811828067033939968"
+      }
+    ],
+    "papers": {
+      "paper:811828067033939968": {
+        "area": "Engineering Technology",
+        "authors": "Jesper Kleis | Glenn Jones | Frank Abild-Pedersen | Vladimir Tripkovic | Thomas Bligaard | Jan Rossmeisl",
+        "available_online": "",
+        "cover_date_start": "2009-01-01",
+        "created_at": "2022-12-19T21:14:54+08:00",
+        "doi": "10.1149/1.3230622",
+        "en_title": "Trends for Methane Oxidation at Solid Oxide Fuel Cell Conditions",
+        "id": "811828067033939968",
+        "keywords": "",
+        "publication_date": "2009",
+        "publication_id": "4308",
+        "publication_name": "Journal of The Electrochemical Society _ J. Electrochem. Soc.",
+        "research_categories": "",
+        "zh_title": "固体氧化物燃料电池条件下甲烷氧化的趋势"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "f9916dc34913eadef31ac07471d8c41d"
+}

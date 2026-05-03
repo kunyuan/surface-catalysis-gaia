@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1033249438358831107": {
+        "area": "Chemistry",
+        "authors": "Chao Tian | Yinghong Yue | Changxi Miao | Weiming Hua | Zi Gao",
+        "available_online": "",
+        "cover_date_start": "2024-08-21",
+        "created_at": "2024-08-21T21:24:23+08:00",
+        "doi": "10.3390/catal14080541",
+        "en_title": "Cu/MgO as an Efficient New Catalyst for the Non-Oxidative Dehydrogenation of Ethanol into Acetaldehyde",
+        "id": "1033249438358831107",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3524",
+        "publication_name": "Catalysts _ ",
+        "research_categories": "",
+        "zh_title": "铜/氧化镁作为一种用于乙醇非氧化脱氢制乙醛的高效新型催化剂"
+      },
+      "paper:811092779345117185": {
+        "area": "Geoscience",
+        "authors": "C.E. Gigola | H.R. Aduriz | P. Bodnariuk",
+        "available_online": "",
+        "cover_date_start": "1986-10-01",
+        "created_at": "2022-12-17T20:33:09+08:00",
+        "doi": "10.1016/s0166-9834(00)81052-0",
+        "en_title": "Particle size effect in the hydrogenation of acetylene under industrial conditions",
+        "id": "811092779345117185",
+        "keywords": "",
+        "publication_date": "1986-10",
+        "publication_id": "12699",
+        "publication_name": "Applied Catalysis _ Applied Catalysis",
+        "research_categories": "",
+        "zh_title": "工业条件下乙炔加氢中的粒径效应"
+      },
+      "paper:811780858972209152": {
+        "area": "Chemistry",
+        "authors": "Päivi Mäki-Arvela | Elena V. Murzina | Betiana Campo | Teemu Heikkilä | Anne-Riikka Leino | Krisztian Kordas | Dorit Wolf | Anton V. Tokarev | Dmitry Yu. Murzin",
+        "available_online": "2010-6-15",
+        "cover_date_start": "2010-06-01",
+        "created_at": "2022-12-19T18:07:19+08:00",
+        "doi": "10.1007/s11164-010-0143-4",
+        "en_title": "The effect of palladium dispersion and promoters on lactose oxidation kinetics",
+        "id": "811780858972209152",
+        "keywords": "[{\"en_name\": \"Active carbon\", \"ch_name\": \"\"}, {\"en_name\": \"Catalyst potential\", \"ch_name\": \"\"}, {\"en_name\": \"Dispersion\", \"ch_name\": \"\"}, {\"en_name\": \"Lactose oxidation\", \"ch_name\": \"\"}, {\"en_name\": \"Palladium\", \"ch_name\": \"\"}]",
+        "publication_date": "2010-6",
+        "publication_id": "3511",
+        "publication_name": "Research on Chemical Intermediates _ Res Chem Intermed",
+        "research_categories": "",
+        "zh_title": "钯分散度和助剂对乳糖氧化动力学的影响"
+      },
+      "paper:811941599943589890": {
+        "area": "Material science",
+        "authors": "Dong-ge Tong | Jing-yan Hu | Wei Chu | Tao Zhang | Xiao-yang Ji",
+        "available_online": "",
+        "cover_date_start": "2008-06-01",
+        "created_at": "2022-12-20T04:46:02+08:00",
+        "doi": "10.1016/j.matlet.2008.01.032",
+        "en_title": "Effect of glow discharge plasma treatment on amorphous Co–B catalyst",
+        "id": "811941599943589890",
+        "keywords": "[{\"ch_name\":\"非晶态Co-B颗粒\",\"en_name\":\"Amorphous Co-B particles\"},{\"ch_name\":\"催化剂\",\"en_name\":\"Catalysts\"},{\"ch_name\":\"肉桂醛加氢\",\"en_name\":\"Cinnamaldehyde hydrogenation\"},{\"ch_name\":\"辉光放电等离子体处理\",\"en_name\":\"Glow discharge plasma treatment\"},{\"ch_name\":\"纳米材料\",\"en_name\":\"Nanomaterials\"}]",
+        "publication_date": "2008-6",
+        "publication_id": "2173",
+        "publication_name": "Materials Letters _ Materials Letters",
+        "research_categories": "",
+        "zh_title": "辉光放电等离子体处理对非晶态Co–B催化剂的影响"
+      },
+      "paper:812068941865156610": {
+        "area": "Chemistry",
+        "authors": "Kazuo Sugiyama | Hiroshi Miura | Yoshichika Watanabe | Yasunori Ukai | Tsuneo Matsuda",
+        "available_online": "",
+        "cover_date_start": "1986-01-05",
+        "created_at": "2022-12-20T13:12:03+08:00",
+        "doi": "10.1246/cl.1986.47",
+        "en_title": "INFLUENCE OF ALLOYING ON THE HYDRATION OF ACRYLONITRILE TO ACRYLAMIDE BY COPPER–NICKEL ALLOY CATALYSTS",
+        "id": "812068941865156610",
+        "keywords": "",
+        "publication_date": "1986-1-5",
+        "publication_id": "3666",
+        "publication_name": "Chemistry Letters _ Chem. Lett.",
+        "research_categories": "",
+        "zh_title": "合金化对铜镍合金催化剂催化丙烯腈水合制丙烯酰胺反应的影响"
+      },
+      "paper:813105137605148673": {
+        "area": "Geoscience",
+        "authors": "Geoffrey C. Bond",
+        "available_online": "",
+        "cover_date_start": "1993-04-01",
+        "created_at": "2022-12-23T09:49:32+08:00",
+        "doi": "10.1016/0304-5102(93)80025-p",
+        "en_title": "Catalytic properties of 0.3% Pt/Al2O3 (EUROPT-3) and of 0.3% Pt−0.3% Re/Al2O3 (EUROPT-4)",
+        "id": "813105137605148673",
+        "keywords": "",
+        "publication_date": "1993-4",
+        "publication_id": "12828",
+        "publication_name": "Journal of Molecular Catalysis _ Journal of Molecular Catalysis",
+        "research_categories": "",
+        "zh_title": "0.3% Pt/Al₂O₃（EUROPT-3）和0.3% Pt−0.3% Re/Al₂O₃（EUROPT-4）的催化性能"
+      },
+      "paper:813293223916077057": {
+        "area": "Chemistry",
+        "authors": "Junghyun Hong | Francisco Zaera",
+        "available_online": "2012-7-27",
+        "cover_date_start": "2012-07-27",
+        "created_at": "2022-12-23T22:16:55+08:00",
+        "doi": "10.1021/ja304181q",
+        "en_title": "Interference of the Surface of the Solid on the Performance of Tethered Molecular Catalysts",
+        "id": "813293223916077057",
+        "keywords": "",
+        "publication_date": "2012-8-8",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "固体表面对拴系分子催化剂性能的影响"
+      },
+      "paper:814564982782951424": {
+        "area": "Chemistry",
+        "authors": "Solène Gentil | Doti Serre | Christian Philouze | Michael Holzinger | Fabrice Thomas | Alan Le Goff",
+        "available_online": "2016-1-8",
+        "cover_date_start": "2016-01-08",
+        "created_at": "2022-12-27T10:30:27+08:00",
+        "doi": "10.1002/anie.201509593",
+        "en_title": "Electrocatalytic O 2 Reduction at a Bio-inspired Mononuclear Copper Phenolato Complex Immobilized on a Carbon Nanotube Electrode",
+        "id": "814564982782951424",
+        "keywords": "[{\"en_name\": \"biomimetic chemistry\", \"ch_name\": \"\"}, {\"en_name\": \"carbon nanotubes\", \"ch_name\": \"\"}, {\"en_name\": \"copper\", \"ch_name\": \"\"}, {\"en_name\": \"oxygen reduction\", \"ch_name\": \"\"}, {\"en_name\": \"tripodal ligand\", \"ch_name\": \"\"}]",
+        "publication_date": "2016-2-12",
+        "publication_id": "3347",
+        "publication_name": "Angewandte Chemie International Edition _ Angew. Chem. Int. Ed.",
+        "research_categories": "",
+        "zh_title": "固定在碳纳米管电极上的仿生单核酚铜配合物的电催化氧还原反应"
+      },
+      "paper:814687013960679425": {
+        "area": "Engineering Technology",
+        "authors": "Hongyu Chen | Xiaobin Fan | Jingwen Ma | Guoliang Zhang | Fengbao Zhang | Yang Li",
+        "available_online": "2014-11-6",
+        "cover_date_start": "2014-11-06",
+        "created_at": "2022-12-27T18:35:21+08:00",
+        "doi": "10.1021/ie503251h",
+        "en_title": "Green Route for Microwave-Assisted Preparation of AuAg-Alloy-Decorated Graphene Hybrids with Superior 4-NP Reduction Catalytic Activity",
+        "id": "814687013960679425",
+        "keywords": "",
+        "publication_date": "2014-11-19",
+        "publication_id": "4160",
+        "publication_name": "Industrial and Engineering Chemistry Research _ Ind. Eng. Chem. Res.",
+        "research_categories": "",
+        "zh_title": "微波辅助制备具有优异4-硝基苯酚还原催化活性的金银合金修饰石墨烯杂化物的绿色路线"
+      },
+      "paper:913256692769095774": {
+        "area": "Material science",
+        "authors": "Xiaobin Liu | Qingping Yu | Xinyue Qu | Xinping Wang | Jingqi Chi | Lei Wang",
+        "available_online": "",
+        "cover_date_start": "2023-09-25",
+        "created_at": "2023-09-25T18:36:06+08:00",
+        "doi": "10.1002/adma.202307395",
+        "en_title": "Manipulating Electron Redistribution in Ni2p for Enhanced Alkaline Seawater Electrolysis",
+        "id": "913256692769095774",
+        "keywords": "[{\"ch_name\":\"\",\"en_name\":\"electrocatalytic seawater splitting, P vacancy\"},{\"ch_name\":\"\",\"en_name\":\"Fe doping\"},{\"ch_name\":\"\",\"en_name\":\"phase reconstruction\"}]",
+        "publication_date": "",
+        "publication_id": "2016",
+        "publication_name": "Advanced Materials _ ",
+        "research_categories": "[\"Engineering\", \"Nanotechnology\"]",
+        "zh_title": "通过调控Ni2p中的电子再分布增强碱性海水电解"
+      }
+    },
+    "variables": [
+      {
+        "content": "An apparent turnover frequency (TOF) reported as $14\\ \\mathrm{s^{-1}}$ is calculated from measured catalytic current density $j$ and the electrochemically determined surface coverage $\\Gamma_{1}$ using the relationship $\\mathrm{TOF} = j/(nF\\Gamma_{1})$, where $n$ is the number of electrons per catalytic turnover (assumed), $F$ is the Faraday constant, and $\\Gamma_{1}$ is the surface concentration of electroactive sites in mol cm$^{-2}$. The proposition is that this calculation accurately reports a per-site turnover frequency, which requires that every site represented in $\\Gamma_{1}$ is equally catalytically active, that the faradaic efficiency for ORR current corresponds entirely to the considered reaction pathway, and that $n$ used in the calculation correctly counts electrons per turnover; if any of these assumptions fails, the numeric TOF will not represent an intrinsic single-site catalytic rate.",
+        "content_hash": "1238b41c14a42af94383304b5ff8d2d6cbc2e08199bd234301865d137f83705a",
+        "id": "gcn_9c132b918ff849f0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814564982782951424::P14",
+            "package_id": "paper:814564982782951424",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814564982782951424"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026333789329685362,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: In the computation of turnover‑frequency (TOF) estimates from the experimentally observed early‑time production rates (the first 5 minutes of reaction) for the thiol‑addition system studied, it is assumed that the measured initial production rates (moles of product per unit time per gram of catalyst) are representative of intrinsic catalytic turnover per active molecular site and are not substantially distorted by external artifacts such as mass‑transfer limitations (diffusive transport to/from the solid surface), transient adsorption/desorption kinetics that alter surface coverages, or other heterogeneous phase‑transport phenomena that would otherwise invalidate the use of a site‑normalized early‑time rate as a proxy for intrinsic per‑site catalytic activity.",
+        "content_hash": "23d80bcd7f346ea4bed43e32fa511c04aa7925aebe41e3894a91d920d1740107",
+        "id": "gcn_3771b29c1a9b46cd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813293223916077057::P14",
+            "package_id": "paper:813293223916077057",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813293223916077057"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a supported-metal catalyst, a turnover frequency defined as the observed reaction rate divided by the number of free metallic surface atoms estimated by hydrogen chemisorption approximates a site-normalized activity only insofar as the chemisorption-derived surface-atom count represents the operative active centres; because the true active centre for a given reaction may comprise more than one surface atom and the number of such operative centres is not directly known from the chemisorption count alone, chemisorption-based turnover normalization is limited in its ability to give the exact intrinsic per-centre activity.",
+        "content_hash": "4edee5c5f6d5bd820c31889d6b6686879b55e1a2f9ee55c207529fa468257426",
+        "id": "gcn_0addbe9516ef4511",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813105137605148673::P17",
+            "package_id": "paper:813105137605148673",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813105137605148673"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When converting the experimentally measured initial oxidation rate reported per unit mass of total Pd to a turnover frequency (TOF) per surface Pd atom by dividing by the metal dispersion D determined from CO chemisorption, the calculation assumes that every surface Pd atom counted by the dispersion measurement contributes equally to the measured intrinsic activity (i.e., the catalyst surface is treated as homogeneous with respect to per‑atom turnover), so that the resulting normalised TOF is interpreted as a faithful representation of intrinsic per‑site catalytic activity independent of possible site heterogeneity, promoter coverage heterogeneity, or ensemble/ensemble‑size effects.",
+        "content_hash": "8168a8c115b3347131a811f881e5e40ced109b794ad75a9ca73fad4c3be58a98",
+        "id": "gcn_e7bfea01bfd747bc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811780858972209152::P12",
+            "package_id": "paper:811780858972209152",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811780858972209152"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The reported turnover frequency, defined as the number of evolved $H_{2}$ or $O_{2}$ molecules per active site per second at a given overpotential, is assumed to be accurate because the number of active sites used in the denominator is correctly estimated from experimental proxies such as $C_{dl}$ scaling, elemental composition, or surface-area normalization. Under this assumption, the reported turnover frequency reflects intrinsic per-site catalytic activity rather than systematic undercounting or overcounting of active sites.",
+        "content_hash": "cf4f6593db1542d7c76d1c75c2e339237a00f6849e46e03c23101ee9f74d1e88",
+        "id": "gcn_a8aebf50b8ba45a3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:913256692769095774::P8",
+            "package_id": "paper:913256692769095774",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:913256692769095774"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $r$ denote the experimentally measured molar rate of $C_{2}H_{2}$ hydrogenation per gram of catalyst (units $\\mathrm{mol\\ C_{2}H_{2}\\ g.cat^{-1}\\ s^{-1}}$) measured at $T\\approx 298\\ \\mathrm{K}$ and total pressure $1520\\ \\mathrm{kPa}$, and let $H/Pd_{t}$ denote the palladium dispersion estimated from the hydrogen chemisorption back-sorption procedure at $298\\ \\mathrm{K}$ (as defined in premise P1). Define the moles of surface palladium atoms per gram of catalyst as $n_{\\mathrm{surf}} = (H/Pd_{t})\\times n_{Pd}$ where $n_{Pd}$ is the moles of total palladium atoms per gram of catalyst; the turnover frequency (specific activity) is computed as $N_{T}=r/n_{\\mathrm{surf}}$ with units $\\mathrm{s^{-1}}$. This proposition asserts that $N_{T}$ computed in this way accurately represents the per-surface-Pd-site turnover frequency relevant to intrinsic catalytic activity, i.e., that (a) the chemisorption-derived $n_{\\mathrm{surf}}$ counts active surface Pd atoms, and (b) all counted surface Pd atoms are equivalently active for the measured reaction under the experimental conditions.",
+        "content_hash": "ca03929b5409593b20e3ff9b3d41d1b98b90ee8e088a852e6e101a654723ab56",
+        "id": "gcn_38d15abc8e1b4574",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811092779345117185::P3",
+            "package_id": "paper:811092779345117185",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811092779345117185"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The causal interpretation that the ethanol conversion measured at $230\\ ^\\circ\\mathrm{C}$ is controlled primarily by the total number of experimentally accessible surface Cu atoms (computed from dispersion $D$, Cu loading and reactor mass) rather than by systematic variations in intrinsic per-site turnover frequency across the catalyst series assumes that (i) the intrinsic turnover frequency per accessible Cu site is approximately constant across samples under the tested conditions, (ii) transport limitations, site heterogeneity and support-mediated electronic effects do not produce systematic per-site activity differences that rival the effect of surface-atom count, and (iii) the computed accessible-surface-atom number accurately reflects the catalytic site population participating in the dehydrogenation reaction.",
+        "content_hash": "5bfe60d3026cf3ba3602f64254eeba8546a79672345f9f3792bbca17a764afe0",
+        "id": "gcn_eb058fa05fb14079",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1033249438358831107::P8",
+            "package_id": "paper:1033249438358831107",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1033249438358831107"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The reported relationship between turnover frequency and surface Cu composition is based on a finite set of catalyst samples with measured surface compositions, and no replicate measurements or uncertainty estimates are reported. Interpreting the observed maximum in turnover frequency near surface Cu composition 0.80 as a true maximum in intrinsic per-site activity therefore assumes that measurement error, sample-to-sample variability, and the missing surface-composition entries do not qualitatively change the location of the observed peak.",
+        "content_hash": "fb2f54fdccce0d7b061dfb9ae663f4c49997d009e405a40aa075e0e41bb20afc",
+        "id": "gcn_fbf93b2c0638444b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812068941865156610::P6",
+            "package_id": "paper:812068941865156610",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812068941865156610"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Dividing an experimentally measured pseudo-first-order rate constant $k_{meas}$ (obtained per unit mass of catalyst added) by an estimated total metal surface area $S_{total}$ (computed from the total metal volume $v_{total}$ and measured average particle radius $r$ via $S_{total}=\\\\dfrac{3\\\\,v_{total}}{r}$) yields a surface-area-normalized rate constant $k_{area}=k_{meas}/S_{total}$ that is taken to represent the intrinsic catalytic activity per unit of available metal surface; this normalization assumes (a) uniform catalytic turnover per unit geometric surface area across different samples, (b) comparable density of active sites per unit geometric surface area between samples of different composition and particle size, and (c) that mass-transport limitations, support electronic effects, and differences in adsorption energetics do not systematically invalidate the proportionality between geometric surface area and catalytic turnover.",
+        "content_hash": "f4770a76fddbef1197287f8b296ed6e19acc6cde92682fb0465adb9b489fd66f",
+        "id": "gcn_1e129fb55510450e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814687013960679425::P9",
+            "package_id": "paper:814687013960679425",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814687013960679425"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The turnover frequency (TOF) values $2.48\\times10^{-3}\\ \\mathrm{s}^{-1}$ (Co–B-plasma) and $2.39\\times10^{-3}\\ \\mathrm{s}^{-1}$ (Co–B-regular), computed as the initial reaction rate (mol cinnamaldehyde converted to hydrogenated products per s) divided by the moles of surface metallic atoms determined by hydrogen chemisorption, accurately reflect the intrinsic per-surface-metal-atom activity of the catalysts and are not substantially biased by differences in hydrogen chemisorption calibration, inaccessible active sites, irreversible H-storage, or differing dispersion that would invalidate direct per-site comparison.",
+        "content_hash": "d115ed46559abefbb53f4ca7f50f3d2a595bc6ba9f0f1289b5a15e7454a115f8",
+        "id": "gcn_4ce094f7a71242d1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811941599943589890::P9",
+            "package_id": "paper:811941599943589890",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811941599943589890"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "8083a0b07ab964009b848c7737de39e9"
+}

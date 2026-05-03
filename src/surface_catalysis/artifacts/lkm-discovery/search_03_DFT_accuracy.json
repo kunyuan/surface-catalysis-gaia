@@ -1,0 +1,711 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1027848570260160568": {
+        "area": "Comprehensive Periodical",
+        "authors": "Hua Ning | Guang Wei | Jianhong Chen | Zhipeng Meng | Zhiwen Wang | Zhiqiang Lan | Xiantun Huang | Junyu Chen | Peilin Qing | Haizhen Liu | Wenzheng Zhou | Jin Guo",
+        "available_online": "",
+        "cover_date_start": "2024-08-06",
+        "created_at": "2024-08-06T23:44:07+08:00",
+        "doi": "10.1038/s41598-024-69189-7",
+        "en_title": "Investigation on hydrogenation performance of Mg17Al12 by adding Y",
+        "id": "1027848570260160568",
+        "keywords": "[{\"en_name\": \"Adsorption\", \"ch_name\": \"\"}, {\"en_name\": \"DFT\", \"ch_name\": \"\"}, {\"en_name\": \"Dissociation\", \"ch_name\": \"\"}, {\"en_name\": \"Mg-based hydrogen storage materials\", \"ch_name\": \"\"}]",
+        "publication_date": "",
+        "publication_id": "9354",
+        "publication_name": "Scientific Reports _ ",
+        "research_categories": "",
+        "zh_title": "添加Y对Mg17Al12氢化性能的研究"
+      },
+      "paper:811041711634513920": {
+        "area": "Material science",
+        "authors": "Minhua Zhang | Rui Yao | Haoxi Jiang | Guiming Li | Yifei Chen",
+        "available_online": "",
+        "cover_date_start": "2017-08-01",
+        "created_at": "2022-12-17T17:10:14+08:00",
+        "doi": "10.1016/j.apsusc.2017.03.222",
+        "en_title": "Insights into the mechanism of acetic acid hydrogenation to ethanol on Cu(111) surface",
+        "id": "811041711634513920",
+        "keywords": "[{\"en_name\": \"Acetic acid\", \"ch_name\": \"\"}, {\"en_name\": \"Cu\", \"ch_name\": \"\"}, {\"en_name\": \"DFT\", \"ch_name\": \"\"}, {\"en_name\": \"Ethanol\", \"ch_name\": \"\"}, {\"en_name\": \"Hydrogenation\", \"ch_name\": \"\"}]",
+        "publication_date": "2017-8",
+        "publication_id": "2051",
+        "publication_name": "Applied Surface Science _ Applied Surface Science",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "关于乙酸在Cu(111)表面上加氢制乙醇机理的见解"
+      },
+      "paper:811090709158297602": {
+        "area": "Chemistry",
+        "authors": "Xiangjian Shen | Yuanjie Li | Xianglin Liu | Dandan Zhang | Jian Gao | Tianshui Liang",
+        "available_online": "2017",
+        "cover_date_start": "2017-01-01",
+        "created_at": "2022-12-17T20:24:56+08:00",
+        "doi": "10.1039/c6cp07830c",
+        "en_title": "Hydrogen diffusion into the subsurfaces of model metal catalysts from first principles",
+        "id": "811090709158297602",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3439",
+        "publication_name": "Physical Chemistry Chemical Physics _ Phys. Chem. Chem. Phys.",
+        "research_categories": "",
+        "zh_title": "基于第一性原理的氢在模型金属催化剂亚表面的扩散"
+      },
+      "paper:811095233486913537": {
+        "area": "Chemistry",
+        "authors": "Kaining Duanmu | Donald G. Truhlar",
+        "available_online": "2017-1-3",
+        "cover_date_start": "2017-01-03",
+        "created_at": "2022-12-17T20:42:54+08:00",
+        "doi": "10.1021/acs.jctc.6b01156",
+        "en_title": "Validation of Density Functionals for Adsorption Energies on Transition Metal Surfaces",
+        "id": "811095233486913537",
+        "keywords": "",
+        "publication_date": "2017-2-14",
+        "publication_id": "3358",
+        "publication_name": "Journal of Chemical Theory and Computation _ J. Chem. Theory Comput.",
+        "research_categories": "",
+        "zh_title": "用于过渡金属表面吸附能的密度泛函验证"
+      },
+      "paper:811163955144687617": {
+        "area": "Material science",
+        "authors": "K. Palotás | I. Bakó | L. Bugyi",
+        "available_online": "",
+        "cover_date_start": "2016-12-01",
+        "created_at": "2022-12-18T01:15:59+08:00",
+        "doi": "10.1016/j.apsusc.2016.08.020",
+        "en_title": "Structural, electronic and adsorption properties of Rh(111)/Mo(110) bimetallic catalyst: A DFT study",
+        "id": "811163955144687617",
+        "keywords": "[{\"en_name\": \"Bimetallic catalyst\", \"ch_name\": \"\"}, {\"en_name\": \"Bonding mechanism\", \"ch_name\": \"\"}, {\"en_name\": \"CO adsorption\", \"ch_name\": \"\"}, {\"en_name\": \"DFT\", \"ch_name\": \"\"}, {\"en_name\": \"Molybdenum\", \"ch_name\": \"\"}, {\"en_name\": \"Rhodium\", \"ch_name\": \"\"}]",
+        "publication_date": "2016-12",
+        "publication_id": "2051",
+        "publication_name": "Applied Surface Science _ Applied Surface Science",
+        "research_categories": "[\"Chemical Sciences\", \"Inorganic Chemistry\", \"Physical Chemistry\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "Rh(111)/Mo(110)双金属催化剂的结构、电子及吸附性质：一项密度泛函理论研究 "
+      },
+      "paper:811167152911417344": {
+        "area": "Chemistry",
+        "authors": "Robin Hirschl | Yannick Jeanvoine | Georg Kresse | Jürgen Hafner",
+        "available_online": "",
+        "cover_date_start": "2001-06-01",
+        "created_at": "2022-12-18T01:28:42+08:00",
+        "doi": "10.1016/s0039-6028(01)00836-6",
+        "en_title": "Stability, electronic properties and chemical reactivity of palladium–vanadium(1 1 1) surface alloys",
+        "id": "811167152911417344",
+        "keywords": "",
+        "publication_date": "2001-6",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "钯 - 钒（1 1 1）表面合金的稳定性、电子性质和化学反应活性"
+      },
+      "paper:811258293333786625": {
+        "area": "Chemistry",
+        "authors": "Hamed Akbarzadeh | Mohsen Abbaspour | Elham Khomarian",
+        "available_online": "2016",
+        "cover_date_start": "2016-01-01",
+        "created_at": "2022-12-18T07:30:49+08:00",
+        "doi": "10.1039/c6ra12350c",
+        "en_title": "Propene adsorption on gold–palladium nanoalloys supported on bundle nanotubes",
+        "id": "811258293333786625",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3506",
+        "publication_name": "RSC Advances _ RSC Adv.",
+        "research_categories": "",
+        "zh_title": "丙烯在束状纳米管负载的金-钯纳米合金上的吸附"
+      },
+      "paper:811635102378360834": {
+        "area": "Engineering Technology",
+        "authors": "Qi Peng | Gang Chen | Lijing Kang | Hiroshi Mizuseki | Yoshiyuki Kawazoe",
+        "available_online": "",
+        "cover_date_start": "2011-10-01",
+        "created_at": "2022-12-19T08:28:09+08:00",
+        "doi": "10.1016/j.ijhydene.2011.07.052",
+        "en_title": "First-principles study of the H2 splitting processes on pure and transition-metal-doped Al (111) surfaces",
+        "id": "811635102378360834",
+        "keywords": "[{\"en_name\": \"Aluminum\", \"ch_name\": \"\"}, {\"en_name\": \"DFT\", \"ch_name\": \"\"}, {\"en_name\": \"First-principles calculation\", \"ch_name\": \"\"}, {\"en_name\": \"Hydrogen\", \"ch_name\": \"\"}, {\"en_name\": \"Surface\", \"ch_name\": \"\"}]",
+        "publication_date": "2011-10",
+        "publication_id": "3977",
+        "publication_name": "International Journal of Hydrogen Energy _ International Journal of Hydrogen Energy",
+        "research_categories": "",
+        "zh_title": "纯态及过渡金属掺杂的Al(111)表面上H₂分解过程的第一性原理研究"
+      },
+      "paper:811707446195126273": {
+        "area": "Chemistry",
+        "authors": "M. Salciccioli | Y. Chen | D. G. Vlachos",
+        "available_online": "2010-11-9",
+        "cover_date_start": "2010-11-09",
+        "created_at": "2022-12-19T13:15:37+08:00",
+        "doi": "10.1021/jp107836a",
+        "en_title": "Density Functional Theory-Derived Group Additivity and Linear Scaling Methods for Prediction of Oxygenate Stability on Metal Catalysts: Adsorption of Open-Ring Alcohol and Polyol Dehydrogenation Intermediates on Pt-Based Metals",
+        "id": "811707446195126273",
+        "keywords": "",
+        "publication_date": "2010-12-2",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "基于密度泛函理论的基团加和法和线性标度法预测金属催化剂上含氧化合物的稳定性：开环醇和多元醇脱氢中间体在铂基金属上的吸附 "
+      },
+      "paper:811714919815708673": {
+        "area": "Chemistry",
+        "authors": "V. Zólyomi | Á. Rusznyák | J. Kürti | C. J. Lambert",
+        "available_online": "2010-10-12",
+        "cover_date_start": "2010-10-12",
+        "created_at": "2022-12-19T13:45:19+08:00",
+        "doi": "10.1021/jp107669b",
+        "en_title": "First Principles Study of the Binding of 4d and 5d Transition Metals to Graphene",
+        "id": "811714919815708673",
+        "keywords": "",
+        "publication_date": "2010-11-4",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "4d和5d过渡金属与石墨烯结合的第一性原理研究"
+      },
+      "paper:811818068446543872": {
+        "area": "Physics and Astrophysics",
+        "authors": "Sebastian Schnur | Axel Groß",
+        "available_online": "2009-12-11",
+        "cover_date_start": "2009-12-11",
+        "created_at": "2022-12-19T20:35:10+08:00",
+        "doi": "10.1088/1367-2630/11/12/125003",
+        "en_title": "Properties of metal–water interfaces studied from first principles",
+        "id": "811818068446543872",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "525",
+        "publication_name": "New Journal of Physics _ New J. Phys.",
+        "research_categories": "",
+        "zh_title": "从第一性原理研究金属 - 水界面的性质"
+      },
+      "paper:811848157750099970": {
+        "area": "Chemistry",
+        "authors": "Yun-xiang Pan | Chang-jun Liu | Tomasz S. Wiltowski | Qingfeng Ge",
+        "available_online": "",
+        "cover_date_start": "2009-09-30",
+        "created_at": "2022-12-19T22:34:44+08:00",
+        "doi": "10.1016/j.cattod.2009.05.005",
+        "en_title": "CO2 adsorption and activation over γ-Al2O3-supported transition metal dimers: A density functional study",
+        "id": "811848157750099970",
+        "keywords": "[{\"en_name\": \"CO<sub>2</sub> adsorption and activation\", \"ch_name\": \"\"}, {\"en_name\": \"Density functional theory\", \"ch_name\": \"\"}, {\"en_name\": \"Transition metal dimers\", \"ch_name\": \"\"}, {\"en_name\": \"Î³-Al<sub>2</sub>O<sub>3</sub>\", \"ch_name\": \"\"}]",
+        "publication_date": "2009-9-30",
+        "publication_id": "3394",
+        "publication_name": "Catalysis Today _ Catalysis Today",
+        "research_categories": "",
+        "zh_title": "γ-氧化铝负载的过渡金属二聚体上的CO₂吸附与活化：一项密度泛函研究"
+      },
+      "paper:811903252034486272": {
+        "area": "Chemistry",
+        "authors": "Peter Ferrin | Anand Udaykumar Nilekar | Jeff Greeley | Manos Mavrikakis | Jan Rossmeisl",
+        "available_online": "",
+        "cover_date_start": "2008-11-01",
+        "created_at": "2022-12-20T02:13:39+08:00",
+        "doi": "10.1016/j.susc.2008.08.011",
+        "en_title": "Reactivity descriptors for direct methanol fuel cell anode catalysts",
+        "id": "811903252034486272",
+        "keywords": "",
+        "publication_date": "2008-11",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "直接甲醇燃料电池阳极催化剂的反应活性描述符"
+      },
+      "paper:812453975289757696": {
+        "area": "Chemistry",
+        "authors": "J.K. Nørskov | T. Bligaard | A. Logadottir | S. Bahn | L.B. Hansen | M. Bollinger | H. Bengaard | B. Hammer | Z. Sljivancanin | M. Mavrikakis | Y. Xu | S. Dahl | C.J.H. Jacobsen",
+        "available_online": "",
+        "cover_date_start": "2002-07-01",
+        "created_at": "2022-12-21T14:42:03+08:00",
+        "doi": "10.1006/jcat.2002.3615",
+        "en_title": "Universality in Heterogeneous Catalysis",
+        "id": "812453975289757696",
+        "keywords": "",
+        "publication_date": "2002-7",
+        "publication_id": "3381",
+        "publication_name": "Journal of Catalysis _ Journal of Catalysis",
+        "research_categories": "",
+        "zh_title": "多相催化中的普适性"
+      },
+      "paper:812464231021543425": {
+        "area": "Chemistry",
+        "authors": "Zohre Karami | Amin Hamed Mashhadzadeh | Ahmad Shahmoradi | Mohammad Reza Ganjali | Vahid Vatanpour | Amin Esmaeili | Sajjad Habibzadeh | Gaurav Sharma | Florian J. Stadler | Mohammad Reza Saeb",
+        "available_online": "",
+        "cover_date_start": "2021-09-01",
+        "created_at": "2022-12-21T15:22:48+08:00",
+        "doi": "10.1016/j.molliq.2021.116349",
+        "en_title": "Lead adsorption onto Ni- and Pt-decorated nano γ-alumina: A first-principles study",
+        "id": "812464231021543425",
+        "keywords": "[{\"en_name\": \"Adsorption\", \"ch_name\": \"\"}, {\"en_name\": \"Density functional theory\", \"ch_name\": \"\"}, {\"en_name\": \"Heavy metal removal\", \"ch_name\": \"\"}, {\"en_name\": \"Lead\", \"ch_name\": \"\"}, {\"en_name\": \"Î³-alumina\", \"ch_name\": \"\"}]",
+        "publication_date": "2021-9",
+        "publication_id": "3401",
+        "publication_name": "Journal of Molecular Liquids _ Journal of Molecular Liquids",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Engineering\"]",
+        "zh_title": "镍和铂修饰的纳米γ-氧化铝对铅的吸附：第一性原理研究"
+      },
+      "paper:812641843236831232": {
+        "area": "Material science",
+        "authors": "Shukai Wang | Jinxing Gu | Yinan Dong | Linwei Sai | Fengyu Li",
+        "available_online": "2020",
+        "cover_date_start": "2020-01-01",
+        "created_at": "2022-12-22T03:08:35+08:00",
+        "doi": "10.1039/d0nr02176h",
+        "en_title": "A super stable assembled P nanowire with variant structural and magnetic/electronic properties via transition metal adsorption",
+        "id": "812641843236831232",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2079",
+        "publication_name": "Nanoscale _ Nanoscale",
+        "research_categories": "[\"Chemical Sciences\", \"Inorganic Chemistry\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过过渡金属吸附形成的具有可变结构及磁/电性质的超稳定组装磷纳米线"
+      },
+      "paper:812738086235537409": {
+        "area": "Chemistry",
+        "authors": "Xinyu Li | Raymond Chiong | Zhongyi Hu | David Cornforth | Alister J. Page",
+        "available_online": "2019-9-10",
+        "cover_date_start": "2019-09-10",
+        "created_at": "2022-12-22T09:31:01+08:00",
+        "doi": "10.1021/acs.jctc.9b00420",
+        "en_title": "Improved Representations of Heterogeneous Carbon Reforming Catalysis Using Machine Learning",
+        "id": "812738086235537409",
+        "keywords": "",
+        "publication_date": "2019-12-10",
+        "publication_id": "3358",
+        "publication_name": "Journal of Chemical Theory and Computation _ J. Chem. Theory Comput.",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "使用机器学习改进多相碳重整催化的表征"
+      },
+      "paper:813136974889091073": {
+        "area": "Engineering Technology",
+        "authors": "Xiang-Kui Gu | Juliana S. A. Carneiro | Eranda Nikolla",
+        "available_online": "2017-5-16",
+        "cover_date_start": "2017-05-16",
+        "created_at": "2022-12-23T11:56:02+08:00",
+        "doi": "10.1021/acs.iecr.7b00854",
+        "en_title": "First-Principles Study of High Temperature CO 2 Electrolysis on Transition Metal Electrocatalysts",
+        "id": "813136974889091073",
+        "keywords": "",
+        "publication_date": "2017-5-31",
+        "publication_id": "4160",
+        "publication_name": "Industrial and Engineering Chemistry Research _ Ind. Eng. Chem. Res.",
+        "research_categories": "",
+        "zh_title": "过渡金属电催化剂上高温二氧化碳电解的第一性原理研究"
+      },
+      "paper:813377336639488001": {
+        "area": "Geoscience",
+        "authors": "Hong-Lae Park | Dong Su Yoo | Sung-Chul Yi | Yong-Chae Chung",
+        "available_online": "",
+        "cover_date_start": "2011-07-01",
+        "created_at": "2022-12-24T03:51:10+08:00",
+        "doi": "10.1166/jnn.2011.4503",
+        "en_title": "Theoretical Investigation of Ti-Adsorbed Graphene for Hydrogen Storage Using the Ab-Initio Method",
+        "id": "813377336639488001",
+        "keywords": "[{\"ch_name\":\"密度泛函理论\",\"en_name\":\"Density Functional Theory\"},{\"ch_name\":\"石墨烯\",\"en_name\":\"Graphene\"},{\"ch_name\":\"储氢\",\"en_name\":\"Hydrogen Storage\"},{\"ch_name\":\"钛吸附\",\"en_name\":\"Ti Adsorption\"}]",
+        "publication_date": "2011-7-1",
+        "publication_id": "13861",
+        "publication_name": "Journal of Nanoscience and Nanotechnology _ J. Nanosci. Nanotech.",
+        "research_categories": "",
+        "zh_title": "基于从头算方法的钛吸附石墨烯储氢理论研究"
+      },
+      "paper:814689367401431040": {
+        "area": "Chemistry",
+        "authors": "Hongjiao Li | Yongdan Li | Marc T. M. Koper | Federico Calle-Vallejo",
+        "available_online": "2014-10-28",
+        "cover_date_start": "2014-10-28",
+        "created_at": "2022-12-27T18:44:43+08:00",
+        "doi": "10.1021/ja508649p",
+        "en_title": "Bond-Making and Breaking between Carbon, Nitrogen, and Oxygen in Electrocatalysis",
+        "id": "814689367401431040",
+        "keywords": "",
+        "publication_date": "2014-11-5",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "电催化中碳、氮和氧之间的成键与断键"
+      }
+    },
+    "variables": [
+      {
+        "content": "For adsorption on transition-metal surfaces modeled by periodic plane-wave density functional theory, where the exchange-correlation energy is approximated by the Perdew–Burke–Ernzerhof generalized-gradient functional and total energies E are computed with the Vienna ab initio Simulation Package using a plane-wave cutoff energy of 400 eV and a (4×4×1) Monkhorst–Pack k-point mesh for a surface supercell, the resulting adsorption-energy differences between metals are sufficiently accurate that trends in binding energies of CO2, CO, and atomic O can be treated as physically meaningful descriptors despite systematic functional errors.\n      [47,48,49]",
+        "content_hash": "51873d6eaaad1d6be4ea6abe80d7e8db719bc8577c89445aaa3c8940c8404faf",
+        "id": "gcn_59a62a7b80fa4701",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813136974889091073::P1",
+            "package_id": "paper:813136974889091073",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813136974889091073"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03028233151183971,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Perdew–Wang generalized-gradient approximation (PW91), defined here as the semilocal generalized-gradient exchange-correlation functional of Perdew and Wang used within Kohn–Sham density-functional theory to evaluate the electronic total energy $E_{\\text{tot}}[n(\\mathbf{r})]$ for a given electronic density $n(\\mathbf{r})$, is assumed to yield adsorption energies $E_{\\text{ad}}$, alloy formation energies (total-energy differences between alloyed and separated-reference configurations), and transition-state barrier heights for palladium–vanadium (Pd–V) surface systems and for CO adsorption on Pd(111) that are accurate to within approximately $0.1$–$0.3\\ \\text{eV}$ of higher-level (for example, hybrid-functional or many-body) reference methods for similar metal-surface problems; this level of accuracy justifies interpreting the calculated energetic orderings reported here (hollow < bridge < top adsorption-site ranking, exothermic incorporation versus endothermic adsorption, and the relative formation-energy ranking of surface superstructures) without introducing additional empirical corrective schemes.",
+        "content_hash": "093b9d69cbed9499902200a1afb5fe1c474dbe6783f1566ba5d6b5e83ac8c021",
+        "id": "gcn_263705f0453848a3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811167152911417344::P1",
+            "package_id": "paper:811167152911417344",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811167152911417344"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025188536953242836,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Kohn–Sham density functional theory calculations performed with commonly used generalized-gradient-approximation (GGA) exchange-correlation functionals on periodic metal-surface slab models produce adsorption energies and estimated activation energies for chemisorbed intermediates and transition states that are inherently approximate and can carry systematic errors on the order of a few tenths of an electronvolt (approximately 0.1–0.3 eV) depending on the adsorbate, surface, and reaction coordinate; therefore, computed energetic differences that are comparable in magnitude to these typical DFT error bars should be treated with caution. In this proposition, 'GGA exchange-correlation functional' denotes the family of approximate functionals in Kohn–Sham DFT that include gradient corrections to the local density approximation, 'adsorption energy' denotes the computed total-energy difference between the slab+adsorbate system and separated slab plus gas-phase species, and 'activation energy' denotes the DFT total-energy difference between a transition-state structure and the initial-state structure as optimized within the same DFT setup.",
+        "content_hash": "07b4986e53730c72df78496e0e1aa3d98eb3c220a6bddb253eb3caa31f3e85c0",
+        "id": "gcn_8ea72ff919b44c81",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814689367401431040::P2",
+            "package_id": "paper:814689367401431040",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814689367401431040"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02506265664160401,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the density functional calculations reported here the generalized-gradient-approximation Perdew–Burke–Ernzerhof exchange–correlation functional (PBE; denoted $E_{xc}^{\\mathrm{PBE}}[\\rho]$) was used without any explicit dispersion correction (no DFT-D or van der Waals density functional), and this level of theory typically reproduces Born–Oppenheimer potential-energy differences (adsorption energies and activation barriers) for small organic adsorbates on late-transition-metal surfaces to within characteristic deviations on the order of $0.1$–$0.3\\ \\text{eV}$ for this class of systems.",
+        "content_hash": "a13303fb0792d1b69e0eef85dd1ebceb51e7dee4dd3a4a2968f5a69cff784925",
+        "id": "gcn_586f3ea5e1364447",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811041711634513920::P1",
+            "package_id": "paper:811041711634513920",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811041711634513920"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0236210253082414,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The electronic structure calculations that yield the adsorption energies used the generalized‑gradient approximation Perdew–Burke–Ernzerhof (GGA‑PBE) exchange‑correlation functional within Kohn–Sham density functional theory and the projector‑augmented‑wave (PAW) method for electron–ion interactions; it is established for CO chemisorption on transition‑metal surfaces that semi‑local GGA‑PBE frequently produces systematic quantitative errors in adsorption energies (errors up to roughly 0.2–0.6 eV depending on the metal and adsorption site) and in some cases incorrect adsorption‑site energy ordering, so the absolute E_{\\mathrm{ads}} values obtained with PBE are subject to known functional‑dependent systematic uncertainty.",
+        "content_hash": "e3998286c358ae773d89227670496e5363dbbdb417f08e7af1341b9e7c0cb883",
+        "id": "gcn_ba1f00409939484e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811163955144687617::P2",
+            "package_id": "paper:811163955144687617",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811163955144687617"
+          ]
+        },
+        "role": "premise",
+        "score": 0.023215244229736982,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Perdew--Burke--Ernzerhof (PBE) generalized-gradient-approximation exchange-correlation functional, when used within Kohn--Sham density functional theory with projector-augmented-wave (PAW) pseudopotentials and a plane-wave basis, is assumed here to provide adsorption energies for molecular water adsorbed on late transition-metal close-packed surfaces (explicitly: Au(111), Ag(111), Pt(111), Pd/Au(111), Ru(0001)) that are accurate to within chemical accuracy (approximately $\\pm 0.05\\ \\mathrm{eV}$) relative to the true ground-state adsorption energetics that would include all many-body correlation and dispersion effects not explicitly treated by PBE.",
+        "content_hash": "8b379231e838eee307ab083ae086ab26c9d75045ac641b0787b88c28eb57a5f9",
+        "id": "gcn_9bd30642ffc94601",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811818068446543872::P1",
+            "package_id": "paper:811818068446543872",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811818068446543872"
+          ]
+        },
+        "role": "premise",
+        "score": 0.022917757988475642,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "All reported adsorption-site energetics and series-wide binding-energy trends are obtained using the Perdew–Burke–Ernzerhof generalized-gradient-approximation exchange-correlation functional (PBE-GGA) within Kohn–Sham density-functional theory, and the computational conclusions assume that PBE-GGA provides sufficiently accurate total-energy differences (binding energies and site energy orderings) for 4d and 5d transition-metal adatoms on graphene such that systematic errors of PBE-GGA (including its approximate treatment of exchange, correlation, and self-interaction for localized d electrons) do not qualitatively change the reported adsorption-site preferences and series trends.",
+        "content_hash": "8f71f88ab3b86bc27356a2572fa8c240793771e2abeda87394cd72933a0375d8",
+        "id": "gcn_a701470b69d54d2c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811714919815708673::P3",
+            "package_id": "paper:811714919815708673",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811714919815708673"
+          ]
+        },
+        "role": "premise",
+        "score": 0.022559083313439962,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Perdew–Burke–Ernzerhof (PBE) generalized-gradient-approximation exchange-correlation functional used in the density-functional-theory calculations reproduces the electronic structure, equilibrium adsorption geometries, adsorption energies, transition-state energies, and qualitative charge-redistribution trends for molecular H2 interacting with both clean and transition-metal-doped Al(111) surface models to an accuracy on the order of chemical accuracy (approximately ±0.1 eV for energetics), so that PBE-level results reliably determine the direction and relative magnitudes of the catalytic barrier changes reported in this work.",
+        "content_hash": "eb31cb9798d724de41fc270b907f744ab8f47326b69ebaa3673818b399c735c5",
+        "id": "gcn_cbf0e62de3f74935",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811635102378360834::P2",
+            "package_id": "paper:811635102378360834",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811635102378360834"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DFT reference adsorption formation energies used as ground truth were computed with the Perdew–Burke–Ernzerhof (PBE) generalized-gradient-approximation exchange–correlation functional including Grimme D2 dispersion corrections (PBE-D2), and the cited benchmarking literature indicates that common GGA-level DFT functionals have typical adsorption-energy errors on the order of ~0.2 eV relative to higher-level benchmarks for transition-metal adsorption, which is comparable to the MAE scale reported for the machine-learning models.\n      Wellendorff et al., Surf. Sci. benchmark (cited in main text and refs 79)",
+        "content_hash": "3335984d2ff243eb2ea0b2d1daa411394ad76a11aab9effd7a2931f053c72ac0",
+        "id": "gcn_76f6b8935e944d0f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812738086235537409::P3",
+            "package_id": "paper:812738086235537409",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812738086235537409"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For adsorption-energy calculations of single neutral Pb, Ni, and Pt atoms on a periodic slab model of the $\\gamma$-alumina (110) surface in vacuum, the Kohn-Sham density functional theory approximation in which the exchange-correlation energy is described by the Perdew-Burke-Ernzerhof generalized-gradient-approximation functional is treated as sufficiently accurate to support energetic rankings and mechanistic conclusions despite known systematic errors of the Perdew-Burke-Ernzerhof functional for transition-metal/oxide chemisorption.",
+        "content_hash": "56a4ef2c17a52479c60b4e3897261ae17059b54916ff5f66660cdb96360b31e3",
+        "id": "gcn_c5e74f4560f14f84",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812464231021543425::P1",
+            "package_id": "paper:812464231021543425",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812464231021543425"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "All reported adsorption energies (for example, the $9.43\\ \\text{eV}$ D3 value for Ti on a boron-substituted $4\\times2$ graphene supercell) were computed with Kohn–Sham density functional theory using the Perdew–Burke–Ernzerhof (PBE) generalized-gradient exchange-correlation functional and the projector-augmented-wave (PAW) method, with a plane-wave kinetic-energy cutoff of $400\\ \\text{eV}$ and Brillouin-zone k-point samplings of $14\\times1\\times1$ for the $2\\times2$ cell and $7\\times14\\times1$ for the $4\\times2$ cell; the quantitative conclusion that the Ti adsorption energy on boron-substituted graphene substantially exceeds the Ti bulk cohesive energy therefore rests on the numerical accuracy of the PBE/PAW Kohn–Sham DFT calculations for transition-metal–surface bonding and for metal bulk cohesive energies carried out in finite periodic supercells. Table I",
+        "content_hash": "51b592f3ef7bf5e0762d76111c322ff812949a9374ec46b4c5dac10db57873c4",
+        "id": "gcn_be1984bbbc6c4ae1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813377336639488001::P1",
+            "package_id": "paper:813377336639488001",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813377336639488001"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For adsorption energies defined as $E_{ads}=E_{\\text{surface/adsorbate}}-E_{\\text{surface}}-E_{\\text{adsorbate}}$, where the three total energies are obtained from the same Kohn–Sham density functional theory (KS-DFT) numerical setup, the proposition is that the exchange–correlation functional Perdew–Burke–Ernzerhof (PBE) within the generalized-gradient approximation combined with Grimme's semiempirical DFT-D dispersion correction, together with a plane-wave basis truncated at a kinetic-energy cutoff of $330\\ \\mathrm{eV}$ and a Monkhorst–Pack Brillouin-zone sampling grid of $6\\times6\\times1$ for the surface supercell, produces adsorption energies $E_{ads}$ whose systematic errors relative to better-converged numerical settings or higher-level electronic-structure treatments (for example, larger plane-wave cutoff, denser $k$-point sampling, hybrid exchange functionals, or many-body methods) are small enough that the qualitative ranking of adsorption sites and the large binding-energy differences reported in this work (differences of several tenths to roughly $1\\ \\mathrm{eV}$) are not altered by those higher-accuracy changes.",
+        "content_hash": "0f2f66bf4ef6458e5773e97fe64b029fe993a9e86b74fe8d9a7508912ea88fea",
+        "id": "gcn_5aca66c75e934082",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1027848570260160568::P1",
+            "package_id": "paper:1027848570260160568",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1027848570260160568"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Periodic DFT calculations performed with the Perdew–Burke–Ernzerhof generalized gradient approximation exchange–correlation functional (PBE-GGA), Troullier–Martins norm-conserving pseudopotentials, and a finite localized atomic orbital basis set consisting of double-zeta plus polarization (DZP) functions with basis localization radii chosen from an energy shift of $0.01\\ \\mathrm{eV}$ and a real-space mesh cutoff of $200\\ \\mathrm{Ry}$ produce adsorption energies for small adsorbates on close-packed transition-metal surfaces that typically carry an intrinsic methodological uncertainty on the order of $5\\ \\mathrm{kcal/mol}$ (≈0.2 eV) in absolute adsorption energies when compared to higher-level references or alternative DFT setups; here the symbol $Q$ denotes the adsorption energy defined as the total-energy difference $Q=E_{\\text{adsorbate+slab}}-E_{\\text{clean slab}}-E_{\\text{gas-phase adsorbate}}$ computed with the stated pseudopotential, functional, and basis settings.\n      Perdew, Burke, and Ernzerhof, Phys. Rev. Lett. 77, 3865 (1996); Troullier & Martins, Phys. Rev. B 43, 8861 (1991)",
+        "content_hash": "484cefba4c1a722b2b128e368075792540dbe2e0eb92fd10e5deac363d83c71a",
+        "id": "gcn_e9e105cbfca248ba",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811707446195126273::P1",
+            "package_id": "paper:811707446195126273",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811707446195126273"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For periodic density functional theory calculations of adsorption and binding energetics for transition-metal dimers supported on oxide slabs, using the Perdew–Burke–Ernzerhof generalized-gradient-approximation exchange–correlation functional (PBE) together with projector augmented-wave (PAW) pseudopotentials yields relative total-energy differences between competing adsorbate geometries that are sufficiently reliable that the identity of the lowest-energy structure and the reported energy separations between low-energy structures are not qualitatively altered by typical exchange–correlation functional errors.",
+        "content_hash": "a0cecc56e5cf6b71ce7700194b3639b67089026ab09d1893df9acb76db9f025f",
+        "id": "gcn_83f8de2878134c38",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811848157750099970::P1",
+            "package_id": "paper:811848157750099970",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811848157750099970"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the benchmark reference adsorption energy for reaction i be E_i^{ref}, taken from the Wellendorff et al. compilation of experimental adsorption energies after conversion to vibrationless Born–Oppenheimer energies and assignment of adsorption site and coverage. The proposition is that these experimental E_i^{ref} values and the associated assignments of adsorption site and coverage are sufficiently accurate and precise to serve as reliable references for benchmarking density functionals on the 39 selected transition-metal surface systems, assuming that experimental uncertainties due to surface defects, site misassignments, coverage-dependent energetics, or conversion corrections are small compared to the functional errors used for comparative evaluation.\n      Ref. 1",
+        "content_hash": "c333f6e5e1bbcb9870f3d4bcdaa4c0ed396b9e46c0b15cd60473eeeb02adbfd8",
+        "id": "gcn_c6236456e41f4539",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811095233486913537::P9",
+            "package_id": "paper:811095233486913537",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811095233486913537"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A density functional theory calculation using the B3LYP exchange–correlation functional (the hybrid generalized-gradient-approximation functional combining Becke three-parameter exchange and Lee–Yang–Parr correlation) applied to a finite metal cluster model Au_{5}Pd_{5} with one adsorbed propene molecule yields an electronic-structure adsorption energy that serves as a reference value for small Au–Pd cluster motifs; this B3LYP adsorption energy is expected to be a reliable approximation to the true electronic adsorption energy within typical \"chemical accuracy\" bounds of approximately 0.05–0.10 eV for physisorption energetics and therefore is an appropriate computational benchmark for parametrizing or validating the classical interatomic potentials used to model propene–metal physisorption in the MD work.",
+        "content_hash": "25a9cf88d3644d5a48df6a0bacebd5a04c03c4662dcc78f41c734090a881bb6c",
+        "id": "gcn_9f12232401bc48cf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811258293333786625::P2",
+            "package_id": "paper:811258293333786625",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811258293333786625"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "All DFT total energies used to build the PESs were computed with the Perdew–Burke–Ernzerhof (PBE) generalized-gradient-approximation exchange-correlation functional, and it is assumed that the PBE functional yields adsorption energies and diffusion-barrier heights for atomic hydrogen on the studied transition-metal (100) and (111) surfaces with errors small enough (relative to the reported intermetal trends and numerical ranges of ≈0.01–1.7 eV) that the conclusions about motif identification and relative barrier magnitudes remain valid. J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. 77, 3865 (1996).",
+        "content_hash": "b0c1d5e0fbe8d388f5e9398e68c5a17cc50bf869ffff7b5085b1e2a32ff84364",
+        "id": "gcn_087606e1320c4eee",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811090709158297602::P4",
+            "package_id": "paper:811090709158297602",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811090709158297602"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Periodic plane-wave Kohn–Sham density functional theory calculations were performed using the PW91 generalized-gradient approximation (GGA) for the exchange–correlation functional, ultrasoft pseudopotentials to represent all ionic cores, Fermi smearing of the electronic occupations with k_{B}T = 0.1 eV (followed by extrapolation of total energies to k_{B}T = 0), and a plane-wave kinetic-energy cutoff of 25 Ry; these settings produce adsorption free energies G_{X^*} (Gibbs free energies of species X adsorbed on a specified close-packed metal slab surface) that, for the set of carbon- and oxygen-containing methanol-decomposition intermediates and the twelve transition-metal surfaces considered, are estimated to be accurate to within approximately ±0.10 eV (chemical accuracy) for relative adsorption energetics and trends.",
+        "content_hash": "9a864cc977a13d1d19b8cf6ef50af9ad873ca901d2e7057939bcb915c697a3a8",
+        "id": "gcn_0accb6e82f3d47b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811903252034486272::P1",
+            "package_id": "paper:811903252034486272",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811903252034486272"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For periodic-slab density-functional theory calculations performed with the generalized-gradient approximation variant GGA-RPBE for the exchange–correlation functional, ultrasoft pseudopotentials, and a plane-wave basis set with kinetic-energy cutoff $25\\ \\mathrm{Ry}$, the computed absolute adsorption energies $\\Delta E$ (defined here as the dissociative chemisorption potential energy of the dissociation products measured relative to the free gas-phase molecule) and transition-state energies $E_a$ (defined here as the transition-state energy for dissociation measured relative to the free gas-phase molecule) are expected to be accurate to within approximately a few tenths of an electronvolt for representative transition-metal surfaces and diatomic adsorbates, with systematic errors from the choice of functional and incomplete basis/pseudopotential convergence typically at the $0.1$–$0.5\\ \\mathrm{eV}$ level and capable of shifting both $\\Delta E$ and $E_a$ in a correlated or uncorrelated manner depending on the system; this methodological assessment is discussed in the cited methodological study.\n      16",
+        "content_hash": "491c772263083e21ea194c38633f650ec343e4ab4052a1c37c4d3981562677c9",
+        "id": "gcn_328580542d054a49",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812453975289757696::P1",
+            "package_id": "paper:812453975289757696",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812453975289757696"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014705882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Perdew–Burke–Ernzerhof (PBE) generalized-gradient-approximation exchange-correlation functional, defined as the approximation $E_{\\mathrm{xc}}^{\\mathrm{PBE}}[\\rho]$ to the Kohn–Sham density-functional-theory exchange-correlation energy as a functional of the electron density $\\rho(\\mathbf{r})$, is assumed to yield cohesive energies, harmonic phonon frequencies, activation barriers for O$_2$ dissociation, magnetic exchange energetics, and electronic band classifications (metal versus semiconductor versus half-metal) with sufficient quantitative accuracy for one-dimensional phosphorus nanowires and transition-metal-decorated phosphorus sandwich chains to support the stated stability and electronic/magnetic assignments obtained at the PBE level.",
+        "content_hash": "4fb2725c93da2b2175357ba066851aa8ca1bb860b6e6af66a2dc9ee98f1259f5",
+        "id": "gcn_72138e3e7eb0453e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812641843236831232::P1",
+            "package_id": "paper:812641843236831232",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812641843236831232"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014705882352941176,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "93ee5e6d9c1457786bb50b42ffa2c30f"
+}

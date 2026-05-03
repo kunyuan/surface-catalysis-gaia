@@ -1,0 +1,86 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "The DFT-GGA chemisorption energy $E_{\\mathrm{chem}}^{\\mathrm{GGA}}$ for CO at a given adsorption site and substrate can be corrected to a first-principles benchmark by shifting it along the site- and substrate-specific linear relation $E_{\\mathrm{chem}}^{\\mathrm{GGA}}=E_{0}+m\\,\\Delta E_{S-T}^{\\mathrm{GGA}}$ to the gas-phase singlet–triplet target value obtained from high-level wavefunction calculations; explicitly, the corrected chemisorption energy is given by $E_{\\mathrm{chem}}^{\\mathrm{corr}}=E_{\\mathrm{chem}}^{\\mathrm{GGA}}+\\left(\\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}}\\right)\\,m$, where $\\Delta E_{S-T}^{\\mathrm{CI}}$ is the coupled-cluster/configuration-interaction (CC/CI) benchmark singlet–triplet splitting for gas-phase CO (coupled-cluster and large configuration-interaction calculations reproduce the experimental value $6.095\\,$eV within their stated uncertainties), $\\Delta E_{S-T}^{\\mathrm{GGA}}$ is the DFT-GGA gas-phase CO singlet–triplet splitting computed with the same pseudopotential set used for the surface calculation, and $m=\\delta E_{\\mathrm{chem}}^{\\mathrm{GGA}}/\\delta\\Delta E_{S-T}^{\\mathrm{GGA}}$ is the slope of the DFT-GGA linear fit determined for that specific adsorption site and metal surface.",
+      "content_hash": "f0ea6786ebe0407e9f7552c6007fc8651e4ebfcbf1ec06b1e77431126cd6aa92",
+      "id": "gcn_244409c845cd4a6d",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "The DFT-GGA chemisorption energy $E_{\\mathrm{chem}}^{\\mathrm{GGA}}$ for CO at a given adsorption site and substrate can be corrected to a first-principles benchmark by shifting it along the site- and substrate-specific linear relation $E_{\\mathrm{chem}}^{\\mathrm{GGA}}=E_{0}+m\\,\\Delta E_{S-T}^{\\mathrm{GGA}}$ to the gas-phase singlet–triplet target value obtained from high-level wavefunction calculations; explicitly, the corrected chemisorption energy is given by $E_{\\mathrm{chem}}^{\\mathrm{corr}}=E_{\\mathrm{chem}}^{\\mathrm{GGA}}+\\left(\\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}}\\right)\\,m$, where $\\Delta E_{S-T}^{\\mathrm{CI}}$ is the coupled-cluster/configuration-interaction (CC/CI) benchmark singlet–triplet splitting for gas-phase CO (coupled-cluster and large configuration-interaction calculations reproduce the experimental value $6.095\\,$eV within their stated uncertainties), $\\Delta E_{S-T}^{\\mathrm{GGA}}$ is the DFT-GGA gas-phase CO singlet–triplet splitting computed with the same pseudopotential set used for the surface calculation, and $m=\\delta E_{\\mathrm{chem}}^{\\mathrm{GGA}}/\\delta\\Delta E_{S-T}^{\\mathrm{GGA}}$ is the slope of the DFT-GGA linear fit determined for that specific adsorption site and metal surface.",
+              "id": "gcn_244409c845cd4a6d"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_d28fffcd93474d8e",
+            "premises": [
+              {
+                "content": "If, for a given adsorption site and substrate, the DFT-GGA relation between the chemisorption energy $E_{\\mathrm{chem}}^{\\mathrm{GGA}}$ and the DFT-GGA gas-phase singlet–triplet splitting $ \\Delta E_{S-T}^{\\mathrm{GGA}}$ is accurately described by a linear function $E_{\\mathrm{chem}}^{\\mathrm{GGA}}=E_{0}+m\\,\\Delta E_{S-T}^{\\mathrm{GGA}}$ over the interval from the sampled DFT-GGA $ \\Delta E_{S-T}^{\\mathrm{GGA}}$ values to the high-level quantum-chemistry benchmark $ \\Delta E_{S-T}^{\\mathrm{CI}}$, then multiplying the difference $(\\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}})$ by the slope $m$ provides a valid first-principles correction to the DFT-GGA surface chemisorption energy, yielding $E_{\\mathrm{chem}}^{\\mathrm{corr}}=E_{\\mathrm{chem}}^{\\mathrm{GGA}}+(\\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}})\\,m$; this proposition further assumes that the electronic-structure discrepancy between DFT-GGA and CC/CI that manifests in the gas-phase $ \\Delta E_{S-T}$ maps linearly onto the bonding descriptors that control surface chemisorption for the adsorption geometry considered.",
+                "id": "gcn_2ca0860e6ab04204"
+              },
+              {
+                "content": "The gas-phase CO singlet–triplet excitation energy benchmark value $ \\Delta E_{S-T}^{\\mathrm{CI}}=6.095\\,$eV (where $ \\Delta E_{S-T}$ is defined as the energy difference between the CO singlet ground state and the triplet state produced by the $5\\sigma\\!\\to\\!2\\pi^{*}$ excitation) is treated as the appropriate target for extrapolating surface chemisorption energies, which is to say the correction protocol assumes that adsorption-induced environmental effects on the required reference value—such as metal-induced polarization, image-charge stabilization, substrate screening, or chemical shifts of molecular excitation energies in the modeled chemisorbed geometry and coverage—do not substantially change the reference singlet–triplet energy needed to correct the DFT-GGA surface energetics along the linear mapping.",
+                "id": "gcn_8d243509098748dd"
+              },
+              {
+                "content": "The empirical linear relation $E_{\\mathrm{chem}}^{\\mathrm{GGA}}=E_{0}+m\\,\\Delta E_{S-T}^{\\mathrm{GGA}}$ obtained from DFT-GGA pseudopotential sampling over the interval $ \\Delta E_{S-T}^{\\mathrm{GGA}}\\in[5.35,5.84]\\,$eV is assumed to remain valid when the independent variable $ \\Delta E_{S-T}$ is shifted to the coupled-cluster/configuration-interaction benchmark value $ \\Delta E_{S-T}^{\\mathrm{CI}}=6.095\\,$eV for the purpose of computing $E_{\\mathrm{chem}}^{\\mathrm{corr}}$, i.e., no significant nonlinearity or change in slope is assumed to occur between the sampled DFT-GGA points and the CI target.",
+                "id": "gcn_ccf34f7408b040d7"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Start from the established empirical linear relationship between the DFT-GGA chemisorption energy and the DFT-GGA gas-phase singlet–triplet splitting (treat the result of the earlier-established relation $E_{\\mathrm{chem}}^{\\mathrm{GGA}}=E_{0}^{\\mathrm{site,substrate}}+m^{\\mathrm{site,substrate}}\\;\\Delta E_{S-T}^{\\mathrm{GGA}}$ as known) and from the benchmark observation that coupled-cluster/CI reproduce the correct CO $ \\Delta E_{S-T}^{\\mathrm{CI}}=6.095\\,$eV while DFT-GGA underestimates this splitting (so that $ \\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}} $ is a known positive shift for the pseudopotential set used).",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Derive the extrapolation mapping by treating the linear fit as a line in the $(\\Delta E_{S-T},E_{\\mathrm{chem}})$ plane and shifting along this line from the DFT-GGA $ \\Delta E_{S-T}^{\\mathrm{GGA}} $ value to the benchmark $ \\Delta E_{S-T}^{\\mathrm{CI}} $ value; since the line has slope $ \\delta E_{\\mathrm{chem}}^{\\mathrm{GGA}}/\\delta\\Delta E_{S-T}^{\\mathrm{GGA}} $, the corrected chemisorption energy $ E_{\\mathrm{chem}}^{\\mathrm{corr}} $ is obtained by adding the product of the horizontal shift $ (\\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}}) $ and the slope to the original DFT-GGA chemisorption energy.",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "State the resulting first-principles extrapolation formula explicitly and define every symbol:\n$$\nE_{\\mathrm{chem}}^{\\mathrm{corr}}=E_{\\mathrm{chem}}^{\\mathrm{GGA}}+\\left(\\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}}\\right)\\frac{\\delta E_{\\mathrm{chem}}^{\\mathrm{GGA}}}{\\delta\\Delta E_{S-T}^{\\mathrm{GGA}}},\n$$\nwhere $E_{\\mathrm{chem}}^{\\mathrm{corr}}$ is the corrected chemisorption energy, $E_{\\mathrm{chem}}^{\\mathrm{GGA}}$ is the DFT-GGA chemisorption energy computed with the chosen pseudopotential set, $ \\Delta E_{S-T}^{\\mathrm{GGA}} $ is the DFT-GGA gas-phase CO singlet–triplet splitting for that pseudopotential set, $ \\Delta E_{S-T}^{\\mathrm{CI}} $ is the coupled-cluster/configuration-interaction benchmark singlet–triplet splitting (the authors use $6.095\\,$eV), and $ \\delta E_{\\mathrm{chem}}^{\\mathrm{GGA}}/\\delta\\Delta E_{S-T}^{\\mathrm{GGA}} $ is the slope determined from the linear fit for the given adsorption site and substrate.",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Justify that the extrapolation is parameter-free and physically motivated: the only external input is the benchmark $ \\Delta E_{S-T}^{\\mathrm{CI}} $ obtained from high-level quantum chemistry (no empirical Hubbard $U$ or other adjustable parameter is introduced), and the slope is determined directly from first-principles DFT-GGA calculations for the system of interest; reference that the needed slope values for the studied systems are tabulated in Table II. \nTable II",
+                "step_id": "4"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "To remove the specific DFT-GGA error that comes from misplacing CO frontier levels, one requires (i) a physically well-defined target electronic quantity that is accurately known from high-level theory or experiment, and (ii) a way to translate the difference between the DFT and benchmark electronic quantity into a correction of surface energetics. Prior approaches adjusted the $2\\pi^{*}$ energy by empirical parameters (e.g. GGA+$U$) or studied trends qualitatively, but lacked a simple, quantitative, parameter-free mapping from an accurate gas-phase electronic benchmark to corrected adsorption energies for each adsorption geometry. The extrapolation formula provides this mapping by using the observed linear dependence to shift DFT chemisorption energies to the benchmark electronic-structure limit, thereby producing corrected $E_{\\mathrm{chem}}$ without introducing empirical parameters.",
+            "id": "paper:867767318044738213::conclusion_2_subproblem",
+            "source_package": "paper:867767318044738213"
+          }
+        ],
+        "source_package": "paper:867767318044738213"
+      }
+    ],
+    "papers": {
+      "paper:867767318044738213": {
+        "area": "arXiv-Physics",
+        "authors": "Sara E. Mason | Ilya Grinberg | Andrew M. Rappe",
+        "available_online": "",
+        "cover_date_start": "2003-10-29",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0310688",
+        "en_title": "First-principles extrapolation method for accurate CO adsorption energies on metal surfaces",
+        "id": "867767318044738213",
+        "keywords": "",
+        "publication_date": "2003-10-29",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "用于精确计算金属表面CO吸附能的第一性原理外推方法"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "0c58b8731c7283597b2d4cadc5aa6e6d"
+}

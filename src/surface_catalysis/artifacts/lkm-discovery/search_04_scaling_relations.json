@@ -1,0 +1,711 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811052317397745665": {
+        "area": "Engineering Technology",
+        "authors": "Siwen Wang | Jiamin Wang | Hongliang Xin",
+        "available_online": "",
+        "cover_date_start": "2017-04-01",
+        "created_at": "2022-12-17T17:52:22+08:00",
+        "doi": "10.1016/j.gee.2017.02.005",
+        "en_title": "Insights into electrochemical CO2 reduction on tin oxides from first-principles calculations",
+        "id": "811052317397745665",
+        "keywords": "[{\"en_name\": \"CO<sub>2</sub> electroreduction\", \"ch_name\": \"\"}, {\"en_name\": \"Density functional theory\", \"ch_name\": \"\"}, {\"en_name\": \"Scaling relations\", \"ch_name\": \"\"}, {\"en_name\": \"Strain effect\", \"ch_name\": \"\"}, {\"en_name\": \"Tin oxides\", \"ch_name\": \"\"}]",
+        "publication_date": "2017-4",
+        "publication_id": "3834",
+        "publication_name": "Green Energy and Environment _ Green Energy & Environment",
+        "research_categories": "",
+        "zh_title": "基于第一性原理计算对氧化锡上电化学二氧化碳还原的见解"
+      },
+      "paper:811100366467760129": {
+        "area": "Chemistry",
+        "authors": "Liang Yu | Frank Abild-Pedersen",
+        "available_online": "2016-12-27",
+        "cover_date_start": "2016-12-27",
+        "created_at": "2022-12-17T21:03:18+08:00",
+        "doi": "10.1021/acscatal.6b03129",
+        "en_title": "Bond Order Conservation Strategies in Catalysis Applied to the NH3 Decomposition Reaction",
+        "id": "811100366467760129",
+        "keywords": "[{\"en_name\": \"ammonia decomposition\", \"ch_name\": \"\"}, {\"en_name\": \"catalysis\", \"ch_name\": \"\"}, {\"en_name\": \"density functional theory\", \"ch_name\": \"\"}, {\"en_name\": \"microkinetics\", \"ch_name\": \"\"}, {\"en_name\": \"r-scaling\", \"ch_name\": \"\"}, {\"en_name\": \"transition state scaling relation\", \"ch_name\": \"\"}]",
+        "publication_date": "2017-1-6",
+        "publication_id": "3352",
+        "publication_name": "ACS Catalysis _ ACS Catal.",
+        "research_categories": "",
+        "zh_title": "应用于氨分解反应的催化中的键序守恒策略"
+      },
+      "paper:811663983609118724": {
+        "area": "Chemistry",
+        "authors": "Hong-Yan Ma | Gui-Chang Wang",
+        "available_online": "",
+        "cover_date_start": "2011-07-01",
+        "created_at": "2022-12-19T10:22:54+08:00",
+        "doi": "10.1016/j.jcat.2011.04.002",
+        "en_title": "Theoretical study of 1,3-cyclohexadiene dehydrogenation on Pt (111), Pt3Sn/Pt (111), and Pt2Sn/Pt (111) surfaces",
+        "id": "811663983609118724",
+        "keywords": "[{\"en_name\": \"1,3-Cyclohexadiene\", \"ch_name\": \"\"}, {\"en_name\": \"Adsorption\", \"ch_name\": \"\"}, {\"en_name\": \"Dehydrogenation\", \"ch_name\": \"\"}, {\"en_name\": \"DFT calculations\", \"ch_name\": \"\"}, {\"en_name\": \"Pt-Sn alloy\", \"ch_name\": \"\"}]",
+        "publication_date": "2011-7",
+        "publication_id": "3381",
+        "publication_name": "Journal of Catalysis _ Journal of Catalysis",
+        "research_categories": "",
+        "zh_title": "1,3-环己二烯在Pt(111)、Pt₃Sn/Pt(111)和Pt₂Sn/Pt(111)表面脱氢的理论研究"
+      },
+      "paper:811666471028523010": {
+        "area": "Geoscience",
+        "authors": "Lars C. Grabow | Felix Studt | Frank Abild-Pedersen | Vivien Petzold | Jesper Kleis | Thomas Bligaard | Jens K. Nørskov",
+        "available_online": "2011-4-15",
+        "cover_date_start": "2011-04-15",
+        "created_at": "2022-12-19T10:32:47+08:00",
+        "doi": "10.1002/ange.201100353",
+        "en_title": "Descriptor-Based Analysis Applied to HCN Synthesis from NH3 and CH4",
+        "id": "811666471028523010",
+        "keywords": "",
+        "publication_date": "2011-5-9",
+        "publication_id": "12462",
+        "publication_name": "Angewandte Chemie _ Angew. Chem.",
+        "research_categories": "",
+        "zh_title": "基于描述符的分析方法在由氨和甲烷合成HCN中的应用 "
+      },
+      "paper:811773766961987584": {
+        "area": "Chemistry",
+        "authors": "Xiufang Ma | Hai-yan Su | Huiqiu Deng | Wei-Xue Li",
+        "available_online": "",
+        "cover_date_start": "2011-02-02",
+        "created_at": "2022-12-19T17:39:08+08:00",
+        "doi": "10.1016/j.cattod.2010.05.035",
+        "en_title": "Carbon monoxide adsorption and dissociation on Mn-decorated Rh(111) and Rh(553) surfaces: A first-principles study",
+        "id": "811773766961987584",
+        "keywords": "[{\"en_name\": \"Carbon monoxide\", \"ch_name\": \"\"}, {\"en_name\": \"Dissociation\", \"ch_name\": \"\"}, {\"en_name\": \"First-principles\", \"ch_name\": \"\"}, {\"en_name\": \"Manganese\", \"ch_name\": \"\"}, {\"en_name\": \"Rhodium\", \"ch_name\": \"\"}]",
+        "publication_date": "2011-2-2",
+        "publication_id": "3394",
+        "publication_name": "Catalysis Today _ Catalysis Today",
+        "research_categories": "",
+        "zh_title": "一氧化碳在锰修饰的Rh(111)和Rh(553)表面的吸附与解离：第一性原理研究"
+      },
+      "paper:811828067033939968": {
+        "area": "Engineering Technology",
+        "authors": "Jesper Kleis | Glenn Jones | Frank Abild-Pedersen | Vladimir Tripkovic | Thomas Bligaard | Jan Rossmeisl",
+        "available_online": "",
+        "cover_date_start": "2009-01-01",
+        "created_at": "2022-12-19T21:14:54+08:00",
+        "doi": "10.1149/1.3230622",
+        "en_title": "Trends for Methane Oxidation at Solid Oxide Fuel Cell Conditions",
+        "id": "811828067033939968",
+        "keywords": "",
+        "publication_date": "2009",
+        "publication_id": "4308",
+        "publication_name": "Journal of The Electrochemical Society _ J. Electrochem. Soc.",
+        "research_categories": "",
+        "zh_title": "固体氧化物燃料电池条件下甲烷氧化的趋势"
+      },
+      "paper:811867652405329920": {
+        "area": "Chemistry",
+        "authors": "Paul Crawford | Bronagh McAllister | P. Hu",
+        "available_online": "2009-3-9",
+        "cover_date_start": "2009-03-09",
+        "created_at": "2022-12-19T23:52:12+08:00",
+        "doi": "10.1021/jp805244k",
+        "en_title": "Insights into the Staggered Nature of Hydrogenation Reactivity over the 4d Transition Metals",
+        "id": "811867652405329920",
+        "keywords": "",
+        "publication_date": "2009-4-2",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "关于4d过渡金属上氢化反应交错性质的见解"
+      },
+      "paper:811903822661156866": {
+        "area": "Chemistry",
+        "authors": "G JONES | J JAKOBSEN | S SHIM | J KLEIS | M ANDERSSON | J ROSSMEISL | F ABILDPEDERSEN | T BLIGAARD | S HELVEG | B HINNEMANN",
+        "available_online": "",
+        "cover_date_start": "2008-10-01",
+        "created_at": "2022-12-20T02:15:55+08:00",
+        "doi": "10.1016/j.jcat.2008.08.003",
+        "en_title": "First principles calculations and experimental insight into methane steam reforming over transition metal catalysts",
+        "id": "811903822661156866",
+        "keywords": "[{\"en_name\": \"DFT\", \"ch_name\": \"\"}, {\"en_name\": \"Kinetics\", \"ch_name\": \"\"}, {\"en_name\": \"Nanoparticles\", \"ch_name\": \"\"}, {\"en_name\": \"Noble metals\", \"ch_name\": \"\"}, {\"en_name\": \"Reactivity trends\", \"ch_name\": \"\"}, {\"en_name\": \"Steam reforming\", \"ch_name\": \"\"}, {\"en_name\": \"Surfaces\", \"ch_name\": \"\"}, {\"en_name\": \"TEM\", \"ch_name\": \"\"}]",
+        "publication_date": "2008-10-1",
+        "publication_id": "3381",
+        "publication_name": "Journal of Catalysis _ Journal of Catalysis",
+        "research_categories": "",
+        "zh_title": "过渡金属催化剂上甲烷蒸汽重整的第一性原理计算与实验洞察"
+      },
+      "paper:811971189491630080": {
+        "area": "Chemistry",
+        "authors": "Hanne Falsig | Thomas Bligaard | Jeppe Rass-Hansen | Arkady L. Kustov | Claus H. Christensen | Jens K. Nørskov",
+        "available_online": "",
+        "cover_date_start": "2007-08-01",
+        "created_at": "2022-12-20T06:43:37+08:00",
+        "doi": "10.1007/s11244-007-0250-7",
+        "en_title": "Trends in catalytic NO decomposition over transition metal surfaces",
+        "id": "811971189491630080",
+        "keywords": "",
+        "publication_date": "2007-8",
+        "publication_id": "3522",
+        "publication_name": "Topics in Catalysis _ Top Catal",
+        "research_categories": "",
+        "zh_title": "过渡金属表面上催化NO分解的趋势"
+      },
+      "paper:812128696834981889": {
+        "area": "Chemistry",
+        "authors": "Oliver R. Inderwildi | Dirk Lebiedz | Olaf Deutschmann | Jürgen Warnatz",
+        "available_online": "",
+        "cover_date_start": "2005-12-09",
+        "created_at": "2022-12-20T17:09:30+08:00",
+        "doi": "10.1002/cphc.200500222",
+        "en_title": "Influence of Coadsorbates on the NO Dissociation on a Rhodium(311) Surface",
+        "id": "812128696834981889",
+        "keywords": "[{\"en_name\": \"Density functional calculations\", \"ch_name\": \"\"}, {\"en_name\": \"Heterogeneous catalysis\", \"ch_name\": \"\"}, {\"en_name\": \"Nitrogen oxides\", \"ch_name\": \"\"}, {\"en_name\": \"Rhodium\", \"ch_name\": \"\"}, {\"en_name\": \"Surface chemistry\", \"ch_name\": \"\"}]",
+        "publication_date": "2005-12-9",
+        "publication_id": "3491",
+        "publication_name": "ChemPhysChem _ ChemPhysChem",
+        "research_categories": "",
+        "zh_title": "共吸附物对铑（311）表面上NO解离的影响"
+      },
+      "paper:812453975289757696": {
+        "area": "Chemistry",
+        "authors": "J.K. Nørskov | T. Bligaard | A. Logadottir | S. Bahn | L.B. Hansen | M. Bollinger | H. Bengaard | B. Hammer | Z. Sljivancanin | M. Mavrikakis | Y. Xu | S. Dahl | C.J.H. Jacobsen",
+        "available_online": "",
+        "cover_date_start": "2002-07-01",
+        "created_at": "2022-12-21T14:42:03+08:00",
+        "doi": "10.1006/jcat.2002.3615",
+        "en_title": "Universality in Heterogeneous Catalysis",
+        "id": "812453975289757696",
+        "keywords": "",
+        "publication_date": "2002-7",
+        "publication_id": "3381",
+        "publication_name": "Journal of Catalysis _ Journal of Catalysis",
+        "research_categories": "",
+        "zh_title": "多相催化中的普适性"
+      },
+      "paper:812529482664509441": {
+        "area": "Geoscience",
+        "authors": "Fan Lin | Huamin Wang | Yuntao Zhao | Jia Fu | Donghai Mei | Nicholas R. Jaegers | Feng Gao | Yong Wang",
+        "available_online": "2020-12-15",
+        "cover_date_start": "2020-12-15",
+        "created_at": "2022-12-21T19:42:06+08:00",
+        "doi": "10.1021/jacsau.0c00028",
+        "en_title": "Elucidation of Active Sites in Aldol Condensation of Acetone over Single-Facet Dominant Anatase TiO 2 (101) and (001) Catalysts",
+        "id": "812529482664509441",
+        "keywords": "[{\"en_name\": \"aldol condensation\", \"ch_name\": \"\"}, {\"en_name\": \"anatase titania nanocrystals\", \"ch_name\": \"\"}, {\"en_name\": \"density functional theory\", \"ch_name\": \"\"}, {\"en_name\": \"kinetics\", \"ch_name\": \"\"}, {\"en_name\": \"Single-facet catalyst\", \"ch_name\": \"\"}, {\"en_name\": \"surface hydroxyl\", \"ch_name\": \"\"}]",
+        "publication_date": "2021-1-25",
+        "publication_id": "82918",
+        "publication_name": "JACS Au _ JACS Au",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "单晶面主导的锐钛矿型TiO₂(101)和(001)催化剂上丙酮羟醛缩合反应活性位点的解析"
+      },
+      "paper:812552370994020353": {
+        "area": "Material science",
+        "authors": "Viet Q. Bui | Ashwani Kumar | Huong T. D. Bui | Jinsun Lee | Yosep Hwang | Hung M. Le | Yoshiyuki Kawazoe | Hyoyoung Lee",
+        "available_online": "2020-10-19",
+        "cover_date_start": "2020-10-19",
+        "created_at": "2022-12-21T21:13:03+08:00",
+        "doi": "10.1021/acs.chemmater.0c03052",
+        "en_title": "Boosting Electrocatalytic HER Activity of 3D Interconnected CoSP via Metal Doping: Active and Stable Electrocatalysts for pH-Universal Hydrogen Generation",
+        "id": "812552370994020353",
+        "keywords": "",
+        "publication_date": "2020-11-24",
+        "publication_id": "2060",
+        "publication_name": "Chemistry of Materials _ Chem. Mater.",
+        "research_categories": "[\"Chemical Sciences\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "通过金属掺杂提高3D互连CoSP的电催化析氢活性：用于全pH值范围析氢的活性和稳定电催化剂"
+      },
+      "paper:813186685171924992": {
+        "area": "Chemistry",
+        "authors": "Bin Xing | Gui-Chang Wang",
+        "available_online": "",
+        "cover_date_start": "2014-01-01",
+        "created_at": "2022-12-23T15:13:34+08:00",
+        "doi": "10.1039/c3cp53801j",
+        "en_title": "Insight into the general rule for the activation of the X–H bonds (X = C, N, O, S) induced by chemisorbed oxygen atoms",
+        "id": "813186685171924992",
+        "keywords": "",
+        "publication_date": "2014",
+        "publication_id": "3439",
+        "publication_name": "Physical Chemistry Chemical Physics _ Phys. Chem. Chem. Phys.",
+        "research_categories": "",
+        "zh_title": "深入了解化学吸附氧原子诱导的X–H键（X = C、N、O、S）活化的一般规律"
+      },
+      "paper:813198737089232896": {
+        "area": "Chemistry",
+        "authors": "Adam C. Lausche | Andrew J. Medford | Tuhin Suvra Khan | Yue Xu | Thomas Bligaard | Frank Abild-Pedersen | Jens K. Nørskov | Felix Studt",
+        "available_online": "",
+        "cover_date_start": "2013-11-01",
+        "created_at": "2022-12-23T16:01:28+08:00",
+        "doi": "10.1016/j.jcat.2013.08.002",
+        "en_title": "On the effect of coverage-dependent adsorbate–adsorbate interactions for CO methanation on transition metal surfaces",
+        "id": "813198737089232896",
+        "keywords": "[{\"en_name\": \"Adsorbate-adsorbate interactions\", \"ch_name\": \"\"}, {\"en_name\": \"CO methanation\", \"ch_name\": \"\"}, {\"en_name\": \"Coverage effects\", \"ch_name\": \"\"}, {\"en_name\": \"Density functional theory\", \"ch_name\": \"\"}, {\"en_name\": \"Heterogeneous catalysis\", \"ch_name\": \"\"}, {\"en_name\": \"Scaling relations\", \"ch_name\": \"\"}]",
+        "publication_date": "2013-11",
+        "publication_id": "3381",
+        "publication_name": "Journal of Catalysis _ Journal of Catalysis",
+        "research_categories": "",
+        "zh_title": "关于覆盖度依赖的吸附质-吸附质相互作用对过渡金属表面上CO甲烷化反应的影响"
+      },
+      "paper:813248501294039042": {
+        "area": "Material science",
+        "authors": "Jian-Hong Liu | Cun-Qin Lv | Yong Guo | Gui-Chang Wang",
+        "available_online": "",
+        "cover_date_start": "2013-04-01",
+        "created_at": "2022-12-23T19:19:13+08:00",
+        "doi": "10.1016/j.apsusc.2013.01.186",
+        "en_title": "Theoretical study of the adsorption and dissociation mechanism for methylamine on Pd(111)",
+        "id": "813248501294039042",
+        "keywords": "[{\"en_name\": \"DFT calculations\", \"ch_name\": \"\"}, {\"en_name\": \"Methylamine\", \"ch_name\": \"\"}, {\"en_name\": \"Pd(1 1 1)\", \"ch_name\": \"\"}, {\"en_name\": \"Reaction mechanism\", \"ch_name\": \"\"}, {\"en_name\": \"Slab model\", \"ch_name\": \"\"}]",
+        "publication_date": "2013-4",
+        "publication_id": "2051",
+        "publication_name": "Applied Surface Science _ Applied Surface Science",
+        "research_categories": "",
+        "zh_title": "甲胺在Pd(111)上吸附和解离机理的理论研究"
+      },
+      "paper:814514328907546625": {
+        "area": "Chemistry",
+        "authors": "Marius-Christian Silaghi | Aleix Comas-Vives | Christophe Copéret",
+        "available_online": "2016-6-13",
+        "cover_date_start": "2016-06-13",
+        "created_at": "2022-12-27T07:09:10+08:00",
+        "doi": "10.1021/acscatal.6b00822",
+        "en_title": "CO2 Activation on Ni/γ–Al2O3 Catalysts by First-Principles Calculations: From Ideal Surfaces to Supported Nanoparticles",
+        "id": "814514328907546625",
+        "keywords": "",
+        "publication_date": "2016-7-1",
+        "publication_id": "3352",
+        "publication_name": "ACS Catalysis _ ACS Catal.",
+        "research_categories": "",
+        "zh_title": "通过第一性原理计算研究CO₂在Ni/γ–Al₂O₃催化剂上的活化：从理想表面到负载型纳米颗粒"
+      },
+      "paper:867752729387204656": {
+        "area": "arXiv-Computer Science",
+        "authors": "Maxwell L. Hutchinson | Erin Antono | Brenna M. Gibbons | Sean Paradiso | Julia Ling | Bryce Meredig",
+        "available_online": "",
+        "cover_date_start": "2017-11-02",
+        "created_at": "2023-05-23T04:59:33+08:00",
+        "doi": "10.48550/arXiv.1711.05099",
+        "en_title": "Overcoming data scarcity with transfer learning",
+        "id": "867752729387204656",
+        "keywords": "",
+        "publication_date": "2017-11-02",
+        "publication_id": "108614",
+        "publication_name": "Machine Learning _ Computer Science.cs.LG",
+        "research_categories": "",
+        "zh_title": "通过迁移学习克服数据稀缺问题"
+      },
+      "paper:867753844619084175": {
+        "area": "arXiv-Physics",
+        "authors": "Jianping Xiao | Liangzhi Kou | Chi-Yung Yam | Thomas Frauenheim | Binghai Yan",
+        "available_online": "",
+        "cover_date_start": "2015-09-05",
+        "created_at": "2023-05-23T05:03:59+08:00",
+        "doi": "10.48550/arXiv.1509.02484",
+        "en_title": "Towards rational design of catalysts supported on a topological insulator substrate",
+        "id": "867753844619084175",
+        "keywords": "",
+        "publication_date": "2015-09-05",
+        "publication_id": "108512",
+        "publication_name": "Computational Physics _ Physics.physics.comp-ph",
+        "research_categories": "",
+        "zh_title": "迈向基于拓扑绝缘体基底负载型催化剂的理性设计"
+      },
+      "paper:867764383122457050": {
+        "area": "arXiv-Physics",
+        "authors": "Wei Xun | Xiao Yang | Qing-Song Jiang | Ming-Jun Wang | Yin-Zhong Wu | Ping Li",
+        "available_online": "",
+        "cover_date_start": "2022-10-25",
+        "created_at": "2023-05-23T05:45:51+08:00",
+        "doi": "10.48550/arXiv.2210.14211",
+        "en_title": "Single-atom anchored novel two-dimensional MoSi2N4 monolayers for efficient electroreduction of CO2 to formic acid and methane",
+        "id": "867764383122457050",
+        "keywords": "",
+        "publication_date": "2022-10-25",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Engineering\", \"Materials Engineering\", \"Physical Sciences\"]",
+        "zh_title": "单原子锚定的新型二维MoSi2N4单层用于将CO2高效电还原为甲酸和甲烷"
+      }
+    },
+    "variables": [
+      {
+        "content": "It is assumed that a Brønsted–Evans–Polanyi (BEP) linear relation of the form $E_{\\text{TS}} = a\\,\\Delta E_{\\text{diss}} + b$ between the dissociative adsorption energy $\\Delta E_{\\text{diss}}$ and the kinetic transition-state energy $E_{\\text{TS}}$ holds approximately across the family of TM-CoSP surfaces considered and that linear regression of the computed DFT data yields a predictive scaling useful for ranking barriers from adsorption energetics.",
+        "content_hash": "ac82f919600d8ab05eff5f32cd713a27776e20275714e64a1e21bafacaf4e832",
+        "id": "gcn_b9e91c1db4dc4ba6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812552370994020353::P9",
+            "package_id": "paper:812552370994020353",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812552370994020353"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031099324975891997,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Transition states for C–H bond breaking that exhibit dissociating C–H bond lengths in the range $1.40$–$1.71\\ \\mathrm{\\AA}$ and a hydrogen atom localized toward the surface forming a nascent Pt–H bond are structurally product-like (late) transition states; for such late transition states the transition-state energy $E_{TS}$ is expected to scale primarily with the corresponding final-state energy $E_{FS}$, enabling approximately linear Brønsted–Evans–Polanyi scaling relations between $E_{TS}$ and $E_{FS}$.",
+        "content_hash": "a46d9ad8e6c19fd41dc1a71d635f8930bf0f1278c1278f7840c8a25608944770",
+        "id": "gcn_afc369aeb2254c14",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811663983609118724::P9",
+            "package_id": "paper:811663983609118724",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811663983609118724"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030798389007344232,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The approximately linear relation observed empirically in the computed data between the transition‑state electronic energy E_b^TS and the dissociated final‑state electronic binding energy E_b^FS across the four explicitly computed surface models—clean Rh(1 1 1), RhMn(1 1 1), stepped Rh(5 5 3), and Mn‑decorated Rh(5 5 3)—is interpreted here as evidence for a Brønsted–Evans–Polanyi (BEP)‑type scaling law for CO dissociation on these Rh‑based and Mn‑promoted Rh surfaces, and the four data points are considered sufficient within this study to establish an approximate linear predictive relation for these classes of surfaces.",
+        "content_hash": "0006a8f51ff94021d221ddbcd289a47ee376a8ecc8aea12617ed559b4adba1cc",
+        "id": "gcn_9a460509041743e1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811773766961987584::P8",
+            "package_id": "paper:811773766961987584",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811773766961987584"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029877369007803793,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A Brønsted–Evans–Polanyi (BEP) relation is a linear correlation between an activation barrier E_a for a surface elementary reaction (for example O2 dissociation) and the adsorption energy of a reaction intermediate (for example atomic O), and \"scaling relations\" denote linear correlations between adsorption energies of chemically related intermediates on transition‑metal surfaces; the proposition used in the microkinetic translation is that BEP and linear scaling relations established and parameterized for extended crystalline transition‑metal surfaces can be applied to dissociative O2 adsorption and related elementary‑step barriers on small, supported seven‑atom metal clusters on Bi2Se3 so that changes in adsorption energy are mapped into proportional changes in activation barriers and rate constants in the model.",
+        "content_hash": "dc71dcad5c47224e3c1d0ad70695fe8b2ddbee5026fee8c1d1a28abcf2163e74",
+        "id": "gcn_c56ac33a25974ce7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753844619084175::P9",
+            "package_id": "paper:867753844619084175",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753844619084175"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0277569392348087,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Brønsted–Evans–Polanyi (BEP) relation postulates approximate linear correlations between reaction activation energies $E_{\\mathrm{a}}$ and reaction free energies $\\Delta G$ for families of chemically related surface reactions; this empirical relationship is assumed to apply sufficiently well to the first protonation steps of CO2 and to H* formation on transition-metal single-atom sites on MoSi2N4 so that a lower computed reaction free energy $\\Delta G$ for an elementary protonation step is taken to imply a lower kinetic activation barrier $E_{\\mathrm{a}}$ and therefore greater kinetic favorability for that step under electrochemical conditions.",
+        "content_hash": "db840b130c2a469c590abd12b7e9e606b3cb5020c187d31d6850227a036797e6",
+        "id": "gcn_29891cec47864e91",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764383122457050::P7",
+            "package_id": "paper:867764383122457050",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764383122457050"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026540946394272742,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The microkinetic volcano calculations and the associated mechanistic rate-limiting assignments use a single Brønsted–Evans–Polanyi (BEP) scaling relation of the form E_TS = α·E_diss + β with α = 0.87 and β = 1.34 eV (where E_TS denotes the transition-state potential energy and E_diss denotes the corresponding dissociative chemisorption energy) taken from prior work, and this single BEP parameterization is applied uniformly to dissociation and association transition states at the stepped adsorption sites of all considered transition metals to map the DFT dissociative chemisorption energies into activation energies for the microkinetic solver.\n      J.K. Nørskov et al., J. Catal. 209 (2002) 275 (source of BEP parameters cited in the paper)",
+        "content_hash": "84583e9762026082203e388313882b40c972ecc95f586b6e6b1ad16cbfc4b6b3",
+        "id": "gcn_3a4e309260834e2d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811971189491630080::P2",
+            "package_id": "paper:811971189491630080",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811971189491630080"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026279628993473032,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For elementary bond-forming and bond-breaking transitions on the considered transition-metal (211) surfaces, including dehydrogenation and C–N coupling steps, the transition-state free energy G‡ (activation free energy, defined at the same reference temperature as the adsorption free energies) is approximated by a linear Brønsted–Evans–Polanyi (BEP) relation of the form G‡ = a·ΔG_diss + b, where ΔG_diss denotes the relevant dissociated-product or adsorption free-energy descriptor (a thermodynamic combination of fragment adsorption free energies that itself is a function of E_C and E_N), and the coefficients a and b are taken from published transition-state–scaling analyses and applied uniformly across the reaction set.\n      [9,16,19,20,21]",
+        "content_hash": "7d338fe4600cfd5377bcdd674aef754a6ca79119ed16f7728d962dbc820d3915",
+        "id": "gcn_a4fcfbad1954470d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811666471028523010::P4",
+            "package_id": "paper:811666471028523010",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811666471028523010"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025124843945068663,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Applicability of Brønsted–Evans–Polanyi (BEP) and Hammond postulate reasoning: for two related surface C–C coupling reaction pathways occurring on two different anatase TiO₂ facets ({101} and {001}) for which DFT calculations indicate the reaction on {001} is more exothermic than on {101}, the Brønsted–Evans–Polanyi correlations together with Hammond‑type arguments can be applied to infer that the more exothermic reaction on {001} will have an earlier (less advanced) transition‑state geometry and a lower activation barrier on {001}, thereby providing a mechanistic link between weaker adsorption (weaker Ti₅c Lewis acidity and weaker OₛH hydrogen bonding) and lower C–C activation energy, assuming BEP/Hammond relationships are valid for this class of surface nucleophilic attack reactions and that no strong non‑linear mechanistic effects invalidate simple energetic correlations.",
+        "content_hash": "73a5d767bc3308251194b70771aa2ce986c3bf594c345cfc08d35253cee0604f",
+        "id": "gcn_5ed0d174d7324691",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812529482664509441::P13",
+            "package_id": "paper:812529482664509441",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812529482664509441"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02481203007518797,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Across the complete dataset of 21 computed surface hydrogenation reactions (three atomic reactants C, N, O each on seven 4d metal surfaces), the activation barrier E_a (energy difference from adsorbed reactant+H initial state to transition state, in eV) and the reaction potential energy ΔE (energy change from adsorbed reactant+H initial state to adsorbed product final state, in eV) follow an approximately linear Brønsted–Evans–Polanyi (BEP) relation well described by E_a = 0.8 ΔE + 1.1 (both energies in eV), and an ordinary-least-squares linear fit to all 21 data pairs yields a correlation coefficient R^2 ≈ 0.90.",
+        "content_hash": "08d5395b91966b3ed66018c626ac267452bdf8a59a45d46adf7458f20b1dafaf",
+        "id": "gcn_33c0cadc71de4607",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811867652405329920::conclusion_6",
+            "package_id": "paper:811867652405329920",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811867652405329920"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.023296291337528453,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Activation energies E_a for the considered elementary surface reactions are approximated by Brønsted–Evans–Polanyi (BEP) linear relations of the form E_a = α_BEP ΔE + β_BEP, where ΔE is the reaction energy of the elementary step, the BEP slope α_BEP is obtained from constrained-minimization calculations using initial transition-state-like geometries resembling the Ni transition states, and the intercept β_BEP is calibrated so that the BEP relation reproduces the explicitly computed Ni activation energy for each elementary reaction; the resulting α_BEP and β_BEP coefficients for the set of reactions considered allow estimation of activation barriers on other metals when combined with the two-descriptor scaling relations for intermediates (i.e., using only E_C and E_O as inputs).",
+        "content_hash": "f6d86f94446797f85ecb641e41c8b1023c61e42e289293678d7b800f75d82038",
+        "id": "gcn_7e321602258e4a82",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811828067033939968::conclusion_4",
+            "package_id": "paper:811828067033939968",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811828067033939968"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.023128342245989305,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Brønsted–Evans–Polanyi (BEP) relation is an approximate linear relationship between a reaction's enthalpy change and its activation energy on a given catalyst surface, and scaling relations are approximate linear relationships between activation energies of different reaction steps across catalyst materials; the proposition is that, for the reaction steps and catalyst surfaces represented in the SUNCAT database subset used in these experiments, these BEP and scaling relations hold with sufficient linear correlation to enable effective transfer of information from the plentifully labeled activation-energy task (the 2O^{*}\\rightarrow O_{2} step) to more sparsely labeled tasks via explicit latent-variable architectures.",
+        "content_hash": "c321f3cf46241e95233048f467c9d7c0276c1d9afbbbbfb4ccf741b3c55713ec",
+        "id": "gcn_87cc31872df540ee",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867752729387204656::P8",
+            "package_id": "paper:867752729387204656",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867752729387204656"
+          ]
+        },
+        "role": "premise",
+        "score": 0.022704081632653063,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Brønsted–Evans–Polanyi (BEP) hypothesis posits an approximately linear relation between the activation energy of a surface chemical step and the reaction free-energy change for that step across a related family of reactions or surfaces; the working assumption here is that a BEP-like linear free-energy relation holds with sufficient accuracy for the first proton–electron transfer steps that convert adsorbed *CO2 into either OCHO* or *COOH on the considered SnO(101) oxygen-vacancy and embedded-hydroxyl surface models, so that the pathway with the more favorable (more negative) thermodynamic free-energy change will also have the lower activation barrier and thus be kinetically favored.\n      [28,29]",
+        "content_hash": "c46102009d0193440bc8efc6cccf57166472fdcf34bcbd834c5a516800b7bbc8",
+        "id": "gcn_f79514d626d84aaf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811052317397745665::P5",
+            "package_id": "paper:811052317397745665",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811052317397745665"
+          ]
+        },
+        "role": "premise",
+        "score": 0.021996021996022,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A linear Brønsted–Evans–Polanyi (BEP) relation was found to hold within the computed set of unsupported metallic nickel nanoparticles, where the activation energy E^{act}=E_{TS}-E_{ads} correlates linearly with the reaction energy ΔE=E_{diss}-E_{ads}; however, when the supported metal–oxide interfacial sites are included in the same dataset the BEP linear correlation breaks down for those interfacial data points, indicating that BEP scaling derived for pure-metal sites is not generally applicable to reactions occurring at metal–oxide interface sites and therefore explicit transition-state searches are required for supported systems rather than relying solely on scaling relations fitted to metallic systems.",
+        "content_hash": "da26cc168d4d5f52ea27083108744460c39c1f176195aec04b5942d776d85d35",
+        "id": "gcn_3eb475bb379a46c3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814514328907546625::conclusion_6",
+            "package_id": "paper:814514328907546625",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814514328907546625"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.021807909604519775,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A linear Brønsted–Evans–Polanyi (BEP) relation between the relative transition‑state energy $E_{\\mathrm{TS}}^{\\mathrm{rel}}$ and the relative final‑state energy $E_{\\mathrm{FS}}^{\\mathrm{rel}}$ of the form $E_{\\mathrm{TS}}^{\\mathrm{rel}} = \\alpha\\,E_{\\mathrm{FS}}^{\\mathrm{rel}} + \\beta$ (with $E_{\\mathrm{TS(FS)}}^{\\mathrm{system}}$ defined as $E_{\\mathrm{TS(FS)}}^{\\mathrm{system}} - E_{\\mathrm{slab}}^{\\mathrm{pure}} - E_{\\mathrm{reactant}}^{\\mathrm{gas}}$) is assumed to be a valid classifier of transition‑state character for the X–H dissociation reactions studied such that a fitted proportionality parameter $\\alpha$ significantly less than unity corresponds to an “early” transition state and $\\alpha\\approx 1$ corresponds to a “late” transition state.",
+        "content_hash": "a43aa359f80b4de2271d93ad9eeade60dd687af71d5d64ae0d72334e91ecf474",
+        "id": "gcn_315ce6fce8a441f6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813186685171924992::P11",
+            "package_id": "paper:813186685171924992",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813186685171924992"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02147344374643061,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Under the bond‑order‑conservation assumption (normalized adsorbate–surface bond‑order fractions sum to unity at each fixed $r$), the sensitivity of the transition‑state energy with respect to a single adsorption descriptor equals the value of the scaling coefficient evaluated at the transition‑state geometry:\n      $$\\frac{\\partial E_{ts}\\!\\big(E_{ads}(N)\\big)}{\\partial E_{ads}(N)}=\\gamma\\big(r_{TS}\\big),$$\n      where $E_{ads}(N)$ is the adsorption energy of atomic nitrogen used as the scalar descriptor, $\\gamma(r)$ is the slope in the fixed‑$r$ linear relation $E_{rel}(r)=\\gamma(r)\\,E_{ads}(N)+\\xi_{rel}(r)$, and $r_{TS}$ is the A–B bond‑length value that maximizes $E_{rel}(r)$ to yield $E_{ts}$. Consequently, variations in apparent Brønsted–Evans–Polanyi (BEP) slopes across metals are directly linked to changes in the transition‑state geometry through the value $\\gamma(r_{TS})$.",
+        "content_hash": "89ba4a9467b58fbdc64515f030da9eeff28409f92998b98082c07dbd224ef026",
+        "id": "gcn_7235091591944b7c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811100366467760129::conclusion_2",
+            "package_id": "paper:811100366467760129",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811100366467760129"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.021338724168912845,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For an elementary reaction class such as CO formation from adsorbed C and O or dissociative CH4 adsorption, the electronic activation energy $\\Delta E^{\\mathrm{Act.}}$ (transition‑state electronic energy minus reactant electronic minimum on the same potential energy surface) is well approximated across the considered metals by a linear Brønsted–Evans–Polanyi (BEP) relation\n      $$\n      \\Delta E^{\\mathrm{Act.}}=\\alpha\\,\\Delta E^{\\mathrm{rxn}}+\\beta,\n      $$\n      where $\\Delta E^{\\mathrm{rxn}}$ is the electronic reaction energy of the corresponding elementary step and the slope $\\alpha$ and intercept $\\beta$ are obtained from straight‑line fits to DFT barriers and reaction energies for representative metals in that reaction class.",
+        "content_hash": "36ac9f982dce56d968f71fa68496f4fcdf2b71f5dadaaac50e797c3687b7c842",
+        "id": "gcn_2aa99d023c334b83",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811903822661156866::P2",
+            "package_id": "paper:811903822661156866",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811903822661156866"
+          ]
+        },
+        "role": "premise",
+        "score": 0.020503261882572225,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Linear scaling relations that correlate adsorption energies of intermediates to descriptor binding energies (carbon binding energy $\\Delta E_{C}$ and oxygen binding energy $\\Delta E_{O}$) and Brønsted–Evans–Polanyi (BEP) relations that correlate transition-state energies to reactant or product energies, relations established at low coverage, are assumed to remain approximately valid for estimating transition-state energies under the elevated-coverage conditions encountered in the microkinetic simulations for CO methanation on the $(2\\,1\\,1)$ surfaces, except where explicit high-coverage BEP adjustments have been applied (for example, the C–OH splitting BEP used at high CO coverages), so that transition-state energies are obtained by applying the same linear relations to coverage-corrected adsorption energies.",
+        "content_hash": "4dedd906ff8b7f348ef26394ee167dac77593c143af2ab4b4005796531462372",
+        "id": "gcn_3d9c75f3eabe4cd1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813198737089232896::P8",
+            "package_id": "paper:813198737089232896",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813198737089232896"
+          ]
+        },
+        "role": "premise",
+        "score": 0.020416666666666666,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The paper presents a plot of the total transition-state (TS) energies versus the corresponding final-state (FS) total energies, with both energies measured relative to the clean slab plus the gas-phase reactant energies, and reports a good linear relationship which is interpreted as a Brønsted–Evans–Polanyi-like correlation indicating predominantly \"late\" transition-state behavior across the sampled decomposition reactions.\n      Fig. 5\n      Refs. [20,31-33] (papers cited as similar)",
+        "content_hash": "b4627e76d15249f99ef1fcf320914d4c8c110ed5aea42eb14a2815eea1d74628",
+        "id": "gcn_0a0f66a9b0f14af0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813248501294039042::P8",
+            "package_id": "paper:813248501294039042",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813248501294039042"
+          ]
+        },
+        "role": "premise",
+        "score": 0.019202898550724636,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Plotting the computed activation energy $E_a$ for NO dissociation against the corresponding reaction energy $\\Delta E_{\\mathrm{reaction}}$ for the set of cases studied (different oxygen precoverages and different coadsorbates) reveals an approximately linear correlation between $E_a$ and $\\Delta E_{\\mathrm{reaction}}$, i.e., a Brønsted–Evans–Polanyi (BEP) relationship for this surface-reaction family; mechanistically, this linear trend is attributed to a common cause whereby coadsorbates that withdraw electron density from the metal surface reduce electron donation to both the transition state and the dissociation products, simultaneously destabilising the transition state (raising $E_a$) and making the products less bound (increasing $\\Delta E_{\\mathrm{reaction}}$).",
+        "content_hash": "c78f062ff11798a3ce9987a766ab6afdfbfb1715ea9d3d752e12557b42c6b032",
+        "id": "gcn_6e6d8cadc80d4168",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812128696834981889::conclusion_8",
+            "package_id": "paper:812128696834981889",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812128696834981889"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01906318082788671,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The empirical database of 84 computed state pairs $(\\Delta E,E_a)$ collected for the diatomics $ \\mathrm{N}_2$, CO, NO, and $ \\mathrm{O}_2$ on the selected set of transition-metal close-packed terraces and stepped sites is treated as representative of the class of medium-size diatomic activation reactions and of the relevant transition-metal surface geometries, such that linear Brønsted–Evans–Polanyi relations inferred from this finite sample are interpreted as reflecting broader-class behavior rather than being artifacts of the particular subset of adsorbates, metals, surface facets, or site types explicitly sampled.",
+        "content_hash": "79ece0b3c97a24b37c36b8bbb70f6ecdb1b4e149bf733ec94c37619ee64258c2",
+        "id": "gcn_f859538569534d9e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812453975289757696::P2",
+            "package_id": "paper:812453975289757696",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812453975289757696"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01702405099971023,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "db94ab2f9f85d4ba95602be8cda82316"
+}

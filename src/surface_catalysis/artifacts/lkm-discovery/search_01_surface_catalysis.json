@@ -1,0 +1,711 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811085590425501696": {
+        "area": "Material science",
+        "authors": "Tomoya Konishi | Shiro Tsukamoto | Tomonoroi Ito | Toru Akiyama | Ryo Kaida",
+        "available_online": "",
+        "cover_date_start": "2017-11-01",
+        "created_at": "2022-12-17T20:04:35+08:00",
+        "doi": "10.1016/j.jcrysgro.2017.01.009",
+        "en_title": "Atomistic behaviour of ( n × 3 ) -reconstructed areas of InAs–GaAs(001) surface at the growth condition",
+        "id": "811085590425501696",
+        "keywords": "[{\"ch_name\":\"A1。纳米结构\",\"en_name\":\"A1. Nanostructures\"},{\"ch_name\":\"A1。表面结构\",\"en_name\":\"A1. Surface structure\"},{\"ch_name\":\"A3。分子束外延\",\"en_name\":\"A3. Molecular beam epitaxy\"},{\"ch_name\":\"B2。半导体III-V族材料\",\"en_name\":\"B2. Semiconducting III-V materials\"},{\"ch_name\":\"B2。半导体铟化合物\",\"en_name\":\"B2. Semiconducting indium compounds\"}]",
+        "publication_date": "2017-11",
+        "publication_id": "2185",
+        "publication_name": "Journal of Crystal Growth _ Journal of Crystal Growth",
+        "research_categories": "",
+        "zh_title": "InAs–GaAs(001)表面在生长条件下(n×3)重构区域的原子行为 "
+      },
+      "paper:811188955381760001": {
+        "area": "Material science",
+        "authors": "Junyao Zhou | Yusen Yang | Changming Li | Shitong Zhang | Yudi Chen | Shuxian Shi | Min Wei",
+        "available_online": "2016",
+        "cover_date_start": "2016-01-01",
+        "created_at": "2022-12-18T02:55:20+08:00",
+        "doi": "10.1039/c6ta04542a",
+        "en_title": "Synthesis of Co–Sn intermetallic nanocatalysts toward selective hydrogenation of citral",
+        "id": "811188955381760001",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ J. Mater. Chem. A",
+        "research_categories": "",
+        "zh_title": "用于柠檬醛选择性加氢的钴-锡金属间化合物纳米催化剂的合成"
+      },
+      "paper:811640755968802817": {
+        "area": "Physics and Astrophysics",
+        "authors": "Hua Chen | Wenguang Zhu | Di Xiao | Zhenyu Zhang",
+        "available_online": "2011-7-28",
+        "cover_date_start": "2011-07-28",
+        "created_at": "2022-12-19T08:50:36+08:00",
+        "doi": "10.1103/physrevlett.107.056804",
+        "en_title": "CO Oxidation Facilitated by Robust Surface States on Au-Covered Topological Insulators",
+        "id": "811640755968802817",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "金覆盖拓扑绝缘体上稳健表面态促进的一氧化碳氧化反应"
+      },
+      "paper:811660413316890629": {
+        "area": "Chemistry",
+        "authors": "E.N. Voloshina | D. Mollenhauer | L. Chiappisi | B. Paulus",
+        "available_online": "",
+        "cover_date_start": "2011-07-01",
+        "created_at": "2022-12-19T10:08:43+08:00",
+        "doi": "10.1016/j.cplett.2011.05.025",
+        "en_title": "Theoretical study on the adsorption of pyridine derivatives on graphene",
+        "id": "811660413316890629",
+        "keywords": "",
+        "publication_date": "2011-7",
+        "publication_id": "3555",
+        "publication_name": "Chemical Physics Letters _ Chemical Physics Letters",
+        "research_categories": "",
+        "zh_title": "吡啶衍生物在石墨烯上吸附的理论研究"
+      },
+      "paper:811780636787343361": {
+        "area": "Chemistry",
+        "authors": "Zhipeng Li | Wenxiao Pan | Dongju Zhang | Jinhua Zhan",
+        "available_online": "2010-6-10",
+        "cover_date_start": "2010-06-10",
+        "created_at": "2022-12-19T18:06:26+08:00",
+        "doi": "10.1002/asia.201000036",
+        "en_title": "Morphology-Dependent Gas-Sensing Properties of ZnO Nanostructures for Chlorophenol",
+        "id": "811780636787343361",
+        "keywords": "[{\"en_name\": \"Crystal plane\", \"ch_name\": \"\"}, {\"en_name\": \"Density functional calculations\", \"ch_name\": \"\"}, {\"en_name\": \"Gas sensing\", \"ch_name\": \"\"}, {\"en_name\": \"Nanostructures\", \"ch_name\": \"\"}, {\"en_name\": \"ZnO\", \"ch_name\": \"\"}]",
+        "publication_date": "",
+        "publication_id": "3494",
+        "publication_name": "Chemistry   An Asian Journal _ Chem. Asian J.",
+        "research_categories": "",
+        "zh_title": "用于检测氯酚的ZnO纳米结构的形貌依赖气敏特性"
+      },
+      "paper:811866123468275713": {
+        "area": "Engineering Technology",
+        "authors": "Chethan K. Acharya | Wei Li | Zhufang Liu | Gihan Kwon | C. Heath Turner | Alan M. Lane | David Nikles | Tonya Klein | Mark Weaver",
+        "available_online": "",
+        "cover_date_start": "2009-07-15",
+        "created_at": "2022-12-19T23:46:08+08:00",
+        "doi": "10.1016/j.jpowsour.2009.03.020",
+        "en_title": "Effect of boron doping in the carbon support on platinum nanoparticles and carbon corrosion",
+        "id": "811866123468275713",
+        "keywords": "[{\"en_name\": \"Boron-doped carbon\", \"ch_name\": \"\"}, {\"en_name\": \"Carbon\", \"ch_name\": \"\"}, {\"en_name\": \"Corrosion\", \"ch_name\": \"\"}, {\"en_name\": \"Platinum nanoparticles\", \"ch_name\": \"\"}, {\"en_name\": \"Stability\", \"ch_name\": \"\"}]",
+        "publication_date": "2009-7-15",
+        "publication_id": "3894",
+        "publication_name": "Journal of Power Sources _ Journal of Power Sources",
+        "research_categories": "",
+        "zh_title": "碳载体中硼掺杂对铂纳米颗粒和碳腐蚀的影响"
+      },
+      "paper:812404368870473728": {
+        "area": "Physics and Astrophysics",
+        "authors": "Hongsuk Yi | Hanchul Kim | Beena Kuruvilla | Jinwook Chung",
+        "available_online": "2003-5-1",
+        "cover_date_start": "2003-05-01",
+        "created_at": "2022-12-21T11:24:56+08:00",
+        "doi": "10.1103/physrevb.67.195302",
+        "en_title": "Atomic structure and theoretical scanning tunneling microscopy images of Li zigzag chains on the GaAs(110) surface",
+        "id": "812404368870473728",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "GaAs(110)表面上锂锯齿链的原子结构和理论扫描隧道显微镜图像"
+      },
+      "paper:812506647149674496": {
+        "area": "Chemistry",
+        "authors": "Aref Aasi | Sadegh Mehdi Aghaei | Balaji Panchapakesan",
+        "available_online": "2021-2-5",
+        "cover_date_start": "2021-02-05",
+        "created_at": "2022-12-21T18:11:21+08:00",
+        "doi": "10.1021/acsomega.0c05495",
+        "en_title": "Outstanding Performance of Transition-Metal-Decorated Single-Layer Graphene-like BC 6 N Nanosheets for Disease Biomarker Detection in Human Breath",
+        "id": "812506647149674496",
+        "keywords": "",
+        "publication_date": "2021-2-23",
+        "publication_id": "3485",
+        "publication_name": "ACS Omega _ ACS Omega",
+        "research_categories": "",
+        "zh_title": "过渡金属修饰的单层类石墨烯BC₆N纳米片在人体呼出气体疾病生物标志物检测中的卓越性能"
+      },
+      "paper:812531348559364100": {
+        "area": "Geoscience",
+        "authors": "Lin Zhang | Zhilong Wang | Zhiyun Wei | Jinjin Li",
+        "available_online": "",
+        "cover_date_start": "2020-12-01",
+        "created_at": "2022-12-21T19:49:31+08:00",
+        "doi": "10.1016/j.xcrp.2020.100269",
+        "en_title": "Unsupervised Assisted Directional Design of Chemical Reactions",
+        "id": "812531348559364100",
+        "keywords": "",
+        "publication_date": "2020-12",
+        "publication_id": "72156",
+        "publication_name": "Cell Reports Physical Science _ Cell Reports Physical Science",
+        "research_categories": "",
+        "zh_title": "化学反应的无监督辅助定向设计"
+      },
+      "paper:812538825778659331": {
+        "area": "Comprehensive Periodical",
+        "authors": "Longlong Fan | Jiajun Dai | Zhongliang Huang | Jingran Xiao | Qingbiao Li | Jiale Huang | Shu-Feng Zhou | Guowu Zhan",
+        "available_online": "",
+        "cover_date_start": "2020-12-01",
+        "created_at": "2022-12-21T20:19:13+08:00",
+        "doi": "10.1016/j.isci.2020.101852",
+        "en_title": "Biomimetic Au/CeO2 Catalysts Decorated with Hemin or Ferrous Phthalocyanine for Improved CO Oxidation via Local Synergistic Effects",
+        "id": "812538825778659331",
+        "keywords": "[{\"en_name\": \"Chemistry\", \"ch_name\": \"\"}, {\"en_name\": \"Engineering\", \"ch_name\": \"\"}, {\"en_name\": \"Inorganic Chemistry: Catalysis\", \"ch_name\": \"\"}]",
+        "publication_date": "2020-12",
+        "publication_id": "8979",
+        "publication_name": "iScience _ iScience",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "通过局部协同效应修饰有氯高铁血红素或亚铁酞菁的仿生金/二氧化铈催化剂用于增强一氧化碳氧化反应"
+      },
+      "paper:812555353639092225": {
+        "area": "Material science",
+        "authors": "Y. Mordekovitz | S. Sagi | S. Barzilai | S. Hayun",
+        "available_online": "2020",
+        "cover_date_start": "2020-01-01",
+        "created_at": "2022-12-21T21:24:54+08:00",
+        "doi": "10.1039/d0ta04613b",
+        "en_title": "Effect of Nd content on the energetics of H 2 O adsorption and defect structure in the Ce (1−x) Nd x O (2−0.5x) system",
+        "id": "812555353639092225",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ J. Mater. Chem. A",
+        "research_categories": "",
+        "zh_title": "钕含量对Ce(1−x)Nd x O(2−0.5x)体系中H₂O吸附能和缺陷结构的影响"
+      },
+      "paper:812645687551328258": {
+        "area": "Chemistry",
+        "authors": "Wenwu Zhong | Wenguang Tu | Zongpeng Wang | Zhiping Lin | Aijiao Xu | Xiufang Ye | Dongchu Chen | Beibei Xiao",
+        "available_online": "",
+        "cover_date_start": "2020-12-01",
+        "created_at": "2022-12-22T03:23:51+08:00",
+        "doi": "10.1016/j.jechem.2020.04.035",
+        "en_title": "Ultralow-temperature assisted synthesis of single platinum atoms anchored on carbon nanotubes for efficiently electrocatalytic acidic hydrogen evolution",
+        "id": "812645687551328258",
+        "keywords": "[{\"en_name\": \"Carbon nanotubes\", \"ch_name\": \"\"}, {\"en_name\": \"Hydrogen evolution reaction\", \"ch_name\": \"\"}, {\"en_name\": \"Platinum\", \"ch_name\": \"\"}, {\"en_name\": \"Single-atom catalysts\", \"ch_name\": \"\"}, {\"en_name\": \"Ultralow-temperature\", \"ch_name\": \"\"}]",
+        "publication_date": "2020-12",
+        "publication_id": "3366",
+        "publication_name": "Journal of Energy Chemistry _ Journal of Energy Chemistry",
+        "research_categories": "[\"Engineering\", \"Materials Engineering\", \"Nanotechnology\"]",
+        "zh_title": "用于高效电催化酸性析氢的超低温辅助合成碳纳米管负载单铂原子"
+      },
+      "paper:812771549638557696": {
+        "area": "Material science",
+        "authors": "Juan Zhang | Xiaona Li | Dongmei Liu | Shuai Wang | Jiaxu Yan | Min Lu | Xiaoji Xie | Ling Huang | Wei Huang",
+        "available_online": "2019",
+        "cover_date_start": "2019-01-01",
+        "created_at": "2022-12-22T11:44:00+08:00",
+        "doi": "10.1039/c9nr01470e",
+        "en_title": "Stirring revealed new functions of ethylenediamine and hydrazine in the morphology control of copper nanowires",
+        "id": "812771549638557696",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2079",
+        "publication_name": "Nanoscale _ Nanoscale",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Engineering\"]",
+        "zh_title": "搅拌揭示了乙二胺和肼在铜纳米线形貌控制中的新功能"
+      },
+      "paper:812825120073580545": {
+        "area": "Physics and Astrophysics",
+        "authors": "Rachana Yogi | Neeraj K. Jaiswal",
+        "available_online": "",
+        "cover_date_start": "2019-01-01",
+        "created_at": "2022-12-22T15:16:50+08:00",
+        "doi": "10.1016/j.physleta.2018.11.024",
+        "en_title": "Adsorption of CO gas molecules on zigzag BN/AlN nanoribbons for nano sensor applications",
+        "id": "812825120073580545",
+        "keywords": "[{\"ch_name\":\"氮化铝\",\"en_name\":\"Aluminum nitride\"},{\"ch_name\":\"氮化硼\",\"en_name\":\"Boron nitride\"},{\"ch_name\":\"半金属性\",\"en_name\":\"Half-metallicity\"},{\"ch_name\":\"纳米带\",\"en_name\":\"Nanoribbon\"},{\"ch_name\":\"传感器\",\"en_name\":\"Sensor\"}]",
+        "publication_date": "2019-1",
+        "publication_id": "604",
+        "publication_name": "Physics Letters A _ Physics Letters A",
+        "research_categories": "",
+        "zh_title": "用于纳米传感器应用的锯齿形氮化硼/氮化铝纳米带对一氧化碳气体分子的吸附"
+      },
+      "paper:813014056314077184": {
+        "area": "Material science",
+        "authors": "Linlin Cao | Yuanjie Cao | Xiaokang Liu | Qiquan Luo | Wei Liu | Wei Zhang | Xiaoli Mou | Tao Yao | Shiqiang Wei",
+        "available_online": "2018",
+        "cover_date_start": "2018-01-01",
+        "created_at": "2022-12-23T03:47:36+08:00",
+        "doi": "10.1039/c8ta05907a",
+        "en_title": "Coupling confinement activating cobalt oxide ultra-small clusters for high-turnover oxygen evolution electrocatalysis",
+        "id": "813014056314077184",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ J. Mater. Chem. A",
+        "research_categories": "",
+        "zh_title": "耦合限域活化氧化钴超小簇用于高周转析氧电催化"
+      },
+      "paper:813017984967639041": {
+        "area": "Material science",
+        "authors": "Xiaoxing Zhang | Zhaolun Cui | Li Yi | Yalong Li | Hanyan Xiao | Dachang Chen",
+        "available_online": "",
+        "cover_date_start": "2018-11-01",
+        "created_at": "2022-12-23T04:03:13+08:00",
+        "doi": "10.1016/j.apsusc.2018.06.305",
+        "en_title": "Theoretical study of the interaction of SF6 molecule on Ag(1 1 1) surfaces: A DFT study",
+        "id": "813017984967639041",
+        "keywords": "[{\"en_name\": \"Absorption\", \"ch_name\": \"\"}, {\"en_name\": \"Ag(1u202f1u202f1)\", \"ch_name\": \"\"}, {\"en_name\": \"DFT study\", \"ch_name\": \"\"}, {\"en_name\": \"SF<sub>6</sub>\", \"ch_name\": \"\"}]",
+        "publication_date": "2018-11",
+        "publication_id": "2051",
+        "publication_name": "Applied Surface Science _ Applied Surface Science",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "六氟化硫（SF₆）分子与银（111）表面相互作用的理论研究：一项密度泛函理论（DFT）研究"
+      },
+      "paper:813068571675459584": {
+        "area": "Chemistry",
+        "authors": "W.A. Hofer | A.J. Fisher | G.P. Lopinski | R.A. Wolkow",
+        "available_online": "",
+        "cover_date_start": "2001-06-01",
+        "created_at": "2022-12-23T07:24:14+08:00",
+        "doi": "10.1016/s0039-6028(01)00941-4",
+        "en_title": "Benzene on silicon: combining STM experiments with first principles studies",
+        "id": "813068571675459584",
+        "keywords": "",
+        "publication_date": "2001-6",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "硅表面的苯：结合扫描隧道显微镜实验与第一性原理研究"
+      },
+      "paper:813273441909080065": {
+        "area": "Chemistry",
+        "authors": "Aliaksandr S. Bandarenka | Ana Sofia Varela | Mohammedreza Karamad | Federico Calle-Vallejo | Lone Bech | Francisco J. Perez-Alonso | Jan Rossmeisl | Ifan E. L. Stephens | Ib Chorkendorff",
+        "available_online": "2012-10-22",
+        "cover_date_start": "2012-10-22",
+        "created_at": "2022-12-23T20:58:19+08:00",
+        "doi": "10.1002/anie.201205314",
+        "en_title": "Design of an Active Site towards Optimal Electrocatalysis: Overlayers, Surface Alloys and Near-Surface Alloys of Cu/Pt(111)",
+        "id": "813273441909080065",
+        "keywords": "[{\"en_name\": \"Cu/Pt alloy\", \"ch_name\": \"\"}, {\"en_name\": \"cyclic voltammetry\", \"ch_name\": \"\"}, {\"en_name\": \"density functional calculations\", \"ch_name\": \"\"}, {\"en_name\": \"electrocatalysis\", \"ch_name\": \"\"}, {\"en_name\": \"electrochemistry\", \"ch_name\": \"\"}]",
+        "publication_date": "2012-11-19",
+        "publication_id": "3347",
+        "publication_name": "Angewandte Chemie International Edition _ Angew. Chem. Int. Ed.",
+        "research_categories": "",
+        "zh_title": "面向最优电催化的活性位点设计：Cu/Pt(111)的覆盖层、表面合金和近表面合金"
+      },
+      "paper:814535806281580544": {
+        "area": "Geoscience",
+        "authors": "Tae-Hee Han | Sung-Joo Kwon | Nannan Li | Hong-Kyu Seo | Wentao Xu | Kwang S. Kim | Tae-Woo Lee",
+        "available_online": "2016-4-13",
+        "cover_date_start": "2016-04-13",
+        "created_at": "2022-12-27T08:34:30+08:00",
+        "doi": "10.1002/ange.201600414",
+        "en_title": "Versatile p-Type Chemical Doping to Achieve Ideal Flexible Graphene Electrodes",
+        "id": "814535806281580544",
+        "keywords": "",
+        "publication_date": "2016-5-17",
+        "publication_id": "12462",
+        "publication_name": "Angewandte Chemie _ Angew. Chem.",
+        "research_categories": "[\"Engineering\", \"Nanotechnology\"]",
+        "zh_title": "通过通用的p型化学掺杂实现理想的柔性石墨烯电极"
+      },
+      "paper:814553446240747520": {
+        "area": "Geoscience",
+        "authors": "Tomokazu SAKAMOTO | Hirofumi KISHI | Susumu YAMAGUCHI | Hirohisa TANAKA | Daiju MATSUMURA | Kazuhisa TAMURA | Yasuo NISHIHATA",
+        "available_online": "",
+        "cover_date_start": "2016-01-01",
+        "created_at": "2022-12-27T09:44:36+08:00",
+        "doi": "10.1380/jsssj.37.78",
+        "en_title": "Development of Non-PGM Catalysts for Anion Exchange Membrane Fuel Cells",
+        "id": "814553446240747520",
+        "keywords": "",
+        "publication_date": "2016",
+        "publication_id": "18281",
+        "publication_name": "Hyomen Kagaku _ Journal of The Surface Science Society of Japan",
+        "research_categories": "[\"Biological Sciences\", \"Biochemistry and Cell Biology\", \"Engineering\"]",
+        "zh_title": "用于阴离子交换膜燃料电池的非铂族金属催化剂的开发"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the AR‑XPS‑verified Cu/Pt(111) overlayer (OL), surface alloy (SA), and near‑surface alloy (NSA) model systems, a set of experimental electrochemical observables—cyclic voltammetric adsorption/desorption peak positions and CO‑stripping integrated charges—and first‑principles DFT calculations are quantitatively consistent in the following specific ways: (i) the DFT‑predicted trends in adsorption energetics as a function of Cu atomic‑layer position match the experimentally observed shifts in voltammetric adsorption features and the direction of coverage changes; (ii) DFT‑predicted coverage‑dependent differential adsorption free‑energy features correspond numerically to experimentally measured saturation coverages (for example, DFT ≈0.70 ML vs experiment ≈0.68 ML on Pt(111), and DFT ≈0.33 ML vs experiment ≈0.34 ML on the NSA); and (iii) the positions of the tested surfaces on the DFT volcano plot qualitatively explain the experimentally observed ordering of CO oxidation peak potentials.",
+        "content_hash": "ab87099c9ba4efab1d7ade408db167c34ff3684fb4d1492278e23c2ace1d01b4",
+        "id": "gcn_86b3213758cf452c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813273441909080065::conclusion_10",
+            "package_id": "paper:813273441909080065",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813273441909080065"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the adsorption energy E_ad by E_ad = E_total(surface + molecule) − [E_total(surface) + E_total(molecule)], where the total energies are obtained from Kohn–Sham DFT calculations using the GGA‑PBE exchange–correlation functional augmented by Grimme D2 dispersion corrections, FHI pseudopotentials, and a periodic 3×3 monolayer supercell; the proposition underlying the paper's conclusions is that these computed numerical E_ad values provide quantitatively accurate estimates of true adsorption energies relevant to experimental thermodynamics and kinetics—i.e., that typical errors are small enough (smaller than a few 0.1 eV) that the qualitative classification between physisorption and chemisorption and the use of these E_ad values in subsequent desorption‑kinetics estimates is justified.",
+        "content_hash": "e3673a502f3236c153fa38645eb92b2ecdeee300efae9d7848b93c5ad578dc8f",
+        "id": "gcn_be8af33557854762",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812506647149674496::P4",
+            "package_id": "paper:812506647149674496",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812506647149674496"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The ordering of adsorption ability across ZnO crystal surfaces stated as (0001) > {10-10} > (000-1), {10-11} is inferred from schematic surface-atomic-arrangement models and from a single first-principles DFT calculation performed on the {10-10} surface, rather than from explicit, matched first-principles adsorption-energy and charge-transfer calculations carried out for the Zn-terminated (0001) plane, the O-terminated (000-1) plane, and the {10-11} planes at the same level of theory, slab thickness, supercell size, and adsorbate coverage conditions.",
+        "content_hash": "665ab623c295e8cdeb81897b589374605ad4bea9df196bb88c0d165c3904f198",
+        "id": "gcn_976bb1d3a01e454c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811780636787343361::P6",
+            "package_id": "paper:811780636787343361",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811780636787343361"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A computed change in adsorption (binding) energy of magnitude between $0.16\\\\,$eV and $0.20\\\\,$eV for a molecule adsorbed on a surface, obtained from standard DFT total-energy differences at the reported coverages and relaxed geometries in these calculations, represents a nonnegligible and chemically meaningful modification of adsorption strength that can affect catalytic behavior and is not negligible compared to typical DFT numerical uncertainties and thermal energies relevant at experimental temperatures.",
+        "content_hash": "32792e81f767e8d16f94ee8cb365293010ffc291f66228cd5d6dac98d1dfeb3b",
+        "id": "gcn_58d8da590d404488",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811640755968802817::P7",
+            "package_id": "paper:811640755968802817",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811640755968802817"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Directly comparing the computed multilayer PBE-D2 adsorption energy E_{ads} = −441 meV (E_{ads} = E_{S+M} - E_{S} - E_{M}) with an experimental adsorption energy reported as −433 meV assumes that zero-point vibrational-energy (ZPE) corrections, finite-temperature entropic contributions, experimental surface heterogeneity, and differences in sample preparation are negligible or cancel, i.e., that no additional corrections exceeding roughly 10 meV are required to place the theoretical and experimental numbers on the same footing.\n      [24]",
+        "content_hash": "b0a60dafa174d54df6e6c5e45f497abe02dc8e6566f50d664d36943e674baa59",
+        "id": "gcn_59e9cf5174234bc6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811660413316890629::P9",
+            "package_id": "paper:811660413316890629",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811660413316890629"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a single lithium (Li) atom adsorbed on the GaAs(110) surface, first-principles pseudopotential total-energy calculations performed within density-functional theory using the local-density approximation (DFT-LDA) and a plane-wave ultrasoft-pseudopotential representation of the ions produce a computed potential-energy surface that contains two inequivalent stable adsorption sites for the Li adatom rather than a single unique adsorption site; here \"adsorption site\" denotes a distinct local minimum of the total-energy surface for the Li nucleus position above the GaAs(110) termination.",
+        "content_hash": "91e22678ea1489fb92ae5d8407e1acf1ba8657f0677a08fb01e28f3e6076a4ff",
+        "id": "gcn_789f1cd310a5449e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812404368870473728::conclusion_1",
+            "package_id": "paper:812404368870473728",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812404368870473728"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The per-CO adsorption energies computed as several-eV negative numbers from ground-state DFT total-energy differences (E_{ads} values of order −1.6 eV to −4.6 eV in the reported calculations) are interpreted as indicating exothermic adsorption in the DFT sense and are taken as evidence that the corresponding adsorption configurations represent stable chemisorbed states under experimental conditions, with the implicit assumption that significant kinetic barriers, large entropic penalties, or other finite-temperature effects would not prevent realization of these adsorption states under relevant experimental temperatures and pressures.",
+        "content_hash": "0cc82d4e54a544a974a4ecee6587dbf074198d591499310ecd96269e4bbb525a",
+        "id": "gcn_deea90b63cb64dd0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812825120073580545::P12",
+            "package_id": "paper:812825120073580545",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812825120073580545"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The reported first‑principles density‑functional theory (DFT) adsorption calculations (binding energies TFMS = −0.50 eV vs HNO3 = −0.33 eV; single‑molecule charge transfer 0.052 e vs 0.018 e; calculated pristine graphene WF ≈ 4.35 eV and TFMS WF ≈ 0.5 eV higher than HNO3) are based on closed adsorption‑cell models with finite molecular coverage and a single adsorption geometry, and such calculations are sensitive to the chosen exchange‑correlation functional, the treatment of van‑der‑Waals interactions, dopant coverage, and they neglect open‑system effects relevant to experiment such as solvation, substrate screening, proton transfer to the environment, and disorder.\n      Fig. 1e",
+        "content_hash": "37d6ea5f49863dfc0de567088e2bed5a47a7db4f41933edb3170c589d6f68307",
+        "id": "gcn_c91389427f3c4e06",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814535806281580544::P12",
+            "package_id": "paper:814535806281580544",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814535806281580544"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The experimentally observed Pt4f binding-energy increase of approximately $+0.3\\ \\mathrm{eV}$ for Pt on boron-doped carbon is qualitatively consistent with prior first-principles density functional theory (DFT) calculations on model boron-substituted carbon structures that predicted an enhancement in Pt adsorption energy corresponding to an approximate $0.6\\ \\mathrm{eV}$ effect for single-atom Pt adsorption; the experimental magnitude is smaller and the DFT value is regarded as an upper limit because those calculations describe single-atom adsorption on idealized model motifs rather than multi-atom nanoparticle adsorption on amorphous supports.",
+        "content_hash": "f310b06153bb3c6375f51edc560df641a35c6ac5b55414ed7d13745dd13c81be",
+        "id": "gcn_2afe2af4ef3c42e6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811866123468275713::conclusion_8",
+            "package_id": "paper:811866123468275713",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811866123468275713"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computational-to-experimental comparison proposition is: \"Adsorption energies computed as static total-energy differences from DFT relaxed geometries according to $E_{\\mathrm{ads}} = E_{\\mathrm{rlx}}^{\\mathrm{sys}} - \\left(E_{\\mathrm{rlx}}^{\\mathrm{slab}} + E_{\\mathrm{rlx}}^{H_2O}\\right)$ (all energies evaluated at the DFT electronic ground state without zero-point energy, vibrational enthalpy, or entropic corrections) can be meaningfully compared to experimental differential adsorption enthalpies measured calorimetrically at $25\\ ^\\circ\\mathrm{C}$ such that the sign and relative magnitude trends (more negative adsorption energies on Nd-doped/vacancy-containing models relative to undoped ceria) remain valid for interpreting the experimental calorimetry.\"",
+        "content_hash": "4fa6f0b509c399a772d7b5a00a3e2cd4f8773461770c145fbdc3c0551ee60a1b",
+        "id": "gcn_c7f7645960064bf6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812555353639092225::P7",
+            "package_id": "paper:812555353639092225",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812555353639092225"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Density-functional theory (DFT) first-principles adsorption calculations performed on periodic copper slab models of Cu(111) and Cu(100) surfaces indicate that ethylenediamine (EDA) has a stronger adsorption energy on Cu(111) surfaces while hydrazine (N2H4) has a stronger adsorption energy on Cu(100) surfaces; the calculations also show that EDA can adsorb on Cu(100) but with weaker adsorption strength than N2H4 on that facet. These computed relative adsorption energetics on idealized slab models were obtained as part of the theoretical study accompanying the experiments and are consistent with the facet-dependent ligand behavior invoked to explain the observed morphology differences.",
+        "content_hash": "0ebce462299dd89d9c3eebf1faefba0970de3ebd697d594b1e6dc4229d280734",
+        "id": "gcn_bac13cfef5fb4334",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812771549638557696::conclusion_4",
+            "package_id": "paper:812771549638557696",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812771549638557696"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DFT‑computed Gibbs free energies of hydrogen adsorption ΔGads reported for the model systems (for example ΔGads(Pt(111)) = −0.34 eV and ΔGads(DV(9,0)) = 0.00 eV) are estimated to be accurate within a typical uncertainty of order a few tenths of an electronvolt (approximately ±0.1–0.2 eV) given standard choices of exchange–correlation functional, k‑point sampling, and finite supercell sizes used in surface catalysis DFT calculations, and these reported values do not include additional corrections that would arise from explicit solvent models or full finite‑temperature entropic contributions unless such corrections are explicitly applied in the computational protocol.",
+        "content_hash": "24b429477d3e6a603b324d215aa6e34b0f24668156e4f4376e4eecd3191e5ab8",
+        "id": "gcn_817dfd0dab5b4b65",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812645687551328258::P9",
+            "package_id": "paper:812645687551328258",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812645687551328258"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Density‑functional theory (DFT) first‑principles calculations performed on atomic models representing the CoO_x/PCN interface and the bulk Co3O4(110) facet predict that the hydroxide ion (OH⁻) adsorption energy on surface cobalt sites of the modeled CoO_x/PCN system is 5.42 eV (absolute value) while the corresponding adsorption energy on the modeled bulk Co3O4(110) surface is 4.20 eV (same computational definition of adsorption energy used for both models as reported in the calculations), and the larger computed adsorption energy for the confined, interfacially coupled CoO_x/PCN model indicates a stronger affinity of those engineered active sites for OH⁻ in the electronic‑structure models used.",
+        "content_hash": "d265d74fa86dbb7bd22f240b4c83acbfaeb80a2b12ac5237ea334db02d26f0ce",
+        "id": "gcn_0e0bfa9689254ca2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813014056314077184::conclusion_4",
+            "package_id": "paper:813014056314077184",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813014056314077184"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Adsorption energies and structural activation metrics were computed using periodic DFT with the PBE exchange–correlation functional and ultrasoft pseudopotentials in vacuum for slab models and zero‑temperature geometries; example computed adsorption energies are Eads(HCHO on Co–Co, di‑σCOl) ≈ −1.75 eV and Eads(C2H4 on Co–Co, di‑σCCl) ≈ −1.85 eV. The proposition is that these vacuum, zero‑temperature computational energetics capture qualitative trends in relative adsorption strengths and activation tendencies of C=O versus C=C on different surface motifs, while recognizing that solvent, finite temperature, pressure, hydrogen coverage, entropy, and kinetic barriers in the real catalytic reaction (isopropanol solvent, 160 °C, 4 MPa H2) can quantitatively modify these values.",
+        "content_hash": "e4c1ba3a5550ada332b5bd06f5f6fa99416c0005118c75579e29914bb75a721a",
+        "id": "gcn_e3e42f71b57c4cc5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811188955381760001::P11",
+            "package_id": "paper:811188955381760001",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811188955381760001"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Density functional theory (DFT) calculations carried out with a specified exchange–correlation functional, slab geometry, vacuum spacing, $k$-point sampling and basis-set choices produce surface free energies and single-atom adsorption energies for candidate InAs(001)-$(n\\times 3)$ reconstructions that are assumed to be numerically accurate enough—i.e., that the typical numerical errors and functional uncertainties are small compared to the computed energy differences that determine which reconstruction minimizes the surface free energy under given gas-phase chemical potentials—so that the DFT results can be used to rank the relative thermodynamic stabilities of the considered reconstructions. Definitions: surface free energy denotes the Gibbs free energy per unit surface area approximated by total-energy differences plus chemical-potential terms; adsorption energy $E_{\\mathrm{ads}}$ denotes the energy change upon placing one isolated indium atom at a specified adsorption site on the surface; DFT denotes first-principles electronic-structure calculations within the Kohn–Sham formalism. This proposition assumes that DFT numerical and functional errors do not change the order of computed surface free energies among the considered reconstructions.",
+        "content_hash": "6d94ab9b45e54bdffb8768915ce507368ac576bda64408e0af1f0f73d5730f33",
+        "id": "gcn_626b9e0a90b34aaf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811085590425501696::P3",
+            "package_id": "paper:811085590425501696",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811085590425501696"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014705882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition is that adsorption energies E_{ad} computed from DFT total electronic energies at 0 K using E_{ad} = E(gas/catalyst) − E(gas) − E(catalyst) reliably predict the relative strengths of CO and O₂ adsorption under experimental operando conditions (temperatures near 30°C–110°C and finite partial pressures), so that computed energy differences of order 0.1–0.3 eV can be interpreted as meaningful differences in adsorbate stability and reactivity; this presumes that omitted contributions—zero‑point energy corrections, finite‑temperature entropic terms, and pressure/concentration effects—either largely cancel between compared models or are small enough that the 0 K electronic adsorption energies capture the relevant trends for reactivity under the reported reaction conditions.",
+        "content_hash": "278edcd175f70fb552643b5a8c44bcf5fcc4051c4e225982631b9258245efa7d",
+        "id": "gcn_90c4e7959c534ca6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812538825778659331::P11",
+            "package_id": "paper:812538825778659331",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812538825778659331"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014705882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The zero-temperature DFT adsorption energies computed as total-energy differences between the combined relaxed system and the separately relaxed isolated-molecule and clean-slab references can be directly compared with experimental desorption or thermochemical measurements for benzene on Si(1 0 0) reported in the literature, and the observed close numerical agreement between the computed adsorption energies and the cited experimental desorption energies is taken as validation of the quantitative accuracy of the first-principles adsorption energetics despite potential differences in experimental coverage, desorption-analysis methods, and defect concentrations.",
+        "content_hash": "ddcf7e8fb825118d7718636b6b91f333a555b9e4a3d6eb0eccf1aa05ba19b959",
+        "id": "gcn_cd5d17e3e74b486c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813068571675459584::P12",
+            "package_id": "paper:813068571675459584",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813068571675459584"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014492753623188406,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "DFT-ground-truth-uncertainty proposition: Let DFT (density functional theory) activation energies be treated as reference values for surface-catalysis activation barriers in comparisons between machine-learning predictions and first-principles calculations. The proposition is: for surface dissociation reactions of the form $\\mathrm{CN}^* \\rightarrow \\mathrm{C}^* + \\mathrm{N}^*$ on metal facets, DFT-computed activation energies can have systematic and methodological uncertainties on the order of a few tenths of an electronvolt, so a machine-learning prediction differing from a cited DFT activation energy by approximately 0.2 eV can be considered comparable at the scale of typical DFT uncertainty for practical screening purposes.\nHammer and Nørskov (2000); cited DFT literature in Table 3",
+        "content_hash": "ce3c5ef438cdcf2f46f3fd80835a5a116d42add12896194113a41925625c3c35",
+        "id": "gcn_65b19f3219724765",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812531348559364100::P8",
+            "package_id": "paper:812531348559364100",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812531348559364100"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014492753623188406,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Adsorption energies computed from total electronic energies via E_ads = E_metal + E_gas − E_gas/metal without inclusion of zero-point energy corrections, vibrational free-energy contributions, or finite-temperature entropic terms are taken in this analysis to be sufficient to determine whether adsorption is exothermic and to support an assessment of the catalytic viability of Ag(1 1 1) for SF6 decomposition within the scope of the present DFT modeling.",
+        "content_hash": "af08a30a7a003bbb0a95293acddef769ec258712f58519a017c97332cc221c78",
+        "id": "gcn_c3f89455739e4d0d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813017984967639041::P8",
+            "package_id": "paper:813017984967639041",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813017984967639041"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014285714285714285,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The paper reports first‑principles (DFT) electronic‑structure calculations carried out on an idealized, periodic NiO surface model that show an approximately 4 eV Ni 3d band gap before OH− adsorption and the appearance of Ni 3d electronic density near the Fermi energy after OH− adsorption, and the paper treats these calculated electronic‑structure changes from the idealized NiO surface model as representative of the electronic changes that occur on the real, carbon‑supported NiO nanoparticles (average NiO particle diameter ≈5 nm) under the operando electrochemical conditions used in the XANES experiments.",
+        "content_hash": "18f5a9dd64da0324fcf0d5e08922a5d29b95975ecc9185b64a3cfc289de67a7a",
+        "id": "gcn_94e4dcf885fb4a5a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814553446240747520::P3",
+            "package_id": "paper:814553446240747520",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814553446240747520"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014285714285714285,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "a622381107fbfaf16e6e75458e8c2a5c"
+}

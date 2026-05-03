@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "For adsorption of first-row and transition-metal atoms on ionic oxide surfaces within density-functional theory, the Local Density Approximation (LDA) tends to give adsorption energies that are systematically larger (i.e. predict stronger binding) than those obtained with standard gradient-corrected functionals such as the Perdew–Wang Generalized Gradient Approximation (GGA); numerically in the Cu/MgO calculations reported here this manifests as an LDA monomer adsorption energy E_{S-A} ≈ 1.46 eV compared with the GGA ≈ 0.99 eV value, indicating that the LDA overbinds relative to GGA for this system.",
+      "content_hash": "ee6c7486f9680a8fa903321b70f810c3102b9f595f9db47ee6f916486a5d79f2",
+      "id": "gcn_8e12c7d466504808",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "aefeae4e07783a70a57ad75d6e892af5"
+}

@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "For adsorption on transition-metal surfaces modeled by periodic plane-wave density functional theory, where the exchange-correlation energy is approximated by the Perdew–Burke–Ernzerhof generalized-gradient functional and total energies E are computed with the Vienna ab initio Simulation Package using a plane-wave cutoff energy of 400 eV and a (4×4×1) Monkhorst–Pack k-point mesh for a surface supercell, the resulting adsorption-energy differences between metals are sufficiently accurate that trends in binding energies of CO2, CO, and atomic O can be treated as physically meaningful descriptors despite systematic functional errors.\n      [47,48,49]",
+      "content_hash": "51873d6eaaad1d6be4ea6abe80d7e8db719bc8577c89445aaa3c8940c8404faf",
+      "id": "gcn_59a62a7b80fa4701",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "7c9c91f89fa1c472efd3d81a027ad7bb"
+}

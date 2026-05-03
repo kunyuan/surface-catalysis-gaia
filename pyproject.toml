@@ -1,0 +1,11 @@
+[project]
+name = "surface-catalysis-gaia"
+version = "1.0.0"
+requires-python = ">=3.12"
+
+[tool.gaia]
+type = "knowledge-package"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

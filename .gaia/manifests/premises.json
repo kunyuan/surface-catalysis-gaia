@@ -1,0 +1,128 @@
+{
+  "ir_hash": "sha256:94f16f4e1e0cec538c834cd9b5eae9dd7d0f29348e8e86c7ae930939e7684c0e",
+  "manifest_schema_version": 1,
+  "package": "surface-catalysis",
+  "premises": [
+    {
+      "content": "For CO chemisorption on late transition-metal surfaces, the gas-phase CO singlet-triplet excitation energy DeltaE_ST (5sigma → 2pi* excitation, experimentally benchmarked at 6.095 eV) is closely related to the energetic position of the CO 2pi* orbital relative to the substrate Fermi level — the GGA functional underestimates DeltaE_ST because it places the 2pi* orbital too low, and this gas-phase error correlates with the GGA overbinding error on the surface through the proportionality between DeltaE_ST and 2pi*-Fermi-level alignment.",
+      "content_hash": "3be36de90a2c99515f73bf74f5c7e5f46a82973f74d34661c54d0d1a5a52b616",
+      "exported": false,
+      "interface_hash": "sha256:d4ec10f63243d309a96e12a1f18cf3a6cce0e70eac9961989a5a8a7e79530d1d",
+      "label": "co_2pi_mechanism",
+      "qid": "github:surface_catalysis::co_2pi_mechanism",
+      "required_by": [
+        "github:surface_catalysis::root_correction_method"
+      ],
+      "role": "local_hole"
+    },
+    {
+      "content": "Applying the post-DFT singlet-triplet extrapolation correction to the set of high-symmetry adsorption-site chemisorption energies for CO on a given metal surface reduces the computed energetic spread (range) of chemisorption energies across sites, systematically narrowing the site-energy distribution compared to uncorrected GGA.",
+      "content_hash": "6cc0bb81e2687f274ea7880c0af4b3e8514161765991d1a7c96f36c0885cd0d4",
+      "exported": false,
+      "interface_hash": "sha256:7e383b1ecf836c0f6be3da3c792efe8333b613198e7cf6ecab9078772ed5e03b",
+      "label": "correction_reduces_site_spread",
+      "qid": "github:surface_catalysis::correction_reduces_site_spread",
+      "required_by": [
+        "github:surface_catalysis::root_correction_method"
+      ],
+      "role": "local_hole"
+    },
+    {
+      "content": "The GGA self-interaction error in plane-wave DFT calculations on transition-metal surfaces places the unoccupied CO 2pi* orbital too low in energy with respect to the substrate Fermi level, and this orbital energy misplacement is the principal electronic-structure origin of the GGA error in CO chemisorption energies.",
+      "content_hash": "a299cae1be1d56f4e661b630c3bd576738ef1d878ca454e0d85cccdbc8a291f5",
+      "exported": true,
+      "interface_hash": "sha256:20274262c87a66b62b927926a450b7d8f23e98952c16d96c0db6b8a2a454d41f",
+      "label": "gga_2pi_too_low",
+      "qid": "github:surface_catalysis::gga_2pi_too_low",
+      "required_by": [
+        "github:surface_catalysis::root_correction_method"
+      ],
+      "role": "local_hole"
+    },
+    {
+      "content": "Hybrid functionals (PBE0, HSE03) shift the CO adsorption energy toward weaker binding on Pt(111) but toward stronger binding on Cu(111), revealing that the direction of the hybrid correction relative to GGA is not consistent across different transition metals.",
+      "content_hash": "c5c1f1da3443e2c6d85f9d59b8fae6df4544b87baf10d7533e11583678d794a5",
+      "exported": true,
+      "interface_hash": "sha256:c64d8247a6a48a2ae3a441efd7d662064750f387479c156a3b0fdc798eabdee1",
+      "label": "hybrid_direction_inconsistent",
+      "qid": "github:surface_catalysis::hybrid_direction_inconsistent",
+      "required_by": [
+        "github:surface_catalysis::hybrid_limitation"
+      ],
+      "role": "local_hole"
+    },
+    {
+      "content": "The magnitude of the shift in CO adsorption energy caused by switching from GGA to hybrid functionals (PBE0, HSE03) varies significantly across transition-metal substrates: for Cu(111) the shift is only ~0.2 eV, for Pt(111) it reaches up to ~0.4 eV, and for Ru(0001) it is ~0.25-0.45 eV — meaning the hybrid correction is not a uniform shift across metals.",
+      "content_hash": "15d5a6b0ce7cb6ba325eb59e223473dc94c2fe15454c41c495642bb25eeae7d1",
+      "exported": false,
+      "interface_hash": "sha256:b351cfdf2cbc2c9d3a18d9ce4460f1a0b7ff082a81cd548702adb84b43109a88",
+      "label": "hybrid_magnitude_nonuniform",
+      "qid": "github:surface_catalysis::hybrid_magnitude_nonuniform",
+      "required_by": [
+        "github:surface_catalysis::hybrid_limitation"
+      ],
+      "role": "local_hole"
+    },
+    {
+      "content": "Applying the Mason et al. extrapolation correction for known DFT errors in CO chemisorption energies to Pt/alpha-Al2O3 slab calculations reduces the systematic DFT error to an estimated uncertainty of approximately 0.02 eV, demonstrating that the correction method is effective for supported-metal catalyst models beyond the single-crystal surfaces on which it was originally parameterized.",
+      "content_hash": "434274b62721004f5e7c7dfb15fd97c234879eeb1d5b3a86acefe8be0766e332",
+      "exported": false,
+      "interface_hash": "sha256:3275bf791c09a074b1788db08422e16214a37581fd167f7448e760f8fe294a8c",
+      "label": "mason_validation_pt_al2o3",
+      "qid": "github:surface_catalysis::mason_validation_pt_al2o3",
+      "required_by": [
+        "github:surface_catalysis::root_correction_method"
+      ],
+      "role": "local_hole"
+    },
+    {
+      "content": "Across a set of electronic-structure calculations yielding pairs (DeltaE_T-S, E_CO^a) for CO on Pd model systems computed with diverse methods spanning plane-wave slab PBE, plane-wave slab HSE06, plane-wave cluster PBE, plane-wave cluster HSE06, localized-basis HF, PBE, PBE0, and CR-CC(2,3) on finite Pd clusters, the linear correlation between the gas-phase CO singlet-triplet splitting and the chemisorption energy is tested across a much wider range of DeltaE_ST values than in the original Mason study, providing a multi-method validation of the fundamental linear-mapping hypothesis.",
+      "content_hash": "133bbf365e949b86c70ed271c6800c754e3570b5eb1f122008546a1591528751",
+      "exported": false,
+      "interface_hash": "sha256:39921b43dfebf6f10886a298bf69551c4a4fac1d69bfefd0112318f0c03c7f2a",
+      "label": "method_cross_comparison",
+      "qid": "github:surface_catalysis::method_cross_comparison",
+      "required_by": [
+        "github:surface_catalysis::root_correction_method"
+      ],
+      "role": "local_hole"
+    },
+    {
+      "content": "The gas-phase CO singlet-triplet excitation energy benchmark value DeltaE_ST^CI = 6.095 eV, obtained from coupled-cluster and large configuration-interaction (CC/CI) calculations that reproduce the experimental value, is the appropriate target for correcting DFT-GGA surface chemisorption energies — that is, metal-induced polarization, image-charge stabilization, substrate screening, and chemical shifts of molecular excitation energies in the chemisorbed geometry do not substantially change the reference singlet-triplet energy needed for the linear correction along the DFT-GGA mapping.",
+      "content_hash": "04807bb37b1bf8ec4f53f3705e95806a16e1e804bc16abfcc3b0d1ef98ed2237",
+      "exported": false,
+      "interface_hash": "sha256:94105b9928c551279509a6c34ad2522750e1b37e4bc63ace7dce70240bc1dcfa",
+      "label": "prem_benchmark_valid",
+      "qid": "github:surface_catalysis::prem_benchmark_valid",
+      "required_by": [
+        "github:surface_catalysis::root_correction_method"
+      ],
+      "role": "local_hole"
+    },
+    {
+      "content": "The empirical linear relation E_chem^GGA = E_0 + m * DeltaE_ST^GGA obtained from DFT-GGA pseudopotential sampling over the interval DeltaE_ST^GGA in [5.35, 5.84] eV remains valid when the independent variable is shifted to the CC/CI benchmark value DeltaE_ST^CI = 6.095 eV — i.e., no significant nonlinearity or change in slope m occurs between the sampled DFT-GGA points and the CI target.",
+      "content_hash": "2c7bef412a3940d08dfddd0879797bdf04613e5926a6e0e24b245ffad254feac",
+      "exported": false,
+      "interface_hash": "sha256:e8b0f16e5a223925728a44d42de3d3d6afb189e5aa20fde3f21e2f6da06b8a3e",
+      "label": "prem_extrapolation_valid",
+      "qid": "github:surface_catalysis::prem_extrapolation_valid",
+      "required_by": [
+        "github:surface_catalysis::root_correction_method"
+      ],
+      "role": "local_hole"
+    },
+    {
+      "content": "The nonlocal van der Waals density functional variant optB86b-vdW predicts larger CO adsorption energies than semi-local GGA but can yield adsorption geometries that differ markedly from experiment and from GGA-predicted geometries, indicating that vdW-inclusive functionals do not simply add a uniform attractive correction but can alter the potential-energy surface and site preferences in ways that are not yet fully understood.",
+      "content_hash": "d66006c8b6518eb12cc57ff8fe5c59c05c0ea2979a9783e5652a10470a5f3c3e",
+      "exported": false,
+      "interface_hash": "sha256:3b91e6b7bcaf5f04a759b8b0f1b9f2cf8262552634ac4bf9e30ac3528d3ddfd2",
+      "label": "vdw_geometry_issues",
+      "qid": "github:surface_catalysis::vdw_geometry_issues",
+      "required_by": [
+        "github:surface_catalysis::vdw_effect_co"
+      ],
+      "role": "local_hole"
+    }
+  ],
+  "version": "1.0.0"
+}

@@ -1,0 +1,57 @@
+{
+  "exports": [
+    {
+      "content": "Reflection-absorption infrared spectroscopy (RAIRS) and sum-frequency generation (SFG) spectroscopy give qualitatively different coverage dependences for the C-O stretch of CO adsorbed in atop sites on transition-metal surfaces, meaning that experimental determination of the most stable CO adsorption site — the quantity that DFT site-preference predictions aim to reproduce — depends on the spectroscopic method used and on the coverage regime probed.",
+      "content_hash": "d57ea279e12027e41f085f71bb6989f7e7edea90d41515aa1b66535fcde51bf9",
+      "label": "experimental_site_methods",
+      "qid": "github:surface_catalysis::experimental_site_methods",
+      "type": "claim"
+    },
+    {
+      "content": "The GGA self-interaction error in plane-wave DFT calculations on transition-metal surfaces places the unoccupied CO 2pi* orbital too low in energy with respect to the substrate Fermi level, and this orbital energy misplacement is the principal electronic-structure origin of the GGA error in CO chemisorption energies.",
+      "content_hash": "a299cae1be1d56f4e661b630c3bd576738ef1d878ca454e0d85cccdbc8a291f5",
+      "label": "gga_2pi_too_low",
+      "qid": "github:surface_catalysis::gga_2pi_too_low",
+      "type": "claim"
+    },
+    {
+      "content": "A second, independent systematic contribution to errors in GGA-calculated oxidation energies for 3d transition metal oxides arises from the GGA underestimation of the HOMO-LUMO gap in the oxide itself — this error is distinct from the molecular-reference (O2) error and reflects GGA's fundamental band-gap problem in strongly correlated oxide materials.",
+      "content_hash": "bc4c5093d5a0b008a6032f536c8eb6e767e6d39777cd15d245abbe2009cad719",
+      "label": "gga_oxide_gap_error",
+      "qid": "github:surface_catalysis::gga_oxide_gap_error",
+      "type": "claim"
+    },
+    {
+      "content": "Hybrid functionals (PBE0, HSE03) shift the CO adsorption energy toward weaker binding on Pt(111) but toward stronger binding on Cu(111), revealing that the direction of the hybrid correction relative to GGA is not consistent across different transition metals.",
+      "content_hash": "c5c1f1da3443e2c6d85f9d59b8fae6df4544b87baf10d7533e11583678d794a5",
+      "label": "hybrid_direction_inconsistent",
+      "qid": "github:surface_catalysis::hybrid_direction_inconsistent",
+      "type": "claim"
+    },
+    {
+      "content": "The inclusion of a fraction of exact nonlocal exchange via the PBE0 and HSE03 hybrid functionals in plane-wave periodic-slab DFT calculations does not produce a uniform improvement in agreement with experimental CO adsorption energies across different transition-metal substrates: for Cu(111) the hybrid functionals give adsorption energies that differ from the GGA result by only ~0.2 eV (on-top vs. hollow), whereas for Pt(111) and Ru(0001) the hybrid-GGA differences can reach 0.4 eV and 0.25-0.45 eV respectively, and the direction of the correction is not consistent across metals — hybrid functionals shift the CO/Pt(111) adsorption energy toward weaker binding but shift CO/Cu(111) toward stronger binding.",
+      "content_hash": "a0f08aad4158e9809c7700986f2b43a2fd44780f65e79c5e7e4c1ceaff799e95",
+      "label": "hybrid_limitation",
+      "qid": "github:surface_catalysis::hybrid_limitation",
+      "type": "claim"
+    },
+    {
+      "content": "The DFT-GGA chemisorption energy for CO on a metal surface at a given adsorption site and substrate can be corrected to a first-principles benchmark using a linear extrapolation based on the gas-phase CO singlet-triplet excitation energy [@mason2003]: E_chem^corr = E_chem^GGA + (DeltaE_ST^CI - DeltaE_ST^GGA) * m, where DeltaE_ST^CI = 6.095 eV is the CC/CI benchmark singlet-triplet splitting, DeltaE_ST^GGA is the DFT-GGA value computed with the same pseudopotential set used for the surface calculation, and m = dE_chem^GGA / dDeltaE_ST^GGA is the slope of the DFT-GGA linear fit determined for that specific adsorption site and metal surface.",
+      "content_hash": "9052d9d9221bbb9ff7e2062910ea85800db047a3660468cbfc1b6a2c1a5fef3e",
+      "label": "root_correction_method",
+      "qid": "github:surface_catalysis::root_correction_method",
+      "type": "claim"
+    },
+    {
+      "content": "For CO adsorption on metal surfaces at 0.1 ML coverage, dispersion-inclusive exchange-correlation treatments predict significantly larger adsorption energies than semi-local GGA: vdW-DF predicts 363 meV versus PBE (dispersion-free) at 247 meV for the C-bound adsorption geometry — a difference of ~116 meV from van der Waals interactions alone, which is comparable in magnitude to the GGA singlet-triplet correction and represents a separate, additive source of DFT error not addressed by the Mason extrapolation method.",
+      "content_hash": "a83e59a4dd35454dbbad7ab325ce4563ead8c4f0b4ae0439c9529a84d54ab898",
+      "label": "vdw_effect_co",
+      "qid": "github:surface_catalysis::vdw_effect_co",
+      "type": "claim"
+    }
+  ],
+  "ir_hash": "sha256:94f16f4e1e0cec538c834cd9b5eae9dd7d0f29348e8e86c7ae930939e7684c0e",
+  "manifest_schema_version": 1,
+  "package": "surface-catalysis",
+  "version": "1.0.0"
+}

@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Across the complete dataset of 21 computed surface hydrogenation reactions (three atomic reactants C, N, O each on seven 4d metal surfaces), the activation barrier E_a (energy difference from adsorbed reactant+H initial state to transition state, in eV) and the reaction potential energy ΔE (energy change from adsorbed reactant+H initial state to adsorbed product final state, in eV) follow an approximately linear Brønsted–Evans–Polanyi (BEP) relation well described by E_a = 0.8 ΔE + 1.1 (both energies in eV), and an ordinary-least-squares linear fit to all 21 data pairs yields a correlation coefficient R^2 ≈ 0.90.",
+      "content_hash": "08d5395b91966b3ed66018c626ac267452bdf8a59a45d46adf7458f20b1dafaf",
+      "id": "gcn_33c0cadc71de4607",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Across the complete dataset of 21 computed surface hydrogenation reactions (three atomic reactants C, N, O each on seven 4d metal surfaces), the activation barrier E_a (energy difference from adsorbed reactant+H initial state to transition state, in eV) and the reaction potential energy ΔE (energy change from adsorbed reactant+H initial state to adsorbed product final state, in eV) follow an approximately linear Brønsted–Evans–Polanyi (BEP) relation well described by E_a = 0.8 ΔE + 1.1 (both energies in eV), and an ordinary-least-squares linear fit to all 21 data pairs yields a correlation coefficient R^2 ≈ 0.90.",
+              "id": "gcn_33c0cadc71de4607"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_53f6df1197de4c9b",
+            "premises": [
+              {
+                "content": "For the full set of 21 data pairs (ΔE, E_a) obtained for the three reactants across the seven surfaces, an ordinary-least-squares linear regression yields the fitted relation E_a = 0.8 ΔE + 1.1 with coefficient of determination R^2 ≈ 0.90; this proposition asserts that this linear model is an adequate empirical summary of the dominant linear component of the correlation between reaction energies and barriers for these atomic hydrogenation events and is not unduly biased by single outliers or heteroscedasticity so as to be misleading for trend description.",
+                "id": "gcn_db16c4b34f01423d"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "State as known the upstream results: the full set of 21 computed pairs $(\\Delta E, E_\\text{a})$ (three reactants × seven metals) are available from conclusions 1 and 2 (Tables 1 and 2 / Figures 1 and 2).\nTable 1, Table 2, Fig. 1, Fig. 2",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Report the empirical linear Bronsted–Evans–Polanyi (BEP)-like relation obtained by linear regression of the 21 points: $E_\\text{a} = 0.8\\Delta E + 1.1$, where $E_\\text{a}$ and $\\Delta E$ are in eV; the linear fit to all 21 points yields a correlation coefficient $R^2 \\approx 0.90$, indicating a reasonably tight overall linear relationship with moderate scatter.\nFig. 3(a)",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Note that the paper comments that although the overall relation is reasonably good ($R^2 \\sim 0.9$), there is moderate scatter about the fitted line and that reactant-specific deviations exist; thus the global BEP-like relation is an approximately linear descriptor of the kinetics from thermochemistry across the dataset, but it does not capture all reactant-dependent variability.",
+                "step_id": "3"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Although BEP relationships are known for many surface bond-breaking reactions, it was unclear whether a single, approximately linear BEP relation holds for atomic hydrogenation events (bond formation) across an entire 4d series and for reactants of differing valency. Without a tested global relation of $E_\\text{a}$ vs $\\Delta E$ one cannot readily predict kinetic barriers from thermochemistry or rationalize which deviations from BEP arise from reactant properties or metal electronic structure.",
+            "id": "paper:811867652405329920::conclusion_6_subproblem",
+            "source_package": "paper:811867652405329920"
+          }
+        ],
+        "source_package": "paper:811867652405329920"
+      }
+    ],
+    "papers": {
+      "paper:811867652405329920": {
+        "area": "Chemistry",
+        "authors": "Paul Crawford | Bronagh McAllister | P. Hu",
+        "available_online": "2009-3-9",
+        "cover_date_start": "2009-03-09",
+        "created_at": "2022-12-19T23:52:12+08:00",
+        "doi": "10.1021/jp805244k",
+        "en_title": "Insights into the Staggered Nature of Hydrogenation Reactivity over the 4d Transition Metals",
+        "id": "811867652405329920",
+        "keywords": "",
+        "publication_date": "2009-4-2",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "关于4d过渡金属上氢化反应交错性质的见解"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "72f60e5fab38687166f0e2b76303b898"
+}

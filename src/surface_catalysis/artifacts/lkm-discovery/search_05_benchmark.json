@@ -1,0 +1,679 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811142097196285955": {
+        "area": "Material science",
+        "authors": "Xuan Yang | Luke T. Roling | Madeline Vara | Ahmed O. Elnabawy | Ming Zhao | Zachary D. Hood | Shixiong Bao | Manos Mavrikakis | Younan Xia",
+        "available_online": "2016-9-26",
+        "cover_date_start": "2016-09-26",
+        "created_at": "2022-12-17T23:49:08+08:00",
+        "doi": "10.1021/acs.nanolett.6b03395",
+        "en_title": "Synthesis and Characterization of Pt–Ag Alloy Nanocages with Enhanced Activity and Durability toward Oxygen Reduction",
+        "id": "811142097196285955",
+        "keywords": "",
+        "publication_date": "2016-10-12",
+        "publication_id": "2026",
+        "publication_name": "Nano Letters _ Nano Lett.",
+        "research_categories": "",
+        "zh_title": "具有增强的氧还原活性和耐久性的铂银合金纳米笼的合成与表征"
+      },
+      "paper:812115896687394819": {
+        "area": "Chemistry",
+        "authors": "Sara E. Mason | Ilya Grinberg | Andrew M. Rappe",
+        "available_online": "2006-1-31",
+        "cover_date_start": "2006-01-31",
+        "created_at": "2022-12-20T16:18:38+08:00",
+        "doi": "10.1021/jp0548669",
+        "en_title": "Adsorbate−Adsorbate Interactions and Chemisorption at Different Coverages Studied by Accurate ab initio Calculations: CO on Transition Metal Surfaces",
+        "id": "812115896687394819",
+        "keywords": "",
+        "publication_date": "2006-3-1",
+        "publication_id": "3453",
+        "publication_name": "The Journal of Physical Chemistry B _ J. Phys. Chem. B",
+        "research_categories": "",
+        "zh_title": "通过精确的从头算计算研究不同覆盖度下吸附质 - 吸附质相互作用和化学吸附：过渡金属表面上的CO"
+      },
+      "paper:812278399597805569": {
+        "area": "Geoscience",
+        "authors": "J. K. Noerskov | T. Bligaard | A. Logadottir | J. R. Kitchin | J. G. Chen | S. Pandelov | U. Stimming",
+        "available_online": "",
+        "cover_date_start": "2005-06-14",
+        "created_at": "2022-12-21T03:04:22+08:00",
+        "doi": "10.1002/chin.200524023",
+        "en_title": "Trends in the Exchange Current for Hydrogen Evolution.",
+        "id": "812278399597805569",
+        "keywords": "",
+        "publication_date": "2005-6-14",
+        "publication_id": "15191",
+        "publication_name": "ChemInform _ ChemInform",
+        "research_categories": "[\"Creative Arts and Writing\", \"Screen and Digital Media\", \"Earth Sciences\", \"Atmospheric Sciences\", \"Geology\", \"Philosophy and Religious Studies\", \"Philosophy\"]",
+        "zh_title": "析氢交换电流的趋势"
+      },
+      "paper:812453975289757696": {
+        "area": "Chemistry",
+        "authors": "J.K. Nørskov | T. Bligaard | A. Logadottir | S. Bahn | L.B. Hansen | M. Bollinger | H. Bengaard | B. Hammer | Z. Sljivancanin | M. Mavrikakis | Y. Xu | S. Dahl | C.J.H. Jacobsen",
+        "available_online": "",
+        "cover_date_start": "2002-07-01",
+        "created_at": "2022-12-21T14:42:03+08:00",
+        "doi": "10.1006/jcat.2002.3615",
+        "en_title": "Universality in Heterogeneous Catalysis",
+        "id": "812453975289757696",
+        "keywords": "",
+        "publication_date": "2002-7",
+        "publication_id": "3381",
+        "publication_name": "Journal of Catalysis _ Journal of Catalysis",
+        "research_categories": "",
+        "zh_title": "多相催化中的普适性"
+      },
+      "paper:812506647149674496": {
+        "area": "Chemistry",
+        "authors": "Aref Aasi | Sadegh Mehdi Aghaei | Balaji Panchapakesan",
+        "available_online": "2021-2-5",
+        "cover_date_start": "2021-02-05",
+        "created_at": "2022-12-21T18:11:21+08:00",
+        "doi": "10.1021/acsomega.0c05495",
+        "en_title": "Outstanding Performance of Transition-Metal-Decorated Single-Layer Graphene-like BC 6 N Nanosheets for Disease Biomarker Detection in Human Breath",
+        "id": "812506647149674496",
+        "keywords": "",
+        "publication_date": "2021-2-23",
+        "publication_id": "3485",
+        "publication_name": "ACS Omega _ ACS Omega",
+        "research_categories": "",
+        "zh_title": "过渡金属修饰的单层类石墨烯BC₆N纳米片在人体呼出气体疾病生物标志物检测中的卓越性能"
+      },
+      "paper:812508293376245761": {
+        "area": "Material science",
+        "authors": "Hai-Cai Huang | Jun Li | Yang Zhao | Jing Chen | Yu-Xiang Bu | Shi-Bo Cheng",
+        "available_online": "2021",
+        "cover_date_start": "2021-01-01",
+        "created_at": "2022-12-21T18:17:54+08:00",
+        "doi": "10.1039/d0ta12567a",
+        "en_title": "Adsorption energy as a promising single-parameter descriptor for single atom catalysis in the oxygen evolution reaction",
+        "id": "812508293376245761",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ J. Mater. Chem. A",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "吸附能作为析氧反应中单原子催化一个有前景的单参数描述符"
+      },
+      "paper:812570431281168385": {
+        "area": "Chemistry",
+        "authors": "Wenjun Liu | Dewei Rao | Jian Bao | Li Xu | Yucheng Lei | Huaming Li",
+        "available_online": "",
+        "cover_date_start": "2021-06-01",
+        "created_at": "2022-12-21T22:24:49+08:00",
+        "doi": "10.1016/j.jechem.2020.08.066",
+        "en_title": "Strong coupled spinel oxide with N-rGO for high-efficiency ORR/OER bifunctional electrocatalyst of Zn-air batteries",
+        "id": "812570431281168385",
+        "keywords": "[{\"en_name\": \"Bifunctional catalyst\", \"ch_name\": \"\"}, {\"en_name\": \"Spinel structure\", \"ch_name\": \"\"}, {\"en_name\": \"Strong Co-N interaction\", \"ch_name\": \"\"}, {\"en_name\": \"Synergistic effect\", \"ch_name\": \"\"}, {\"en_name\": \"Zn-air battery\", \"ch_name\": \"\"}]",
+        "publication_date": "2021-6",
+        "publication_id": "3366",
+        "publication_name": "Journal of Energy Chemistry _ Journal of Energy Chemistry",
+        "research_categories": "",
+        "zh_title": "用于锌空气电池高效氧还原反应/析氧反应双功能电催化剂的具有氮掺杂还原氧化石墨烯的强耦合尖晶石氧化物"
+      },
+      "paper:812738086235537409": {
+        "area": "Chemistry",
+        "authors": "Xinyu Li | Raymond Chiong | Zhongyi Hu | David Cornforth | Alister J. Page",
+        "available_online": "2019-9-10",
+        "cover_date_start": "2019-09-10",
+        "created_at": "2022-12-22T09:31:01+08:00",
+        "doi": "10.1021/acs.jctc.9b00420",
+        "en_title": "Improved Representations of Heterogeneous Carbon Reforming Catalysis Using Machine Learning",
+        "id": "812738086235537409",
+        "keywords": "",
+        "publication_date": "2019-12-10",
+        "publication_id": "3358",
+        "publication_name": "Journal of Chemical Theory and Computation _ J. Chem. Theory Comput.",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "使用机器学习改进多相碳重整催化的表征"
+      },
+      "paper:813031326369185793": {
+        "area": "Material science",
+        "authors": "Baocang Liu | Huan Li | Bo Cao | Jianing Jiang | Rui Gao | Jun Zhang",
+        "available_online": "2018-5-28",
+        "cover_date_start": "2018-05-28",
+        "created_at": "2022-12-23T04:56:14+08:00",
+        "doi": "10.1002/adfm.201801527",
+        "en_title": "Few Layered N, P Dual-Doped Carbon-Encapsulated Ultrafine MoP Nanocrystal/MoP Cluster Hybrids on Carbon Cloth: An Ultrahigh Active and Durable 3D Self-Supported Integrated Electrode for Hydrogen Evolution Reaction in a Wide pH Range",
+        "id": "813031326369185793",
+        "keywords": "[{\"en_name\": \"few layered N\", \"ch_name\": \"\"}, {\"en_name\": \"hydrogen evolution reaction\", \"ch_name\": \"\"}, {\"en_name\": \"MoP nanocrystal/MoP cluster hybrids\", \"ch_name\": \"\"}, {\"en_name\": \"P dual-doped carbon\", \"ch_name\": \"\"}, {\"en_name\": \"self-supported integrated electrodes\", \"ch_name\": \"\"}]",
+        "publication_date": "2018-7",
+        "publication_id": "2023",
+        "publication_name": "Advanced Functional Materials _ Adv. Funct. Mater.",
+        "research_categories": "",
+        "zh_title": "碳布上的少层氮、磷双掺杂碳包覆超细MoP纳米晶体/MoP团簇杂化物：一种用于宽pH范围内析氢反应的超高活性和耐用的三维自支撑集成电极"
+      },
+      "paper:813301714722488323": {
+        "area": "Physics and Astrophysics",
+        "authors": "Jess Wellendorff | Keld T. Lundgaard | Andreas Møgelhøj | Vivien Petzold | David D. Landis | Jens K. Nørskov | Thomas Bligaard | Karsten W. Jacobsen",
+        "available_online": "2012-6-27",
+        "cover_date_start": "2012-06-27",
+        "created_at": "2022-12-23T22:50:40+08:00",
+        "doi": "10.1103/physrevb.85.235149",
+        "en_title": "Density functionals for surface science: Exchange-correlation model development with Bayesian error estimation",
+        "id": "813301714722488323",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "表面科学中的密度泛函：基于贝叶斯误差估计的交换关联模型开发"
+      },
+      "paper:814530519206199297": {
+        "area": "Chemistry",
+        "authors": "Jian Zhang | Tao Wang | Darius Pohl | Bernd Rellinghaus | Renhao Dong | Shaohua Liu | Xiaodong Zhuang | Xinliang Feng",
+        "available_online": "2016-4-21",
+        "cover_date_start": "2016-04-21",
+        "created_at": "2022-12-27T08:13:30+08:00",
+        "doi": "10.1002/anie.201602237",
+        "en_title": "Interface Engineering of MoS 2 /Ni 3 S 2 Heterostructures for Highly Enhanced Electrochemical Overall-Water-Splitting Activity",
+        "id": "814530519206199297",
+        "keywords": "[{\"en_name\": \"electrocatalysts\", \"ch_name\": \"\"}, {\"en_name\": \"interface engineering\", \"ch_name\": \"\"}, {\"en_name\": \"molybdenum disulfide\", \"ch_name\": \"\"}, {\"en_name\": \"nickel sulfide\", \"ch_name\": \"\"}, {\"en_name\": \"water splitting\", \"ch_name\": \"\"}]",
+        "publication_date": "2016-6-1",
+        "publication_id": "3347",
+        "publication_name": "Angewandte Chemie International Edition _ Angew. Chem. Int. Ed.",
+        "research_categories": "",
+        "zh_title": "用于高度增强电化学全水分解活性的MoS₂/Ni₃S₂异质结构的界面工程"
+      },
+      "paper:814594270978637824": {
+        "area": "Material science",
+        "authors": "Tao Liang | Guangyu He | Guowei Huang | Yuhan Kong | Weifei Fu | Hongzheng Chen | Qi Wang | Hideo Iwai | Daisuke Fujita | Yingchun Liu | Mingsheng Xu",
+        "available_online": "2015-9-23",
+        "cover_date_start": "2015-09-23",
+        "created_at": "2022-12-27T12:26:50+08:00",
+        "doi": "10.1002/adma.201501473",
+        "en_title": "Graphene Nucleation Preferentially at Oxygen-Rich Cu Sites Rather Than on Pure Cu Surface",
+        "id": "814594270978637824",
+        "keywords": "[{\"en_name\": \"chemical vapor deposition\", \"ch_name\": \"\"}, {\"en_name\": \"copper\", \"ch_name\": \"\"}, {\"en_name\": \"density functional theory calculations\", \"ch_name\": \"\"}, {\"en_name\": \"graphene\", \"ch_name\": \"\"}, {\"en_name\": \"oxygen\", \"ch_name\": \"\"}]",
+        "publication_date": "2015-11",
+        "publication_id": "2016",
+        "publication_name": "Advanced Materials _ Adv. Mater.",
+        "research_categories": "",
+        "zh_title": "石墨烯优先在富氧铜位点而非纯铜表面成核"
+      },
+      "paper:814644017600921600": {
+        "area": "Material science",
+        "authors": "Huilong Dong | Keith Gilmore | Bin Lin | Tingjun Hou | Shuit-Tong Lee | Zhenyu Guo | Youyong Li",
+        "available_online": "",
+        "cover_date_start": "2015-08-01",
+        "created_at": "2022-12-27T15:44:30+08:00",
+        "doi": "10.1016/j.carbon.2015.03.046",
+        "en_title": "Adsorption of metal adatom on nanographene: Computational investigations",
+        "id": "814644017600921600",
+        "keywords": "",
+        "publication_date": "2015-8",
+        "publication_id": "2058",
+        "publication_name": "Carbon _ Carbon",
+        "research_categories": "",
+        "zh_title": "金属吸附原子在纳米石墨烯上的吸附：计算研究"
+      },
+      "paper:814689367401431040": {
+        "area": "Chemistry",
+        "authors": "Hongjiao Li | Yongdan Li | Marc T. M. Koper | Federico Calle-Vallejo",
+        "available_online": "2014-10-28",
+        "cover_date_start": "2014-10-28",
+        "created_at": "2022-12-27T18:44:43+08:00",
+        "doi": "10.1021/ja508649p",
+        "en_title": "Bond-Making and Breaking between Carbon, Nitrogen, and Oxygen in Electrocatalysis",
+        "id": "814689367401431040",
+        "keywords": "",
+        "publication_date": "2014-11-5",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "电催化中碳、氮和氧之间的成键与断键"
+      },
+      "paper:867753221995627343": {
+        "area": "arXiv-Physics",
+        "authors": "Vikram Mahamiya | Alok Shukla | Brahmananda Chakraborty",
+        "available_online": "",
+        "cover_date_start": "2021-12-14",
+        "created_at": "2023-05-23T05:01:30+08:00",
+        "doi": "10.48550/arXiv.2112.07151",
+        "en_title": "Exploring yttrium doped C$_{24}$ fullerene as a high-capacity reversible hydrogen storage material: DFT investigations",
+        "id": "867753221995627343",
+        "keywords": "",
+        "publication_date": "2021-12-14",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "探索钇掺杂的C$_{24}$富勒烯作为一种高容量可逆储氢材料：密度泛函理论研究"
+      },
+      "paper:867753401901908500": {
+        "area": "arXiv-Physics",
+        "authors": "Ilya Grinberg | Yashar Yourdshahyan | Andrew M. Rappe",
+        "available_online": "",
+        "cover_date_start": "2001-12-07",
+        "created_at": "2023-05-23T05:02:13+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0112123",
+        "en_title": "CO on Pt(111) puzzle; A possible solution",
+        "id": "867753401901908500",
+        "keywords": "",
+        "publication_date": "2001-12-07",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "铂（111）表面一氧化碳吸附问题；一种可能的解决方案"
+      },
+      "paper:867760677031248080": {
+        "area": "arXiv-Physics",
+        "authors": "D.W.Yuan | X.G. Gong | Ruqian Wu",
+        "available_online": "",
+        "cover_date_start": "2007-01-31",
+        "created_at": "2023-05-23T05:31:08+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0701769",
+        "en_title": "Composition and reactivity on Pd/Au(111) surface: A first-principle study",
+        "id": "867760677031248080",
+        "keywords": "",
+        "publication_date": "2007-01-31",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "Pd/Au(111)表面的组成与反应活性：第一性原理研究"
+      },
+      "paper:867767318044738213": {
+        "area": "arXiv-Physics",
+        "authors": "Sara E. Mason | Ilya Grinberg | Andrew M. Rappe",
+        "available_online": "",
+        "cover_date_start": "2003-10-29",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0310688",
+        "en_title": "First-principles extrapolation method for accurate CO adsorption energies on metal surfaces",
+        "id": "867767318044738213",
+        "keywords": "",
+        "publication_date": "2003-10-29",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "用于精确计算金属表面CO吸附能的第一性原理外推方法"
+      }
+    },
+    "variables": [
+      {
+        "content": "The proposition: for single-carbon-atom chemisorption on metallic and oxygen-perturbed copper surfaces computed with plane-wave, pseudopotential Kohn–Sham DFT using the Perdew–Burke–Ernzerhof (PBE) generalized-gradient-approximation (GGA) exchange–correlation functional (PBE-GGA) and conventional convergence parameters, the adsorption energy defined as E_ads = E_slab+ C - E_slab - E_C,ref provides a chemically meaningful binding-energy measure and the typical combined functional and methodological uncertainty of such PBE-GGA plane-wave calculations for chemisorption on transition-metal surfaces is on the order of ±0.2 eV, so that relative adsorption-energy differences substantially larger than ~0.2 eV can be regarded as robust within this uncertainty estimate.",
+        "content_hash": "cd8289f965e796e30d84f15d19014c14ff9e57a16218932a5faff0a5a0b215dd",
+        "id": "gcn_faa5af755c414302",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814594270978637824::P2",
+            "package_id": "paper:814594270978637824",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814594270978637824"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031009615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "If, for a given adsorption site and substrate, the DFT-GGA relation between the chemisorption energy $E_{\\mathrm{chem}}^{\\mathrm{GGA}}$ and the DFT-GGA gas-phase singlet–triplet splitting $ \\Delta E_{S-T}^{\\mathrm{GGA}}$ is accurately described by a linear function $E_{\\mathrm{chem}}^{\\mathrm{GGA}}=E_{0}+m\\,\\Delta E_{S-T}^{\\mathrm{GGA}}$ over the interval from the sampled DFT-GGA $ \\Delta E_{S-T}^{\\mathrm{GGA}}$ values to the high-level quantum-chemistry benchmark $ \\Delta E_{S-T}^{\\mathrm{CI}}$, then multiplying the difference $(\\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}})$ by the slope $m$ provides a valid first-principles correction to the DFT-GGA surface chemisorption energy, yielding $E_{\\mathrm{chem}}^{\\mathrm{corr}}=E_{\\mathrm{chem}}^{\\mathrm{GGA}}+(\\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}})\\,m$; this proposition further assumes that the electronic-structure discrepancy between DFT-GGA and CC/CI that manifests in the gas-phase $ \\Delta E_{S-T}$ maps linearly onto the bonding descriptors that control surface chemisorption for the adsorption geometry considered.",
+        "content_hash": "1dc3b35c5c7343a504493154edea258e91b70abaadbfac5320725615cbb0312f",
+        "id": "gcn_2ca0860e6ab04204",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044738213::P4",
+            "package_id": "paper:867767318044738213",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044738213"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030886196246139225,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DFT-GGA chemisorption energy $E_{\\mathrm{chem}}^{\\mathrm{GGA}}$ for CO at a given adsorption site and substrate can be corrected to a first-principles benchmark by shifting it along the site- and substrate-specific linear relation $E_{\\mathrm{chem}}^{\\mathrm{GGA}}=E_{0}+m\\,\\Delta E_{S-T}^{\\mathrm{GGA}}$ to the gas-phase singlet–triplet target value obtained from high-level wavefunction calculations; explicitly, the corrected chemisorption energy is given by $E_{\\mathrm{chem}}^{\\mathrm{corr}}=E_{\\mathrm{chem}}^{\\mathrm{GGA}}+\\left(\\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}}\\right)\\,m$, where $\\Delta E_{S-T}^{\\mathrm{CI}}$ is the coupled-cluster/configuration-interaction (CC/CI) benchmark singlet–triplet splitting for gas-phase CO (coupled-cluster and large configuration-interaction calculations reproduce the experimental value $6.095\\,$eV within their stated uncertainties), $\\Delta E_{S-T}^{\\mathrm{GGA}}$ is the DFT-GGA gas-phase CO singlet–triplet splitting computed with the same pseudopotential set used for the surface calculation, and $m=\\delta E_{\\mathrm{chem}}^{\\mathrm{GGA}}/\\delta\\Delta E_{S-T}^{\\mathrm{GGA}}$ is the slope of the DFT-GGA linear fit determined for that specific adsorption site and metal surface.",
+        "content_hash": "f0ea6786ebe0407e9f7552c6007fc8651e4ebfcbf1ec06b1e77431126cd6aa92",
+        "id": "gcn_244409c845cd4a6d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044738213::conclusion_2",
+            "package_id": "paper:867767318044738213",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044738213"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030798389007344232,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DFT reference adsorption formation energies used as ground truth were computed with the Perdew–Burke–Ernzerhof (PBE) generalized-gradient-approximation exchange–correlation functional including Grimme D2 dispersion corrections (PBE-D2), and the cited benchmarking literature indicates that common GGA-level DFT functionals have typical adsorption-energy errors on the order of ~0.2 eV relative to higher-level benchmarks for transition-metal adsorption, which is comparable to the MAE scale reported for the machine-learning models.\n      Wellendorff et al., Surf. Sci. benchmark (cited in main text and refs 79)",
+        "content_hash": "3335984d2ff243eb2ea0b2d1daa411394ad76a11aab9effd7a2931f053c72ac0",
+        "id": "gcn_76f6b8935e944d0f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812738086235537409::P3",
+            "package_id": "paper:812738086235537409",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812738086235537409"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02582908163265306,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The methodological assumption \"self-consistent periodic density functional theory (DFT) calculations using the generalized-gradient-approximation Perdew–Wang 1991 functional (GGA-PW91) yield transition-state free-energy differences for chemisorption and dissociation steps with an intrinsic uncertainty on the order of a few tenths of an electronvolt\" is defined as: for surface catalytic reactions on late-transition-metal slabs (Pt, Ag, and ordered Pt–Ag alloys), GGA-level DFT typically predicts adsorption and transition-state energies that can be displaced by ~0.1–0.3 eV compared to higher-level methods or experimental energetics, depending on the process and electronic-structure details. Consequently, reported DFT energy differences of ≈0.1–0.2 eV (for example, the ≈0.20 eV greater stabilization of a transition state on PtAg versus Pt) are physically informative but carry non-negligible method-related uncertainty that must be considered when mapping to experimental rate differences.\n      Kresse, G.; Furthmüller, J.; Perdew, J. P.; Wang, Y. (DFT methodological background as used in the manuscript).",
+        "content_hash": "0bf281e14f41d16f35aea60b806608d440fe699c5c8f23008c6aa2fc54638043",
+        "id": "gcn_14f29acb460d46ee",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811142097196285955::P5",
+            "package_id": "paper:811142097196285955",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811142097196285955"
+          ]
+        },
+        "role": "premise",
+        "score": 0.022549760644998737,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Kohn–Sham density functional theory calculations performed with commonly used generalized-gradient-approximation (GGA) exchange-correlation functionals on periodic metal-surface slab models produce adsorption energies and estimated activation energies for chemisorbed intermediates and transition states that are inherently approximate and can carry systematic errors on the order of a few tenths of an electronvolt (approximately 0.1–0.3 eV) depending on the adsorbate, surface, and reaction coordinate; therefore, computed energetic differences that are comparable in magnitude to these typical DFT error bars should be treated with caution. In this proposition, 'GGA exchange-correlation functional' denotes the family of approximate functionals in Kohn–Sham DFT that include gradient corrections to the local density approximation, 'adsorption energy' denotes the computed total-energy difference between the slab+adsorbate system and separated slab plus gas-phase species, and 'activation energy' denotes the DFT total-energy difference between a transition-state structure and the initial-state structure as optimized within the same DFT setup.",
+        "content_hash": "07b4986e53730c72df78496e0e1aa3d98eb3c220a6bddb253eb3caa31f3e85c0",
+        "id": "gcn_8ea72ff919b44c81",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814689367401431040::P2",
+            "package_id": "paper:814689367401431040",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814689367401431040"
+          ]
+        },
+        "role": "premise",
+        "score": 0.021929824561403508,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For periodic plane-wave density functional theory (DFT) calculations of molecular adsorption on transition-metal oxide surfaces performed with the Perdew–Burke–Ernzerhof generalized-gradient approximation (PBE-GGA) exchange-correlation functional, projector-augmented-wave (PAW) pseudopotentials, a 500 eV plane-wave cut-off, and Grimme DFT-D3 dispersion corrections, the computed adsorption energy defined as $E_{\\mathrm{ad}} = E_{\\mathrm{total}} - E_{\\mathrm{catalyst}} - E_{\\mathrm{molecule}}$ is a meaningful indicator of relative adsorption strength and adsorbate activation between two closely related surface models (for example, N-doped vs. N-free rGO-supported ZnCoMnO4), even though absolute adsorption-energy magnitudes may carry systematic errors of a few tenths of an electronvolt due to the approximations of PBE-GGA and modeling choices (supercell size, slab thickness, k-point sampling, spin configuration, and molecular reference-state treatment). Consequently, large computed adsorption-energy differences (on the order of multiple electronvolts) between two models are indicative of substantial changes in adsorption energetics, but their precise numerical values should be treated with caution.\n      P. E. Blöchl, Phys. Rev. B 50 (1994) 17953; S. Grimme et al., J. Chem. Phys. 132 (2010) 154104",
+        "content_hash": "317c80252dc80a2437dcde5f1dec73fc1db4e3c5598cf1fb77bd2af0491c3dd1",
+        "id": "gcn_bb0c3227045b4e42",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812570431281168385::P5",
+            "package_id": "paper:812570431281168385",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812570431281168385"
+          ]
+        },
+        "role": "premise",
+        "score": 0.021390374331550804,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the experimental CO adsorption energy at quarter-monolayer coverage on Pt(111) as $E_{\\mathrm{chem}}^{\\mathrm{top,exp}} = 1.68 \\pm 0.12\\ \\mathrm{eV}$ (measured calorimetrically) and the converged DFT-PBE top-site chemisorption energy computed here as $E_{\\mathrm{chem}}^{\\mathrm{top,calc}} = 1.729\\ \\mathrm{eV}$; because $E_{\\mathrm{chem}}^{\\mathrm{top,calc}}$ lies within the experimental uncertainty interval for $E_{\\mathrm{chem}}^{\\mathrm{top,exp}}$, the computed top-site chemisorption energy can be considered essentially correct (i.e., any residual DFT error for the top site is small relative to the discrepancy observed in the hollow-site energy), and therefore the principal DFT-GGA error in the site-preference energy $E_{t-h}$ is inferred to originate primarily from errors in the hollow-site energy rather than from the top-site calculation.\n      [15]",
+        "content_hash": "b4a4d7c3abf3c713c5c23521e041be8ffda60f37cb734b1ffd16d9273fa9e0ca",
+        "id": "gcn_36d2973da0954532",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753401901908500::P8",
+            "package_id": "paper:867753401901908500",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753401901908500"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02097902097902098,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Grimme's DFT-D2 semiempirical dispersion correction, which augments the GGA energy with pairwise $C_{6}R^{-6}$ contributions parameterized by element, is used to approximate van der Waals interactions and weak long-range attractions between molecular hydrogen and the transition-metal–decorated carbon substrate (Y on C_{24}); the authors treat the difference between GGA and GGA+DFT-D2 adsorption energies (for example, average adsorption energies $-0.37\\ \\mathrm{eV}$ versus $-0.43\\ \\mathrm{eV}$) as a meaningful quantification of dispersion contributions and as a practical bracket on plausible adsorption-energy ranges despite known limitations of the DFT-D2 model in some metal-containing systems.",
+        "content_hash": "f538bc94201357aa86190f3df9ce23647170db8729b7f03857e044fcb3967f2f",
+        "id": "gcn_41b339d7184a4ec1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753221995627343::P13",
+            "package_id": "paper:867753221995627343",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753221995627343"
+          ]
+        },
+        "role": "premise",
+        "score": 0.018812930577636458,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For periodic-slab density-functional theory calculations performed with the generalized-gradient approximation variant GGA-RPBE for the exchange–correlation functional, ultrasoft pseudopotentials, and a plane-wave basis set with kinetic-energy cutoff $25\\ \\mathrm{Ry}$, the computed absolute adsorption energies $\\Delta E$ (defined here as the dissociative chemisorption potential energy of the dissociation products measured relative to the free gas-phase molecule) and transition-state energies $E_a$ (defined here as the transition-state energy for dissociation measured relative to the free gas-phase molecule) are expected to be accurate to within approximately a few tenths of an electronvolt for representative transition-metal surfaces and diatomic adsorbates, with systematic errors from the choice of functional and incomplete basis/pseudopotential convergence typically at the $0.1$–$0.5\\ \\mathrm{eV}$ level and capable of shifting both $\\Delta E$ and $E_a$ in a correlated or uncorrelated manner depending on the system; this methodological assessment is discussed in the cited methodological study.\n      16",
+        "content_hash": "491c772263083e21ea194c38633f650ec343e4ab4052a1c37c4d3981562677c9",
+        "id": "gcn_328580542d054a49",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812453975289757696::P1",
+            "package_id": "paper:812453975289757696",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812453975289757696"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A database was compiled of hydrogen chemisorption energies computed with density-functional theory (DFT), where each chemisorption energy is the calculated adsorption energy of an atomic hydrogen on an idealized low-index close-packed single-crystal facet of a transition or noble metal; the same DFT computational protocol was applied across the surveyed set of transition and noble metals to generate the database entries.",
+        "content_hash": "05a5e0dec2e790c36687efe6d6d4ded2a26830ed9b1051d7d86706011dfd9f8c",
+        "id": "gcn_e4aefff6d2a44ccc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812278399597805569::conclusion_1",
+            "package_id": "paper:812278399597805569",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812278399597805569"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The numerical DFT chemisorption Gibbs free energies reported (for example $\\Delta G_{\\mathrm{H}}(\\mathrm{Ni_3S_2(101)})=-1.81\\ \\mathrm{eV}$, $\\Delta G_{\\mathrm{H}}(\\mathrm{MoS_2(002)})=-2.71\\ \\mathrm{eV}$, $\\Delta G_{\\mathrm{H}}(\\mathrm{Ni}\\text{-}\\mathrm{MoS_2})=-3.17\\ \\mathrm{eV}$, and HO‑chemisorption energies of $-2.36\\ \\mathrm{eV}$, $-2.92\\ \\mathrm{eV}$, and $-5.12\\ \\mathrm{eV}$ for various models) are treated as quantitatively accurate and meaningfully comparable across the different model surfaces in spite of the computational protocol not explicitly including all finite‑temperature contributions, explicit solvent layers, variable adsorbate coverages, constant‑potential grand‑canonical electrode potential effects, and the known dependence of absolute adsorption energies on the chosen exchange‑correlation functional; the proposition is that the published numerical adsorption energies are accurate in magnitude within an error margin small enough to preserve the mechanistic ordering and the asserted relative stabilization magnitudes, where $\\Delta G_{\\mathrm{H}}$ denotes the computed Gibbs free energy change for adsorption of atomic hydrogen $H^*$ under the authors' computational protocol and HO‑chemisorption denotes adsorption energies for hydroxyl or oxygenated intermediate fragments.",
+        "content_hash": "59e2a8513122644f10d23afec85237a703dd568e855b9b5d4bd9d9229ff4a52f",
+        "id": "gcn_180329c065084e09",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814530519206199297::P5",
+            "package_id": "paper:814530519206199297",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814530519206199297"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The adsorption energy E_ad was computed as E_ad = (E_sub + E_as) - E_total, where E_sub, E_as and E_total are total electronic energies obtained from plane-wave periodic density-functional theory (DFT) calculations performed with the Vienna Ab initio Simulation Package (VASP) using the Perdew–Burke–Ernzerhof (PBE) generalized-gradient approximation exchange–correlation functional, the projector-augmented-wave (PAW) formalism, a plane-wave kinetic-energy cutoff of 400 eV, Grimme DFT-D3 semiempirical dispersion correction, and Brillouin-zone sampling with a 3 × 3 × 1 Monkhorst–Pack k-point mesh for structural optimization; a weak point of the descriptor claim is the assumption that these approximate DFT numerical settings and the PBE+D3 methodology yield E_ad values that accurately reflect true adsorption energetics across the chemically diverse set of transition-metal atom plus 2D-substrate single-atom catalyst systems studied.",
+        "content_hash": "a73dbc4613edb2f1df09dad9d0820a8d8c35ab05ba32f3af18559b295b24b780",
+        "id": "gcn_0b64af0792824d4d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812508293376245761::P1",
+            "package_id": "paper:812508293376245761",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812508293376245761"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Perdew–Wang 1991 generalized-gradient-approximation exchange-correlation functional (PW91-GGA), when used with ultrasoft pseudopotentials and plane-wave periodic-boundary DFT calculations to compute chemisorption energies $E_{ad}$ of carbon monoxide (CO) on transition-metal surfaces, systematically overestimates the absolute adsorption energy $E_{ad}$ (where $E_{ad}=E_{CO+surface}-E_{surface}-E_{CO(gas)}$, $E_{CO+surface}$ is the total energy of the optimized CO-plus-surface system, $E_{surface}$ is the total energy of the relaxed clean surface, and $E_{CO(gas)}$ is the total energy of an isolated CO molecule computed with the same DFT setup) by a roughly reproducible amount on the order of a few tenths of an electronvolt (commonly $\\sim 0.2$–$0.5\\,$eV) relative to experimentally derived adsorption energies, while typically preserving the qualitative ordering of relative site energies (i.e., which adsorption site is preferred) across similar surface environments.\n      B. Hammer, L. B. Hansen, and J. K. N\\o rskov, Phys. Rev. B 59, 7413 (1999).",
+        "content_hash": "c4a9d06eb5d82153fb94d5dc349c4588236904c2bbbe53c8c69d4e2975827fd5",
+        "id": "gcn_a4092fbea683447f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867760677031248080::P1",
+            "package_id": "paper:867760677031248080",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867760677031248080"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When applied to atop CO chemisorption energies and substrate surface energies for late-transition-metal substrates (e.g., Pt(111) and Rh(111)) and compared to a set of generalized-gradient (GGA), meta-GGA (MGGA), and van der Waals density functional (vdW-DF) variants, BEEF–vdW reproduces the approximately linear correlation often observed between computed surface energy $E_{\\gamma}$ and atop CO chemisorption energy $\\Delta E$ for many GGAs, but deviates from the vdW-DF2 predictions by yielding larger surface energies while maintaining accurate CO adsorption energies; in other words, BEEF–vdW breaks the tight GGA/vdW-DF correlation line by simultaneously predicting larger $E_{\\gamma}$ and accurate $\\Delta E$, thereby enabling improved simultaneous agreement with experimental surface energies and chemisorption energies. The BEEF–vdW ensemble error bars in the $(E_{\\gamma},\\Delta E)$ plane for Pt(111) and Rh(111) cover the experimental chemisorption energies and extend toward values of higher surface energy, indicating that, when ensemble uncertainty is taken into account, the BEEF–vdW ensemble encompasses plausible simultaneous agreement with experimental surface energies and chemisorption energies.",
+        "content_hash": "437df67b6a36f1d0dbcdcb084f14e6963f00a807f4b0fff5fac72dc201d2468c",
+        "id": "gcn_86d98d37dd8c46f4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813301714722488323::conclusion_7",
+            "package_id": "paper:813301714722488323",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813301714722488323"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the adsorption energy E_ad by E_ad = E_total(surface + molecule) − [E_total(surface) + E_total(molecule)], where the total energies are obtained from Kohn–Sham DFT calculations using the GGA‑PBE exchange–correlation functional augmented by Grimme D2 dispersion corrections, FHI pseudopotentials, and a periodic 3×3 monolayer supercell; the proposition underlying the paper's conclusions is that these computed numerical E_ad values provide quantitatively accurate estimates of true adsorption energies relevant to experimental thermodynamics and kinetics—i.e., that typical errors are small enough (smaller than a few 0.1 eV) that the qualitative classification between physisorption and chemisorption and the use of these E_ad values in subsequent desorption‑kinetics estimates is justified.",
+        "content_hash": "e3673a502f3236c153fa38645eb92b2ecdeee300efae9d7848b93c5ad578dc8f",
+        "id": "gcn_be8af33557854762",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812506647149674496::P4",
+            "package_id": "paper:812506647149674496",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812506647149674496"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The analysis uses density-functional-theory (DFT) calculations of hydrogen adsorption energies on idealized low-index close-packed single-crystal metal facets computed with a consistent computational protocol across transition and noble metals, and this approach assumes that those DFT-computed adsorption energies quantitatively represent the surface adsorption energetics that determine experimentally measured exchange-current densities for the hydrogen evolution reaction under typical laboratory electrochemical conditions.",
+        "content_hash": "651774a29c9bf252b8c68695b20db289966c38724676de7a120f611109e20a25",
+        "id": "gcn_0bb7fb86ea7046fd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812278399597805569::P1",
+            "package_id": "paper:812278399597805569",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812278399597805569"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Chemisorption energies E_{\\text{chem}} for carbon monoxide (CO) adsorbed on single-crystal metal substrates and surface terminations Pt(111), Rh(111), Pd(111), Pt(100), Rh(100), Pd(100), and selected Al(111)/Al(100) cases were computed at coverages \\Theta = 0.25, 0.5, 0.75, and 1.0 monolayer (ML) using density functional theory (DFT) with the Perdew–Burke–Ernzerhof generalized-gradient-approximation exchange-correlation functional (PBE GGA) and norm-conserving optimized pseudopotentials; the raw DFT-PBE total energies were adjusted by a first-principles, nonempirical extrapolation correction derived from additional ab initio calculations and applied uniformly to the raw energies to reduce the known DFT-GGA overbinding error for CO chemisorption and to recover experimentally consistent adsorption site preferences at low coverage. Positive E_{\\text{chem}} values denote exothermic adsorption per CO molecule under the definition\n      E_{\\text{chem}} = \\frac{-E_{\\text{surface-CO}} + N E_{\\text{CO}} + E_{\\text{surface}}}{N},\n      where E_{\\text{surface-CO}} is the total energy of the slab with N adsorbed CO molecules in the unit cell, E_{\\text{CO}} is the total energy of an isolated CO molecule, E_{\\text{surface}} is the total energy of the clean slab, and N is the number of CO per unit cell; the corrected E_{\\text{chem}} values reported are numerically converged to better than 0.025 eV per molecule and the magnitude of the extrapolation correction changes with coverage \\Theta by less than 0.01 eV per molecule.",
+        "content_hash": "63a23c4c77d9499d92ed750a37a23df2f1fc1fa648d1b5a62c3192b4d722d727",
+        "id": "gcn_ea29ba1f8f574cd8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812115896687394819::conclusion_1",
+            "package_id": "paper:812115896687394819",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812115896687394819"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.014705882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computational parameters used in the DFT setup—a plane-wave basis with kinetic energy cutoff $450\\ \\mathrm{eV}$, projector-augmented-wave (PAW) pseudopotentials, the GGA-PBE exchange–correlation functional, Methfessel–Paxton electronic smearing with $\\sigma = 0.2\\ \\mathrm{eV}$, finite Monkhorst–Pack $\\mathbf{k}$-point sampling (for example $5\\times5\\times1$), and slab models with some atoms fixed—are assumed to deliver adsorption energies and derived free energies ($\\Delta E$, $\\Delta ZPE$, and $\\Delta S$) for hydrogen adsorption with accuracy sufficient to rank catalysts; however, each chosen approximation (functional choice, finite slab size, limited $k$-point sampling, smearing method, fixed-atom constraints, and the neglect of van der Waals corrections and explicit solvent/double-layer effects) introduces non-negligible quantitative errors (commonly on the order of a few tenths of an eV) that can affect absolute adsorption energetics even if qualitative ordering is preserved.",
+        "content_hash": "e47e2cada42ed14ac5b049264e205a58afca6f8f7ae176753df83a56b08c90f2",
+        "id": "gcn_78fbf5d65be544f2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813031326369185793::P9",
+            "package_id": "paper:813031326369185793",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813031326369185793"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014705882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Cohesive energies $E_{\\text{coh}}$ computed for the studied metal crystals using spin-unrestricted GGA-PW91 with a DNP numerical basis, the OBS DFT-D dispersion correction, and DSPP semi-core pseudopotentials for transition metals beyond calcium fit fairly well with experimentally measured cohesive energies, supporting the accuracy of the computational setup used to compute adsorption energies and bonding characteristics for the set of 24 metal elements.",
+        "content_hash": "1246e7bffdf860d144f357b9cc405c0c79604863835b5a7a050ab6aea0a741b8",
+        "id": "gcn_3671a2b3b52d4505",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814644017600921600::conclusion_8",
+            "package_id": "paper:814644017600921600",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814644017600921600"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014492753623188406,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "033d53ff0dad5ecf2f83b6477d39ca13"
+}
