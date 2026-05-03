@@ -1,6 +1,46 @@
 {
   "holes": [
     {
+      "content": "For a reaction pathway decomposed into N elementary steps on catalysts j chosen from a family of analogous materials, the activation energy of each step k on catalyst j is correlated with the reaction energy of that step via a BEP relation — but the BEP parameters (slope, intercept) may differ between catalyst families (e.g., metals vs. oxides vs. sulfides), limiting the transferability of BEP relations parameterized on one class of materials to another.",
+      "content_hash": "22780a50c4476924c22d4c84444aee6aa383dc95f04211217372389cd6b8d444",
+      "interface_hash": "sha256:aa7c1fd9aa8c42bbe8d1716df8fa4b3eaabfa492c0b0a3957a37ca9cb83fee71",
+      "label": "bep_catalyst_family",
+      "qid": "github:surface_catalysis::bep_catalyst_family",
+      "required_by": [
+        "github:surface_catalysis::bep_multiclass"
+      ]
+    },
+    {
+      "content": "For the elementary reaction class of CO formation from adsorbed C and O on transition metal surfaces, the electronic activation energy DeltaE_Act (transition-state electronic energy relative to the coadsorbed C+O initial state) scales approximately linearly with the reaction energy of the C+O -> CO step via a BEP relation, connecting the CO dissociation/formation energetics — a key catalytic descriptor — to a single DFT-computed reaction energy.",
+      "content_hash": "b8c4bac340c28a3f444ac66cee3610567cb56ec38ff452e0687b1ae29adfc9b5",
+      "interface_hash": "sha256:2837e34bf337b0c67c33f12ed373ed846e205754e65a1cc471c34a78fd9f4857",
+      "label": "bep_co_formation",
+      "qid": "github:surface_catalysis::bep_co_formation",
+      "required_by": [
+        "github:surface_catalysis::bep_multiclass"
+      ]
+    },
+    {
+      "content": "A Brønsted-Evans-Polanyi (BEP)-type linear relation between activation energy E_a = E_TS - E_slab - E_NO_gas and coadsorption energy E_coads = E_(N+O):slab - E_slab - E_NO_gas was obtained by linear regression on four computed data points for NO dissociation on transition metal surfaces, extending the BEP framework from CO-related reactions to NO activation.",
+      "content_hash": "092122601a02cf67d170ce05feeff950506f16a0a8cad31ca9a26b0159108950",
+      "interface_hash": "sha256:df8e3bffb283cddd18993117c04b6855a2439b47fe669da744da77b437f88789",
+      "label": "bep_no_dissociation",
+      "qid": "github:surface_catalysis::bep_no_dissociation",
+      "required_by": [
+        "github:surface_catalysis::bep_multiclass"
+      ]
+    },
+    {
+      "content": "The computational hydrogen electrode (CHE) method, which is the standard approach for modeling electrocatalytic reactions with DFT, approximates the free energy of a proton-electron pair as half the chemical potential of H2 gas at standard conditions and typically neglects explicit solvent effects beyond a few water molecules, introducing an additional uncertainty of ~0.1-0.3 eV in predicted adsorption free energies relative to experimental electrochemical measurements.",
+      "content_hash": "dae8a214abe0ae054eb6cdb7d469285b639b35133393dc9a7e39f258dce22868",
+      "interface_hash": "sha256:f5558b478f52e33a36fb1291eb79009f4fe9619a18cc4114b07ea7b51ca8429c",
+      "label": "che_method_approximation",
+      "qid": "github:surface_catalysis::che_method_approximation",
+      "required_by": [
+        "github:surface_catalysis::solvent_free_energy_gap"
+      ]
+    },
+    {
       "content": "For CO chemisorption on late transition-metal surfaces, the gas-phase CO singlet-triplet excitation energy DeltaE_ST (5sigma → 2pi* excitation, experimentally benchmarked at 6.095 eV) is closely related to the energetic position of the CO 2pi* orbital relative to the substrate Fermi level — the GGA functional underestimates DeltaE_ST because it places the 2pi* orbital too low, and this gas-phase error correlates with the GGA overbinding error on the surface through the proportionality between DeltaE_ST and 2pi*-Fermi-level alignment.",
       "content_hash": "3be36de90a2c99515f73bf74f5c7e5f46a82973f74d34661c54d0d1a5a52b616",
       "interface_hash": "sha256:d4ec10f63243d309a96e12a1f18cf3a6cce0e70eac9961989a5a8a7e79530d1d",
@@ -11,11 +51,61 @@
       ]
     },
     {
+      "content": "For CO adsorption on the most favorable close-packed sites of group-VIII 4d/5d metal surfaces — Ru(0001), Rh(111), Pd(111), Os(0001), Ir(111), and Pt(111) — DFT total-energy calculations with the RPBE functional (Dmol3 code, double-numeric-plus-polarization basis) yield a consistent set of chemisorption energies, extending the Mason correction's original Pt/Rh/Pd/Cu dataset to include Os and Ir surfaces for the first systematic comparison.",
+      "content_hash": "b27d5091e72afb5ec903f6d36888a52f6a8e9e37f10215bccabb857425ccf0e4",
+      "interface_hash": "sha256:08bc3b834fb204955322d8fbb4727623f7850ebd28564474f090ce96060604a1",
+      "label": "co_adsorption_6_metals",
+      "qid": "github:surface_catalysis::co_adsorption_6_metals",
+      "required_by": [
+        "github:surface_catalysis::root_correction_method"
+      ]
+    },
+    {
+      "content": "The computed per-metal scalar bonding parameters for group-VIII metals evaluated from DFT calculations — reported as A * 10^2 values — are: Fe 11.47, Co 14.19, Ni 15.99, indicating that CO chemisorption energetics on the 3d series (Fe, Co, Ni) follow a systematically different trend from the 4d/5d metals (Ru, Rh, Pd, Os, Ir, Pt) that were the focus of the original Mason correction method.",
+      "content_hash": "bd9dc4391ec195da4613e11e538072b60b15e9fab095e99de8c07ebf702b8d6e",
+      "interface_hash": "sha256:0bac3271d0e73ca63d3d75aef7cf98b573433d072bbe0cda2dd71390c8af1b23",
+      "label": "co_on_3d_metals",
+      "qid": "github:surface_catalysis::co_on_3d_metals",
+      "required_by": [
+        "github:surface_catalysis::hybrid_direction_inconsistent"
+      ]
+    },
+    {
       "content": "Applying the post-DFT singlet-triplet extrapolation correction to the set of high-symmetry adsorption-site chemisorption energies for CO on a given metal surface reduces the computed energetic spread (range) of chemisorption energies across sites, systematically narrowing the site-energy distribution compared to uncorrected GGA.",
       "content_hash": "6cc0bb81e2687f274ea7880c0af4b3e8514161765991d1a7c96f36c0885cd0d4",
       "interface_hash": "sha256:7e383b1ecf836c0f6be3da3c792efe8333b613198e7cf6ecab9078772ed5e03b",
       "label": "correction_reduces_site_spread",
       "qid": "github:surface_catalysis::correction_reduces_site_spread",
+      "required_by": [
+        "github:surface_catalysis::root_correction_method"
+      ]
+    },
+    {
+      "content": "For CO adsorbed on Rh(111), replacing the raw DFT adsorption energy and its computed coverage dependence with an experimentally derived CO desorption energy and its coverage dependence from the literature significantly changes the predicted surface phase behavior — the DFT-computed coverage dependence does not reproduce the experimental coverage variation of the CO desorption energy quantitatively.",
+      "content_hash": "e0cb4d2327a0ef72ee73f11002fd642216e757f5cebb8eaedb9ed9cf5333bc0e",
+      "interface_hash": "sha256:049e760751ef9acf4f6276d09791aac3bd46c1ed5455180cd138d302526a5a41",
+      "label": "coverage_dft_vs_exp_rh",
+      "qid": "github:surface_catalysis::coverage_dft_vs_exp_rh",
+      "required_by": [
+        "github:surface_catalysis::co_ru_lattice_gas"
+      ]
+    },
+    {
+      "content": "The conversion of DFT electronic energies (0 K, static lattice) to experimental free energies at finite temperature involves corrections for translational, rotational, and vibrational entropy of gas-phase species and adsorbates; the entropy of adsorbed species is typically approximated by assuming only vibrational degrees of freedom on the surface, an approximation that breaks down for weakly bound (physisorbed or precursor) states where hindered translation and rotation contribute significantly.",
+      "content_hash": "65a9e39cb7be23f5db3e8836c5f1d160439acab57dd541f0e66c83597505d836",
+      "interface_hash": "sha256:5a292f975b8c670b6be852105d8061986e8ef1e4d8b49fd9a573eb7ad72e91d9",
+      "label": "entropy_correction_uncertainty",
+      "qid": "github:surface_catalysis::entropy_correction_uncertainty",
+      "required_by": [
+        "github:surface_catalysis::total_error_budget_incomplete"
+      ]
+    },
+    {
+      "content": "The hypothesis underlying the Mason extrapolation correction is that a single horizontal shift in the gas-phase CO singlet-triplet excitation energy — replacing the DFT-GGA value DeltaE_ST^GGA by the high-level CC/CI reference DeltaE_ST^CI — combined with site-and-facet-specific slopes m derived from DFT-GGA sampling over [5.35, 5.84] eV, provides an accurate correction to the DFT-GGA chemisorption energy even though the correction extrapolates beyond the sampled range to 6.095 eV.",
+      "content_hash": "4a434271aac605a0733f76828918acdc54486b7f93201c8681f8d85facf1137e",
+      "interface_hash": "sha256:8e03ae371b6fcc8b5d3e87fa01c20003e24fdcae78f46340d98552bdc6c568f5",
+      "label": "extrapolation_hypothesis_stated",
+      "qid": "github:surface_catalysis::extrapolation_hypothesis_stated",
       "required_by": [
         "github:surface_catalysis::root_correction_method"
       ]
@@ -31,16 +121,6 @@
       ]
     },
     {
-      "content": "Hybrid functionals (PBE0, HSE03) shift the CO adsorption energy toward weaker binding on Pt(111) but toward stronger binding on Cu(111), revealing that the direction of the hybrid correction relative to GGA is not consistent across different transition metals.",
-      "content_hash": "c5c1f1da3443e2c6d85f9d59b8fae6df4544b87baf10d7533e11583678d794a5",
-      "interface_hash": "sha256:c64d8247a6a48a2ae3a441efd7d662064750f387479c156a3b0fdc798eabdee1",
-      "label": "hybrid_direction_inconsistent",
-      "qid": "github:surface_catalysis::hybrid_direction_inconsistent",
-      "required_by": [
-        "github:surface_catalysis::hybrid_limitation"
-      ]
-    },
-    {
       "content": "The magnitude of the shift in CO adsorption energy caused by switching from GGA to hybrid functionals (PBE0, HSE03) varies significantly across transition-metal substrates: for Cu(111) the shift is only ~0.2 eV, for Pt(111) it reaches up to ~0.4 eV, and for Ru(0001) it is ~0.25-0.45 eV — meaning the hybrid correction is not a uniform shift across metals.",
       "content_hash": "15d5a6b0ce7cb6ba325eb59e223473dc94c2fe15454c41c495642bb25eeae7d1",
       "interface_hash": "sha256:b351cfdf2cbc2c9d3a18d9ce4460f1a0b7ff082a81cd548702adb84b43109a88",
@@ -48,6 +128,16 @@
       "qid": "github:surface_catalysis::hybrid_magnitude_nonuniform",
       "required_by": [
         "github:surface_catalysis::hybrid_limitation"
+      ]
+    },
+    {
+      "content": "The Mason/Abild-Pedersen linear adsorption-energy correction takes the form DeltaE = A - B * nu_CO, where nu_CO is the computed DFT CO stretching frequency (in cm^-1) and B = 0.0008 eV·cm is a universal slope parameter adopted from the literature, with the intercept A fitted for the PBE functional — this extends the original Mason correction from singlet-triplet splitting to vibrational frequency as the linear predictor.",
+      "content_hash": "382a5c6a79e033ab357e817bc24a1ca9738ce22e4d89b1579ce7637063ef4b79",
+      "interface_hash": "sha256:504a3db4c09fa92dbcf8851b5010918497d10b904e4fbecf87fed7efd543f69a",
+      "label": "mason_abildpedersen_vibrational",
+      "qid": "github:surface_catalysis::mason_abildpedersen_vibrational",
+      "required_by": [
+        "github:surface_catalysis::root_correction_method"
       ]
     },
     {
@@ -71,6 +161,16 @@
       ]
     },
     {
+      "content": "DFT transition-state calculations on Fe-porphyrin and FeN4 cluster models produce O2 dissociation energy barriers that vary by nearly a factor of 2 depending on the computational model (1.34 eV for isolated FeN4 vs. 0.66 eV for the extended model), demonstrating that computed activation barriers for diatomic dissociation — a key catalytic descriptor — are far more sensitive to the computational setup (functional, basis, model size) than adsorption energies, with uncertainties exceeding the entire magnitude of the Mason correction.",
+      "content_hash": "39e51740ea2c699cbcb120f23e89b85df3d58b81ac05393e7b2c4ab3221d69d5",
+      "interface_hash": "sha256:c13f09402b898644af9394f6629bb0a955c5406ef6fad877c3eeb30a5c1efc6a",
+      "label": "o2_barrier_model_sensitive",
+      "qid": "github:surface_catalysis::o2_barrier_model_sensitive",
+      "required_by": [
+        "github:surface_catalysis::beef_ensemble_spread"
+      ]
+    },
+    {
       "content": "The gas-phase CO singlet-triplet excitation energy benchmark value DeltaE_ST^CI = 6.095 eV, obtained from coupled-cluster and large configuration-interaction (CC/CI) calculations that reproduce the experimental value, is the appropriate target for correcting DFT-GGA surface chemisorption energies — that is, metal-induced polarization, image-charge stabilization, substrate screening, and chemical shifts of molecular excitation energies in the chemisorbed geometry do not substantially change the reference singlet-triplet energy needed for the linear correction along the DFT-GGA mapping.",
       "content_hash": "04807bb37b1bf8ec4f53f3705e95806a16e1e804bc16abfcc3b0d1ef98ed2237",
       "interface_hash": "sha256:94105b9928c551279509a6c34ad2522750e1b37e4bc63ace7dce70240bc1dcfa",
@@ -81,13 +181,13 @@
       ]
     },
     {
-      "content": "The empirical linear relation E_chem^GGA = E_0 + m * DeltaE_ST^GGA obtained from DFT-GGA pseudopotential sampling over the interval DeltaE_ST^GGA in [5.35, 5.84] eV remains valid when the independent variable is shifted to the CC/CI benchmark value DeltaE_ST^CI = 6.095 eV — i.e., no significant nonlinearity or change in slope m occurs between the sampled DFT-GGA points and the CI target.",
-      "content_hash": "2c7bef412a3940d08dfddd0879797bdf04613e5926a6e0e24b245ffad254feac",
-      "interface_hash": "sha256:e8b0f16e5a223925728a44d42de3d3d6afb189e5aa20fde3f21e2f6da06b8a3e",
-      "label": "prem_extrapolation_valid",
-      "qid": "github:surface_catalysis::prem_extrapolation_valid",
+      "content": "For aqueous electrochemical conditions, the difference between DFT-computed hydrogen adsorption energy DeltaE_H in vacuum and the Gibbs free adsorption energy DeltaG_H* under operating conditions involves corrections for zero-point energy, entropy, solvation stabilization, and electrode potential — each correction carries its own uncertainty, and these uncertainties are comparable in magnitude to the GGA exchange-correlation error that the Mason correction aims to fix.",
+      "content_hash": "a003038cf437ce8eb99d2b47b04418402be84c91b8e1fbca2b3c9e696cbe0616",
+      "interface_hash": "sha256:bbb97e5a383c00e45014b3b1d1f51a81e069d9ac8f80dffdcae9fe5d85b70499",
+      "label": "solvent_correction_gap",
+      "qid": "github:surface_catalysis::solvent_correction_gap",
       "required_by": [
-        "github:surface_catalysis::root_correction_method"
+        "github:surface_catalysis::solvent_free_energy_gap"
       ]
     },
     {
@@ -99,9 +199,19 @@
       "required_by": [
         "github:surface_catalysis::vdw_effect_co"
       ]
+    },
+    {
+      "content": "DFT-based adsorption free energies computed using the harmonic approximation for zero-point energy (ZPE) and vibrational entropy corrections neglect anharmonic effects that can shift adsorption free energies by 0.05-0.1 eV, comparable to the Mason correction magnitude — meaning the vibrational contribution to the adsorption free energy carries its own systematic uncertainty that is not addressed by the singlet-triplet extrapolation method.",
+      "content_hash": "9c68a2b6bb062af869e6c4d6766abc4a73926503e06dceb090c6b81872925806",
+      "interface_hash": "sha256:d74e8adb10cb129e4309fb057ae2213f5aa2255d9b6ff8c57de3fbc356478e70",
+      "label": "zpe_harmonic_error",
+      "qid": "github:surface_catalysis::zpe_harmonic_error",
+      "required_by": [
+        "github:surface_catalysis::total_error_budget_incomplete"
+      ]
     }
   ],
-  "ir_hash": "sha256:94f16f4e1e0cec538c834cd9b5eae9dd7d0f29348e8e86c7ae930939e7684c0e",
+  "ir_hash": "sha256:7131b00764bba6936b065351ee2d9913b4f66babb345a48f28401454fbcd82d0",
   "manifest_schema_version": 1,
   "package": "surface-catalysis",
   "version": "1.0.0"

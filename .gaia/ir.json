@@ -1,5 +1,5 @@
 {
-  "ir_hash": "sha256:94f16f4e1e0cec538c834cd9b5eae9dd7d0f29348e8e86c7ae930939e7684c0e",
+  "ir_hash": "sha256:7131b00764bba6936b065351ee2d9913b4f66babb345a48f28401454fbcd82d0",
   "knowledges": [
     {
       "content": "For CO chemisorption on a metal surface at a given adsorption site and substrate, the DFT-GGA chemisorption energy E_chem^GGA and the DFT-GGA gas-phase CO singlet-triplet splitting DeltaE_ST^GGA obey a linear relation E_chem^GGA = E_0 + m * DeltaE_ST^GGA over the sampled interval DeltaE_ST^GGA in [5.35, 5.84] eV, and the electronic-structure discrepancy between DFT-GGA and high-level wavefunction theory (CC/CI) that manifests in the gas-phase DeltaE_ST maps linearly onto the bonding descriptors that control surface chemisorption for the adsorption geometry considered.",
@@ -388,6 +388,594 @@
       "type": "claim"
     },
     {
+      "content": "For CO adsorption on the most favorable close-packed sites of group-VIII 4d/5d metal surfaces — Ru(0001), Rh(111), Pd(111), Os(0001), Ir(111), and Pt(111) — DFT total-energy calculations with the RPBE functional (Dmol3 code, double-numeric-plus-polarization basis) yield a consistent set of chemisorption energies, extending the Mason correction's original Pt/Rh/Pd/Cu dataset to include Os and Ir surfaces for the first systematic comparison.",
+      "content_hash": "b27d5091e72afb5ec903f6d36888a52f6a8e9e37f10215bccabb857425ccf0e4",
+      "declaration_index": 0,
+      "exported": false,
+      "id": "github:surface_catalysis::co_adsorption_6_metals",
+      "label": "co_adsorption_6_metals",
+      "metadata": {
+        "lkm_id": "gcn_52fcedda87c64878",
+        "prior": 0.78,
+        "prior_justification": "DFT calculations on 6 group-VIII metals using consistent methodology provide a reliable dataset; the inclusion of Os and Ir extends the original Mason parameterization but the use of a single functional (RPBE) limits generalizability.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_iter2",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "The hypothesis underlying the Mason extrapolation correction is that a single horizontal shift in the gas-phase CO singlet-triplet excitation energy — replacing the DFT-GGA value DeltaE_ST^GGA by the high-level CC/CI reference DeltaE_ST^CI — combined with site-and-facet-specific slopes m derived from DFT-GGA sampling over [5.35, 5.84] eV, provides an accurate correction to the DFT-GGA chemisorption energy even though the correction extrapolates beyond the sampled range to 6.095 eV.",
+      "content_hash": "4a434271aac605a0733f76828918acdc54486b7f93201c8681f8d85facf1137e",
+      "declaration_index": 1,
+      "exported": false,
+      "id": "github:surface_catalysis::extrapolation_hypothesis_stated",
+      "label": "extrapolation_hypothesis_stated",
+      "metadata": {
+        "lkm_id": "gcn_ee3ed147a9014ec8",
+        "prior": 0.65,
+        "prior_justification": "The extrapolation hypothesis is clearly stated in the literature but has not been independently tested across a systematic range of metals and functionals; the assumption of linearity beyond the sampled region is the core weakness.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_iter2",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "The Mason/Abild-Pedersen linear adsorption-energy correction takes the form DeltaE = A - B * nu_CO, where nu_CO is the computed DFT CO stretching frequency (in cm^-1) and B = 0.0008 eV·cm is a universal slope parameter adopted from the literature, with the intercept A fitted for the PBE functional — this extends the original Mason correction from singlet-triplet splitting to vibrational frequency as the linear predictor.",
+      "content_hash": "382a5c6a79e033ab357e817bc24a1ca9738ce22e4d89b1579ce7637063ef4b79",
+      "declaration_index": 2,
+      "exported": false,
+      "id": "github:surface_catalysis::mason_abildpedersen_vibrational",
+      "label": "mason_abildpedersen_vibrational",
+      "metadata": {
+        "lkm_id": "gcn_f91a8f8303904ff5",
+        "prior": 0.68,
+        "prior_justification": "Extending the Mason correction to CO vibrational frequency as the linear predictor is a creative generalization, but the universal slope B = 0.0008 eV·cm has only been validated on a limited set of systems.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_iter2",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "For CO oxidation on single-atom catalysts consisting of one transition-metal atom M embedded in a support, DFT calculations of CO adsorption energies and activation barriers were performed for M = Fe, Co, Ni, Cu, Ru, Rh, Pd, Ag, Os, Ir, Pt — covering all three rows of group-VIII and group-IB transition metals and extending CO chemisorption energetics comparisons far beyond the original Mason method's 4-metal (Pt/Rh/Pd/Cu) parameterization.",
+      "content_hash": "91835f702766cc2ba408d4219044cb3ce79e086854f17408c60a77b8ab3203f7",
+      "declaration_index": 3,
+      "exported": false,
+      "id": "github:surface_catalysis::co_on_single_atom_11metals",
+      "label": "co_on_single_atom_11metals",
+      "metadata": {
+        "lkm_id": "gcn_672c8eb10ce44b73",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_iter2",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "The computed per-metal scalar bonding parameters for group-VIII metals evaluated from DFT calculations — reported as A * 10^2 values — are: Fe 11.47, Co 14.19, Ni 15.99, indicating that CO chemisorption energetics on the 3d series (Fe, Co, Ni) follow a systematically different trend from the 4d/5d metals (Ru, Rh, Pd, Os, Ir, Pt) that were the focus of the original Mason correction method.",
+      "content_hash": "bd9dc4391ec195da4613e11e538072b60b15e9fab095e99de8c07ebf702b8d6e",
+      "declaration_index": 4,
+      "exported": true,
+      "id": "github:surface_catalysis::co_on_3d_metals",
+      "label": "co_on_3d_metals",
+      "metadata": {
+        "lkm_id": "gcn_143b83513dc148ca",
+        "prior": 0.72,
+        "prior_justification": "The different CO chemisorption trend on 3d metals is a plausible finding consistent with d-band theory, but the bonding parameter values are from a single computational study.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_iter2",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "The DFT-computed trend of increasing CO chemisorption energy with decreasing local Pt coordination number is correlated with the local electronic structure: as the mean nearest-neighbor Pt coordination number n of a surface Pt atom is reduced, the center of the Pt d-band shifts toward the Fermi level, increasing the CO adsorption strength — this implies that the Mason correction parameterized on flat (111) and (100) surfaces may not transfer directly to undercoordinated step, edge, or nanoparticle sites.",
+      "content_hash": "299a65c7c9e34eb77c3697efe039c9898f323dcb50b5b2bf891812709cb8b7c2",
+      "declaration_index": 5,
+      "exported": false,
+      "id": "github:surface_catalysis::co_pt_coordination_dependent",
+      "label": "co_pt_coordination_dependent",
+      "metadata": {
+        "lkm_id": "gcn_adefb8887eef41e2",
+        "prior": 0.8,
+        "prior_justification": "The coordination-dependence of CO adsorption energy on Pt is well-established by DFT and consistent with d-band center theory; the implication for Mason correction transferability is real.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_iter2",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "For CO adsorbed on Rh(111), replacing the raw DFT adsorption energy and its computed coverage dependence with an experimentally derived CO desorption energy and its coverage dependence from the literature significantly changes the predicted surface phase behavior — the DFT-computed coverage dependence does not reproduce the experimental coverage variation of the CO desorption energy quantitatively.",
+      "content_hash": "e0cb4d2327a0ef72ee73f11002fd642216e757f5cebb8eaedb9ed9cf5333bc0e",
+      "declaration_index": 0,
+      "exported": false,
+      "id": "github:surface_catalysis::coverage_dft_vs_exp_rh",
+      "label": "coverage_dft_vs_exp_rh",
+      "metadata": {
+        "lkm_id": "gcn_1c2b5818c8f642ba",
+        "prior": 0.75,
+        "prior_justification": "The discrepancy between DFT-computed and experimental coverage dependence on Rh(111) is a documented finding but may depend on the specific functional and coverage model used.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_coverage",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "For CO adsorbed on Ru(0001), a lattice-gas Hamiltonian whose on-site adsorption energies and lateral CO-CO interactions are obtained from plane-wave DFT calculations predicts coverage-dependent phase behavior, indicating that CO-CO lateral interactions substantially modify the effective adsorption energy as coverage increases — an effect not accounted for in the zero-coverage-limit Mason correction.",
+      "content_hash": "570a6e387c57736a0daa3f97d7913d081920387c0e3b6ebed5bf1341cc92dbf8",
+      "declaration_index": 1,
+      "exported": true,
+      "id": "github:surface_catalysis::co_ru_lattice_gas",
+      "label": "co_ru_lattice_gas",
+      "metadata": {
+        "lkm_id": "gcn_00c51ba2f4024064",
+        "prior": 0.78,
+        "prior_justification": "Lattice-gas models with DFT lateral interactions for CO/Ru(0001) are a well-established approach, and the importance of CO-CO interactions for coverage-dependent energetics is well-known.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_coverage",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "For CO adsorbed on Pd dimer sites in a Au(111) surface, DFT-computed adsorption energies per CO molecule depend on both the adsorption site (bridge vs. atop) and the CO coverage, with bridge-bonded configurations spanning two Pd atoms showing coverage-dependent energy changes that are not captured by single-molecule, zero-coverage DFT calculations.",
+      "content_hash": "cbca7c5cba1cbcf5e8e476735644be8a79ca34c1a10fc153dd1cc12ce9ba7075",
+      "declaration_index": 2,
+      "exported": false,
+      "id": "github:surface_catalysis::coverage_site_dependent_pd_au",
+      "label": "coverage_site_dependent_pd_au",
+      "metadata": {
+        "lkm_id": "gcn_8d944f3acdce4407",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_coverage",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "Temperature-programmed desorption (TPD) measurements analyzed via Arrhenius/King-method evaluation yield experimental, coverage-dependent desorption activation energies that differ from the zero-coverage-limit DFT adsorption energies typically used to parameterize and validate correction methods such as the Mason extrapolation.",
+      "content_hash": "a9e105cd9f83504c7cc96bed0c72a2456f22ceff1d1ade141ea3270758f78916",
+      "declaration_index": 3,
+      "exported": false,
+      "id": "github:surface_catalysis::tpd_coverage_dependent_energetics",
+      "label": "tpd_coverage_dependent_energetics",
+      "metadata": {
+        "lkm_id": "gcn_10c1cec732af42e5",
+        "prior": 0.82,
+        "prior_justification": "TPD is a mature experimental technique and the coverage-dependence of desorption energies is experimentally well-documented; the gap between zero-coverage DFT and finite-coverage experiment is a recognized issue in surface science.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_coverage",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "A Brønsted-Evans-Polanyi (BEP)-type linear relation between activation energy E_a = E_TS - E_slab - E_NO_gas and coadsorption energy E_coads = E_(N+O):slab - E_slab - E_NO_gas was obtained by linear regression on four computed data points for NO dissociation on transition metal surfaces, extending the BEP framework from CO-related reactions to NO activation.",
+      "content_hash": "092122601a02cf67d170ce05feeff950506f16a0a8cad31ca9a26b0159108950",
+      "declaration_index": 0,
+      "exported": false,
+      "id": "github:surface_catalysis::bep_no_dissociation",
+      "label": "bep_no_dissociation",
+      "metadata": {
+        "lkm_id": "gcn_6c6da7019b224972",
+        "prior": 0.7,
+        "prior_justification": "A BEP relation for NO dissociation on only four data points is suggestive but not statistically robust; needs validation on a larger dataset across more metals.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_bep",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "Multiple well-resolved empirical linear BEP relationships — an overall average line plus class-specific lines for Classes I-III — have been identified for elementary surface dissociation reactions, meaning that the slope alpha_BEP and intercept beta_BEP are not universal but depend systematically on the reaction class (e.g., diatomic dissociation vs. C-H vs. O-H bond breaking).",
+      "content_hash": "6ba78cb1c44b1d75d0d47c0ad990b637b406fc2a1c2bf68c9fd102ab0fb8e64f",
+      "declaration_index": 1,
+      "exported": true,
+      "id": "github:surface_catalysis::bep_multiclass",
+      "label": "bep_multiclass",
+      "metadata": {
+        "lkm_id": "gcn_d5ae469fc8ef4ebc",
+        "prior": 0.82,
+        "prior_justification": "The existence of class-specific BEP relations is well-documented in the literature; the non-universality of BEP parameters is a key insight for understanding the limits of scaling relations.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_bep",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "For a reaction pathway decomposed into N elementary steps on catalysts j chosen from a family of analogous materials, the activation energy of each step k on catalyst j is correlated with the reaction energy of that step via a BEP relation — but the BEP parameters (slope, intercept) may differ between catalyst families (e.g., metals vs. oxides vs. sulfides), limiting the transferability of BEP relations parameterized on one class of materials to another.",
+      "content_hash": "22780a50c4476924c22d4c84444aee6aa383dc95f04211217372389cd6b8d444",
+      "declaration_index": 2,
+      "exported": false,
+      "id": "github:surface_catalysis::bep_catalyst_family",
+      "label": "bep_catalyst_family",
+      "metadata": {
+        "lkm_id": "gcn_39909864d20f4830",
+        "prior": 0.78,
+        "prior_justification": "The catalyst-family dependence of BEP parameters is a logical extension of the multi-class BEP concept but has not been systematically quantified across a wide range of materials classes.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_bep",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "For the elementary reaction class of CO formation from adsorbed C and O on transition metal surfaces, the electronic activation energy DeltaE_Act (transition-state electronic energy relative to the coadsorbed C+O initial state) scales approximately linearly with the reaction energy of the C+O -> CO step via a BEP relation, connecting the CO dissociation/formation energetics — a key catalytic descriptor — to a single DFT-computed reaction energy.",
+      "content_hash": "b8c4bac340c28a3f444ac66cee3610567cb56ec38ff452e0687b1ae29adfc9b5",
+      "declaration_index": 3,
+      "exported": false,
+      "id": "github:surface_catalysis::bep_co_formation",
+      "label": "bep_co_formation",
+      "metadata": {
+        "lkm_id": "gcn_2aa99d023c334b83",
+        "prior": 0.74,
+        "prior_justification": "BEP for CO formation from C+O is a specific reaction class with moderate evidence; the linear scaling between activation energy and reaction energy for this step is supported by DFT calculations.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_bep",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "The random phase approximation (RPA) total-energy method evaluates the exact Hartree-Fock exchange energy together with the RPA correlation energy non-self-consistently on Kohn-Sham orbitals obtained from a PBE GGA calculation (EXX+RPA@PBE), providing a higher-level first-principles benchmark for surface energetics that eliminates the self-interaction error present in GGA.",
+      "content_hash": "1e6df4378fa3662098e2df81ba4a6f18c2dc6309d5817d8658191708a9cd96ff",
+      "declaration_index": 0,
+      "exported": false,
+      "id": "github:surface_catalysis::rpa_method",
+      "label": "rpa_method",
+      "metadata": {
+        "lkm_id": "gcn_897be232ecb24f8f",
+        "prior": 0.85,
+        "prior_justification": "EXX+RPA@PBE is a well-established computational protocol; the method is systematically improvable and provides the current gold-standard for surface adsorption energetics.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_rpa",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "RPA calculations of CO chemisorption energies on metal surfaces provide a first-principles benchmark that is free of GGA self-interaction error and includes nonlocal correlation effects beyond semi-local functionals — RPA chemisorption energies are closer to experimental values than GGA for CO on transition metals, but RPA itself has residual errors and is not a perfect reference.",
+      "content_hash": "0c3ea5c99f623194125a713ec63d12dc8c63dd82240bcfebfb294b5ebfbba735",
+      "declaration_index": 1,
+      "exported": false,
+      "id": "github:surface_catalysis::rpa_co_benchmark",
+      "label": "rpa_co_benchmark",
+      "metadata": {
+        "lkm_id": "gcn_9171eace9fe94dcb",
+        "prior": 0.78,
+        "prior_justification": "RPA is demonstrably more accurate than GGA for CO chemisorption, but RPA calculations for surface adsorption are computationally expensive and limited to a small number of benchmark systems.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_rpa",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "The optimized random phase approximation is defined as E_optRPA = E_HF + 1.17 * E_c,RPA, where E_HF is the Hartree-Fock exact-exchange energy evaluated on DFT orbitals and E_c,RPA is the RPA correlation energy, with the empirical factor 1.17 correcting for the systematic undercorrelation of bare RPA.",
+      "content_hash": "16205944a635bec7be592d4f25357ec8a01304e7e2c4672260f8e2eba8967e35",
+      "declaration_index": 2,
+      "exported": false,
+      "id": "github:surface_catalysis::rpa_optimized",
+      "label": "rpa_optimized",
+      "metadata": {
+        "lkm_id": "gcn_6efddfbab3114451",
+        "prior": 0.72,
+        "prior_justification": "The empirical factor 1.17 in optRPA is fitted to a limited dataset; its transferability to chemisorption systems is not systematically validated.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_rpa",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "RPA (random phase approximation) reference adsorption energies from benchmark datasets deviate from experimental measurements for some systems, indicating that even the RPA — the current gold-standard first-principles method for surface adsorption — has a residual error of several tens of meV that limits its use as an absolute benchmark for validating DFT correction methods like the Mason extrapolation.",
+      "content_hash": "5d15a40df2f62bc7cdec77be97408cda80086ff55d7fdd9fd1ddda91417c7387",
+      "declaration_index": 3,
+      "exported": true,
+      "id": "github:surface_catalysis::rpa_deviates_from_experiment",
+      "label": "rpa_deviates_from_experiment",
+      "metadata": {
+        "lkm_id": "gcn_1d90485dd9ac4ed3",
+        "prior": 0.75,
+        "prior_justification": "The residual RPA error of several tens of meV is documented from benchmark dataset comparisons; this represents the current practical accuracy limit of first-principles surface energetics.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_rpa",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "The Bayesian Error Estimation Functional with van der Waals correlation (BEEF-vdW) generates, from a single self-consistent DFT calculation, a finite ensemble of N = 2000 alternative exchange-correlation parameterizations that span the space of plausible semi-local exchange-correlation functionals, providing a systematic method to estimate the exchange-correlation contribution to the uncertainty in DFT-predicted adsorption energies.",
+      "content_hash": "c5b6182d903cda4344badde563a695406547e60866dab2af20f45b8398ce78ca",
+      "declaration_index": 0,
+      "exported": false,
+      "id": "github:surface_catalysis::beef_ensemble_method",
+      "label": "beef_ensemble_method",
+      "metadata": {
+        "lkm_id": "gcn_d3e5e6d8aa5b4459",
+        "prior": 0.82,
+        "prior_justification": "BEEF-vdW ensemble method is well-established and published; the 2000-member ensemble approach is a standard tool for DFT error estimation in the surface catalysis community.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_beef",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "Analysis using the BEEF-vdW ensemble of 2000 exchange-correlation parameterizations yields a one-standard-deviation spread of approximately 0.20 eV for binding-energy differences on a representative surface model, quantifying the intrinsic exchange-correlation uncertainty of semi-local DFT for chemisorption energetics — an uncertainty that is larger than the ~0.02 eV claimed precision of the Mason correction.",
+      "content_hash": "28d7f1a554ad3226fc721b21760cd8956dca6cef5941af1dc68cd457615b4d95",
+      "declaration_index": 1,
+      "exported": true,
+      "id": "github:surface_catalysis::beef_ensemble_spread",
+      "label": "beef_ensemble_spread",
+      "metadata": {
+        "lkm_id": "gcn_ad94a0ff0aaa4c54",
+        "prior": 0.8,
+        "prior_justification": "The ~0.20 eV ensemble spread for binding energies is a representative value for typical chemisorption systems; the exact value depends on the specific system and property.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_beef",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "A general procedure to estimate and propagate uncertainty from the DFT exchange-correlation approximation into composite materials properties is: (i) construct an ensemble of plausible exchange-correlation functionals using BEEF-vdW, (ii) compute the property of interest for each ensemble member, and (iii) use the ensemble spread as the exchange-correlation uncertainty estimate — this approach reveals that DFT errors in chemisorption can propagate nonlinearly into predicted catalytic rates and selectivities.",
+      "content_hash": "774dd528e0c6b26ed8b049a11c7b152789028b4ff085bc3137569a183af981fa",
+      "declaration_index": 2,
+      "exported": false,
+      "id": "github:surface_catalysis::beef_uncertainty_propagation",
+      "label": "beef_uncertainty_propagation",
+      "metadata": {
+        "lkm_id": "gcn_88122b04a11943b7",
+        "prior": 0.78,
+        "prior_justification": "BEEF ensemble uncertainty propagation is a general method; the nonlinear propagation of exchange-correlation errors into catalytic rates is an active research area.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_beef",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "BEEF-vdW, applied non-self-consistently to compute the potential-energy curve for adsorption on metal surfaces, yields results qualitatively consistent with high-level RPA calculations, validating the BEEF ensemble as a computationally affordable proxy for higher-level benchmarks when RPA calculations are too expensive.",
+      "content_hash": "1162eae4c807e3fa5df145ac87ee76234dbc55ead3b298517048b45675ada9b3",
+      "declaration_index": 3,
+      "exported": false,
+      "id": "github:surface_catalysis::beef_consistent_with_rpa",
+      "label": "beef_consistent_with_rpa",
+      "metadata": {
+        "lkm_id": "gcn_ceadf42e2a7a4293",
+        "prior": 0.72,
+        "prior_justification": "BEEF-vdW consistency with RPA is a validation point but the comparison has only been made for a limited set of systems.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_beef",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "DFT slab calculations of adsorption energies on metal surfaces performed in vacuum or with only a few explicit water molecules omit significant electrochemical-environment contributions — including solvation, electrode potential, and electric double-layer effects — that can shift effective adsorption free energies by several tenths of an eV, creating a gap between ultra-high-vacuum DFT benchmarks and electrochemical catalytic conditions.",
+      "content_hash": "d4eb066c737a27b2bebaa7a0c7006bbff156957386146a618b093052f0a67055",
+      "declaration_index": 0,
+      "exported": true,
+      "id": "github:surface_catalysis::solvent_free_energy_gap",
+      "label": "solvent_free_energy_gap",
+      "metadata": {
+        "lkm_id": "gcn_987040dd170c4a3e",
+        "prior": 0.8,
+        "prior_justification": "Solvent effects of 0.1-0.3 eV are well-documented in electrocatalysis literature; the gap between UHV DFT and electrochemical conditions is a recognized challenge.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_solvent",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "The computational hydrogen electrode (CHE) method, which is the standard approach for modeling electrocatalytic reactions with DFT, approximates the free energy of a proton-electron pair as half the chemical potential of H2 gas at standard conditions and typically neglects explicit solvent effects beyond a few water molecules, introducing an additional uncertainty of ~0.1-0.3 eV in predicted adsorption free energies relative to experimental electrochemical measurements.",
+      "content_hash": "dae8a214abe0ae054eb6cdb7d469285b639b35133393dc9a7e39f258dce22868",
+      "declaration_index": 1,
+      "exported": false,
+      "id": "github:surface_catalysis::che_method_approximation",
+      "label": "che_method_approximation",
+      "metadata": {
+        "lkm_id": "gcn_1d48eecde11f41bb",
+        "prior": 0.82,
+        "prior_justification": "The computational hydrogen electrode is the standard method in computational electrocatalysis; its limitations are well-characterized and its typical uncertainty of ~0.1-0.3 eV is accepted in the field.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_solvent",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "For aqueous electrochemical conditions, the difference between DFT-computed hydrogen adsorption energy DeltaE_H in vacuum and the Gibbs free adsorption energy DeltaG_H* under operating conditions involves corrections for zero-point energy, entropy, solvation stabilization, and electrode potential — each correction carries its own uncertainty, and these uncertainties are comparable in magnitude to the GGA exchange-correlation error that the Mason correction aims to fix.",
+      "content_hash": "a003038cf437ce8eb99d2b47b04418402be84c91b8e1fbca2b3c9e696cbe0616",
+      "declaration_index": 2,
+      "exported": false,
+      "id": "github:surface_catalysis::solvent_correction_gap",
+      "label": "solvent_correction_gap",
+      "metadata": {
+        "lkm_id": "gcn_9ae635a05aac48a2",
+        "prior": 0.76,
+        "prior_justification": "Each correction term (ZPE, entropy, solvation, potential) carries independent uncertainties that compound; the total uncertainty is likely larger than individual contributions.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_solvent",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "For ten transition-metal facets — Au(111), Ag(111), Pd(111), Cu(111), Ni(111), Co(0001), Ru(0001), Fe(110), Mo(110), and W(110) — DFT-computed activation barriers for CO2 dissociation, computed for both the direct dissociative adsorption pathway and the hydrogen-assisted pathway, span a range that depends sensitively on the exchange-correlation functional and the surface model, extending the known GGA error problem from CO chemisorption energetics to CO2 activation barriers on a much broader set of transition metals.",
+      "content_hash": "de4e4b7e757d5bff233c49bd56c72012a804937332217b59b7189eb2decb2380",
+      "declaration_index": 0,
+      "exported": false,
+      "id": "github:surface_catalysis::co2_dissociation_10metals",
+      "label": "co2_dissociation_10metals",
+      "metadata": {
+        "lkm_id": "gcn_98cf2d3a990840c5",
+        "prior": 0.74,
+        "prior_justification": "DFT barriers for CO2 dissociation on 10 metals provide a useful benchmark dataset; the functional-sensitivity of barriers is well-known but the specific error magnitudes are less systematically characterized than for adsorption energies.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_barriers",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "DFT transition-state calculations on Fe-porphyrin and FeN4 cluster models produce O2 dissociation energy barriers that vary by nearly a factor of 2 depending on the computational model (1.34 eV for isolated FeN4 vs. 0.66 eV for the extended model), demonstrating that computed activation barriers for diatomic dissociation — a key catalytic descriptor — are far more sensitive to the computational setup (functional, basis, model size) than adsorption energies, with uncertainties exceeding the entire magnitude of the Mason correction.",
+      "content_hash": "39e51740ea2c699cbcb120f23e89b85df3d58b81ac05393e7b2c4ab3221d69d5",
+      "declaration_index": 1,
+      "exported": true,
+      "id": "github:surface_catalysis::o2_barrier_model_sensitive",
+      "label": "o2_barrier_model_sensitive",
+      "metadata": {
+        "lkm_id": "gcn_10181e83c1ae4625",
+        "prior": 0.76,
+        "prior_justification": "The model-sensitivity of O2 dissociation barriers is a known issue in computational catalysis; barrier errors exceeding 0.5 eV due to model choice are documented across multiple systems.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_barriers",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "In spin-polarized plane-wave DFT with an on-site Hubbard U correction (DFT+U) applied to transition-metal oxide slab models, the choice of the effective on-site Coulomb parameter U_eff = U-J significantly changes computed adsorption energies — for Fe 3d electrons U_eff = 3.0 eV is typically used, but the optimal value varies with the oxidation state and coordination environment — introducing an additional functional parameter whose uncertainty is comparable to the GGA exchange-correlation error.",
+      "content_hash": "c6acc7224689b49dd4c0bd9c89b3b56392f7d1801f13c82184834f2f215ac3ea",
+      "declaration_index": 2,
+      "exported": false,
+      "id": "github:surface_catalysis::dft_plus_u_uncertainty",
+      "label": "dft_plus_u_uncertainty",
+      "metadata": {
+        "lkm_id": "gcn_859c7cebb69441a0",
+        "prior": 0.78,
+        "prior_justification": "The U_eff parameter dependence of DFT+U adsorption energies is well-documented; the optimal U value is system-dependent and introduces an additional source of functional uncertainty.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_barriers",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "A combined computational formalism coupling DFT+Hubbard U corrections with van der Waals treatment (DFT+U+vdW) has been developed for transition-metal oxide surfaces, highlighting that for correlated oxide catalysts, THREE independent corrections (self-interaction via +U, dispersion via vdW, and molecular reference errors via methods like the Mason correction) are needed simultaneously, and their uncertainties may compound rather than cancel.",
+      "content_hash": "e3c83987ef8f357838ac40ec2054028e706ff938318647fc93c15bff5304aa42",
+      "declaration_index": 3,
+      "exported": true,
+      "id": "github:surface_catalysis::dft_u_vdw_formalism",
+      "label": "dft_u_vdw_formalism",
+      "metadata": {
+        "lkm_id": "gcn_112df63862b94e15",
+        "prior": 0.72,
+        "prior_justification": "Combining +U, vdW, and molecular reference corrections is a practical necessity for oxide catalysts but the cross-correction errors have not been systematically quantified.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_barriers",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "The extended ACBN0 self-consistent procedure, applied to MnO and NiO at experimental lattice constants, produces converged scalar Hubbard U parameters from first principles without empirical fitting — but the computed U values (NiO: U_Ni ~5-7 eV, MnO: U_Mn ~4-6 eV) depend on the exchange-correlation functional used in the underlying DFT calculation, showing that even 'first-principles' Hubbard parameters inherit functional uncertainty.",
+      "content_hash": "b7521ca030ab2198f647367d8b005f5e245becc51dc29b6191d3fe7eba3a3f48",
+      "declaration_index": 4,
+      "exported": false,
+      "id": "github:surface_catalysis::acbn0_self_consistent_u",
+      "label": "acbn0_self_consistent_u",
+      "metadata": {
+        "lkm_id": "gcn_8d9ff5a5962845c7",
+        "prior": 0.7,
+        "prior_justification": "Self-consistent Hubbard U from ACBN0 removes empiricism but the computed U values still depend on the underlying functional; this is an improvement over empirical U but not a complete solution.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_barriers",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "The Hammer-Norskov (HN) correlation is the empirical observation that shifts in the scalar metal d-band center (first moment of the projected d-density of states relative to the Fermi level) correlate with changes in molecular adsorption energy on transition-metal surfaces — but decomposition of the total adsorption energy reveals that the d-band center alone does not fully capture all contributions, and metal-specific deviations from the HN correlation exist.",
+      "content_hash": "82aa2047b5506497b12d2d69d0c73033c3ed15f1bcc6b2b00bfe2c008c1c2356",
+      "declaration_index": 0,
+      "exported": false,
+      "id": "github:surface_catalysis::dband_hammersley_norskov_correlation",
+      "label": "dband_hammersley_norskov_correlation",
+      "metadata": {
+        "lkm_id": "gcn_24b65d35acbe4bce",
+        "prior": 0.85,
+        "prior_justification": "The Hammer-Norskov d-band model is one of the most well-established concepts in computational surface catalysis, but its quantitative limitations are increasingly recognized.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_dband_zpe",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "For late transition-metal surfaces including Rh, a shift of the metal d-band center toward the Fermi level correlates with stronger CO adsorption, as predicted by the Hammer-Norskov model, but the quantitative relationship between d-band shift and adsorption energy shift is not identical across all metals — the slope depends on the coupling matrix element between the adsorbate frontier orbitals and the metal d states.",
+      "content_hash": "2979a9ea3ac23ce189317bd8ea168bae7461639f5b926773111cbf5cc7a881e8",
+      "declaration_index": 1,
+      "exported": false,
+      "id": "github:surface_catalysis::dband_shift_rhodium",
+      "label": "dband_shift_rhodium",
+      "metadata": {
+        "lkm_id": "gcn_d2802044a2db45fe",
+        "prior": 0.78,
+        "prior_justification": "The d-band shift correlation for Rh is consistent with the HN model but the metal-specific coupling matrix element introduces deviations from a universal scaling relation.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_dband_zpe",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "DFT-based adsorption free energies computed using the harmonic approximation for zero-point energy (ZPE) and vibrational entropy corrections neglect anharmonic effects that can shift adsorption free energies by 0.05-0.1 eV, comparable to the Mason correction magnitude — meaning the vibrational contribution to the adsorption free energy carries its own systematic uncertainty that is not addressed by the singlet-triplet extrapolation method.",
+      "content_hash": "9c68a2b6bb062af869e6c4d6766abc4a73926503e06dceb090c6b81872925806",
+      "declaration_index": 2,
+      "exported": false,
+      "id": "github:surface_catalysis::zpe_harmonic_error",
+      "label": "zpe_harmonic_error",
+      "metadata": {
+        "prior": 0.74,
+        "prior_justification": "Harmonic ZPE errors of 0.05-0.1 eV are a systematic uncertainty in DFT-based adsorption free energies; anharmonic effects are typically neglected due to computational cost.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_dband_zpe",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "The conversion of DFT electronic energies (0 K, static lattice) to experimental free energies at finite temperature involves corrections for translational, rotational, and vibrational entropy of gas-phase species and adsorbates; the entropy of adsorbed species is typically approximated by assuming only vibrational degrees of freedom on the surface, an approximation that breaks down for weakly bound (physisorbed or precursor) states where hindered translation and rotation contribute significantly.",
+      "content_hash": "65a9e39cb7be23f5db3e8836c5f1d160439acab57dd541f0e66c83597505d836",
+      "declaration_index": 3,
+      "exported": false,
+      "id": "github:surface_catalysis::entropy_correction_uncertainty",
+      "label": "entropy_correction_uncertainty",
+      "metadata": {
+        "prior": 0.72,
+        "prior_justification": "The hindered translator/rotator approximation for adsorbate entropy is a recognized source of error, particularly for weakly bound molecules where the harmonic oscillator model is inaccurate.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_dband_zpe",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "The total error budget for comparing DFT-predicted CO chemisorption energies with experimental measurements includes at least: (1) GGA exchange-correlation self-interaction error (addressed by Mason correction), (2) van der Waals dispersion error (~0.1 eV), (3) ZPE and vibrational entropy approximation error (~0.05-0.1 eV), (4) coverage-dependent lateral interaction error, (5) solvent/electrochemical environment error (0.1-0.3 eV), (6) surface model (slab thickness, k-point) error, and (7) experimental measurement uncertainty — and the Mason correction addresses only item (1), leaving items (2)-(7) as unaccounted sources of theory-experiment discrepancy.",
+      "content_hash": "94090db215b738ca123700f1f4acabdb295c5245e37387cd082a3eecc482ee39",
+      "declaration_index": 4,
+      "exported": true,
+      "id": "github:surface_catalysis::total_error_budget_incomplete",
+      "label": "total_error_budget_incomplete",
+      "metadata": {
+        "prior": 0.88,
+        "prior_justification": "The enumeration of independent error sources in DFT-experiment comparison is a systematic exercise; the conclusion that the Mason correction addresses only 1 of ~7 error sources is robust.",
+        "provenance_source": "lkm"
+      },
+      "module": "paper_dband_zpe",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
       "content": "not_both_true(A, B)",
       "content_hash": "468923920550aff97ac2349f7d0a5b32e6560066b45861bf367db7f40e8649a7",
       "declaration_index": 0,
@@ -457,6 +1045,126 @@
       "metadata": {
         "helper_kind": "contradiction_result",
         "prior": 0.75
+      },
+      "module": "cross_paper",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "not_both_true(A, B)",
+      "content_hash": "468923920550aff97ac2349f7d0a5b32e6560066b45861bf367db7f40e8649a7",
+      "declaration_index": 5,
+      "exported": false,
+      "id": "github:surface_catalysis::contradiction_coverage",
+      "label": "contradiction_coverage",
+      "metadata": {
+        "helper_kind": "contradiction_result",
+        "prior": 0.85
+      },
+      "module": "cross_paper",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "not_both_true(A, B)",
+      "content_hash": "468923920550aff97ac2349f7d0a5b32e6560066b45861bf367db7f40e8649a7",
+      "declaration_index": 6,
+      "exported": false,
+      "id": "github:surface_catalysis::contradiction_bep_universality",
+      "label": "contradiction_bep_universality",
+      "metadata": {
+        "helper_kind": "contradiction_result",
+        "prior": 0.82
+      },
+      "module": "cross_paper",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "not_both_true(A, B)",
+      "content_hash": "468923920550aff97ac2349f7d0a5b32e6560066b45861bf367db7f40e8649a7",
+      "declaration_index": 7,
+      "exported": false,
+      "id": "github:surface_catalysis::contradiction_tpd_vs_dft",
+      "label": "contradiction_tpd_vs_dft",
+      "metadata": {
+        "helper_kind": "contradiction_result",
+        "prior": 0.78
+      },
+      "module": "cross_paper",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "not_both_true(A, B)",
+      "content_hash": "468923920550aff97ac2349f7d0a5b32e6560066b45861bf367db7f40e8649a7",
+      "declaration_index": 8,
+      "exported": false,
+      "id": "github:surface_catalysis::contradiction_rpa_benchmark",
+      "label": "contradiction_rpa_benchmark",
+      "metadata": {
+        "helper_kind": "contradiction_result",
+        "prior": 0.82
+      },
+      "module": "cross_paper",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "not_both_true(A, B)",
+      "content_hash": "468923920550aff97ac2349f7d0a5b32e6560066b45861bf367db7f40e8649a7",
+      "declaration_index": 9,
+      "exported": false,
+      "id": "github:surface_catalysis::contradiction_beef_uncertainty",
+      "label": "contradiction_beef_uncertainty",
+      "metadata": {
+        "helper_kind": "contradiction_result",
+        "prior": 0.88
+      },
+      "module": "cross_paper",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "not_both_true(A, B)",
+      "content_hash": "468923920550aff97ac2349f7d0a5b32e6560066b45861bf367db7f40e8649a7",
+      "declaration_index": 10,
+      "exported": false,
+      "id": "github:surface_catalysis::contradiction_solvent_gap",
+      "label": "contradiction_solvent_gap",
+      "metadata": {
+        "helper_kind": "contradiction_result",
+        "prior": 0.85
+      },
+      "module": "cross_paper",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "not_both_true(A, B)",
+      "content_hash": "468923920550aff97ac2349f7d0a5b32e6560066b45861bf367db7f40e8649a7",
+      "declaration_index": 11,
+      "exported": false,
+      "id": "github:surface_catalysis::contradiction_dft_u_compound",
+      "label": "contradiction_dft_u_compound",
+      "metadata": {
+        "helper_kind": "contradiction_result",
+        "prior": 0.8
+      },
+      "module": "cross_paper",
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "not_both_true(A, B)",
+      "content_hash": "468923920550aff97ac2349f7d0a5b32e6560066b45861bf367db7f40e8649a7",
+      "declaration_index": 12,
+      "exported": false,
+      "id": "github:surface_catalysis::contradiction_total_error",
+      "label": "contradiction_total_error",
+      "metadata": {
+        "helper_kind": "contradiction_result",
+        "prior": 0.9
       },
       "module": "cross_paper",
       "parameters": [],
@@ -792,18 +1500,407 @@
       },
       "parameters": [],
       "type": "claim"
+    },
+    {
+      "content": "implies(github:surface_catalysis::extrapolation_hypothesis_stated,github:surface_catalysis::prem_extrapolation_valid)",
+      "content_hash": "7d62b842ff8939d5be0cb2b16efc37efe73356721fb9233bdd04ae865b826ea8",
+      "exported": false,
+      "id": "github:surface_catalysis::__implication_result_32f570b4",
+      "label": "__implication_result_32f570b4",
+      "metadata": {
+        "canonical_name": "implies(github:surface_catalysis::extrapolation_hypothesis_stated,github:surface_catalysis::prem_extrapolation_valid)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_6bfea46e3fc9b7c0",
+        "owning_strategy_type": "support",
+        "prior": 0.7,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:surface_catalysis::co_on_3d_metals,github:surface_catalysis::hybrid_direction_inconsistent)",
+      "content_hash": "cd43c271a3a98f0759c0c24032d42d1878ddeab9d6c78b829d867b048ade4b98",
+      "exported": false,
+      "id": "github:surface_catalysis::__implication_result_7181df73",
+      "label": "__implication_result_7181df73",
+      "metadata": {
+        "canonical_name": "implies(github:surface_catalysis::co_on_3d_metals,github:surface_catalysis::hybrid_direction_inconsistent)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_72116bfa4f85c8f3",
+        "owning_strategy_type": "support",
+        "prior": 0.7,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:surface_catalysis::co_pt_coordination_dependent,github:surface_catalysis::correction_site_reordering)",
+      "content_hash": "5c15f717c98f4f04ad62929b1c9b8fdd368803ead724d6fda3d3ff1884a718f0",
+      "exported": false,
+      "id": "github:surface_catalysis::__implication_result_e80437a8",
+      "label": "__implication_result_e80437a8",
+      "metadata": {
+        "canonical_name": "implies(github:surface_catalysis::co_pt_coordination_dependent,github:surface_catalysis::correction_site_reordering)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_12bfda42bee4fab6",
+        "owning_strategy_type": "support",
+        "prior": 0.72,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:surface_catalysis::co_adsorption_6_metals,github:surface_catalysis::prem_extrapolation_valid)",
+      "content_hash": "e12cdbe5adf9bf72a19ab68db5cd2ccaeaa1defa434cb9c1da9679acd829d7d6",
+      "exported": false,
+      "id": "github:surface_catalysis::__implication_result_f3640a32",
+      "label": "__implication_result_f3640a32",
+      "metadata": {
+        "canonical_name": "implies(github:surface_catalysis::co_adsorption_6_metals,github:surface_catalysis::prem_extrapolation_valid)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_581bae116064f75b",
+        "owning_strategy_type": "support",
+        "prior": 0.65,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:surface_catalysis::mason_abildpedersen_vibrational,github:surface_catalysis::root_correction_method)",
+      "content_hash": "4644f4c2dd7bbc7ef430294ed712e2fff11271a19a72ad19bdebb08cb2c15a0f",
+      "exported": false,
+      "id": "github:surface_catalysis::__implication_result_4674a59a",
+      "label": "__implication_result_4674a59a",
+      "metadata": {
+        "canonical_name": "implies(github:surface_catalysis::mason_abildpedersen_vibrational,github:surface_catalysis::root_correction_method)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_3b0b939e37039fe2",
+        "owning_strategy_type": "support",
+        "prior": 0.6,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:surface_catalysis::coverage_dft_vs_exp_rh,github:surface_catalysis::co_ru_lattice_gas)",
+      "content_hash": "4eb2bf6b4b77a1261ad4e32856dc9f872e108c2965e4e4b51ec422d8b8244e98",
+      "exported": false,
+      "id": "github:surface_catalysis::__implication_result_e175cefe",
+      "label": "__implication_result_e175cefe",
+      "metadata": {
+        "canonical_name": "implies(github:surface_catalysis::coverage_dft_vs_exp_rh,github:surface_catalysis::co_ru_lattice_gas)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_f94dae413cc49446",
+        "owning_strategy_type": "support",
+        "prior": 0.72,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "all_true(github:surface_catalysis::bep_no_dissociation,github:surface_catalysis::bep_co_formation,github:surface_catalysis::bep_catalyst_family)",
+      "content_hash": "2a024568f24015d424ede596b538853262e3137f2b223c78547ea19ddc803752",
+      "exported": false,
+      "id": "github:surface_catalysis::__conjunction_result_d1770813",
+      "label": "__conjunction_result_d1770813",
+      "metadata": {
+        "canonical_name": "all_true(github:surface_catalysis::bep_no_dissociation,github:surface_catalysis::bep_co_formation,github:surface_catalysis::bep_catalyst_family)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "conjunction_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "conjunction_result",
+        "owning_strategy_id": "lcs_63803ab15c59919f",
+        "owning_strategy_type": "support",
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:surface_catalysis::__conjunction_result_d1770813,github:surface_catalysis::bep_multiclass)",
+      "content_hash": "23da39c6e9e771e84ddf4d229de211cc433b4da6cf929219cd45ed1dc73908f4",
+      "exported": false,
+      "id": "github:surface_catalysis::__implication_result_d1907ed7",
+      "label": "__implication_result_d1907ed7",
+      "metadata": {
+        "canonical_name": "implies(github:surface_catalysis::__conjunction_result_d1770813,github:surface_catalysis::bep_multiclass)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_63803ab15c59919f",
+        "owning_strategy_type": "support",
+        "prior": 0.75,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:surface_catalysis::beef_consistent_with_rpa,github:surface_catalysis::rpa_co_benchmark)",
+      "content_hash": "29aed339726c240fa00c4b6ac2072580f0b7531925a72693b3d139443a1454ed",
+      "exported": false,
+      "id": "github:surface_catalysis::__implication_result_48dce18f",
+      "label": "__implication_result_48dce18f",
+      "metadata": {
+        "canonical_name": "implies(github:surface_catalysis::beef_consistent_with_rpa,github:surface_catalysis::rpa_co_benchmark)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_98566dba6e77b8a0",
+        "owning_strategy_type": "support",
+        "prior": 0.7,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:surface_catalysis::o2_barrier_model_sensitive,github:surface_catalysis::beef_ensemble_spread)",
+      "content_hash": "0d1a681bbb19c93015a46363c03ffbb4ecfcf93aa10f0534ddf6cc7c50295383",
+      "exported": false,
+      "id": "github:surface_catalysis::__implication_result_efe09a7e",
+      "label": "__implication_result_efe09a7e",
+      "metadata": {
+        "canonical_name": "implies(github:surface_catalysis::o2_barrier_model_sensitive,github:surface_catalysis::beef_ensemble_spread)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_1c75d38713bcc6e6",
+        "owning_strategy_type": "support",
+        "prior": 0.72,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "all_true(github:surface_catalysis::zpe_harmonic_error,github:surface_catalysis::entropy_correction_uncertainty)",
+      "content_hash": "75cc445fc2f8ca5a5d2874e0cc6ff8cd41a995bd1b8a855a4177b2e0e077ef8f",
+      "exported": false,
+      "id": "github:surface_catalysis::__conjunction_result_703efab4",
+      "label": "__conjunction_result_703efab4",
+      "metadata": {
+        "canonical_name": "all_true(github:surface_catalysis::zpe_harmonic_error,github:surface_catalysis::entropy_correction_uncertainty)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "conjunction_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "conjunction_result",
+        "owning_strategy_id": "lcs_4b8598109b9ddf55",
+        "owning_strategy_type": "support",
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:surface_catalysis::__conjunction_result_703efab4,github:surface_catalysis::total_error_budget_incomplete)",
+      "content_hash": "427f330d175b8284ce17a379f8fda40045144cb1b786e00a51426f78b2f5982e",
+      "exported": false,
+      "id": "github:surface_catalysis::__implication_result_d1ec14a8",
+      "label": "__implication_result_d1ec14a8",
+      "metadata": {
+        "canonical_name": "implies(github:surface_catalysis::__conjunction_result_703efab4,github:surface_catalysis::total_error_budget_incomplete)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_4b8598109b9ddf55",
+        "owning_strategy_type": "support",
+        "prior": 0.78,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "all_true(github:surface_catalysis::rpa_method,github:surface_catalysis::rpa_optimized)",
+      "content_hash": "a41d96e04abf4a267a6c0aad2f32e2d68ede07d11a10b4598bcb31fab11f4895",
+      "exported": false,
+      "id": "github:surface_catalysis::__conjunction_result_b0ecc9b8",
+      "label": "__conjunction_result_b0ecc9b8",
+      "metadata": {
+        "canonical_name": "all_true(github:surface_catalysis::rpa_method,github:surface_catalysis::rpa_optimized)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "conjunction_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "conjunction_result",
+        "owning_strategy_id": "lcs_3ebde1f5f255fd64",
+        "owning_strategy_type": "support",
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:surface_catalysis::__conjunction_result_b0ecc9b8,github:surface_catalysis::rpa_co_benchmark)",
+      "content_hash": "68c185f720285a87aef6f8eb17e5bf174231b93ed1288e4d667c4ca9b282ae42",
+      "exported": false,
+      "id": "github:surface_catalysis::__implication_result_62fb1810",
+      "label": "__implication_result_62fb1810",
+      "metadata": {
+        "canonical_name": "implies(github:surface_catalysis::__conjunction_result_b0ecc9b8,github:surface_catalysis::rpa_co_benchmark)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_3ebde1f5f255fd64",
+        "owning_strategy_type": "support",
+        "prior": 0.75,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "all_true(github:surface_catalysis::solvent_correction_gap,github:surface_catalysis::che_method_approximation)",
+      "content_hash": "a073e903a64ce703ec12b9954f2148a8f22122ce981b2a634739bfae890455ac",
+      "exported": false,
+      "id": "github:surface_catalysis::__conjunction_result_0a8f7f09",
+      "label": "__conjunction_result_0a8f7f09",
+      "metadata": {
+        "canonical_name": "all_true(github:surface_catalysis::solvent_correction_gap,github:surface_catalysis::che_method_approximation)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "conjunction_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "conjunction_result",
+        "owning_strategy_id": "lcs_e7e547b8351f3a76",
+        "owning_strategy_type": "support",
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:surface_catalysis::__conjunction_result_0a8f7f09,github:surface_catalysis::solvent_free_energy_gap)",
+      "content_hash": "9477a1e3ba945cc1d087007b4646afd3ded4556d05aec5a6ca07b23e96b9fa9d",
+      "exported": false,
+      "id": "github:surface_catalysis::__implication_result_de7fbcbf",
+      "label": "__implication_result_de7fbcbf",
+      "metadata": {
+        "canonical_name": "implies(github:surface_catalysis::__conjunction_result_0a8f7f09,github:surface_catalysis::solvent_free_energy_gap)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_e7e547b8351f3a76",
+        "owning_strategy_type": "support",
+        "prior": 0.78,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "all_true(github:surface_catalysis::dband_hammersley_norskov_correlation,github:surface_catalysis::dband_shift_rhodium)",
+      "content_hash": "4c72fe5b53a96d5ae0e139a0e6350d0c09db089da589963201a7ee81634dfb3c",
+      "exported": false,
+      "id": "github:surface_catalysis::__conjunction_result_c1d00f38",
+      "label": "__conjunction_result_c1d00f38",
+      "metadata": {
+        "canonical_name": "all_true(github:surface_catalysis::dband_hammersley_norskov_correlation,github:surface_catalysis::dband_shift_rhodium)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "conjunction_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "conjunction_result",
+        "owning_strategy_id": "lcs_818372fb956727bc",
+        "owning_strategy_type": "support",
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:surface_catalysis::__conjunction_result_c1d00f38,github:surface_catalysis::co_pt_coordination_dependent)",
+      "content_hash": "9c869ddf18ae56893cdafbd7a172b8df518f96b149d96e735e25248f390908d6",
+      "exported": false,
+      "id": "github:surface_catalysis::__implication_result_2f65f064",
+      "label": "__implication_result_2f65f064",
+      "metadata": {
+        "canonical_name": "implies(github:surface_catalysis::__conjunction_result_c1d00f38,github:surface_catalysis::co_pt_coordination_dependent)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_818372fb956727bc",
+        "owning_strategy_type": "support",
+        "prior": 0.78,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
     }
   ],
   "module_order": [
     "paper_mason2003",
     "paper_s2_findings",
     "paper_upstream",
+    "paper_iter2",
+    "paper_coverage",
+    "paper_bep",
+    "paper_rpa",
+    "paper_beef",
+    "paper_solvent",
+    "paper_barriers",
+    "paper_dband_zpe",
     "cross_paper"
   ],
   "module_titles": {
     "cross_paper": "Cross-paper operators for surface-catalysis-gaia.",
+    "paper_barriers": "O2/CO2 dissociation barriers and DFT+U corrections — extending the error analysis.",
+    "paper_beef": "BEEF-vdW Bayesian error estimation — DFT uncertainty quantification.",
+    "paper_bep": "BEP scaling relations — universality and limitations across reaction classes.",
+    "paper_coverage": "Coverage-dependent adsorption energetics and DFT lateral interactions.",
+    "paper_dband_zpe": "d-band model, ZPE corrections — final expansion layer.",
+    "paper_iter2": "Iteration 2: Expanded metal set, correction hypothesis, and validation.",
     "paper_mason2003": "Surface Catalysis DFT-GGA Chemisorption Energy Correction (Mason et al., 2003).",
+    "paper_rpa": "RPA benchmarks — gold-standard reference for CO chemisorption.",
     "paper_s2_findings": "Contradiction-search findings for Mason et al. (2003) correction method.",
+    "paper_solvent": "Solvent and electrochemical environment effects on DFT adsorption.",
     "paper_upstream": "Upstream support findings — functional comparison, vdW, experimental site determination."
   },
   "namespace": "github",
@@ -871,6 +1968,110 @@
       "variables": [
         "github:surface_catalysis::correction_site_reordering",
         "github:surface_catalysis::experimental_site_methods"
+      ]
+    },
+    {
+      "conclusion": "github:surface_catalysis::contradiction_coverage",
+      "metadata": {
+        "reason": "The Mason correction method is parameterized and applied at the zero-coverage limit (single CO molecule on a periodic slab). However, CO-CO lateral interactions on real catalyst surfaces substantially modify the effective adsorption energy as coverage increases. Since the correction does not account for coverage dependence, its applicability to finite-coverage catalytic conditions — where most experimental measurements are made — is unvalidated. | new_question: How does the Mason correction accuracy degrade at finite CO coverage where lateral CO-CO interactions modify the adsorption energetics, and can the correction be extended to include coverage-dependent terms?"
+      },
+      "operator": "contradiction",
+      "operator_id": "lco_3804f2f773196ebc",
+      "scope": "local",
+      "variables": [
+        "github:surface_catalysis::root_correction_method",
+        "github:surface_catalysis::co_ru_lattice_gas"
+      ]
+    },
+    {
+      "conclusion": "github:surface_catalysis::contradiction_bep_universality",
+      "metadata": {
+        "reason": "prem_linear_mapping asserts a universal linear relation between the gas-phase DeltaE_ST error and the surface chemisorption error, which underlies the Mason correction. However, bep_multiclass shows that even for the more established BEP framework, the linear relation parameters (slope, intercept) are NOT universal but depend systematically on the reaction class. By analogy, the Mason correction's linear mapping parameters (E_0, m) may also be class-specific rather than universal — different for CO vs. other diatomics, different for different metal groups (3d vs. 4d vs. 5d). | new_question: Are the Mason correction parameters (E_0, m) universal across all transition metals and adsorbates, or do they form class-specific groups analogous to BEP relations?"
+      },
+      "operator": "contradiction",
+      "operator_id": "lco_1d48a21a6c9e5abc",
+      "scope": "local",
+      "variables": [
+        "github:surface_catalysis::prem_linear_mapping",
+        "github:surface_catalysis::bep_multiclass"
+      ]
+    },
+    {
+      "conclusion": "github:surface_catalysis::contradiction_tpd_vs_dft",
+      "metadata": {
+        "reason": "prem_benchmark_valid assumes the gas-phase CC/CI benchmark provides the correct reference for correcting DFT-GGA surface energetics. But TPD measurements reveal that experimental desorption activation energies are coverage-dependent, while the Mason correction uses zero-coverage DFT energies. The gap between the zero-coverage corrected DFT value and the coverage-dependent experimental desorption energy adds an additional source of theory-experiment discrepancy beyond the singlet-triplet error. | new_question: How should the experimental reference for validating CO chemisorption energy corrections account for coverage-dependent effects in TPD measurements?"
+      },
+      "operator": "contradiction",
+      "operator_id": "lco_b7d8a4e213b4b46e",
+      "scope": "local",
+      "variables": [
+        "github:surface_catalysis::prem_benchmark_valid",
+        "github:surface_catalysis::tpd_coverage_dependent_energetics"
+      ]
+    },
+    {
+      "conclusion": "github:surface_catalysis::contradiction_rpa_benchmark",
+      "metadata": {
+        "reason": "The Mason correction claims to correct DFT-GGA chemisorption energies to a 'first-principles benchmark.' RPA — the current gold-standard method — deviates from experimental measurements by several tens of meV. This implies that even the best available first-principles reference is not a perfect proxy for the experimental chemisorption energy, and calling the Mason-corrected value a 'first-principles benchmark' is misleading when the benchmark itself (RPA-quality energy) still has residual errors. | new_question: What is the true accuracy limit of first-principles methods for CO chemisorption energies, and can any computational method claim to provide a true 'benchmark' within < 0.05 eV of experiment?"
+      },
+      "operator": "contradiction",
+      "operator_id": "lco_61f43fa22304c6b7",
+      "scope": "local",
+      "variables": [
+        "github:surface_catalysis::root_correction_method",
+        "github:surface_catalysis::rpa_deviates_from_experiment"
+      ]
+    },
+    {
+      "conclusion": "github:surface_catalysis::contradiction_beef_uncertainty",
+      "metadata": {
+        "reason": "The BEEF-vdW ensemble analysis shows that the intrinsic exchange-correlation uncertainty of semi-local DFT for chemisorption energetics is approximately 0.20 eV (one standard deviation). The Mason correction claims to reduce systematic DFT error to ~0.02 eV. But the BEEF analysis reveals that even after correcting for the singlet-triplet error, the exchange-correlation functional uncertainty alone is an order of magnitude larger than the claimed precision. | new_question: Given the BEEF-vdW ensemble uncertainty of ~0.20 eV for chemisorption, is a sub-0.05 eV precision target for DFT chemisorption energy corrections achievable or meaningful?"
+      },
+      "operator": "contradiction",
+      "operator_id": "lco_1074ba98c0ae2a05",
+      "scope": "local",
+      "variables": [
+        "github:surface_catalysis::root_correction_method",
+        "github:surface_catalysis::beef_ensemble_spread"
+      ]
+    },
+    {
+      "conclusion": "github:surface_catalysis::contradiction_solvent_gap",
+      "metadata": {
+        "reason": "The Mason correction was parameterized on ultra-high-vacuum (UHV) DFT calculations that do not include solvation, electrode potential, or electric double-layer effects. Solvent and electrochemical corrections shift adsorption free energies by 0.1-0.3 eV. Applying the Mason correction to electrochemical catalytic problems without additionally accounting for solvent effects would leave a systematic error comparable to or larger than the singlet-triplet correction itself. | new_question: How can first-principles corrections for chemisorption energies be extended from UHV surface science to electrochemical (liquid-solid) interfaces where solvent and potential effects are significant?"
+      },
+      "operator": "contradiction",
+      "operator_id": "lco_d0bf8909d487e73b",
+      "scope": "local",
+      "variables": [
+        "github:surface_catalysis::root_correction_method",
+        "github:surface_catalysis::solvent_free_energy_gap"
+      ]
+    },
+    {
+      "conclusion": "github:surface_catalysis::contradiction_dft_u_compound",
+      "metadata": {
+        "reason": "The Mason correction addresses only one source of DFT error (GGA self-interaction via singlet-triplet extrapolation). For correlated oxide surfaces, DFT requires THREE independent corrections simultaneously (+U, vdW, and molecular reference corrections). The Mason method was never designed to handle this compounded correction scenario, and applying all three corrections independently may introduce cross-correction errors. | new_question: For correlated oxide catalyst surfaces, how should the Mason singlet-triplet correction be combined with DFT+U and vdW corrections without introducing cross-correction errors?"
+      },
+      "operator": "contradiction",
+      "operator_id": "lco_96e62990c75c3995",
+      "scope": "local",
+      "variables": [
+        "github:surface_catalysis::root_correction_method",
+        "github:surface_catalysis::dft_u_vdw_formalism"
+      ]
+    },
+    {
+      "conclusion": "github:surface_catalysis::contradiction_total_error",
+      "metadata": {
+        "reason": "The Mason correction claims to correct DFT-GGA chemisorption energies to a first-principles benchmark. However, the total error budget includes at least 7 independent error sources, of which the GGA singlet-triplet error is only one. | new_question: What is the achievable lower bound on the theory-experiment discrepancy for CO chemisorption energies when all known systematic error sources are accounted for simultaneously?"
+      },
+      "operator": "contradiction",
+      "operator_id": "lco_8528105be0305d5b",
+      "scope": "local",
+      "variables": [
+        "github:surface_catalysis::root_correction_method",
+        "github:surface_catalysis::total_error_budget_incomplete"
       ]
     }
   ],
@@ -1219,6 +2420,404 @@
       ],
       "scope": "local",
       "strategy_id": "lcs_9c37cd81396e3b64",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:surface_catalysis::prem_extrapolation_valid",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:surface_catalysis::__implication_result_32f570b4",
+            "operator": "implication",
+            "variables": [
+              "github:surface_catalysis::extrapolation_hypothesis_stated",
+              "github:surface_catalysis::prem_extrapolation_valid"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.7,
+        "reason": "The extrapolation hypothesis explicitly states the assumption that the Mason correction's linear relation remains valid when the independent variable DeltaE_ST is shifted from the GGA sampled range [5.35, 5.84] eV to the CC/CI target at 6.095 eV. This is precisely the content of prem_extrapolation_valid — that no nonlinearity or slope change occurs in the extrapolation region."
+      },
+      "premises": [
+        "github:surface_catalysis::extrapolation_hypothesis_stated"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_6bfea46e3fc9b7c0",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:surface_catalysis::hybrid_direction_inconsistent",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:surface_catalysis::__implication_result_7181df73",
+            "operator": "implication",
+            "variables": [
+              "github:surface_catalysis::co_on_3d_metals",
+              "github:surface_catalysis::hybrid_direction_inconsistent"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.7,
+        "reason": "The systematically different CO chemisorption trend on 3d metals (Fe, Co, Ni) compared to 4d/5d metals (Ru, Rh, Pd, Os, Ir, Pt) provides additional evidence for hybrid_direction_inconsistent: the fundamental electronic structure differences between 3d (more localized d states, stronger correlation) and 4d/5d (more delocalized d states, weaker correlation) metals mean that corrections parameterized on 4d/5d metals may not transfer to 3d systems."
+      },
+      "premises": [
+        "github:surface_catalysis::co_on_3d_metals"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_72116bfa4f85c8f3",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:surface_catalysis::correction_site_reordering",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:surface_catalysis::__implication_result_e80437a8",
+            "operator": "implication",
+            "variables": [
+              "github:surface_catalysis::co_pt_coordination_dependent",
+              "github:surface_catalysis::correction_site_reordering"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.72,
+        "reason": "The observation that CO adsorption energy increases with decreasing Pt coordination number implies that the Mason correction, parameterized on extended flat surfaces (111 and 100), may not accurately describe undercoordinated sites (steps, edges, nanoparticles) where the d-band center differs. This reinforces the concern that site-specific correction parameters m are not trivially transferable between different types of surface sites."
+      },
+      "premises": [
+        "github:surface_catalysis::co_pt_coordination_dependent"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_12bfda42bee4fab6",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:surface_catalysis::prem_extrapolation_valid",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:surface_catalysis::__implication_result_f3640a32",
+            "operator": "implication",
+            "variables": [
+              "github:surface_catalysis::co_adsorption_6_metals",
+              "github:surface_catalysis::prem_extrapolation_valid"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.65,
+        "reason": "The extension of systematic CO chemisorption calculations to Os and Ir — metals not in the original Mason dataset — provides a test of whether the linear relation holds beyond the original 4 metals. If the extrapolation remains valid for these new metals, it strengthens the case for universality."
+      },
+      "premises": [
+        "github:surface_catalysis::co_adsorption_6_metals"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_581bae116064f75b",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:surface_catalysis::root_correction_method",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:surface_catalysis::__implication_result_4674a59a",
+            "operator": "implication",
+            "variables": [
+              "github:surface_catalysis::mason_abildpedersen_vibrational",
+              "github:surface_catalysis::root_correction_method"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.6,
+        "reason": "The Abild-Pedersen extension from singlet-triplet splitting to CO vibrational frequency as the linear predictor generalizes the Mason correction concept, suggesting the underlying linear-mapping idea has broader applicability beyond the original parameterization."
+      },
+      "premises": [
+        "github:surface_catalysis::mason_abildpedersen_vibrational"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_3b0b939e37039fe2",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:surface_catalysis::co_ru_lattice_gas",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:surface_catalysis::__implication_result_e175cefe",
+            "operator": "implication",
+            "variables": [
+              "github:surface_catalysis::coverage_dft_vs_exp_rh",
+              "github:surface_catalysis::co_ru_lattice_gas"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.72,
+        "reason": "Both coverage_dft_vs_exp_rh (on Rh) and co_ru_lattice_gas (on Ru) independently demonstrate that coverage-dependent effects are significant for CO adsorption energetics and are not captured by zero-coverage DFT calculations — the regime in which the Mason correction is parameterized."
+      },
+      "premises": [
+        "github:surface_catalysis::coverage_dft_vs_exp_rh"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_f94dae413cc49446",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:surface_catalysis::bep_multiclass",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:surface_catalysis::__conjunction_result_d1770813",
+            "operator": "conjunction",
+            "variables": [
+              "github:surface_catalysis::bep_no_dissociation",
+              "github:surface_catalysis::bep_co_formation",
+              "github:surface_catalysis::bep_catalyst_family"
+            ]
+          },
+          {
+            "conclusion": "github:surface_catalysis::__implication_result_d1907ed7",
+            "operator": "implication",
+            "variables": [
+              "github:surface_catalysis::__conjunction_result_d1770813",
+              "github:surface_catalysis::bep_multiclass"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.75,
+        "reason": "The existence of BEP relations for NO dissociation, CO formation, and across different catalyst families collectively supports bep_multiclass: the BEP parameters are not universal but depend on the reaction class and catalyst material family. This reinforces the concern that scaling relations parameterized on one class may not transfer to others."
+      },
+      "premises": [
+        "github:surface_catalysis::bep_no_dissociation",
+        "github:surface_catalysis::bep_co_formation",
+        "github:surface_catalysis::bep_catalyst_family"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_63803ab15c59919f",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:surface_catalysis::rpa_co_benchmark",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:surface_catalysis::__implication_result_48dce18f",
+            "operator": "implication",
+            "variables": [
+              "github:surface_catalysis::beef_consistent_with_rpa",
+              "github:surface_catalysis::rpa_co_benchmark"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.7,
+        "reason": "The qualitative consistency between BEEF-vdW ensemble predictions and RPA calculations validates the ensemble approach as a computationally affordable proxy for higher-level benchmarks, and supports the general picture that DFT exchange-correlation errors in chemisorption are systematic and estimable."
+      },
+      "premises": [
+        "github:surface_catalysis::beef_consistent_with_rpa"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_98566dba6e77b8a0",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:surface_catalysis::beef_ensemble_spread",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:surface_catalysis::__implication_result_efe09a7e",
+            "operator": "implication",
+            "variables": [
+              "github:surface_catalysis::o2_barrier_model_sensitive",
+              "github:surface_catalysis::beef_ensemble_spread"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.72,
+        "reason": "The factor-of-2 variation in O2 dissociation barriers across different computational models reinforces the BEEF-vdW finding that DFT uncertainty for surface reactions is substantially larger than the ~0.02 eV precision claimed by the Mason correction — not just for adsorption energies but even more so for activation barriers."
+      },
+      "premises": [
+        "github:surface_catalysis::o2_barrier_model_sensitive"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_1c75d38713bcc6e6",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:surface_catalysis::total_error_budget_incomplete",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:surface_catalysis::__conjunction_result_703efab4",
+            "operator": "conjunction",
+            "variables": [
+              "github:surface_catalysis::zpe_harmonic_error",
+              "github:surface_catalysis::entropy_correction_uncertainty"
+            ]
+          },
+          {
+            "conclusion": "github:surface_catalysis::__implication_result_d1ec14a8",
+            "operator": "implication",
+            "variables": [
+              "github:surface_catalysis::__conjunction_result_703efab4",
+              "github:surface_catalysis::total_error_budget_incomplete"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.78,
+        "reason": "ZPE and entropy corrections are independently documented contributions to the gap between DFT electronic energies and experimental free energies, supporting the error budget analysis."
+      },
+      "premises": [
+        "github:surface_catalysis::zpe_harmonic_error",
+        "github:surface_catalysis::entropy_correction_uncertainty"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_4b8598109b9ddf55",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:surface_catalysis::rpa_co_benchmark",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:surface_catalysis::__conjunction_result_b0ecc9b8",
+            "operator": "conjunction",
+            "variables": [
+              "github:surface_catalysis::rpa_method",
+              "github:surface_catalysis::rpa_optimized"
+            ]
+          },
+          {
+            "conclusion": "github:surface_catalysis::__implication_result_62fb1810",
+            "operator": "implication",
+            "variables": [
+              "github:surface_catalysis::__conjunction_result_b0ecc9b8",
+              "github:surface_catalysis::rpa_co_benchmark"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.75,
+        "reason": "RPA method definition and optimization support RPA as a benchmark."
+      },
+      "premises": [
+        "github:surface_catalysis::rpa_method",
+        "github:surface_catalysis::rpa_optimized"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_3ebde1f5f255fd64",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:surface_catalysis::solvent_free_energy_gap",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:surface_catalysis::__conjunction_result_0a8f7f09",
+            "operator": "conjunction",
+            "variables": [
+              "github:surface_catalysis::solvent_correction_gap",
+              "github:surface_catalysis::che_method_approximation"
+            ]
+          },
+          {
+            "conclusion": "github:surface_catalysis::__implication_result_de7fbcbf",
+            "operator": "implication",
+            "variables": [
+              "github:surface_catalysis::__conjunction_result_0a8f7f09",
+              "github:surface_catalysis::solvent_free_energy_gap"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.78,
+        "reason": "CHE approximations and individual correction uncertainties jointly establish the solvent-induced gap."
+      },
+      "premises": [
+        "github:surface_catalysis::solvent_correction_gap",
+        "github:surface_catalysis::che_method_approximation"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_e7e547b8351f3a76",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:surface_catalysis::co_pt_coordination_dependent",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:surface_catalysis::__conjunction_result_c1d00f38",
+            "operator": "conjunction",
+            "variables": [
+              "github:surface_catalysis::dband_hammersley_norskov_correlation",
+              "github:surface_catalysis::dband_shift_rhodium"
+            ]
+          },
+          {
+            "conclusion": "github:surface_catalysis::__implication_result_2f65f064",
+            "operator": "implication",
+            "variables": [
+              "github:surface_catalysis::__conjunction_result_c1d00f38",
+              "github:surface_catalysis::co_pt_coordination_dependent"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.78,
+        "reason": "The d-band model provides the theoretical framework for understanding why CO adsorption depends on Pt coordination number: undercoordinated sites have upshifted d-band centers."
+      },
+      "premises": [
+        "github:surface_catalysis::dband_hammersley_norskov_correlation",
+        "github:surface_catalysis::dband_shift_rhodium"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_818372fb956727bc",
       "type": "support"
     }
   ]

@@ -4,7 +4,7 @@
   "focus_kind": null,
   "focus_resolved_id": null,
   "mode": "auto",
-  "last_review_id": "2026-05-03T10-52-16Z_94f16f4e_auto",
+  "last_review_id": "2026-05-03T11-19-58Z_94f16f4e_auto",
   "baseline_review_id": "2026-05-03T10-52-16Z_94f16f4e_auto",
   "focus_stack": [],
   "synthetic_obligations": [
@@ -81,6 +81,24 @@
       "content": "Given the methodological ambiguity in experimental site determination (RAIRS vs SFG), how can the accuracy of DFT site-preference predictions — including post-Mason-correction predictions — be rigorously validated?",
       "scope_qid": "cross_paper::contradiction_experiment_ambiguity",
       "created_at": "2026-05-03T10:50:50Z"
+    },
+    {
+      "qid": "hyp_06942a98",
+      "content": "What is the true accuracy limit of first-principles methods for CO chemisorption energies, and can any computational method claim to provide a true benchmark within 0.05 eV of experiment?",
+      "scope_qid": "cross_paper::contradiction_rpa_benchmark",
+      "created_at": "2026-05-03T11:34:40Z"
+    },
+    {
+      "qid": "hyp_61a270a9",
+      "content": "Given the BEEF-vdW ensemble uncertainty of ~0.20 eV for chemisorption, is a sub-0.05 eV precision target for DFT chemisorption energy corrections achievable or meaningful?",
+      "scope_qid": "cross_paper::contradiction_beef_uncertainty",
+      "created_at": "2026-05-03T11:34:40Z"
+    },
+    {
+      "qid": "hyp_3f0cf58b",
+      "content": "How can first-principles corrections for chemisorption energies be extended from UHV surface science to electrochemical liquid-solid interfaces where solvent and potential effects are significant?",
+      "scope_qid": "cross_paper::contradiction_solvent_gap",
+      "created_at": "2026-05-03T11:34:41Z"
     }
   ],
   "synthetic_rejections": []

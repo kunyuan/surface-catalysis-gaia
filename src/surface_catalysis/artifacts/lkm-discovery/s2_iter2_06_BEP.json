@@ -1,0 +1,520 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1106194783879036935": {
+        "area": "arXiv-Physics",
+        "authors": "Simon B. Hollweger | Anna Werkovits | Oliver T. Hofmann",
+        "available_online": "",
+        "cover_date_start": "2025-03-10",
+        "created_at": "2025-03-11T04:23:13+08:00",
+        "doi": "10.48550/arxiv.2503.07308",
+        "en_title": "Metastable Monolayer Formation through a Connector Structure",
+        "id": "1106194783879036935",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "通过连接器结构形成亚稳单层"
+      },
+      "paper:811661152713965568": {
+        "area": "Physics and Astrophysics",
+        "authors": "Željko Šljivančanin | Mie Andersen | Liv Hornekær | Bjørk Hammer",
+        "available_online": "2011-5-24",
+        "cover_date_start": "2011-05-24",
+        "created_at": "2022-12-19T10:11:39+08:00",
+        "doi": "10.1103/physrevb.83.205426",
+        "en_title": "Structure and stability of small H clusters on graphene",
+        "id": "811661152713965568",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "石墨烯上小H团簇的结构与稳定性"
+      },
+      "paper:811674506371268610": {
+        "area": "Chemistry",
+        "authors": "Zongxian Yang | Luogang Xie | Dongwei Ma | Guangtao Wang",
+        "available_online": "2011-3-9",
+        "cover_date_start": "2011-03-09",
+        "created_at": "2022-12-19T11:04:43+08:00",
+        "doi": "10.1021/jp200005r",
+        "en_title": "Origin of the High Activity of the Ceria-Supported Copper Catalyst for H 2 O Dissociation",
+        "id": "811674506371268610",
+        "keywords": "",
+        "publication_date": "2011-4-14",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "二氧化铈负载铜催化剂用于水分解的高活性起源"
+      },
+      "paper:811812205702938624": {
+        "area": "Physics and Astrophysics",
+        "authors": "Prasenjit Ghosh | Raghani Pushpa | Stefano de Gironcoli | Shobhana Narasimhan",
+        "available_online": "2009-12-15",
+        "cover_date_start": "2009-12-15",
+        "created_at": "2022-12-19T20:11:53+08:00",
+        "doi": "10.1103/physrevb.80.233406",
+        "en_title": "Effective coordination number: A simple indicator of activation energies for NO dissociation on Rh(100) surfaces",
+        "id": "811812205702938624",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "有效配位数：Rh(100)表面上NO解离活化能的一个简单指标"
+      },
+      "paper:811828067033939968": {
+        "area": "Engineering Technology",
+        "authors": "Jesper Kleis | Glenn Jones | Frank Abild-Pedersen | Vladimir Tripkovic | Thomas Bligaard | Jan Rossmeisl",
+        "available_online": "",
+        "cover_date_start": "2009-01-01",
+        "created_at": "2022-12-19T21:14:54+08:00",
+        "doi": "10.1149/1.3230622",
+        "en_title": "Trends for Methane Oxidation at Solid Oxide Fuel Cell Conditions",
+        "id": "811828067033939968",
+        "keywords": "",
+        "publication_date": "2009",
+        "publication_id": "4308",
+        "publication_name": "Journal of The Electrochemical Society _ J. Electrochem. Soc.",
+        "research_categories": "",
+        "zh_title": "固体氧化物燃料电池条件下甲烷氧化的趋势"
+      },
+      "paper:811903822661156866": {
+        "area": "Chemistry",
+        "authors": "G JONES | J JAKOBSEN | S SHIM | J KLEIS | M ANDERSSON | J ROSSMEISL | F ABILDPEDERSEN | T BLIGAARD | S HELVEG | B HINNEMANN",
+        "available_online": "",
+        "cover_date_start": "2008-10-01",
+        "created_at": "2022-12-20T02:15:55+08:00",
+        "doi": "10.1016/j.jcat.2008.08.003",
+        "en_title": "First principles calculations and experimental insight into methane steam reforming over transition metal catalysts",
+        "id": "811903822661156866",
+        "keywords": "[{\"en_name\": \"DFT\", \"ch_name\": \"\"}, {\"en_name\": \"Kinetics\", \"ch_name\": \"\"}, {\"en_name\": \"Nanoparticles\", \"ch_name\": \"\"}, {\"en_name\": \"Noble metals\", \"ch_name\": \"\"}, {\"en_name\": \"Reactivity trends\", \"ch_name\": \"\"}, {\"en_name\": \"Steam reforming\", \"ch_name\": \"\"}, {\"en_name\": \"Surfaces\", \"ch_name\": \"\"}, {\"en_name\": \"TEM\", \"ch_name\": \"\"}]",
+        "publication_date": "2008-10-1",
+        "publication_id": "3381",
+        "publication_name": "Journal of Catalysis _ Journal of Catalysis",
+        "research_categories": "",
+        "zh_title": "过渡金属催化剂上甲烷蒸汽重整的第一性原理计算与实验洞察"
+      },
+      "paper:811933702228541440": {
+        "area": "Chemistry",
+        "authors": "Gerhard R. Wittreich | Geun Ho Gu | Daniel J. Robinson | Markos A. Katsoulakis | Dionisios G. Vlachos",
+        "available_online": "2021-8-11",
+        "cover_date_start": "2021-08-11",
+        "created_at": "2022-12-20T04:14:39+08:00",
+        "doi": "10.1021/acs.jpcc.1c04754",
+        "en_title": "Uncertainty Quantification and Error Propagation in the Enthalpy and Entropy of Surface Reactions Arising from a Single DFT Functional",
+        "id": "811933702228541440",
+        "keywords": "",
+        "publication_date": "2021-8-26",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "[\"Chemical Sciences\", \"Engineering\", \"Automotive Engineering\"]",
+        "zh_title": "由单一密度泛函理论（DFT）泛函引起的表面反应焓和熵中的不确定性量化与误差传播"
+      },
+      "paper:811964866599321600": {
+        "area": "Chemistry",
+        "authors": "Akio Ishikawa | Matthew Neurock | Enrique Iglesia",
+        "available_online": "2007-10-4",
+        "cover_date_start": "2007-10-01",
+        "created_at": "2022-12-20T06:18:29+08:00",
+        "doi": "10.1021/ja073712z",
+        "en_title": "Structural Requirements and Reaction Pathways in Dimethyl Ether Combustion Catalyzed by Supported Pt Clusters",
+        "id": "811964866599321600",
+        "keywords": "",
+        "publication_date": "2007-10-1",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "负载型铂簇催化二甲醚燃烧中的结构要求和反应途径"
+      },
+      "paper:812412170535960577": {
+        "area": "Chemistry",
+        "authors": "Angelos Michaelides | Z.-P. Liu | C. J. Zhang | Ali Alavi | David A. King | P. Hu",
+        "available_online": "2003-3-5",
+        "cover_date_start": "2003-03-05",
+        "created_at": "2022-12-21T11:55:56+08:00",
+        "doi": "10.1021/ja027366r",
+        "en_title": "Identification of General Linear Relationships between Activation Energies and Enthalpy Changes for Dissociation Reactions at Surfaces",
+        "id": "812412170535960577",
+        "keywords": "",
+        "publication_date": "2003-4-1",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "表面解离反应活化能与焓变之间一般线性关系的确定"
+      },
+      "paper:812541276598566915": {
+        "area": "Comprehensive Periodical",
+        "authors": "Hong Nhan Nong | Lorenz J. Falling | Arno Bergmann | Malte Klingenhof | Hoang Phi Tran | Camillo Spöri | Rik Mom | Janis Timoshenko | Guido Zichittella | Axel Knop-Gericke | Simone Piccinin | Javier Pérez-Ramírez | Beatriz Roldan Cuenya | Robert Schlögl | Peter Strasser | Detre Teschner | Travis E. Jones",
+        "available_online": "2020-11-18",
+        "cover_date_start": "2020-11-18",
+        "created_at": "2022-12-21T20:28:58+08:00",
+        "doi": "10.1038/s41586-020-2908-2",
+        "en_title": "Key role of chemistry versus bias in electrocatalytic oxygen evolution",
+        "id": "812541276598566915",
+        "keywords": "",
+        "publication_date": "2020-11-19",
+        "publication_id": "8233",
+        "publication_name": "Nature _ Nature",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "化学与偏压在电催化析氧中的关键作用"
+      },
+      "paper:812668393286008833": {
+        "area": "Chemistry",
+        "authors": "Ling Liu | Yuyang Liu | Chungen Liu",
+        "available_online": "2020-3-4",
+        "cover_date_start": "2020-03-04",
+        "created_at": "2022-12-22T04:54:05+08:00",
+        "doi": "10.1021/jacs.9b13694",
+        "en_title": "Enhancing the Understanding of Hydrogen Evolution and Oxidation Reactions on Pt(111) through Ab Initio Simulation of Electrode/Electrolyte Kinetics",
+        "id": "812668393286008833",
+        "keywords": "",
+        "publication_date": "2020-3-18",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Engineering\"]",
+        "zh_title": "通过电极/电解质动力学的从头算模拟增强对Pt(111)上析氢和氧化反应的理解"
+      },
+      "paper:813238057678405632": {
+        "area": "Chemistry",
+        "authors": "Jonas Björk | Felix Hanke | Sven Stafström",
+        "available_online": "2013-4-3",
+        "cover_date_start": "2013-04-03",
+        "created_at": "2022-12-23T18:37:43+08:00",
+        "doi": "10.1021/ja400304b",
+        "en_title": "Mechanisms of Halogen-Based Covalent Self-Assembly on Metal Surfaces",
+        "id": "813238057678405632",
+        "keywords": "",
+        "publication_date": "2013-4-17",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "金属表面基于卤素的共价自组装机制"
+      },
+      "paper:814541066039459840": {
+        "area": "Chemistry",
+        "authors": "Mie Andersen | Andrew J. Medford | Jens K. Nørskov | Karsten Reuter",
+        "available_online": "2016-3-23",
+        "cover_date_start": "2016-03-23",
+        "created_at": "2022-12-27T08:55:24+08:00",
+        "doi": "10.1002/anie.201601049",
+        "en_title": "Analyzing the Case for Bifunctional Catalysis",
+        "id": "814541066039459840",
+        "keywords": "[{\"en_name\": \"bifunctional catalysis\", \"ch_name\": \"\"}, {\"en_name\": \"computational chemistry\", \"ch_name\": \"\"}, {\"en_name\": \"diffusion\", \"ch_name\": \"\"}, {\"en_name\": \"reaction mechanisms\", \"ch_name\": \"\"}, {\"en_name\": \"transition metals\", \"ch_name\": \"\"}]",
+        "publication_date": "2016-4-18",
+        "publication_id": "3347",
+        "publication_name": "Angewandte Chemie International Edition _ Angew. Chem. Int. Ed.",
+        "research_categories": "",
+        "zh_title": "分析双功能催化的实例"
+      },
+      "paper:867753693213098552": {
+        "area": "arXiv-Physics",
+        "authors": "Herve Toulhoat | Pascal Raybaud",
+        "available_online": "",
+        "cover_date_start": "2018-12-22",
+        "created_at": "2023-05-23T05:03:22+08:00",
+        "doi": "10.48550/arXiv.1812.09531",
+        "en_title": "Prediction of optimal catalysts for a given chemical reaction",
+        "id": "867753693213098552",
+        "keywords": "",
+        "publication_date": "2018-12-22",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Organic Chemistry\", \"Engineering\"]",
+        "zh_title": "预测给定化学反应的最佳催化剂"
+      }
+    },
+    "variables": [
+      {
+        "content": "Consider a reaction pathway in adsorbed phase decomposed into N elementary steps indexed by k=1,\\dots,N on catalysts j chosen from a family of analogous materials; for each step k on catalyst j the activation free energy \\Delta G_{j,k}^{\\ddagger} is represented by a Brønsted–Evans–Polanyi (BEP) linear relation of the form\n      $$\n      \\Delta G_{j,k}^{\\ddagger}=(\\gamma_{j,k}+a)\\,|\\Delta G_{j,k}|+\\Delta G_{0,j,k}^{\\ddagger},\n      $$\n      where \\Delta G_{j,k} is the free energy change of step k on catalyst j, \\gamma_{j,k}>0 is the Polanyi slope, a equals 0 when \\Delta G_{j,k}<0 and equals 1 when \\Delta G_{j,k}>0 (to cover the direct and reverse branches), and \\Delta G_{0,j,k}^{\\ddagger} is the intercept giving the minimal intrinsic activation barrier at \\Delta G_{j,k}=0. The strong universality hypothesis adopted in the derivation is that the BEP slope and intercept are independent of both the step index k and the catalyst identity j across the family, i.e. \\gamma_{j,k}=\\gamma and \\Delta G_{0,j,k}^{\\ddagger}=\\Delta G_{0}^{\\ddagger} for all k and j.",
+        "content_hash": "7da1617f72b462eaf5992f75c4674f7241547984c57436be556912018d6a60a4",
+        "id": "gcn_39909864d20f4830",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753693213098552::P6",
+            "package_id": "paper:867753693213098552",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753693213098552"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031054405392392875,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: An observed approximately linear relationship (Brønsted–Evans–Polanyi, BEP) between activation energy E_barrier and reaction energy E_react for a given chemical transformation (here, dehalogenation of substituted benzene) across three metal fcc(111) surfaces (Au, Ag, Cu) and two halogen substituents (Br, I) indicates a transferable BEP relation within this chemical family and the sampled surfaces; however, extrapolating that linear correlation to predict E_barrier on arbitrary other metal surfaces or for chemically distinct substituents is uncertain because BEP slope and intercept commonly vary with electronic structure, adsorption-site character, and reaction-coordinate details. Definitions and scope: E_barrier and E_react are total-energy differences obtained from periodic DFT for the dehalogenation reaction; the proposition qualifies the domain of trust for BEP extrapolation.",
+        "content_hash": "07b0ee079cc75010c90ade0cbc7796bb5939fe436d02539bd8d1f65441e79115",
+        "id": "gcn_fd3e91759a784b38",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813238057678405632::P6",
+            "package_id": "paper:813238057678405632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813238057678405632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02921395544346364,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For an elementary reaction class such as CO formation from adsorbed C and O or dissociative CH4 adsorption, the electronic activation energy $\\Delta E^{\\mathrm{Act.}}$ (transition‑state electronic energy minus reactant electronic minimum on the same potential energy surface) is well approximated across the considered metals by a linear Brønsted–Evans–Polanyi (BEP) relation\n      $$\n      \\Delta E^{\\mathrm{Act.}}=\\alpha\\,\\Delta E^{\\mathrm{rxn}}+\\beta,\n      $$\n      where $\\Delta E^{\\mathrm{rxn}}$ is the electronic reaction energy of the corresponding elementary step and the slope $\\alpha$ and intercept $\\beta$ are obtained from straight‑line fits to DFT barriers and reaction energies for representative metals in that reaction class.",
+        "content_hash": "36ac9f982dce56d968f71fa68496f4fcdf2b71f5dadaaac50e797c3687b7c842",
+        "id": "gcn_2aa99d023c334b83",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811903822661156866::P2",
+            "package_id": "paper:811903822661156866",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811903822661156866"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027972027972027972,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For each elementary reaction $i$ the activation energy $E_{a,i}$ is modeled by a linear Brønsted–Evans–Polanyi (BEP) relation of the form\n      $E_{a,i}=\\varphi_i\\big(H_{f,i}+\\varepsilon_{i,\\mathrm{Lateral}}+\\varepsilon_{i,\\mathrm{Perturb}}\\big)+\\gamma_i,$\n      where $H_{f,i}$ is the relevant species formation enthalpy entering the BEP, $\\varepsilon_{i,\\mathrm{Lateral}}$ is the lateral‑interaction correction for species energies, $\\varepsilon_{i,\\mathrm{Perturb}}$ is the sampled thermochemical perturbation for species in reaction $i$, and $\\varphi_i$ (BEP slope) and $\\gamma_i$ (BEP intercept) are treated as known deterministic constants for reaction $i$ whose uncertainty is negligible relative to the uncertainty propagated from $H_{f,i}$ and the sampled perturbations.",
+        "content_hash": "a1a9cde90bd195026467f7cf7ffd1bbe493c3c90ccfabb09bf8b2745ba3148d1",
+        "id": "gcn_bd577ff60538447a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811933702228541440::P7",
+            "package_id": "paper:811933702228541440",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811933702228541440"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02594183740912095,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A Bronsted–Evans–Polanyi (BEP)–type linear relation between activation energy E_a (defined as E_TS - E_slab - E_NO^{gas}) and coadsorption energy E_coads (defined as E_{N+O:slab} - E_slab - E_NO^{gas}) was obtained by linear regression on the four computed (E_coads,E_a) pairs for the explicit surface models; the fitted relation is E_a ≈ 0.34 + 0.73 E_coads (energies in eV). This fit has Pearson correlation coefficient r = 0.92, a maximum absolute error of 0.32 eV, and a mean-squared deviation MSD ≈ 0.12 eV^2, indicating that E_coads correlates monotonically and approximately linearly with E_a for these Rh model systems.",
+        "content_hash": "deb10310a91e65336d9a08f8444e816c22a5c8e08fcdd6a5d47d24fa81804d22",
+        "id": "gcn_6c6da7019b224972",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811812205702938624::conclusion_6",
+            "package_id": "paper:811812205702938624",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811812205702938624"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02541827541827542,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The activation energy $E^{\\mathrm{act}}$ of every elementary reaction step in the descriptor-based microkinetic models is taken to obey the linear Brønsted–Evans–Polanyi (BEP) relation $E^{\\mathrm{act}}=\\alpha^{*}\\,\\Delta E+\\beta$, where $E^{\\mathrm{act}}$ is measured in electronvolts (eV), $\\Delta E$ is the thermodynamic reaction energy of that elementary step in eV (product minus reactant electronic free energy), $\\alpha^{*}$ is the dimensionless BEP slope parameter applicable to that class of elementary steps (for example, $0.5\\leq\\alpha^{*}\\leq0.9$ for A–A and A–B bond breaking), and $\\beta$ is the BEP intercept in eV that encodes a site- and geometry-specific energetic offset; the models assume that this linear functional dependence is sufficiently accurate for the adsorption, desorption, bond-breaking, and hydrogenation elementary steps used so that microkinetic predictions based on the BEP formula capture relative changes in activation barriers when adsorption energies or BEP parameters vary. \n      [19]",
+        "content_hash": "f939079f3ed5fa9777c1e86c0a43e17fa144ea8fb97597d36b2a46ddf35584dd",
+        "id": "gcn_6c6f40abae094996",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814541066039459840::P1",
+            "package_id": "paper:814541066039459840",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814541066039459840"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02513105149552883,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When constructing model metal surfaces by systematically varying the adsorption Gibbs free energy ΔG_ads of surface hydroxyl OH* relative to the Pt(111) baseline, the activation free energies G^‡ for elementary steps that involve OH* are adjusted according to a Brønsted–Evans–Polanyi (BEP) linear relation of the form G^‡ = α ΔG_ads + β with a chosen BEP slope α = 0.5 and intercept β determined at the baseline, and the weak-point proposition is that this BEP scaling with slope 0.5 is an adequate and chemically representative approximation for how the activation free energies respond to systematic shifts in OH* binding across the modeled range so that conclusions drawn from the adjusted-barrier simulations reflect plausible trends in OH*-related reactivity.\n      Bligaard, T.; Nørskov, J.; Dahl, S.; Matthiesen, J.; Christensen, C.; Sehested, J. J. Catal. 2004",
+        "content_hash": "8d324be2df8240b5eff472f4cd42db4a84e642077854b92ee48a0df407b3719e",
+        "id": "gcn_3d69b44d77e142f8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812668393286008833::P5",
+            "package_id": "paper:812668393286008833",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812668393286008833"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02361111111111111,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Activation energies E_a for the considered elementary surface reactions are approximated by Brønsted–Evans–Polanyi (BEP) linear relations of the form E_a = α_BEP ΔE + β_BEP, where ΔE is the reaction energy of the elementary step, the BEP slope α_BEP is obtained from constrained-minimization calculations using initial transition-state-like geometries resembling the Ni transition states, and the intercept β_BEP is calibrated so that the BEP relation reproduces the explicitly computed Ni activation energy for each elementary reaction; the resulting α_BEP and β_BEP coefficients for the set of reactions considered allow estimation of activation barriers on other metals when combined with the two-descriptor scaling relations for intermediates (i.e., using only E_C and E_O as inputs).",
+        "content_hash": "f6d86f94446797f85ecb641e41c8b1023c61e42e289293678d7b800f75d82038",
+        "id": "gcn_7e321602258e4a82",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811828067033939968::conclusion_4",
+            "package_id": "paper:811828067033939968",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811828067033939968"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.023361976369495163,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Corrections to intrinsic transition-state barriers due to neighbor interactions are computed using the Bronsted–Evans–Polanyi (BEP) linear relation\n      $$\n      \\Delta\\Delta E^{\\mathrm{int}}=\\alpha\\big(E_{\\mathrm{fin}}^{\\mathrm{int}}-E_{\\mathrm{ini}}^{\\mathrm{int}}\\big),\n      $$\n      where $E_{\\mathrm{ini}}^{\\mathrm{int}}$ and $E_{\\mathrm{fin}}^{\\mathrm{int}}$ are the interaction energies in the initial and final states and the process-specific parameter $\\alpha\\in[0,1]$ is set to $\\alpha=0.7$ for reorientation (lying-to-standing) processes and $\\alpha=0.5$ for all other process classes; this premise asserts that the linear BEP approximation applies to the investigated on-surface processes and that the chosen numeric $\\alpha$ values adequately reflect the sensitivity of activation barriers to interaction-energy changes for the processes controlling transformation pathways in the model.\n      [23-28]",
+        "content_hash": "6eb4b0ff630a4f9571d7a3d34d126fc61c12a565198ef57a22d3de08de058b4f",
+        "id": "gcn_456aed6be8364881",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1106194783879036935::P9",
+            "package_id": "paper:1106194783879036935",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1106194783879036935"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02128623188405797,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Brønsted–Evans–Polanyi (BEP) correlation reported in the paper is inferred from a compiled dataset that combines activation energies $E_{\\mathrm{a}}$ and dissociative adsorption energies $E_{\\mathrm{ad}}'$ obtained from multiple studies and the present calculations, where the dataset items were computed with differing computational protocols (different exchange–correlation functionals or $U$ values, varying slab sizes and k-point meshes, and unequal inclusion of ZPVE/thermal corrections), and the linear trend is asserted without performing a harmonizing reanalysis of all data under uniform methodological settings.",
+        "content_hash": "fbe8f527a956482f81a6248c7b6bbe1a8bceddcfd2e47d67181d9f29ba74bcca",
+        "id": "gcn_2ad6bb0874084988",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811674506371268610::P10",
+            "package_id": "paper:811674506371268610",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811674506371268610"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A Brønsted–Evans–Polanyi (BEP) correlation observed in the DFT data links increasing reaction exothermicity ΔE_rxn (more negative values) with decreasing activation barriers E_a for the O*-assisted C–H activation of DME as chemisorbed oxygen coverage increases from 1/9 to 2/3 monolayer on Pt(111); this computed coverage-dependent BEP trend is interpreted to reflect an underlying electronic/thermodynamic principle in which increasing O* coverage weakens the binding of the specific activating O* atom (making it more basic and effective at abstracting hydrogen) and thereby lowers the C–H activation barrier, with the caveat that this proposition presumes the computed coverage-dependent electronic-structure changes are not artifacts of the periodic cell or of the chosen DFT functional and that the same coverage-dependent BEP slope and intercept translate qualitatively to supported Pt clusters under catalytic conditions.",
+        "content_hash": "a9aaf3c2b2eb4a581e370a23212cbfea26521fbb13dd022c4339e140f975979b",
+        "id": "gcn_bc4e453dd3fb479a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811964866599321600::P7",
+            "package_id": "paper:811964866599321600",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811964866599321600"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because multiple, well-resolved empirical linear Brønsted–Evans–Polanyi (BEP) relationships (an overall average line plus class-specific lines for Classes I–III) have been identified for elementary surface dissociation reactions, one can in many cases estimate dissociation activation enthalpies $E_{\\mathrm{a}}^{\\mathrm{diss}}$ from measured or computed adsorption energies by mapping an adsorption energy $E_{\\mathrm{ads}}$ to the reaction enthalpy $\\Delta H$ for the appropriate reaction and then applying the class-specific BEP coefficients $(a,b)$ corresponding to the reaction class, provided that the experimental adsorption-energy measurement and the class assignment correspond to the conditions represented in the computational dataset.",
+        "content_hash": "61518d08c45f0de9a936b920b305d68eaf3206c8112fb70b67bb19652ad55d66",
+        "id": "gcn_d5ae469fc8ef4ebc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812412170535960577::conclusion_11",
+            "package_id": "paper:812412170535960577",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812412170535960577"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For each methane-oxidation elementary reaction on terrace-like and step-like metal surfaces, the activation energy on metals other than Ni is assumed to follow a Brønsted–Evans–Polanyi relation E_a = α_BEP ΔE + β_BEP, where the BEP slope α_BEP is obtained by constrained minimization calculations that start from transition-state-like geometries resembling the Ni transition states and the intercept β_BEP is chosen so that the BEP relation reproduces the explicitly computed Ni activation energy for that elementary reaction.\n      Table V",
+        "content_hash": "151b363a3991b21013155d5a309b7e2e41ceec614aaeddad5fd767407a5934c9",
+        "id": "gcn_7d2ec2d69466429f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811828067033939968::P3",
+            "package_id": "paper:811828067033939968",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811828067033939968"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Linear Brønsted–Evans–Polanyi (BEP) relations were fitted to the DFT dataset of single-H diffusion activation energies $E_a$ versus reaction energies $\\Delta E$, yielding $E_a = 1.0\\ \\mathrm{eV} + 0.5\\,\\Delta E$ for configurations with even numbers of adsorbed H atoms and $E_a = 1.2\\ \\mathrm{eV} + 0.5\\,\\Delta E$ for configurations with odd numbers of adsorbed H atoms, implying a common slope of $0.5$ and an empirical intercept offset of $0.2\\ \\mathrm{eV}$ between even and odd-$n$ clusters; this statement carries the underlying assumption that the dataset used in the linear least-squares fits is sufficiently representative that the fitted parameters reflect systematic trends rather than sampling noise.",
+        "content_hash": "463b5744e71e0ba2800af95cd22cd04ef621d5680cf97a957a3cf2e76387fc21",
+        "id": "gcn_47ea09b601fa4b81",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811661152713965568::P11",
+            "package_id": "paper:811661152713965568",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811661152713965568"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the computed set of minimum-energy-path data points relating activation energies E_a to reaction enthalpies ΔH_{rxn} for the water–oxyl coupling step on hydrated IrO2(110) surfaces, the proposition is that these data are well-described by a linear Brønsted–Evans–Polanyi (BEP) relation of the form E_a=E_0+αΔH_{rxn} with an approximately constant slope α over the sampled range of ΔH_{rxn}, such that linear regression yields a meaningful slope and intercept within typical DFT scatter.",
+        "content_hash": "cba354fc17a60ba80659c71f12c05cec5d53d29e4d97139eecd10fa1f014182b",
+        "id": "gcn_dd4695adcb154189",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812541276598566915::P12",
+            "package_id": "paper:812541276598566915",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812541276598566915"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "71d5e7773c87bd18ae750c5a49cb57e6"
+}

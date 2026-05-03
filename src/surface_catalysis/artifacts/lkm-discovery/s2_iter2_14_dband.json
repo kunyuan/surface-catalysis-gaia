@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1051743143541604368": {
+        "area": "arXiv-Physics",
+        "authors": "Brian Lee | Jameela Fatheema | Deji Akinwande | Wennie Wang",
+        "available_online": "",
+        "cover_date_start": "2024-10-09",
+        "created_at": "2024-10-11T22:11:46+08:00",
+        "doi": "10.48550/arxiv.2410.07469",
+        "en_title": "Understanding and predicting adsorption energetics on monolayer transition metal dichalcogenides",
+        "id": "1051743143541604368",
+        "keywords": "",
+        "publication_date": "2024-10-09",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "理解和预测单层过渡金属二硫属化物上的吸附能学"
+      },
+      "paper:1100050345255501828": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yan Yu‐chun | Zhang Bao‐min | Ji Wei‐xiao | Li Ping | Li Feng | Zhang Chang‐Wen",
+        "available_online": "2025-2-5",
+        "cover_date_start": "2025-02-05",
+        "created_at": "2025-02-22T05:27:20+08:00",
+        "doi": "10.1002/pssb.202400510",
+        "en_title": "Conductive 1D Metal–Organic Frameworks DDA‐X (DDA = Hexacoordinated 1,5‐Diamino‐4,8‐Dihydroxy‐9,10‐Anthraceneedione, X = Co, Ni, and Cu) for Highly Efficient Sulfur Redox Kinetics in Lithium–Sulfur Batteries: A Density‐Functional Theory Study",
+        "id": "1100050345255501828",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "671",
+        "publication_name": "physica status solidi (b)",
+        "research_categories": "",
+        "zh_title": "用于锂硫电池中高效硫氧化还原动力学的导电一维金属有机框架DDA-X（DDA = 六配位1,5-二氨基-4,8-二羟基-9,10-蒽醌，X = Co、Ni和Cu）：密度泛函理论研究"
+      },
+      "paper:812094599701987329": {
+        "area": "Chemistry",
+        "authors": "De-en Jiang | Bobby G. Sumpter | Sheng Dai",
+        "available_online": "2006-4-15",
+        "cover_date_start": "2006-04-15",
+        "created_at": "2022-12-20T14:54:00+08:00",
+        "doi": "10.1021/ja061439f",
+        "en_title": "Structure and Bonding between an Aryl Group and Metal Surfaces",
+        "id": "812094599701987329",
+        "keywords": "",
+        "publication_date": "2006-5-1",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "芳基与金属表面之间的结构和键合"
+      },
+      "paper:812391843550461952": {
+        "area": "Physics and Astrophysics",
+        "authors": "J. Gustafson | M. Borg | A. Mikkelsen | S. Gorovikov | E. Lundgren | J. N. Andersen",
+        "available_online": "2003-7-30",
+        "cover_date_start": "2003-07-30",
+        "created_at": "2022-12-21T10:35:10+08:00",
+        "doi": "10.1103/physrevlett.91.056102",
+        "en_title": "Identification of Step Atoms by High Resolution Core Level Spectroscopy",
+        "id": "812391843550461952",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "通过高分辨率芯能级光谱法识别台阶原子"
+      },
+      "paper:812473690829619203": {
+        "area": "Material science",
+        "authors": "Kun Dang | Shihao Zhang | Xuewei Wang | Wenming Sun | Ligang Wang | Yang Tian | Sihui Zhan",
+        "available_online": "2021-4-17",
+        "cover_date_start": "2021-04-17",
+        "created_at": "2022-12-21T16:00:24+08:00",
+        "doi": "10.1007/s12274-021-3444-6",
+        "en_title": "Cobalt diselenide (001) surface with short-range Co-Co interaction triggering high-performance electrocatalytic oxygen evolution",
+        "id": "812473690829619203",
+        "keywords": "[{\"en_name\": \"CoSe<sub>2</sub>\", \"ch_name\": \"\"}, {\"en_name\": \"crystal facet engineering\", \"ch_name\": \"\"}, {\"en_name\": \"electrocatalysis\", \"ch_name\": \"\"}, {\"en_name\": \"electronic structure manipulation\", \"ch_name\": \"\"}, {\"en_name\": \"oxygen evolution reaction (OER)\", \"ch_name\": \"\"}, {\"en_name\": \"water-splitting\", \"ch_name\": \"\"}]",
+        "publication_date": "2021-12",
+        "publication_id": "2050",
+        "publication_name": "Nano Research _ Nano Res.",
+        "research_categories": "",
+        "zh_title": "具有短程钴-钴相互作用的二硒化钴(001)表面触发高性能电催化析氧反应"
+      },
+      "paper:812515855182069760": {
+        "area": "Chemistry",
+        "authors": "Xiangdong Kong | Cheng Wang | Han Zheng | Zhigang Geng | Jun Bao | Jie Zeng",
+        "available_online": "2021-1-11",
+        "cover_date_start": "2021-01-11",
+        "created_at": "2022-12-21T18:47:57+08:00",
+        "doi": "10.1007/s11426-020-9934-0",
+        "en_title": "Enhance the activity of multi-carbon products for Cu via P doping towards CO2 reduction",
+        "id": "812515855182069760",
+        "keywords": "[{\"en_name\": \"*CO adsorption\", \"ch_name\": \"\"}, {\"en_name\": \"C<sub>2+</sub> products\", \"ch_name\": \"\"}, {\"en_name\": \"CO<sub>2</sub> electroreduction\", \"ch_name\": \"\"}, {\"en_name\": \"P-doped Cu catalysts\", \"ch_name\": \"\"}]",
+        "publication_date": "2021-7",
+        "publication_id": "3370",
+        "publication_name": "Science China Chemistry _ Sci. China Chem.",
+        "research_categories": "[\"Chemical Sciences\"]",
+        "zh_title": "通过磷掺杂提高铜对多碳产物的二氧化碳还原活性"
+      },
+      "paper:813054751519277059": {
+        "area": "Chemistry",
+        "authors": "Dušan N. Sredojević | Željko Šljivančanin | Edward N. Brothers | Milivoj R. Belić",
+        "available_online": "2018-3-5",
+        "cover_date_start": "2018-03-05",
+        "created_at": "2022-12-23T06:29:19+08:00",
+        "doi": "10.1002/slct.201702836",
+        "en_title": "Formic Acid Synthesis by CO 2 Hydrogenation over Single-Atom Catalysts Based on Ru and Cu Embedded in Graphene",
+        "id": "813054751519277059",
+        "keywords": "[{\"ch_name\":\"CO<sub>2</sub> 转化\",\"en_name\":\"CO<sub>2</sub> conversion\"},{\"ch_name\":\"密度泛函计算\",\"en_name\":\"density functional calculations\"},{\"ch_name\":\"甲酸\",\"en_name\":\"formic acid\"},{\"ch_name\":\"石墨烯\",\"en_name\":\"graphene\"},{\"ch_name\":\"单原子催化剂\",\"en_name\":\"single-atom catalysts\"}]",
+        "publication_date": "2018-3-7",
+        "publication_id": "3617",
+        "publication_name": "ChemistrySelect _ ChemistrySelect",
+        "research_categories": "",
+        "zh_title": "基于嵌入石墨烯的钌和铜的单原子催化剂上二氧化碳加氢合成甲酸"
+      },
+      "paper:867749352557248986": {
+        "area": "arXiv-Physics",
+        "authors": "Beien Zhu | Yi Gao",
+        "available_online": "",
+        "cover_date_start": "2016-01-11",
+        "created_at": "2023-05-23T04:46:08+08:00",
+        "doi": "10.48550/arXiv.1601.02346",
+        "en_title": "Water-Induced Bimetallic Alloy Surface Segregation: A First Principle Study",
+        "id": "867749352557248986",
+        "keywords": "",
+        "publication_date": "2016-01-11",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "水诱导双金属合金表面偏析：第一性原理研究"
+      },
+      "paper:867767281881448928": {
+        "area": "arXiv-Physics",
+        "authors": "Valentino R. Cooper | Alexie M. Kolpak | Yashar Yourdshahyan | Andrew M. Rappe",
+        "available_online": "",
+        "cover_date_start": "2004-10-14",
+        "created_at": "2023-05-23T05:57:23+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0410377",
+        "en_title": "Support-mediated activation and deactivation of Pt thin films",
+        "id": "867767281881448928",
+        "keywords": "",
+        "publication_date": "2004-10-14",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "支撑介导的铂薄膜的激活与失活"
+      },
+      "paper:867768477341974685": {
+        "area": "arXiv-Physics",
+        "authors": "Jingang Li | Hao Li | Haoyue Zhu | Tianyi Zhang | Yuqian Gu | Zilong Wu | Suichu Huang | Deji Akinwande | Mauricio Terrones | Joan M. Redwing | Yuebing Zheng",
+        "available_online": "",
+        "cover_date_start": "2022-08-16",
+        "created_at": "2023-05-23T06:02:07+08:00",
+        "doi": "10.48550/arXiv.2208.07902",
+        "en_title": "Light-driven C-H bond activation mediated by 2D transition metal dichalcogenides",
+        "id": "867768477341974685",
+        "keywords": "",
+        "publication_date": "2022-08-16",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Inorganic Chemistry\", \"Organic Chemistry\"]",
+        "zh_title": "二维过渡金属二硫属化物介导的光驱动碳氢键活化"
+      }
+    },
+    "variables": [
+      {
+        "content": "For late transition-metal surfaces including Rhodium, a shift of the metal $d$-band center (the first moment of the projected $d$-density of states relative to the Fermi level) toward the Fermi energy is expected, under the Hammer–Nørskov theoretical framework, to correlate with stronger adsorption energies and increased chemical reactivity of the specific surface site with respect to typical molecular adsorbates, provided that other factors such as local orbital symmetry and adsorbate-specific hybridization do not dominate the adsorption energetics.\n      B. Hammer and J. K. Nørskov, Surf. Sci. 343, 211 (1995); B. Hammer, Y. Morikawa, and J. K. Nørskov, Phys. Rev. Lett. 76, 2141 (1996)",
+        "content_hash": "764ff708a47340d3ba4c540f1097cd74af49a8d78e29d019345a6648e5b139cc",
+        "id": "gcn_d2802044a2db45fe",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812391843550461952::P11",
+            "package_id": "paper:812391843550461952",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812391843550461952"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030834914611005692,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Hammer–Nørskov (HN) correlation is the empirical observation that shifts in a scalar metal d-band center often correlate with changes in molecular adsorption energy; decomposing the metal d-states by symmetry into explicit channels (here treated as d_z^2, d_xz/d_yz, and d_xy/d_x^2−y^2) and explicitly treating newly formed interfacial bonding and anti-bonding hybrid orbitals as separate donor and acceptor channels provides sufficient additional information to produce a modified HN-type correlation that can qualitatively and semi-quantitatively predict adsorption-energy trends in strongly coupled metal–oxide systems where the scalar d-band center alone is insufficient.",
+        "content_hash": "dfaa6102d7f61da4714bef5d0148d5ee7d5d3e1c47256e939d69df3d11fb9767",
+        "id": "gcn_24b65d35acbe4bce",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767281881448928::P11",
+            "package_id": "paper:867767281881448928",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767281881448928"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029906956136464335,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For lithium polysulfide adsorption on the transition-metal centers of the one-dimensional DDA–X metal-organic frameworks, the qualitative d-band model developed for transition-metal adsorbate interactions is assumed to remain applicable, so that an upshift of the metal d-band center toward the Fermi level can be used to rationalize stronger metal–adsorbate interaction and modified reaction barriers.\n      B. Hammer, J. K. Norskov, Nature 1995, 376, 238.",
+        "content_hash": "a4ae2f5910496c652b04ed12d1d5d45c6c93351cd1b2bede9397e1963bc5d8bc",
+        "id": "gcn_1543cb9b799d4b8b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1100050345255501828::P25",
+            "package_id": "paper:1100050345255501828",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1100050345255501828"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029906956136464335,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Hammer–Nørskov d‑band center concept is applied to an isolated transition‑metal atom embedded at a graphene monoatomic vacancy, using the d‑band center defined as $\\varepsilon_d=\\int \\varepsilon\\,D_d(\\varepsilon)\\,d\\varepsilon\\big/\\int D_d(\\varepsilon)\\,d\\varepsilon$ where $D_d(\\varepsilon)$ is the metal d‑projected density of states (DOS); it is assumed that this energy‑weighted d‑state center provides a valid semi‑quantitative predictor of relative adsorbate binding strengths and activation‑energy trends for the Ru‑dG versus Cu‑dG systems when the compared transition‑state adsorption geometries are approximately similar.",
+        "content_hash": "19fd346009786be306f05014f4c95e4813b25e58c19e6e6b970fbe70ed5a7a65",
+        "id": "gcn_bd94cdf5d67947df",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813054751519277059::P7",
+            "package_id": "paper:813054751519277059",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813054751519277059"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029418126757516764,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The d‑band center E_d of a transition‑metal surface atom is defined as the first moment of its projected d‑density of states measured relative to the Fermi level; moving E_d closer to the Fermi level (raising E_d) tends, under the Hammer–Nørskov d‑band model, to increase bonding strength to adsorbates by decreasing antibonding‑state filling and enhancing bonding overlap, but this correlation is qualitative and can fail quantitatively when adsorption involves strong covalency, substantial charge transfer, ligand effects, or multi‑orbital interactions that are not captured by a single d‑band center metric.\n      Hammer, B.; Nørskov, J. K. Why gold is the noblest of all the metals. Nature 1995, 376, 238–240.",
+        "content_hash": "89143b28a7214abc082b39c5c4c739ab3b54f25cc0d2193306cf14da0f3754dd",
+        "id": "gcn_37c477b930fe402e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812473690829619203::P13",
+            "package_id": "paper:812473690829619203",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812473690829619203"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02904040404040404,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a transition-metal adatom bound at a chalcogen vacancy in a monolayer MX_{2} (2H phase) the conventional d-band center is computed over the fixed energy window from E_{min}=-10 eV to E_{max}=+1.5 eV relative to the Fermi energy E_{F}=0 as ε_{d}=(∫_{-10 eV}^{+1.5 eV} ε n_{d}(ε) dε)/(∫_{-10 eV}^{+1.5 eV} n_{d}(ε) dε) where n_{d}(ε) is the density of states projected onto the adatom d-character; the proposition is that this fixed window reliably captures the occupied and near-unoccupied d-state contributions relevant to the d-band center descriptor used to predict adsorption energetics across the set of transition-metal adsorbates studied.\n      Hammer & Nørskov, Surface Science and Newns-Anderson model citations",
+        "content_hash": "108b1c1f3fce3fcc4dc2b37a5034fdbf2a475ecdf9f1404e6b14069136670f34",
+        "id": "gcn_db384bd36c2746da",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1051743143541604368::P4",
+            "package_id": "paper:1051743143541604368",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1051743143541604368"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027526395173453996,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the d-band center ε_{d}(M) of a transition-metal atom species M as the first moment (centroid) of the projected metal d density of states measured relative to the Fermi energy, computed from the same slab electronic structure used for adsorption-energy calculations. The proposition is that, across the set of transition-metal impurity species considered (3d, 4d and 5d elements in dilute substitution on Cu(111)), the variation of the single-H_{2}O adsorption energy E_{ads}(M) correlates primarily with ε_{d}(M) so that a monotonic (approximately linear) relationship between the adsorption-energy difference ΔE_{ads} = E_{ads}^{impurity} - E_{ads}^{host} and ε_{d}(M) is expected to hold within the sampled chemical space to first approximation, acknowledging that other orbital contributions (for example s/p states and hydrogen-bonding specifics) can introduce scatter.\n      Hammer, B. & Nørskov, J.K., Adv. Catal. 45, 71 (2000)",
+        "content_hash": "1b2822bb0351aa2f5ceb73677aea7c01dc8e89b2b3fab7895de3766d64fcf029",
+        "id": "gcn_3037ad6ba2804b01",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749352557248986::P5",
+            "package_id": "paper:867749352557248986",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749352557248986"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027432808155699723,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition is that for a transition‑metal surface such as copper, the energy centroid of the occupied $d$-projected density of states (the \"$d$-band center\", defined here as the first moment of the occupied $d$ density of states with respect to the Fermi level) is a descriptor of adsorbate–metal bonding such that an upward shift of the $d$-band center toward the Fermi level tends to decrease bonding-state occupancy and increase anti-bonding‑state occupancy in the adsorbate–metal interaction, which, in the simplified Hammer–Nørskov picture, leads to a stronger net adsorption energy (more exothermic adsorption free energy) for a typical adsorbate such as CO; this statement is an idealized single‑descriptor approximation that omits multi‑orbital, charge‑transfer, solvent, and electrochemical double‑layer complications.",
+        "content_hash": "eb3656e191dc3174b1b2ac1978fb2905a0f9cf28117edc0dedafc4316d9dd5e4",
+        "id": "gcn_d3671fa5f2914839",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812515855182069760::P5",
+            "package_id": "paper:812515855182069760",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812515855182069760"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027222222222222224,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a heterogeneous surface-active local site, define the d-band center $ \\epsilon_d $ as the center (first moment) of the local transition-metal $d$-orbital projected density of states (PDOS) measured relative to the Fermi level, $ \\epsilon_d = \\frac{\\int E\\, g_d(E)\\, dE}{\\int g_d(E)\\, dE} $, where $g_d(E)$ is the local $d$-PDOS and the energy zero is the Fermi level. The d-band center rationale (the Hammer–Nørskov d-band model) asserts that, for transition-metal-based surface sites, a local site whose $ \\epsilon_d $ is located at an energy closer to the Fermi level (i.e., $ \\epsilon_d $ shifted upward toward zero) correlates with a stronger hydrogen adsorption free energy $\\Delta G_{\\mathrm{H}}$ (a more negative $\\Delta G_{\\mathrm{H}}$), and consequently such a site provides an increased thermodynamic driving force to stabilize an adsorbed hydrogen atom and to facilitate elementary steps involving hydrogen transfer from an organic C–H bond to the surface; this correlation is used here to link a computed upward shift in $ \\epsilon_d $ at W sites to an enhanced propensity for C–H activation via stronger H adsorption at those local W sites.\n      Hammer & Nørskov, Nature 1995; related adsorption-energy studies",
+        "content_hash": "82de3f0c20bd590d6784d487b6bf56e0180497b8a5b1c87135a2e7b65a8f009a",
+        "id": "gcn_144022aa9d774cdf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867768477341974685::P3",
+            "package_id": "paper:867768477341974685",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867768477341974685"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026736111111111113,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The metal $d$-band center $\\varepsilon_d$ for a crystalline metal surface is defined as the first moment (energy centroid) of the projected $d$-state density of Kohn–Sham electronic states relative to the Fermi energy, and the number of $d$-electrons $n_d$ is defined as the integrated occupation of $d$-projected states. The explanatory proposition is that, for the sequence of transition-metal surfaces Ti, Fe, Pd, Cu, and Au considered here, an increase in $n_d$ correlates with a downward shift of $\\varepsilon_d$ (i.e., $\\varepsilon_d$ moves further below the Fermi level), and this downward shift reduces energetic overlap and energy matching between metal $d$-states and adsorbate frontier orbitals in a manner that weakens metal–adsorbate bonding and thus produces the observed decrease in computed adsorption energies $E_{ad}$ from early to late transition metals; this statement adopts the $d$-band center model as the operative causal explanation for the computed binding-energy trend.\n      (9)",
+        "content_hash": "e13a2e54349dc4b38780361f4a6eb868d1b314b29c198e048f9523eadd8c8524",
+        "id": "gcn_dadd36f0576c4643",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812094599701987329::P7",
+            "package_id": "paper:812094599701987329",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812094599701987329"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026050420168067225,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "b3890e84b585447d55004c9b111aecaa"
+}

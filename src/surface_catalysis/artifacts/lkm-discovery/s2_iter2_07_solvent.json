@@ -1,0 +1,415 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1125030107094712389": {
+        "area": "Material science",
+        "authors": "Jia-Xin Li | Huan-Feng Wang | De-Hui Guan | Xiao-Xue Wang | Cheng-Lin Miao | Ji-Jing Xu",
+        "available_online": "2025/04/07",
+        "cover_date_start": "2025-04-07",
+        "created_at": "2025-05-02T03:48:17+08:00",
+        "doi": "10.1002/adma.202500721",
+        "en_title": "Crystal Transformation Strategy in Hydrogen-Bonded Organic Framework Solid-State Electrolyte for Stable Zinc-Ion Batteries",
+        "id": "1125030107094712389",
+        "keywords": "[{\"en_name\": \"crystal transformation\", \"ch_name\": \"\"}, {\"en_name\": \"flexible material\", \"ch_name\": \"\"}, {\"en_name\": \"hydrogen-bonded organic frameworks\", \"ch_name\": \"\"}, {\"en_name\": \"solid-state electrolyte\", \"ch_name\": \"\"}, {\"en_name\": \"zinc ion batteries\", \"ch_name\": \"\"}]",
+        "publication_date": "",
+        "publication_id": "2016",
+        "publication_name": "Advanced Materials",
+        "research_categories": "",
+        "zh_title": "用于稳定锌离子电池的氢键有机骨架固态电解质中的晶体转变策略"
+      },
+      "paper:811054645530066945": {
+        "area": "Material science",
+        "authors": "Bin Liu | Yu-Fei Zhao | Hui-Qing Peng | Zhen-Yu Zhang | Chun-Kit Sit | Muk-Fung Yuen | Tie-Rui Zhang | Chun-Sing Lee | Wen-Jun Zhang",
+        "available_online": "2017-3-6",
+        "cover_date_start": "2017-03-06",
+        "created_at": "2022-12-17T18:01:37+08:00",
+        "doi": "10.1002/adma.201606521",
+        "en_title": "Nickel-Cobalt Diselenide 3D Mesoporous Nanosheet Networks Supported on Ni Foam: An All-pH Highly Efficient Integrated Electrocatalyst for Hydrogen Evolution",
+        "id": "811054645530066945",
+        "keywords": "",
+        "publication_date": "2017-5",
+        "publication_id": "2016",
+        "publication_name": "Advanced Materials _ Adv. Mater.",
+        "research_categories": "",
+        "zh_title": "泡沫镍负载的二硒化镍钴三维介孔纳米片网络：一种全pH值高效析氢集成电催化剂"
+      },
+      "paper:811074360554029056": {
+        "area": "Material science",
+        "authors": "Ken Sakaushi | Andrey Lyalin | Satoshi Tominaka | Tetsuya Taketsugu | Kohei Uosaki",
+        "available_online": "2017-2-2",
+        "cover_date_start": "2017-02-02",
+        "created_at": "2022-12-17T19:19:58+08:00",
+        "doi": "10.1021/acsnano.6b07711",
+        "en_title": "Two-Dimensional Corrugated Porous Carbon-, Nitrogen-Framework/Metal Heterojunction for Efficient Multielectron Transfer Processes with Controlled Kinetics",
+        "id": "811074360554029056",
+        "keywords": "[{\"en_name\": \"carbon-, nitrogen-framework\", \"ch_name\": \"\"}, {\"en_name\": \"electrode process\", \"ch_name\": \"\"}, {\"en_name\": \"gold\", \"ch_name\": \"\"}, {\"en_name\": \"hydrogen evolution reaction\", \"ch_name\": \"\"}, {\"en_name\": \"oxygen reduction reaction\", \"ch_name\": \"\"}]",
+        "publication_date": "2017-2-28",
+        "publication_id": "2020",
+        "publication_name": "ACS Nano _ ACS Nano",
+        "research_categories": "",
+        "zh_title": "用于具有可控动力学的高效多电子转移过程的二维波纹状多孔碳氮框架/金属异质结"
+      },
+      "paper:811120722062606337": {
+        "area": "Engineering Technology",
+        "authors": "Xiaowan Bai | Erjun Zhao | Kai Li | Ying Wang | Menggai Jiao | Feng He | Xiaoxu Sun | He Sun | Zhijian Wu",
+        "available_online": "2016-10-28",
+        "cover_date_start": "2016-01-01",
+        "created_at": "2022-12-17T22:24:11+08:00",
+        "doi": "10.1149/2.0381614jes",
+        "en_title": "Theoretical Investigation on the Reaction Pathways for Oxygen Reduction Reaction on Silicon Doped Graphene as Potential Metal-Free Catalyst",
+        "id": "811120722062606337",
+        "keywords": "",
+        "publication_date": "2016",
+        "publication_id": "4308",
+        "publication_name": "Journal of The Electrochemical Society _ J. Electrochem. Soc.",
+        "research_categories": "",
+        "zh_title": "硅掺杂石墨烯作为潜在无金属催化剂用于氧还原反应的反应路径的理论研究"
+      },
+      "paper:811845437890756610": {
+        "area": "Engineering Technology",
+        "authors": "E. Santos | P. Quaino | G. Soldano | W. Schmickler",
+        "available_online": "",
+        "cover_date_start": "2009-09-01",
+        "created_at": "2022-12-19T22:23:56+08:00",
+        "doi": "10.1016/j.elecom.2009.07.012",
+        "en_title": "Electrochemical reactivity and fractional conductance of nanowires",
+        "id": "811845437890756610",
+        "keywords": "[{\"ch_name\":\"电催化\",\"en_name\":\"Electrocatalysis\"},{\"ch_name\":\"分数电导率\",\"en_name\":\"Fractional conductivity\"},{\"ch_name\":\"氢反应\",\"en_name\":\"Hydrogen reaction\"},{\"ch_name\":\"纳米线\",\"en_name\":\"Nanowire\"}]",
+        "publication_date": "2009-9",
+        "publication_id": "4147",
+        "publication_name": "Electrochemistry Communications _ Electrochemistry Communications",
+        "research_categories": "",
+        "zh_title": "纳米线的电化学反应性和分数电导率"
+      },
+      "paper:812041767061815298": {
+        "area": "Engineering Technology",
+        "authors": "Wolfgang Schmickler | Sergio Trasatti",
+        "available_online": "",
+        "cover_date_start": "2006-01-01",
+        "created_at": "2022-12-20T11:24:04+08:00",
+        "doi": "10.1149/1.2358294",
+        "en_title": "Comment on “Trends in the Exchange Current for Hydrogen Evolution” [J. Electrochem. Soc., 152, J23 (2005)]",
+        "id": "812041767061815298",
+        "keywords": "",
+        "publication_date": "2006",
+        "publication_id": "4308",
+        "publication_name": "Journal of The Electrochemical Society _ J. Electrochem. Soc.",
+        "research_categories": "",
+        "zh_title": "对《析氢交换电流的趋势》[《电化学学会会刊》，152，J23 (2005)]的评论"
+      },
+      "paper:812578797315424257": {
+        "area": "Chemistry",
+        "authors": "Fan Zhang | Shaoyun Hao | Guokui Zheng | Lecheng Lei | Xingwang Zhang",
+        "available_online": "",
+        "cover_date_start": "2021-05-01",
+        "created_at": "2022-12-21T22:58:03+08:00",
+        "doi": "10.1016/j.jechem.2020.08.015",
+        "en_title": "Enhanced hydrogen evolution from the face-sharing [RuO6] octahedral motif",
+        "id": "812578797315424257",
+        "keywords": "[{\"en_name\": \"Catalytically active site\", \"ch_name\": \"\"}, {\"en_name\": \"Electrocatalysis\", \"ch_name\": \"\"}, {\"en_name\": \"Face-sharing octahedra\", \"ch_name\": \"\"}, {\"en_name\": \"Hydrogen evolution reaction\", \"ch_name\": \"\"}]",
+        "publication_date": "2021-5",
+        "publication_id": "3366",
+        "publication_name": "Journal of Energy Chemistry _ Journal of Energy Chemistry",
+        "research_categories": "[\"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "从共面的[RuO₆]八面体结构单元实现增强析氢"
+      },
+      "paper:812590582407888896": {
+        "area": "Chemistry",
+        "authors": "Yan Lin | Kaian Sun | Xiaomeng Chen | Chen Chen | Yuan Pan | Xiyou Li | Jun Zhang",
+        "available_online": "",
+        "cover_date_start": "2021-04-01",
+        "created_at": "2022-12-21T23:44:53+08:00",
+        "doi": "10.1016/j.jechem.2020.06.073",
+        "en_title": "High-precision regulation synthesis of Fe-doped Co2P nanorod bundles as efficient electrocatalysts for hydrogen evolution in all-pH range and seawater",
+        "id": "812590582407888896",
+        "keywords": "[{\"en_name\": \"Hydrogen evolution reaction\", \"ch_name\": \"\"}, {\"en_name\": \"Nanocrystal synthesis\", \"ch_name\": \"\"}, {\"en_name\": \"Nanorod bundles\", \"ch_name\": \"\"}, {\"en_name\": \"Seawater electrolysis\", \"ch_name\": \"\"}, {\"en_name\": \"Transition metal phosphides\", \"ch_name\": \"\"}]",
+        "publication_date": "2021-4",
+        "publication_id": "3366",
+        "publication_name": "Journal of Energy Chemistry _ Journal of Energy Chemistry",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Engineering\", \"Materials Engineering\", \"Nanotechnology\"]",
+        "zh_title": "铁掺杂Co₂P纳米棒束的高精度调控合成及其作为全pH范围和海水中析氢高效电催化剂的研究 "
+      },
+      "paper:812674341136236545": {
+        "area": "Material science",
+        "authors": "Lei Yang | Ruiming Liu | Lifang Jiao",
+        "available_online": "",
+        "cover_date_start": "2020-04-01",
+        "created_at": "2022-12-22T05:17:43+08:00",
+        "doi": "10.1002/adfm.201909618",
+        "en_title": "Electronic Redistribution: Construction and Modulation of Interface Engineering on CoP for Enhancing Overall Water Splitting",
+        "id": "812674341136236545",
+        "keywords": "[{\"en_name\": \"CoP nanorod-array catalysts\", \"ch_name\": \"\"}, {\"en_name\": \"interface engineering\", \"ch_name\": \"\"}, {\"en_name\": \"strong electronic interactions\", \"ch_name\": \"\"}, {\"en_name\": \"water splitting\", \"ch_name\": \"\"}]",
+        "publication_date": "2020-4",
+        "publication_id": "2023",
+        "publication_name": "Advanced Functional Materials _ Adv. Funct. Mater.",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Engineering\", \"Materials Engineering\", \"Nanotechnology\"]",
+        "zh_title": "电子再分布：用于增强全解水的CoP界面工程的构建与调控"
+      },
+      "paper:813073884285763584": {
+        "area": "Material science",
+        "authors": "Jia Liu | Jinsong Wang | Bao Zhang | Yunjun Ruan | Houzhao Wan | Xiao Ji | Kui Xu | Dace Zha | Ling Miao | Jianjun Jiang",
+        "available_online": "2018",
+        "cover_date_start": "2018-01-01",
+        "created_at": "2022-12-23T07:45:20+08:00",
+        "doi": "10.1039/c7ta10048e",
+        "en_title": "Mutually beneficial Co 3 O 4 @MoS 2 heterostructures as a highly efficient bifunctional catalyst for electrochemical overall water splitting",
+        "id": "813073884285763584",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ J. Mater. Chem. A",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Engineering\", \"Materials Engineering\", \"Nanotechnology\"]",
+        "zh_title": "互利的Co₃O₄@MoS₂异质结构作为用于电化学全水分解的高效双功能催化剂"
+      },
+      "paper:852509919889326081": {
+        "area": "Material science",
+        "authors": "Dengyi Xiong | Li Yang | Ziwei Cao | Fengrong Li | Wentao Deng | Jiugang Hu | Hongshuai Hou | Guoqiang Zou | Xiaobo Ji",
+        "available_online": "",
+        "cover_date_start": "2023-04-11",
+        "created_at": "2023-04-11T03:30:03+08:00",
+        "doi": "10.1002/adfm.202301530",
+        "en_title": "In Situ Construction of High‐Density Solid Electrolyte Interphase from MOFs for Advanced Zn Metal Anodes",
+        "id": "852509919889326081",
+        "keywords": "[{\"en_name\": \"high-density SEI\", \"ch_name\": \"\"}, {\"en_name\": \"zinc metal anodes\", \"ch_name\": \"\"}, {\"en_name\": \"Zn ion capacitors\", \"ch_name\": \"\"}]",
+        "publication_date": "",
+        "publication_id": "2023",
+        "publication_name": "Advanced Functional Materials _ ",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "通过金属有机框架材料原位构建用于先进锌金属负极的高密度固体电解质界面"
+      }
+    },
+    "variables": [
+      {
+        "content": "In a typical computational protocol for assessing hydrogen adsorption and water‑dissociation energetics on electrode surfaces, the Gibbs free energy changes $\\Delta G_{H^{*}}$ (for adsorbed hydrogen intermediate $H^{*}$) and $\\Delta G_{H2O}$ (for molecular water adsorption/activation) are obtained from periodic DFT total energies with added approximate corrections (zero‑point energy, entropy, and sometimes an implicit solvent correction) evaluated at zero applied potential; the proposition is: \"Gibbs free energies $\\Delta G_{H^{*}}$ and $\\Delta G_{H2O}$ computed from periodic DFT total energies using an exchange–correlation functional, without explicit representation of the electrochemical double layer, explicit solvent molecules, and a defined electrode potential reference, are approximate estimates of the true electrochemical adsorption and activation free energies under operating conditions (finite potential and pH), and their numeric values (e.g., $-0.33\\ \\text{eV}$ or $+1.17\\ \\text{eV}$) can shift significantly when solvation, electrode potential, surface coverage, and finite‑temperature dynamical effects are treated more completely.\" Definitions: \"periodic DFT total energies\" means Kohn–Sham single‑point energies for periodic slabs; \"implicit solvent correction\" denotes continuum dielectric models where used. This proposition is an assumption about the degree to which vacuum/implicit‑solvent DFT energetics map to experimental electrochemical free energies.",
+        "content_hash": "57e6b9bd40f2fc461ad9a6a342431b83a34a1f8da98c2c14f40cb985e210bdbd",
+        "id": "gcn_1d48eecde11f41bb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813073884285763584::P2",
+            "package_id": "paper:813073884285763584",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813073884285763584"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0315136476426799,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a metal surface site, let $\\Delta E_{\\mathrm{H}}$ denote the adsorption energy of a hydrogen atom computed by density-functional-theory (DFT) slab calculations in the absence of an explicit extended solvent and electrode potential, and let $\\Delta G_{\\mathrm{H}}$ denote the adsorption free energy appropriate to the reaction \"proton from aqueous solution + electron + empty surface site $\\rightarrow$ adsorbed H atom\" at the reference gas-phase standard state; we apply the uniform correction relation $\\Delta G_{\\mathrm{H}}=\\Delta E_{\\mathrm{H}}+0.24\\ \\mathrm{eV}$ for every surface site and every metal considered in order to account approximately for the zero-point energy of the adsorbed hydrogen and the gas-phase H$_2$ entropy contribution, i.e., the single constant $+0.24\\ \\mathrm{eV}$ is used as a universal shift from computed site energy to estimated adsorption free energy across all metals and surface sites.\n      [8]",
+        "content_hash": "d10ee1241778289ea36659522397cb23de819d054aa305b6cd641b0d3944812c",
+        "id": "gcn_9ae635a05aac48a2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812041767061815298::P1",
+            "package_id": "paper:812041767061815298",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812041767061815298"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02817460317460317,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The statement \"The computed hydrogen adsorption free energy $\\Delta G_{H^*}$ values (where $\\Delta G_{H^*}$ denotes the free‑energy change for adsorption of a hydrogen atom, i.e., a proton plus an electron, onto a specified surface site) are assumed to represent the operative hydrogen‑binding energetics under alkaline electrochemical conditions, despite the DFT surface calculations omitting or only approximately treating explicit solvent molecules, electrode potential (applied bias), ionic environment (high pH), and possibly incomplete zero‑point energy and entropic corrections\" is true as an identification of a methodological limitation. In this proposition, \"explicit solvent\" denotes explicit water molecules and their configurational sampling, \"applied potential\" denotes the electrode potential versus a reference electrode that shifts the energetics of charged states, and \"zero‑point energy (ZPE) and entropic corrections\" denote vibrational and configurational contributions required to convert DFT electronic energies to adsorption free energies. The proposition asserts that omission or approximate treatment of these factors can change $\\Delta G_{H^*}$ values by amounts that materially affect close‑to‑zero adsorption energies.",
+        "content_hash": "48bff6afe73a7cb4f6f572fa676e58cb717260f464122564cccde4d662c5b60d",
+        "id": "gcn_70b5f649011f48a1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812578797315424257::P12",
+            "package_id": "paper:812578797315424257",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812578797315424257"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026200135226504394,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DFT calculations reported compute water adsorption energies (E_ads), water dissociation energy barriers (E_dis), and hydrogen adsorption Gibbs free energies (ΔG_{H*}) using a chosen exchange-correlation functional and slab-model geometries while neglecting explicit electrolyte solvent molecules, explicit ionic species, an applied electrode potential, and full dynamical solvation/entropy beyond standard static corrections; this proposition asserts that such gas-phase or vacuum-like DFT energetics are quantitatively accurate predictors of thermodynamics and kinetics of water adsorption/dissociation and hydrogen adsorption under real electrochemical conditions in 1.0 M KOH, i.e., that the omitted solvent, applied potential, finite-temperature entropic contributions, surface coverage, and electric-double-layer effects do not introduce significant systematic bias for the comparative energetic trends reported.",
+        "content_hash": "dced06ca465bcf78b325d5c5e278d90e8bdaf6da8e19b09cbe933181417f62b8",
+        "id": "gcn_cc3f31f314844a17",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812674341136236545::P4",
+            "package_id": "paper:812674341136236545",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812674341136236545"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02287199480181936,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When comparing hydrogen adsorption free energies ΔG_ad for monoatomic metal wires and for fcc(111) surfaces, treating solvent effects and the electrode potential implicitly by referencing computed adsorption energies to the SHE via the Nørskov-style mapping (use of H2 free energy, zero-point and finite-temperature corrections, empirical SHE alignment) and omitting an explicit atomistic representation of liquid water and an explicit applied electrode potential introduces only modest changes in the relative adsorption energies ΔG_ad^wire − ΔG_ad^(111) for the metals considered, so that qualitative conclusions about whether adsorption is more exergonic on wires than on surfaces remain valid despite the absence of an explicit solvent and explicit potential in the DFT total-energy calculations.",
+        "content_hash": "53212561dff8208cf1cab62043a47743dfb229314820e8da8195b3f112a6ddc9",
+        "id": "gcn_d66a1373c13c4d53",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811845437890756610::P6",
+            "package_id": "paper:811845437890756610",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811845437890756610"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "As a working theoretical assumption, density functional theory (DFT) calculations performed with a periodic supercell model (specifically a $72$-atom cell denoted $Ni_{21}Co_{3}Se_{48}$) using standard ground-state exchange–correlation approximations and atomic relaxations in vacuum, and omitting an explicit continuum solvent model, explicit dynamic water layers, and an applied electrode potential, produce computed adsorption energies for an adsorbed proton (represented in practice by a neutral hydrogen atom chemisorbed at a surface site) and for an isolated neutral water molecule ($H_2O$) that quantitatively reflect the adsorption energetics and the Gibbs free energy of adsorbed hydrogen ($\\Delta G_{H^*}$) under realistic electrochemical interface conditions (aqueous acidic, neutral, or alkaline electrolytes) to within errors small enough that the direction and magnitude of the computed trends upon substitutional Co for Ni at the stated stoichiometry are reliable guides to relative catalytic activity.  Here “DFT” denotes Kohn–Sham density functional theory used in periodic implementations; the DFT adsorption energy is the total-energy difference $\\Delta E_{\\mathrm{ads}} = E_{\\mathrm{surface+adsorbate}} - E_{\\mathrm{surface}} - E_{\\mathrm{adsorbate}}$ computed in vacuum; and $\\Delta G_{H^*}$ denotes the Gibbs free-energy change for hydrogen adsorption obtained by adding zero-point energy and approximate entropic corrections to $\\Delta E_{\\mathrm{ads}}$ in the standard computational electrocatalysis practice referenced.",
+        "content_hash": "9bd75279909def4ae6632bf3ac0bd1da672e2bda801007d9fcf5ca39eb3f6be2",
+        "id": "gcn_1bfc641e1e9f4cef",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811054645530066945::P2",
+            "package_id": "paper:811054645530066945",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811054645530066945"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computational-proxy claim is: the free energy of hydrogen adsorption on a surface site under aqueous electrochemical conditions can be approximated from the DFT-computed adsorption energy $\\Delta E$ by applying a single additive correction of $0.24\\ \\text{eV}$ so that $\\Delta G_{\\mathrm{H}^*}=\\Delta E+0.24\\ \\text{eV}$; this fixed correction is taken to represent zero-point energy, entropy, and typical solvation/electrochemical reference contributions for the systems studied and is assumed adequate for qualitative comparisons of hydrogen-binding trends among the pristine and doped models.",
+        "content_hash": "eda81ec701dea416fd15d1382b460b6f3ac8d9e540ca58654401cd2c280fddc8",
+        "id": "gcn_59541353281c428a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812590582407888896::P7",
+            "package_id": "paper:812590582407888896",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812590582407888896"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a set of metal surfaces for which DFT slab calculations yield site adsorption energies $\\Delta E_{\\mathrm{H}}$ computed in vacuo or with only a few explicit water molecules, the omitted electrochemical-environment contributions — specifically (a) the electrode potential (absolute potential of the electrode reference), (b) the electrostatic double-layer electric field at the interface, and (c) extended solvation and multilayer water adsorption beyond the explicitly modeled molecules — vary across different metals in a manner sufficiently systematic (i.e., producing correlated shifts rather than uncorrelated scatter of several tenths of an electronvolt) that the computed quantities $\\Delta E_{\\mathrm{H}}$ (with a uniform gas-phase/zero-point correction) will correlate approximately linearly with independently derived experimental adsorption-strength proxies for most metals.",
+        "content_hash": "eb332c356b1beed6e2faec304843bfa23003df8302e30754495c8e6afecbdff1",
+        "id": "gcn_987040dd170c4a3e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812041767061815298::P2",
+            "package_id": "paper:812041767061815298",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812041767061815298"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Proposition: A DFT-computed Gibbs adsorption free energy for an atomic hydrogen adsorption intermediate, ΔG_H*, evaluated on idealized TiO₂ or TiO₂₋ₓ surface slab models under standard computational approximations (chosen exchange–correlation functional, finite slab thickness, and typically neglecting explicit applied electrode potential and detailed solvent reorganization), is a quantitatively reliable descriptor of the hydrogen-evolution-reaction (HER) activity of those surfaces when they are present as thin protective films on metallic zinc in an aqueous electrolyte at the electrochemical potentials and pH values encountered during zinc plating/stripping. Definitions: ΔG_H* is the free-energy change associated with adsorbing an H atom at a defined surface site referenced to 1/2 H₂ following the computational hydrogen electrode convention; \"operating potentials\" denotes the electrochemical potential range encountered during zinc plating and stripping; \"quantitatively reliable\" means that the computed ordering and magnitudes of |ΔG_H*| directly predict the relative HER rates observed in working electrochemical cells.\n      Standard use of $|\\Delta G_{H^{*}}|$ as HER descriptor in computational electrocatalysis (see Ref. [15] in the supplied paper).",
+        "content_hash": "a62e538c65ede23ca0c94c44bb54334c966cb117deca5b99aaf163e8d71a2667",
+        "id": "gcn_719e988c7d3c4e4e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:852509919889326081::P3",
+            "package_id": "paper:852509919889326081",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:852509919889326081"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Proton‑coupled electron‑transfer steps in these calculations are modeled by (a) placing a hydrogen atom at a selected surface adsorption site (specifically the adjacent‑carbon top sites labeled T2–T5) for structural and NEB energy calculations and (b) applying the computational hydrogen electrode (CHE) correction to convert DFT energies into electrochemical free energies; the implicit assumption is that neglecting explicit solvent molecules, explicit water hydrogen‑bond networks, and double‑layer or electrode‑field effects does not qualitatively change whether OOH formation is barrierless or whether other protonation steps have the computed activation barriers in the realistic aqueous electrochemical environment.\n      Nørskov et al., J. Phys. Chem. B, 2004.",
+        "content_hash": "e7f2630835559572fedb244a7429c88aed539deb48f6bd77111f8d58ca466839",
+        "id": "gcn_643f0c4180444f77",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811120722062606337::P4",
+            "package_id": "paper:811120722062606337",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811120722062606337"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: When computing adsorption free energies and reaction free‑energy diagrams relevant to electrocatalytic processes (HER and ORR) on metal/overlayer interfaces using DFT, applying the following corrections — (a) zero‑point energy corrections evaluated from vibrational frequency calculations, (b) standard gas‑phase entropy approximations for adsorbates, and (c) an implicit continuum solvation model treating solvent as a polarizable dielectric without explicit solvent molecules — is adequate, in the approximation used in this study, to capture the essential solvent and electrochemical environment effects such that the relative ordering of $\\Delta G$ values and the thermodynamic accessibility of elementary steps (for example, OOH* dissociation) are reliably predicted for the comparative mechanistic conclusions drawn here.",
+        "content_hash": "d2cdda730260dc67126e510f2863231ec4b2e1ee14d26fa44733e98179fd4e18",
+        "id": "gcn_163b381a159449ed",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811074360554029056::P13",
+            "package_id": "paper:811074360554029056",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811074360554029056"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Static periodic DFT surface calculations that place a Zn(002) slab fragment on an idealized CAM-Ag surface model return an adsorption energy of −1.727 eV in the absence of explicit solvent or dynamic interfacial rearrangements; this strongly negative adsorption energy is interpreted as implying a thermodynamically favored, tightly adsorbed interfacial contact between Zn metal and the CAM-Ag surface that, under real electrode|SSE operating conditions, will impede diffusion of free water to exposed Zn and thereby contribute to suppression of corrosion and hydrogen-evolution.",
+        "content_hash": "ed0d73843e92c77a0be280040544ad3c96c9283d9190fd8f6934ac81605d4fde",
+        "id": "gcn_46e43f6e6c5b4827",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1125030107094712389::P6",
+            "package_id": "paper:1125030107094712389",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1125030107094712389"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "3e2feba77a82155d9814552cdd84df87"
+}

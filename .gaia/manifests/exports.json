@@ -1,6 +1,41 @@
 {
   "exports": [
     {
+      "content": "Analysis using the BEEF-vdW ensemble of 2000 exchange-correlation parameterizations yields a one-standard-deviation spread of approximately 0.20 eV for binding-energy differences on a representative surface model, quantifying the intrinsic exchange-correlation uncertainty of semi-local DFT for chemisorption energetics — an uncertainty that is larger than the ~0.02 eV claimed precision of the Mason correction.",
+      "content_hash": "28d7f1a554ad3226fc721b21760cd8956dca6cef5941af1dc68cd457615b4d95",
+      "label": "beef_ensemble_spread",
+      "qid": "github:surface_catalysis::beef_ensemble_spread",
+      "type": "claim"
+    },
+    {
+      "content": "Multiple well-resolved empirical linear BEP relationships — an overall average line plus class-specific lines for Classes I-III — have been identified for elementary surface dissociation reactions, meaning that the slope alpha_BEP and intercept beta_BEP are not universal but depend systematically on the reaction class (e.g., diatomic dissociation vs. C-H vs. O-H bond breaking).",
+      "content_hash": "6ba78cb1c44b1d75d0d47c0ad990b637b406fc2a1c2bf68c9fd102ab0fb8e64f",
+      "label": "bep_multiclass",
+      "qid": "github:surface_catalysis::bep_multiclass",
+      "type": "claim"
+    },
+    {
+      "content": "The computed per-metal scalar bonding parameters for group-VIII metals evaluated from DFT calculations — reported as A * 10^2 values — are: Fe 11.47, Co 14.19, Ni 15.99, indicating that CO chemisorption energetics on the 3d series (Fe, Co, Ni) follow a systematically different trend from the 4d/5d metals (Ru, Rh, Pd, Os, Ir, Pt) that were the focus of the original Mason correction method.",
+      "content_hash": "bd9dc4391ec195da4613e11e538072b60b15e9fab095e99de8c07ebf702b8d6e",
+      "label": "co_on_3d_metals",
+      "qid": "github:surface_catalysis::co_on_3d_metals",
+      "type": "claim"
+    },
+    {
+      "content": "For CO adsorbed on Ru(0001), a lattice-gas Hamiltonian whose on-site adsorption energies and lateral CO-CO interactions are obtained from plane-wave DFT calculations predicts coverage-dependent phase behavior, indicating that CO-CO lateral interactions substantially modify the effective adsorption energy as coverage increases — an effect not accounted for in the zero-coverage-limit Mason correction.",
+      "content_hash": "570a6e387c57736a0daa3f97d7913d081920387c0e3b6ebed5bf1341cc92dbf8",
+      "label": "co_ru_lattice_gas",
+      "qid": "github:surface_catalysis::co_ru_lattice_gas",
+      "type": "claim"
+    },
+    {
+      "content": "A combined computational formalism coupling DFT+Hubbard U corrections with van der Waals treatment (DFT+U+vdW) has been developed for transition-metal oxide surfaces, highlighting that for correlated oxide catalysts, THREE independent corrections (self-interaction via +U, dispersion via vdW, and molecular reference errors via methods like the Mason correction) are needed simultaneously, and their uncertainties may compound rather than cancel.",
+      "content_hash": "e3c83987ef8f357838ac40ec2054028e706ff938318647fc93c15bff5304aa42",
+      "label": "dft_u_vdw_formalism",
+      "qid": "github:surface_catalysis::dft_u_vdw_formalism",
+      "type": "claim"
+    },
+    {
       "content": "Reflection-absorption infrared spectroscopy (RAIRS) and sum-frequency generation (SFG) spectroscopy give qualitatively different coverage dependences for the C-O stretch of CO adsorbed in atop sites on transition-metal surfaces, meaning that experimental determination of the most stable CO adsorption site — the quantity that DFT site-preference predictions aim to reproduce — depends on the spectroscopic method used and on the coverage regime probed.",
       "content_hash": "d57ea279e12027e41f085f71bb6989f7e7edea90d41515aa1b66535fcde51bf9",
       "label": "experimental_site_methods",
@@ -36,10 +71,38 @@
       "type": "claim"
     },
     {
+      "content": "DFT transition-state calculations on Fe-porphyrin and FeN4 cluster models produce O2 dissociation energy barriers that vary by nearly a factor of 2 depending on the computational model (1.34 eV for isolated FeN4 vs. 0.66 eV for the extended model), demonstrating that computed activation barriers for diatomic dissociation — a key catalytic descriptor — are far more sensitive to the computational setup (functional, basis, model size) than adsorption energies, with uncertainties exceeding the entire magnitude of the Mason correction.",
+      "content_hash": "39e51740ea2c699cbcb120f23e89b85df3d58b81ac05393e7b2c4ab3221d69d5",
+      "label": "o2_barrier_model_sensitive",
+      "qid": "github:surface_catalysis::o2_barrier_model_sensitive",
+      "type": "claim"
+    },
+    {
       "content": "The DFT-GGA chemisorption energy for CO on a metal surface at a given adsorption site and substrate can be corrected to a first-principles benchmark using a linear extrapolation based on the gas-phase CO singlet-triplet excitation energy [@mason2003]: E_chem^corr = E_chem^GGA + (DeltaE_ST^CI - DeltaE_ST^GGA) * m, where DeltaE_ST^CI = 6.095 eV is the CC/CI benchmark singlet-triplet splitting, DeltaE_ST^GGA is the DFT-GGA value computed with the same pseudopotential set used for the surface calculation, and m = dE_chem^GGA / dDeltaE_ST^GGA is the slope of the DFT-GGA linear fit determined for that specific adsorption site and metal surface.",
       "content_hash": "9052d9d9221bbb9ff7e2062910ea85800db047a3660468cbfc1b6a2c1a5fef3e",
       "label": "root_correction_method",
       "qid": "github:surface_catalysis::root_correction_method",
+      "type": "claim"
+    },
+    {
+      "content": "RPA (random phase approximation) reference adsorption energies from benchmark datasets deviate from experimental measurements for some systems, indicating that even the RPA — the current gold-standard first-principles method for surface adsorption — has a residual error of several tens of meV that limits its use as an absolute benchmark for validating DFT correction methods like the Mason extrapolation.",
+      "content_hash": "5d15a40df2f62bc7cdec77be97408cda80086ff55d7fdd9fd1ddda91417c7387",
+      "label": "rpa_deviates_from_experiment",
+      "qid": "github:surface_catalysis::rpa_deviates_from_experiment",
+      "type": "claim"
+    },
+    {
+      "content": "DFT slab calculations of adsorption energies on metal surfaces performed in vacuum or with only a few explicit water molecules omit significant electrochemical-environment contributions — including solvation, electrode potential, and electric double-layer effects — that can shift effective adsorption free energies by several tenths of an eV, creating a gap between ultra-high-vacuum DFT benchmarks and electrochemical catalytic conditions.",
+      "content_hash": "d4eb066c737a27b2bebaa7a0c7006bbff156957386146a618b093052f0a67055",
+      "label": "solvent_free_energy_gap",
+      "qid": "github:surface_catalysis::solvent_free_energy_gap",
+      "type": "claim"
+    },
+    {
+      "content": "The total error budget for comparing DFT-predicted CO chemisorption energies with experimental measurements includes at least: (1) GGA exchange-correlation self-interaction error (addressed by Mason correction), (2) van der Waals dispersion error (~0.1 eV), (3) ZPE and vibrational entropy approximation error (~0.05-0.1 eV), (4) coverage-dependent lateral interaction error, (5) solvent/electrochemical environment error (0.1-0.3 eV), (6) surface model (slab thickness, k-point) error, and (7) experimental measurement uncertainty — and the Mason correction addresses only item (1), leaving items (2)-(7) as unaccounted sources of theory-experiment discrepancy.",
+      "content_hash": "94090db215b738ca123700f1f4acabdb295c5245e37387cd082a3eecc482ee39",
+      "label": "total_error_budget_incomplete",
+      "qid": "github:surface_catalysis::total_error_budget_incomplete",
       "type": "claim"
     },
     {
@@ -50,7 +113,7 @@
       "type": "claim"
     }
   ],
-  "ir_hash": "sha256:94f16f4e1e0cec538c834cd9b5eae9dd7d0f29348e8e86c7ae930939e7684c0e",
+  "ir_hash": "sha256:7131b00764bba6936b065351ee2d9913b4f66babb345a48f28401454fbcd82d0",
   "manifest_schema_version": 1,
   "package": "surface-catalysis",
   "version": "1.0.0"

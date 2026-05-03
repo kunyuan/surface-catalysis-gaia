@@ -1,0 +1,536 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811125902657191939": {
+        "area": "Comprehensive Periodical",
+        "authors": "H. Over | Y. D. Kim | A. P. Seitsonen | S. Wendt | E. Lundgren | M. Schmid | P. Varga | A. Morgante | G. Ertl",
+        "available_online": "",
+        "cover_date_start": "2000-02-25",
+        "created_at": "2022-12-17T22:44:47+08:00",
+        "doi": "10.1126/science.287.5457.1474",
+        "en_title": "Atomic-Scale Structure and Catalytic Reactivity of the RuO 2 (110) Surface",
+        "id": "811125902657191939",
+        "keywords": "",
+        "publication_date": "2000-2-25",
+        "publication_id": "7984",
+        "publication_name": "Science _ Science",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "RuO₂(110)表面的原子尺度结构与催化反应活性"
+      },
+      "paper:811676259586146305": {
+        "area": "Geoscience",
+        "authors": "Wen-Shryang Liu | Gregory B. Aupp",
+        "available_online": "2011-2-22",
+        "cover_date_start": "1993-01-01",
+        "created_at": "2022-12-19T11:11:41+08:00",
+        "doi": "10.1557/proc-334-239",
+        "en_title": "The Surface Chemistry of CdTe Mocvd",
+        "id": "811676259586146305",
+        "keywords": "",
+        "publication_date": "1993",
+        "publication_id": "24595",
+        "publication_name": "MRS Proceedings _ MRS Proc.",
+        "research_categories": "",
+        "zh_title": "碲化镉金属有机化学气相沉积的表面化学"
+      },
+      "paper:811919445973794819": {
+        "area": "Material science",
+        "authors": "V. I. Lebedev | V. V. Mizina | L. V. Blagina | A. A. Barannik",
+        "available_online": "2008-5-29",
+        "cover_date_start": "2008-05-01",
+        "created_at": "2022-12-20T03:18:00+08:00",
+        "doi": "10.1134/s0020168508050026",
+        "en_title": "Temperature-dependent activation energy for silicon desorption processes",
+        "id": "811919445973794819",
+        "keywords": "",
+        "publication_date": "2008-5",
+        "publication_id": "2343",
+        "publication_name": "Inorganic Materials _ Inorg Mater",
+        "research_categories": "",
+        "zh_title": "硅脱附过程的温度相关活化能"
+      },
+      "paper:811940671647645696": {
+        "area": "Engineering Technology",
+        "authors": "José A. Delgado | José L. Sotelo | José M. Gómez | Pilar Gómez",
+        "available_online": "2016-11-30",
+        "cover_date_start": "2007-04-01",
+        "created_at": "2022-12-20T04:42:21+08:00",
+        "doi": "10.1260/026361707782398146",
+        "en_title": "Estimation of Adsorption Parameters from Temperature-Programmed Desorption Thermograms: Application to the Adsorption of Carbon Dioxide onto Alumina",
+        "id": "811940671647645696",
+        "keywords": "",
+        "publication_date": "2007-4",
+        "publication_id": "4177",
+        "publication_name": "Adsorption Science and Technology _ Adsorption Science & Technology",
+        "research_categories": "",
+        "zh_title": "从程序升温脱附热谱图估算吸附参数：应用于二氧化碳在氧化铝上的吸附"
+      },
+      "paper:811966459168161793": {
+        "area": "Chemistry",
+        "authors": "Martin Ruff | Naoki Takehiro | Ping Liu | Jens K. Nørskov | R. Jürgen Behm",
+        "available_online": "",
+        "cover_date_start": "2007-10-08",
+        "created_at": "2022-12-20T06:24:49+08:00",
+        "doi": "10.1002/cphc.200700070",
+        "en_title": "Size-Specific Chemistry on Bimetallic Surfaces: A Combined Experimental and Theoretical Study",
+        "id": "811966459168161793",
+        "keywords": "[{\"en_name\": \"Adsorption\", \"ch_name\": \"\"}, {\"en_name\": \"Bimetallic catalysts\", \"ch_name\": \"\"}, {\"en_name\": \"Density functional calculations\", \"ch_name\": \"\"}, {\"en_name\": \"Ligand effects\", \"ch_name\": \"\"}, {\"en_name\": \"Surface chemistry\", \"ch_name\": \"\"}]",
+        "publication_date": "2007-10-8",
+        "publication_id": "3491",
+        "publication_name": "ChemPhysChem _ ChemPhysChem",
+        "research_categories": "",
+        "zh_title": "双金属表面的尺寸特异性化学：一项实验与理论相结合的研究"
+      },
+      "paper:812024215598268417": {
+        "area": "Chemistry",
+        "authors": "Oliver R. Inderwildi | Stephen J. Jenkins | David A. King",
+        "available_online": "2007-1-23",
+        "cover_date_start": "2007-01-23",
+        "created_at": "2022-12-20T10:14:19+08:00",
+        "doi": "10.1021/ja067722w",
+        "en_title": "An Unexpected Pathway for the Catalytic Oxidation of Methylidyne on Rh{111} as a Route to Syngas",
+        "id": "812024215598268417",
+        "keywords": "",
+        "publication_date": "2007-2-1",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "铑{111}表面上亚甲基催化氧化生成合成气的意外途径"
+      },
+      "paper:812116100438294529": {
+        "area": "Physics and Astrophysics",
+        "authors": "D. Lerch | A. Klein | A. Schmidt | S. Müller | L. Hammer | K. Heinz | M. Weinert",
+        "available_online": "2006-2-23",
+        "cover_date_start": "2006-02-23",
+        "created_at": "2022-12-20T16:19:27+08:00",
+        "doi": "10.1103/physrevb.73.075430",
+        "en_title": "Unusual adsorption site of hydrogen on the unreconstructed Ir(100) surface",
+        "id": "812116100438294529",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "氢在未重构的Ir(100)表面上的异常吸附位点"
+      },
+      "paper:812349324368281600": {
+        "area": "Engineering Technology",
+        "authors": "S RAAEN",
+        "available_online": "",
+        "cover_date_start": "2005-05-01",
+        "created_at": "2022-12-21T07:46:12+08:00",
+        "doi": "10.1016/j.energy.2004.03.101",
+        "en_title": "Monte-Carlo simulations of thermal desorption of adsorbed molecules from metal surfaces",
+        "id": "812349324368281600",
+        "keywords": "[{\"en_name\": \"CO\", \"ch_name\": \"\"}, {\"en_name\": \"La-pt surface alloy\", \"ch_name\": \"\"}, {\"en_name\": \"Monte-carlo simulation\", \"ch_name\": \"\"}, {\"en_name\": \"Pt(111)\", \"ch_name\": \"\"}, {\"en_name\": \"Thermal desorption\", \"ch_name\": \"\"}, {\"en_name\": \"TPD\", \"ch_name\": \"\"}]",
+        "publication_date": "2005-5",
+        "publication_id": "3814",
+        "publication_name": "Energy _ Energy",
+        "research_categories": "",
+        "zh_title": "金属表面吸附分子热脱附的蒙特卡罗模拟"
+      },
+      "paper:812361018704396289": {
+        "area": "Chemistry",
+        "authors": "Antonio Tilocca | Annabella Selloni",
+        "available_online": "2004-3-20",
+        "cover_date_start": "2004-03-20",
+        "created_at": "2022-12-21T08:32:40+08:00",
+        "doi": "10.1021/jp037685k",
+        "en_title": "Structure and Reactivity of Water Layers on Defect-Free and Defective Anatase TiO 2 (101) Surfaces",
+        "id": "812361018704396289",
+        "keywords": "",
+        "publication_date": "2004-4-1",
+        "publication_id": "3453",
+        "publication_name": "The Journal of Physical Chemistry B _ J. Phys. Chem. B",
+        "research_categories": "",
+        "zh_title": "无缺陷和有缺陷的锐钛矿型TiO₂(101)表面水层的结构与反应活性"
+      },
+      "paper:812361177752403971": {
+        "area": "",
+        "authors": "Marie-Christine Bacchus-Montabonel | Jean-Pierre Joly",
+        "available_online": "",
+        "cover_date_start": "1986-01-01",
+        "created_at": "2022-12-21T08:33:18+08:00",
+        "doi": "10.1039/f19868203601",
+        "en_title": "Adsorption and desorption kinetics of oxygen on tin–antimony oxide catalyst by quasi-constant coverage methods",
+        "id": "812361177752403971",
+        "keywords": "",
+        "publication_date": "1986",
+        "publication_id": "100289",
+        "publication_name": "Journal of the Chemical Society, Faraday Transactions 1: Physical Chemistry in Condensed Phases _ J. Chem. Soc., Faraday Trans. 1",
+        "research_categories": "",
+        "zh_title": "采用准恒定覆盖度法研究氧气在锡锑氧化物催化剂上的吸附和解吸动力学"
+      },
+      "paper:812404548554457088": {
+        "area": "Chemistry",
+        "authors": "D.C. Skelton | D.-H. Wei | S.D. Kevan",
+        "available_online": "",
+        "cover_date_start": "1997-01-01",
+        "created_at": "2022-12-21T11:25:39+08:00",
+        "doi": "10.1016/s0039-6028(96)00949-1",
+        "en_title": "Interactions between adsorbed molecules: CO on Ni(111)",
+        "id": "812404548554457088",
+        "keywords": "",
+        "publication_date": "1997-1",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "吸附分子之间的相互作用：Ni(111)表面上的CO"
+      },
+      "paper:812780743636811778": {
+        "area": "Physics and Astrophysics",
+        "authors": "A.P.J. Jansen | W.K. Offermans",
+        "available_online": "",
+        "cover_date_start": "2002-08-01",
+        "created_at": "2022-12-22T12:20:30+08:00",
+        "doi": "10.3233/jcm-2002-23-408",
+        "en_title": "Determining Interactions between Adsorbates on Transition Metals",
+        "id": "812780743636811778",
+        "keywords": "",
+        "publication_date": "2002-8-1",
+        "publication_id": "40038",
+        "publication_name": "Journal of Computational Methods in Sciences and Engineering _ JCM",
+        "research_categories": "",
+        "zh_title": "确定过渡金属上吸附质之间的相互作用"
+      },
+      "paper:813127991201628162": {
+        "area": "Engineering Technology",
+        "authors": "M. V. Landau | N. Meiri | N. Utsis | R. Vidruk Nehemya | M. Herskowitz",
+        "available_online": "2017-7-6",
+        "cover_date_start": "2017-07-06",
+        "created_at": "2022-12-23T11:20:21+08:00",
+        "doi": "10.1021/acs.iecr.7b01817",
+        "en_title": "Conversion of CO 2 , CO, and H 2 in CO 2 Hydrogenation to Fungible Liquid Fuels on Fe-Based Catalysts",
+        "id": "813127991201628162",
+        "keywords": "",
+        "publication_date": "2017-11-15",
+        "publication_id": "4160",
+        "publication_name": "Industrial and Engineering Chemistry Research _ Ind. Eng. Chem. Res.",
+        "research_categories": "",
+        "zh_title": "铁基催化剂上二氧化碳加氢制替代液体燃料过程中二氧化碳、一氧化碳和氢气的转化"
+      },
+      "paper:813205213488873473": {
+        "area": "Material science",
+        "authors": "Bruce A. Gurney | W. Ho",
+        "available_online": "",
+        "cover_date_start": "1985-05-01",
+        "created_at": "2022-12-23T16:27:12+08:00",
+        "doi": "10.1116/1.573165",
+        "en_title": "Desorption rate limited structural transitions of CO on Ni(110) studied by time‐resolved electron energy loss spectroscopy",
+        "id": "813205213488873473",
+        "keywords": "",
+        "publication_date": "1985-5",
+        "publication_id": "2180",
+        "publication_name": "Journal of Vacuum Science and Technology A: Vacuum, Surfaces, and Films _ Journal of Vacuum Science & Technology A: Vacuum, Surfaces, and Films",
+        "research_categories": "",
+        "zh_title": "通过时间分辨电子能量损失谱研究CO在Ni(110)上的脱附速率受限结构转变"
+      },
+      "paper:867754418865439606": {
+        "area": "arXiv-Physics",
+        "authors": "J.-S. McEwen | A. Eichler",
+        "available_online": "",
+        "cover_date_start": "2004-08-17",
+        "created_at": "2023-05-23T05:06:16+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0408383",
+        "en_title": "Phase Diagram And Adsorption-Desorption Kinetics Of CO On Ru(0001): Present Limitations Of A First Principles Approach",
+        "id": "867754418865439606",
+        "keywords": "",
+        "publication_date": "2004-08-17",
+        "publication_id": "108488",
+        "publication_name": "Statistical Mechanics _ Physics.cond-mat.stat-mech",
+        "research_categories": "",
+        "zh_title": "CO在Ru(0001)上的相图及吸附-脱附动力学：第一性原理方法的当前局限性"
+      }
+    },
+    "variables": [
+      {
+        "content": "Thermal-desorption spectrometry (TDS, also called temperature-programmed desorption, TPD) measurements of recombinative H_2 desorption (molecular desorption) analyzed via an Arrhenius/King-method evaluation yield an experimental per-atom saturation adsorption energy of $E^{\\\\exp}\\\\approx460\\\\ \\\\text{meV/atom}$ (i.e., half the measured molecular desorption activation energy) and a coverage-dependent set of desorption energies $\\\\tfrac{1}{2}E_{des}(\\\\theta_H)$ whose trend versus coverage matches the DFT-predicted coverage dependence in shape but is offset on average by about $0.2\\\\ \\\\text{eV}$ toward lower energies in experiment, consistent with the known systematic tendency of the employed DFT setup to give larger absolute adsorption energies.",
+        "content_hash": "d8995ecfad134b61ad497b3816c49dd87d9a9b9809cd7b2d2c071f388f7402fa",
+        "id": "gcn_10c1cec732af42e5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812116100438294529::conclusion_3",
+            "package_id": "paper:812116100438294529",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812116100438294529"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.0287391216352965,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Replacing the raw DFT adsorption energy and its computed coverage dependence for CO(ads) on Rh{111} with an experimentally derived CO desorption energy and its coverage dependence taken from the literature materially affects the simulated CO temperature-programmed desorption (TPD) peak positions; this parameter adjustment substantially contributes to the reported agreement of the simulated CO desorption peak center at $495\\ \\mathrm{K}$ with the experimental reference value of $490\\ \\mathrm{K}$, and therefore the numerical agreement between simulation and experiment depends in part on this empirical tuning rather than exclusively on the raw DFT energetics.",
+        "content_hash": "c49ed91efc13108472ea243626aa882ae6f2d52f7cfcb9638957c19b553dec1a",
+        "id": "gcn_1c2b5818c8f642ba",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812024215598268417::P11",
+            "package_id": "paper:812024215598268417",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812024215598268417"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027809742999616416,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the system of carbon monoxide (CO) adsorbed on the Ru(0001) surface modeled by a lattice-gas Hamiltonian whose on-site adsorption energies and lateral interactions are obtained from plane-wave density functional theory (DFT) calculations performed with the fixed-geometry extraction protocol (method A: the top two substrate layers of the bare Ru(0001) slab relaxed once; the CO molecular geometry optimized only for the isolated 1/9 monolayer (ML) configuration; for higher coverages the CO positions and the top substrate layers are kept fixed), applying a single uniform additive correction of -0.174 eV to every per-molecule DFT-derived on-site adsorption energy (i.e., replacing each DFT on-site energy E_{a} by E_{a} - 0.174 eV for all adsorption sites and configurations) produces corrected energetics that are an accurate representation of the experimental adsorption/desorption energetics used to compare phase-diagram and temperature-programmed desorption (TPD) observables for coverages up to θ ≤ 1/3 ML and for the temperature ranges considered.\n      [this paper]",
+        "content_hash": "b421ae9c3b8cc4f577c382ab4ef0c98b27bfa1be3b1cced447101c8656cf9d0f",
+        "id": "gcn_00c51ba2f4024064",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867754418865439606::P1",
+            "package_id": "paper:867754418865439606",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867754418865439606"
+          ]
+        },
+        "role": "premise",
+        "score": 0.023258904837852208,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A DFT-computed CO adsorption (binding) energy of approximately 1.2 eV for CO adsorbed at the Ru_cus site corresponds, under the assumption of first-order desorption kinetics and a typical pre-exponential (attempt frequency) of order 10^13 s^-1, to a thermal desorption peak near 350 K in temperature-programmed desorption/thermal desorption spectroscopy (TPD/TDS) experiments; this mapping assumes that (i) desorption kinetics are adequately described by a single activation energy and prefactor, (ii) lateral interactions and coverage effects do not strongly shift the desorption peak, and (iii) the experimental TDS signal is dominated by the same adsorption state modeled in the DFT calculations.\n      H. Over et al., Science 287, 1474 (2000)",
+        "content_hash": "f740b5704fc4299df47caf21f8b4d3ac3cef3e687ea4b425aad7d0d3d0a1aff7",
+        "id": "gcn_3bb772941dbf465c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811125902657191939::P6",
+            "package_id": "paper:811125902657191939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811125902657191939"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Under the saturation and temperature-programmed desorption conditions used in the CO_{2}/activated-alumina experiments, lateral interactions between adsorbed CO_{2} molecules are considered negligible, so that adsorption sites may be modeled as independent, non-interacting sites and the desorption kinetics may be represented without including coverage-dependent activation-energy shifts arising from adsorbate–adsorbate interactions.",
+        "content_hash": "bb633d1207a5c21e4cfcba5bedea551a6fc418a90c8dc5c0852a4bd29a5a67ac",
+        "id": "gcn_d7b659ce43014f6e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811940671647645696::P13",
+            "package_id": "paper:811940671647645696",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811940671647645696"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Thermal desorption spectroscopy (TDS) analyzed by the variational heating-rate method yields a desorption energy $E_{d}$ that is relatively constant at low coverages and then decreases rapidly as coverage approaches saturation; this coverage dependence indicates that lateral CO–CO interactions become significant for $\\theta\\gtrsim0.8\\ \\text{ML}$ and thereby contribute to the coverage-driven changes in adsorption-site populations observed by EELS.",
+        "content_hash": "86dcf9ba13f5ba4393b9876698859f6016c6207eb0a6e7bba11aded58426b032",
+        "id": "gcn_83c2e44f10884f80",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813205213488873473::conclusion_8",
+            "package_id": "paper:813205213488873473",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813205213488873473"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Two adjacent Pd atoms in the Au(111) surface (a Pd dimer) bind CO in configurations whose computed DFT adsorption energies per CO molecule depend on the adsorption site and CO coverage: (i) a single CO occupying a bridge-bonded configuration that spans the two Pd atoms (bridge-bonded CO) has DFT adsorption energy E_ad = 0.87 eV per CO; (ii) an on-top adsorption configuration on one Pd atom of the same dimer (single-CO on-top, a metastable single-CO state) has E_ad = 0.76 eV per CO; and (iii) when two CO molecules occupy on-top sites on the two Pd atoms of the same dimer the DFT adsorption energy per CO is E_ad = 0.57 eV per CO, indicating a repulsive interaction and a lower per-CO binding energy at higher coverage; experimentally, temperature-programmed desorption (TPD) spectra from surfaces containing Pd dimers show desorption peaks at approximately 360 K (assigned to desorption of the first CO on a dimer) and 250 K (assigned to desorption of the second CO from the saturated dimer), consistent with the calculated energetics; the static DFT activation barrier computed for desorption of the first CO from the saturated dimer configuration without allowing full structural relaxation along the desorption coordinate is 0.54 eV, a value that differs from simple differences of total adsorption energies because structural relaxation during desorption may be limited.",
+        "content_hash": "e54b9fc12dba9d96851ddbe7c4a57bc0f29cbd31a47e5b352dc19cb26242f09c",
+        "id": "gcn_8d944f3acdce4407",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811966459168161793::conclusion_3",
+            "package_id": "paper:811966459168161793",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811966459168161793"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For CO temperature programmed desorption from La-Pt(111), reproducing the experimentally observed sharp low-temperature desorption feature near saturation coverage at roughly $200\\,^\\circ\\mathrm{C}$ in simulations that employ reduced isolated-site desorption energies (relative to Pt(111)) together with repulsive lateral interactions provides sufficient qualitative evidence that the combination of lower isolated-site desorption energies and repulsive lateral adsorbate-adsorbate interactions accounts for the main qualitative spectral signatures observed experimentally.",
+        "content_hash": "0d7c91dc451e361cf5258124d1397d4e18d496bc9e0c696488e30edc0c509e02",
+        "id": "gcn_0d2db5afdba84d61",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812349324368281600::P12",
+            "package_id": "paper:812349324368281600",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812349324368281600"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The temperature-programmed desorption peak shapes are wide and distorted (non-Gaussian shoulders) and the desorption activation energy $E_{\\mathrm{d}}$ varies continuously with coverage, increasing from about $230\\ \\mathrm{kJ\\ mol^{-1}}$ at the highest coverages examined to over $400\\ \\mathrm{kJ\\ mol^{-1}}$ at low coverages, which is consistent with adsorbed oxygen occupying a continuous distribution of adsorption states rather than a small number of discrete site types.",
+        "content_hash": "66931bf3da45400d0333306d204ba18508743cd2c8cff7b03c119d37aad4e462",
+        "id": "gcn_10a1d1b3229a4f7d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812361177752403971::conclusion_4",
+            "package_id": "paper:812361177752403971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812361177752403971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "CO temperature‑programmed desorption (CO‑TPD) experiments on carburized catalysts that show higher‑temperature CO desorption peaks and larger integrated CO uptake for K‑promoted samples, together with density functional theory (DFT) calculations predicting stronger CO binding energies on K‑modified carbide surfaces, indicate that potassium promotion increases equilibrium CO adsorption strength (higher adsorption energy) and, therefore, increases steady‑state CO surface coverage at reaction temperatures (>300°C); in this proposition \"CO‑TPD higher‑temperature desorption peaks\" are interpreted as evidence of stronger bound CO species and \"steady‑state CO surface coverage\" denotes the fraction of available Fe adsorption sites occupied by CO under catalytic feed conditions, acknowledging that TPD (vacuum, temperature ramp) and DFT probe regimes different from high‑pressure catalytic operation but that their combined evidence supports increased CO binding and coverage in K‑promoted carbide systems.",
+        "content_hash": "98190a36d0f1197b38ef66cf5ab3ce317f2b154c0da898793f161694c339aa7e",
+        "id": "gcn_ca5760a941c54337",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813127991201628162::P10",
+            "package_id": "paper:813127991201628162",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813127991201628162"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The coverage-dependent shift of the temperature-programmed-desorption (TPD) peak maximum with increasing nominal incident exposure (coverage given in Langmuir units, 1 L = 10−6 Torr·s) is attributed to lateral intermolecular interactions within the adsorbate adlayer: a downshift of the TPD peak maximum with increasing coverage is attributed to repulsive lateral interactions that lower the effective binding energy per molecule (as observed for DETe on Si(100)), whereas an upshift of the TPD peak maximum with increasing coverage is attributed to attractive lateral interactions that increase the effective binding energy per molecule (as observed for DMCd on Si(100)); this attribution is made under the experimental conditions of directed dosing at temperatures below 180 K and linear heating ramps of ≈10–15 K s−1, and the interpretation excludes alternative explanations such as multilayer desorption, significant readsorption during the ramp, surface heterogeneity producing additional overlapping states, or heating-rate artifacts.",
+        "content_hash": "ea180f77f772fe9201b95a7504d498a19dd86470ba520f544841079d682b8e92",
+        "id": "gcn_993fb64c310b4137",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811676259586146305::P3",
+            "package_id": "paper:811676259586146305",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811676259586146305"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The family of lattice interaction parameter sets that fit the desorption-waveform data for CO on Ni(111) is compatible with independent experimental probes of ordering and kinetics: (a) temperature-programmed desorption (TPD) observations that report a near-constant or slowly decreasing desorption-peak temperature with increasing coverage are consistent with only small net repulsive lateral interactions in the relevant coverage and temperature window, and (b) the low-energy electron diffraction (LEED) observation of a $(\\sqrt{3}\\times\\sqrt{3})R30^\\circ$ overlayer at one-third monolayer is compatible with a nearest-neighbor hard-core exclusion plus a modest second-neighbor pair energy $w_2$ that does not strongly disfavor the second-neighbor separations required by the $\\sqrt{3}$ overlayer at near-room temperature; therefore the interaction constraints inferred from the desorption-waveform analysis are not in conflict with these independent experimental results.",
+        "content_hash": "8408aa8a803fb3ad4197b6dcd8a175212d67119878aba868b8fd2daba7e4a152",
+        "id": "gcn_f262ed2ac98e4e9a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812404548554457088::conclusion_6",
+            "package_id": "paper:812404548554457088",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812404548554457088"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The fitted, temperature-dependent activation energy $E_d(T)$ and the fitted lateral pair-interaction parameters imply a sharp, coverage-dependent structural behavior of the adlayer: at low coverage $\\\\theta=0.2$ the fitted activation energy $E_d(T)$ exhibits a rapid drop near $1750\\\\ \\\\mathrm{K}$ and the fitted effective lateral pair interaction decreases abruptly from $14.7\\\\ \\\\mathrm{eV}$ to $8.5\\\\ \\\\mathrm{eV}$ across this temperature, which is interpreted as consistent with a transition of the adlayer from a metastable configuration to a more stable configuration with a lower desorption barrier; at higher coverage $\\\\theta=0.8$ the fitted activation energy decreases smoothly with temperature, the fitted lateral pair interaction is lower ($7.6\\\\ \\\\mathrm{eV}$) and shows no abrupt change over the examined temperature range, and the adlayer is interpreted as undergoing no structural transition in that range.",
+        "content_hash": "94cf113b775cb9ac9522e73411bfc600c2f135a54749da03edef3ab638f82a28",
+        "id": "gcn_ddc2d3666baf4f31",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811919445973794819::conclusion_4",
+            "package_id": "paper:811919445973794819",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811919445973794819"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the DFT-fitted pairwise adsorption-energy model E_{\\mathrm{ads}} = E_{\\mathrm{ads}}^{(0)} + \\sum_i c_i \\varphi_i with E_{\\mathrm{ads}}^{(0)} = −409.7 kJ/mol, \\varphi_{\\mathrm{NN}} = 21.3 kJ/mol, \\varphi_{\\mathrm{NNN}} = 9.9 kJ/mol, and \\varphi_{\\mathrm{NNNN}} = 5.6 kJ/mol, together with an assumed desorption transition-state energy E_{\\mathrm{TS}} = −579 kJ/mol and desorption prefactor \\nu_{\\mathrm{des}} = 10^{15}\\ \\mathrm{s^{-1}}, the first-order desorption rate constant was modeled as\n      $k_{\\mathrm{des}}(T) = \\nu_{\\mathrm{des}} \\exp\\!\\left[-\\dfrac{E_{\\mathrm{act}}}{k_{\\mathrm{B}} T}\\right]$, where the activation energy for desorption is given by $E_{\\mathrm{act}} = E_{\\mathrm{TS}} - 2 E_{\\mathrm{ads}}$ and $E_{\\mathrm{ads}}$ is the per-atom adsorption energy obtained from the pairwise model above. Dynamic Monte Carlo simulations performed on periodic square lattices of 256×256 adsorption sites, with each simulated TPD spectrum averaged over 100 statistically independent stochastic runs, produced simulated temperature-programmed desorption spectra that reproduce the experimental trend of the desorption-peak temperature shifting to lower temperatures as the initial coverage is increased; this indicates that the DFT-fitted pairwise lateral interactions capture the principal coverage dependence of the desorption peak position. However, the simulated desorption peaks are substantially broader than the measured spectra under the same heating-rate conditions (8 K/s) and initial coverages; this quantitative discrepancy is attributed to the possibly too-small adopted desorption prefactor \\nu_{\\mathrm{des}} = 10^{15}\\ \\mathrm{s^{-1}}, while the precise origin of the broadened peaks remains under investigation.",
+        "content_hash": "92b2293f4918196481d4689614001da6d336579415af6125527d37612742dab7",
+        "id": "gcn_79103ed7a4fa4141",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812780743636811778::conclusion_2",
+            "package_id": "paper:812780743636811778",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812780743636811778"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Assigning experimental temperature-programmed desorption (TPD) spectral features (peak positions and their coverage-dependent shifts) to particular computed adsorption sites by directly equating DFT adsorption enthalpies ΔH_ads to desorption temperatures T_des through a simple first-order Redhead analysis neglects complicating kinetic factors such as coverage-dependent activation energies, variations in desorption order, lateral interactions that change activation barriers during the TPD heating ramp, and the heating-rate dependence of peak positions; consequently, such a direct mapping provides a useful qualitative rationale but is quantitatively uncertain without explicit kinetic-rate modeling that includes site-specific prefactors, activation free energies, and lateral-interaction effects.",
+        "content_hash": "905e5209b5a9c7bc863e6155c0d00af466076394c8199bd9637916eb0fd5b998",
+        "id": "gcn_fcc72596a8894b3e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812361018704396289::P14",
+            "package_id": "paper:812361018704396289",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812361018704396289"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "43e3927e3bd2f32544da7cfb50e30e0b"
+}

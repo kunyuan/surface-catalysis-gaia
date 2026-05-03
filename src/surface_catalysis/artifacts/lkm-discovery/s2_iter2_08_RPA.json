@@ -1,0 +1,399 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811660556573343745": {
+        "area": "Physics and Astrophysics",
+        "authors": "Philipp Haas | Fabien Tran | Peter Blaha | Karlheinz Schwarz",
+        "available_online": "2011-5-19",
+        "cover_date_start": "2011-05-19",
+        "created_at": "2022-12-19T10:09:17+08:00",
+        "doi": "10.1103/physrevb.83.205117",
+        "en_title": "Construction of an optimal GGA functional for molecules and solids",
+        "id": "811660556573343745",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "用于分子和固体的最优广义梯度近似（GGA）泛函的构建"
+      },
+      "paper:811767945259646977": {
+        "area": "Material science",
+        "authors": "L. Schimka | J. Harl | A. Stroppa | A. Grüneis | M. Marsman | F. Mittendorfer | G. Kresse",
+        "available_online": "2010-7-25",
+        "cover_date_start": "2010-07-25",
+        "created_at": "2022-12-19T17:16:00+08:00",
+        "doi": "10.1038/nmat2806",
+        "en_title": "Accurate surface and adsorption energies from many-body perturbation theory",
+        "id": "811767945259646977",
+        "keywords": "",
+        "publication_date": "2010-9",
+        "publication_id": "2007",
+        "publication_name": "Nature Materials _ Nature Mater",
+        "research_categories": "",
+        "zh_title": "基于多体微扰理论的精确表面能和吸附能"
+      },
+      "paper:812084825392414721": {
+        "area": "Physics and Astrophysics",
+        "authors": "Ann E. Mattsson | Rickard Armiento | Peter A. Schultz | Thomas R. Mattsson",
+        "available_online": "2006-5-30",
+        "cover_date_start": "2006-05-30",
+        "created_at": "2022-12-20T14:15:10+08:00",
+        "doi": "10.1103/physrevb.73.195123",
+        "en_title": "Nonequivalence of the generalized gradient approximations PBE and PW91",
+        "id": "812084825392414721",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "广义梯度近似PBE和PW91的非等效性"
+      },
+      "paper:812699557723897856": {
+        "area": "Physics and Astrophysics",
+        "authors": "R. K. Moudgil | P. K. Ahluwalia | K. N. Pathak",
+        "available_online": "1995-1-15",
+        "cover_date_start": "1995-01-15",
+        "created_at": "2022-12-22T06:57:55+08:00",
+        "doi": "10.1103/physrevb.51.1575",
+        "en_title": "Spin correlations in a two-dimensional electron gas",
+        "id": "812699557723897856",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维电子气中的自旋关联"
+      },
+      "paper:812720866608545792": {
+        "area": "Physics and Astrophysics",
+        "authors": "V. I. Kuz'min | Yu. S. Orlov | A. E. Zarubin | T. M. Ovchinnikova | S. G. Ovchinnikov",
+        "available_online": "2019-10-21",
+        "cover_date_start": "2019-10-21",
+        "created_at": "2022-12-22T08:22:36+08:00",
+        "doi": "10.1103/physrevb.100.144429",
+        "en_title": "Magnetism in spin crossover systems: Short-range order and effects beyond the Heisenberg model",
+        "id": "812720866608545792",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "自旋交叉体系中的磁性：短程有序及海森堡模型之外的效应"
+      },
+      "paper:813265631225839617": {
+        "area": "Physics and Astrophysics",
+        "authors": "Ikutaro Hamada",
+        "available_online": "2012-11-30",
+        "cover_date_start": "2012-11-30",
+        "created_at": "2022-12-23T20:27:17+08:00",
+        "doi": "10.1103/physrevb.86.195436",
+        "en_title": "Adsorption of water on graphene: A van der Waals density functional study",
+        "id": "813265631225839617",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "石墨烯上水分子的吸附：基于范德华密度泛函理论的研究"
+      },
+      "paper:867750034613994059": {
+        "area": "arXiv-Physics",
+        "authors": "Sanjay Nayak | Satadeep Bhattacharjee | Jung-Hae Choi | Seung Cheol Lee",
+        "available_online": "",
+        "cover_date_start": "2019-05-07",
+        "created_at": "2023-05-23T04:48:50+08:00",
+        "doi": "10.48550/arXiv.1905.02350",
+        "en_title": "Error Minimization in Predicting Accurate Adsorption Energies Using Machine Learning",
+        "id": "867750034613994059",
+        "keywords": "",
+        "publication_date": "2019-05-07",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\", \"Atomic, Molecular and Optical Physics\"]",
+        "zh_title": "使用机器学习预测精确吸附能时的误差最小化"
+      },
+      "paper:867752780884869745": {
+        "area": "arXiv-Physics",
+        "authors": "Per Simmendefeldt Schmidt | Kristian Sommer Thygesen",
+        "available_online": "",
+        "cover_date_start": "2018-01-31",
+        "created_at": "2023-05-23T04:59:45+08:00",
+        "doi": "10.48550/arXiv.1801.10560",
+        "en_title": "Benchmark Database of Transition Metal Surface and Adsorption Energies from Many-Body Perturbation Theory",
+        "id": "867752780884869745",
+        "keywords": "",
+        "publication_date": "2018-01-31",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "基于多体微扰理论的过渡金属表面与吸附能基准数据库"
+      },
+      "paper:966947807309070338": {
+        "area": "arXiv-Physics",
+        "authors": "Siheng Li | Keyang Liu | Jiří Klimeš | Ji Chen",
+        "available_online": "",
+        "cover_date_start": "2024-02-18",
+        "created_at": "2024-02-20T22:25:22+08:00",
+        "doi": "10.48550/arXiv.2402.11470",
+        "en_title": "Understanding the wetting of transition metal dichalcogenides from an ab initio perspective",
+        "id": "966947807309070338",
+        "keywords": "",
+        "publication_date": "2024-02-18",
+        "publication_id": "108512",
+        "publication_name": "Computational Physics _ Physics.physics.comp-ph",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Theoretical and Computational Chemistry\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "从第一性原理角度理解过渡金属二硫属化物的润湿性"
+      },
+      "paper:978178737314988039": {
+        "area": "arXiv-Physics",
+        "authors": "Honghui Kim | Neung-Kyung Yu | Nianhan Tian | Andrew J. Medford",
+        "available_online": "",
+        "cover_date_start": "2024-03-21",
+        "created_at": "2024-03-22T22:13:04+08:00",
+        "doi": "10.48550/arxiv.2403.14482",
+        "en_title": "Assessing exchange-correlation functionals for heterogeneous catalysis of nitrogen species",
+        "id": "978178737314988039",
+        "keywords": "",
+        "publication_date": "2024-03-21",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Inorganic Chemistry\", \"Physical Chemistry\"]",
+        "zh_title": "评估用于氮物种多相催化的交换关联泛函"
+      }
+    },
+    "variables": [
+      {
+        "content": "The random phase approximation (RPA) total-energy method used here consists of evaluating the exact (Hartree–Fock) exchange energy together with the RPA correlation energy non-self-consistently on Kohn–Sham orbitals obtained with the Perdew–Burke–Ernzerhof (PBE) generalized-gradient exchange–correlation functional; when this RPA-on-PBE protocol is applied to transition-metal (111) surfaces and molecular adsorption it yields surface formation energies per unit area and CO adsorption energies that are in very good quantitative agreement with available experimental values. The reported RPA total adsorption energies were computed with the composite estimator\n      E = E_{\\mathrm{RPA}}\\bigl((\\sqrt{3}\\times\\sqrt{3}),\\,4\\ \\text{layers}\\bigr) - E_{\\mathrm{DFT}}\\bigl((\\sqrt{3}\\times\\sqrt{3}),\\,4\\ \\text{layers}\\bigr) + E_{\\mathrm{DFT}}\\bigl((2\\times2),\\,6\\ \\text{layers}\\bigr),\n      where E_{\\mathrm{RPA}}(S,n) denotes the total electronic energy evaluated with exact exchange plus the RPA correlation on a lateral surface supercell S and slab thickness n, and E_{\\mathrm{DFT}}(S,n) denotes the corresponding total energy evaluated with a chosen density functional; residual finite-size and supercell errors in this composite estimator were found to be small (within a few tens of millielectronvolts in the tested cases). Replacing semilocal correlation by RPA correlation while including exact exchange therefore removes the systematic generalized-gradient-approximation trade-off between underestimated surface energies and overestimated adsorption energies for the systems studied.",
+        "content_hash": "8b3bfcd8f9634bbfa57c013baa1fac970f95421592031a9e74c8d32ee19452b5",
+        "id": "gcn_897be232ecb24f8f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811767945259646977::conclusion_1",
+            "package_id": "paper:811767945259646977",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811767945259646977"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03131881575727918,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Evaluating the exact-exchange (EXX) energy and the random phase approximation (RPA) correlation energy using single-particle orbitals and eigenvalues obtained from a PBE Kohn–Sham calculation — hereafter denoted EXX+RPA@PBE — yields adsorption energies for metal–adsorbate systems that, for the studied systems, differ only by a few hundredths of an eV in many cases from the adsorption energies that would be obtained from a fully self-consistent RPA treatment; consequently EXX+RPA@PBE provides a practical approximation to obtain RPA-quality adsorption energies for the database with controlled and small additional error.",
+        "content_hash": "e7e8ccb68865ca02c14473b613f400d8fb3e42bcb2e85506f443a09868484ddf",
+        "id": "gcn_afb29df7f68143f9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867752780884869745::P3",
+            "package_id": "paper:867752780884869745",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867752780884869745"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028283227848101264,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The optimized random phase approximation is defined as the non-self-consistent total energy $E_{optRPA}=E_{HF}+1.17\\,E_{c,RPA}$, where $E_{HF}$ is the Hartree-Fock exact-exchange energy evaluated on density-functional-theory orbitals generated by the tuned hybrid PBEx50, $E_{c,RPA}$ is the random-phase-approximation correlation energy evaluated on the same PBEx50 orbitals, and PBEx50 denotes PBE0 with 50% exact exchange. Because this optRPA definition yields a molecular formation-energy root-mean-square error of $0.035\\ \\mathrm{eV}$ on the tested gas-phase molecular dataset, adsorption energies computed with $E_{optRPA}$ for the studied surface-adsorbate systems are assumed to be sufficiently accurate and transferable to serve as a practical condensed-phase ground-truth benchmark.",
+        "content_hash": "351fcbe262d9f04a3362bfca54fe3f167536d2531dfba7d7d6ec541c15cbab28",
+        "id": "gcn_6efddfbab3114451",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:978178737314988039::P1",
+            "package_id": "paper:978178737314988039",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:978178737314988039"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027432808155699723,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the approximation: Let \\{\\phi_i^{\\mathrm{PBE}}\\} denote the Kohn--Sham single-particle orbitals obtained self-consistently with the Perdew--Burke--Ernzerhof (PBE) generalized-gradient exchange--correlation functional. The proposition asserts that evaluating the exact-exchange energy and the random phase approximation (RPA) correlation energy using the fixed orbital set \\{\\phi_i^{\\mathrm{PBE}}\\} (i.e., performing a non-self-consistent RPA-on-PBE total-energy evaluation) yields total energies and energy differences (surface formation energies and adsorption energies) that are sufficiently close to fully self-consistent RPA total energies for the studied surface adsorption problems, so that conclusions drawn from RPA-on-PBE results remain valid.",
+        "content_hash": "719876a5dd2c88009a7f733634b659ce1f46fc547f110436acad0d8ba55a0665",
+        "id": "gcn_b3a3914ea722457b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811767945259646977::P2",
+            "package_id": "paper:811767945259646977",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811767945259646977"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02506265664160401,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $E_{\\\\sigma}$ denote the computed surface energy per unit surface area for a clean metal surface model and $E_{\\\\mathrm{ads}}$ denote the computed chemisorption energy of a CO molecule on the same surface site using consistent geometries; for the CO chemisorption problems considered on Rh(111) and Pt(111) surface models, HTBS departs from the near-linear trend observed for common GGAs between $E_{\\\\sigma}$ and $E_{\\\\mathrm{ads}}$: HTBS retains surface energies similar to the Wu–Cohen (WC) GGA (the WC functional being a “weaker” GGA with a slowly rising enhancement factor) while significantly improving the CO adsorption energies $E_{\\\\mathrm{ads}}$ toward values at least as good as those obtained with the Perdew–Burke–Ernzerhof (PBE) GGA; the random-phase approximation (RPA) remains more accurate for these surface and adsorption energies but requires substantially higher computational cost.",
+        "content_hash": "ba5d08280fef37d1741a9e099126a67c3ecba8f91eca6ea1e3fa40389dd081f9",
+        "id": "gcn_9171eace9fe94dcb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811660556573343745::conclusion_5",
+            "package_id": "paper:811660556573343745",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811660556573343745"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02415181138585394,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Singwi–Tosi–Land self-consistent-field approximation (SCFA) improves upon Hartree–Fock (HF), random-phase approximation (RPA), and Hubbard approximation (HA) at small coupling (small $r_{s}$), producing reasonable agreement with quantum Monte Carlo data at low $r_{s}$, but SCFA systematically overestimates short-range Coulomb correlations, predicts a paramagnetic instability at $r_{s}\\approx 4$ whereas quantum Monte Carlo locates the transition at substantially larger $r_{s}$ (see Monte Carlo benchmarks), and therefore SCFA does not provide satisfactory accuracy over the entire density range; from the ensemble of computed quantities the electron-correlation effects in two dimensions are somewhat more pronounced than in three dimensions for comparable densities.",
+        "content_hash": "799fab25ef8d6346d9652f2ee0eeda416cb810386efdba41f33567262ebade6d",
+        "id": "gcn_fa19bfa0a0604a7c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812699557723897856::conclusion_8",
+            "package_id": "paper:812699557723897856",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812699557723897856"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The random phase approximation (RPA), i.e., the many-body perturbation-theory method in which the correlation energy is obtained from the linear density response function and exchange is treated exactly, was used to compute adsorption energies for ten experimentally relevant low-coverage adsorption reactions (CO, NO, O, and H adsorbed at 1/4 coverage on the (111) surfaces of Pt, Rh, Ir, Cu, Pd and Ni). In these calculations each surface was represented by a periodic four-layer slab with the bottom two atomic layers fixed at the bulk Perdew–Burke–Ernzerhof (PBE) lattice constant and the top two layers relaxed together with the adsorbate, periodic slab images separated by 10 Å of vacuum in the surface-normal direction, Brillouin-zone sampling of the slab electronic structure with an 8×8×1 Monkhorst–Pack k-point grid, exact-exchange plus RPA evaluated on top of PBE Kohn–Sham orbitals and eigenvalues, RPA frequency integration using a 16-point Gaussian quadrature and plane-wave RPA correlation-energy extrapolation to infinite cutoff from calculations at 200, 250 and 300 eV; the adsorption-energy reference was the isolated, PBE-relaxed gas-phase molecule in a 6 Å cubic box and adsorption energies were computed as $E_{\\mathrm{ads}} = E_{\\mathrm{adsorbate@slab}} - \\left(E_{\\mathrm{slab}} + E_{\\mathrm{adsorbate(g)}}\\right)$. Relative to the averaged experimental adsorption energies obtained by averaging available measurements from equilibrium adsorption studies, temperature-programmed desorption, and single-crystal adsorption calorimetry (experimental scatter typically ≈0.1 eV, and up to ≈0.3 eV in some cases), the RPA adsorption energies have a mean absolute error (MAE) of $0.21\\ \\mathrm{eV}$ and a mean signed error (MSE) of $-0.10\\ \\mathrm{eV}$. This MAE $\\approx 0.2\\ \\mathrm{eV}$ performance is comparable to the best-performing tested semi-local and van-der-Waals-corrected density functionals on the same ten-reaction test set (for example, the RPBE and BEEF-vdW functionals achieve similar MAE values on these systems).",
+        "content_hash": "bd73ff34ab235f2805ef82b5f3e68b770c28029092766db2ff5fdef78117828a",
+        "id": "gcn_437162c3aec249c9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867752780884869745::conclusion_1",
+            "package_id": "paper:867752780884869745",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867752780884869745"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Bulk-site staggered magnetization $m(N_c)$ and ground-state energy $E_0(N_c)$ computed within the cluster mean-field (CMF) approach for clusters of $N_c$ sites display systematic finite-size trends that interpolate between single-site mean-field (MF) results and many-body benchmark methods such as the random-phase approximation (RPA) or quantum Monte Carlo: (i) inclusion of short-range intracluster correlations in CMF reduces both the zero-temperature magnetization and the Neel temperature relative to single-site MF and produces results intermediate between MF and RPA; (ii) over the accessible cluster sizes the dominant finite-cluster-size dependence of the bulk staggered magnetization behaves approximately as $m(N_c)\\propto 1/\\sqrt{N_c}$ so that least-squares extrapolation using a $1/\\sqrt{N_c}$ ansatz yields an extrapolated magnetization $m(\\infty)\\approx0.81$; and (iii) ground-state-energy extrapolation using the same empirical scaling gives $E_0(\\infty)\\approx-2.31$, in close agreement with quantum Monte Carlo benchmark values $\\approx-2.33$ for the studied Heisenberg-like limit. All symbols ($m(N_c)$, $E_0(N_c)$, $N_c$, MF, RPA, and $m(\\infty)$) are defined here.",
+        "content_hash": "6775a3fedaf314c817a88f9e5112049e00d106ec20b4f15b77447040304a2d83",
+        "id": "gcn_7adf4443d73a4e2e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812720866608545792::conclusion_7",
+            "package_id": "paper:812720866608545792",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812720866608545792"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The OLS-corrected ML predictions reported in this study are evaluated against RPA (random phase approximation) reference adsorption energies from the CMR dataset, and the paper notes that RPA adsorption energies deviate from experiment on average by approximately 0.2 eV (Schmidt et al. benchmarking), so the ML objective and reported RMSEs are explicitly to reproduce RPA-level values rather than to guarantee direct agreement with experimental adsorption energies. Schmidt et al. benchmarking of RPA vs experiment as cited in paper (main text)",
+        "content_hash": "8db637597351798692f3dc55bacf7098f7d69ce9343c90a48b658f781c1d5f91",
+        "id": "gcn_1d90485dd9ac4ed3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867750034613994059::P5",
+            "package_id": "paper:867750034613994059",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867750034613994059"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $E_{\\mathrm{DFT}}$ denote an adsorption interaction energy computed for a periodic graphene slab with an adsorbed H$_2$O monomer using a given density-functional approximation and let $E_{\\mathrm{bench}}$ denote a benchmark adsorption interaction energy obtained from either random-phase approximation (RPA) or diffusion Monte Carlo (DMC) calculations reported in the literature. The proposition is that the numerical values $E_{\\mathrm{DFT}}$ and $E_{\\mathrm{bench}}$ can be compared directly within their quoted numerical uncertainties without applying additional finite-size, basis-set, or methodological corrections arising from differences in supercell size, boundary conditions, representation of graphene (extended periodic slab versus finite cluster), or other implementation details; therefore the numerical ratio $E_{\\mathrm{DFT}}/E_{\\mathrm{bench}}$ as reported can be interpreted as a quantitative overbinding factor. \n      J. Ma et al., Phys. Rev. B 84, 033402 (2011) [RPA/DMC benchmarks]",
+        "content_hash": "84522cca6ed4d556634cf71efbfba433fab90fe105dbc5ca290567bab7c2ec5f",
+        "id": "gcn_cf8bdaceee4a4583",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813265631225839617::P4",
+            "package_id": "paper:813265631225839617",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813265631225839617"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The \"improved random-phase approximation\" (RPA+) estimate of the exchange-correlation surface energy for the three-dimensional half-infinite jellium model is defined as follows: consider the jellium model consisting of electrons moving in a uniform positive background charge density \\overline{n} for z ≤ 0 and zero background for z > 0, with bulk-density parameter r_s = [3/(4π\\overline{n})]^{1/3}; the RPA+ surface exchange-correlation energy σ_xc^{RPA+} is the value obtained by applying the improved random-phase-approximation many-body evaluation of the exchange-correlation energy per particle integrated over the self-consistent jellium electron density n(z), and σ_xc^{RPA+} computed in this way is treated as an effective, high-accuracy benchmark value for comparing other functionals' jellium surface energies in the range 2.00 ≤ r_s ≤ 5.00.\n      23",
+        "content_hash": "c3e320cdbe903f4f5c8e3dfa25d937bc83dbddc986875ec0dc2d5a533e6e62a9",
+        "id": "gcn_39f23db529f04bef",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812084825392414721::P1",
+            "package_id": "paper:812084825392414721",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812084825392414721"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The benchmark electronic‑structure protocol used to obtain reference adsorption energies is defined as the composite calculation that (i) evaluates the exact (Hartree–Fock) exchange energy (EXX) of the periodic slab by computing Hartree–Fock exchange matrix elements using Kohn–Sham orbitals obtained from a self‑consistent Perdew–Burke–Ernzerhof (PBE) generalized‑gradient approximation calculation, (ii) evaluates the singles‑excitation correlation correction (RSE), defined as the difference in correlation energy arising from single excitations evaluated on the same PBE orbitals following the singles formalism, and (iii) evaluates the random‑phase‑approximation (RPA) correlation energy on the same PBE Kohn–Sham orbitals; the total electronic energy in this composite protocol is taken as the sum of the EXX contribution, the RSE correction, the RPA correlation contribution, and the remaining mean‑field DFT energy terms as implemented in the VASP RPA workflow. The proposition asserted for benchmarking is that this combined EXX+RSE@PBE + RPA@PBE composite calculation provides adsorption energies for a single water molecule on two‑dimensional transition‑metal dichalcogenide (TMD) monolayer surfaces that are sufficiently accurate to serve as a practical reference for evaluating the performance of density‑functional approximations in the present adsorption problems; this practicality excludes consideration of alternative high‑level methods such as CCSD(T) or diffusion Monte Carlo for these system sizes and asserts the pragmatic adequacy of the EXX+RSE@PBE + RPA@PBE protocol for the monomer adsorption benchmarks reported here.",
+        "content_hash": "861eeca5e985e03086539e4dbf08f9b35f94a3f1a5a23e4401bf3f12e355ba93",
+        "id": "gcn_2c3d5014d6c44139",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:966947807309070338::P1",
+            "package_id": "paper:966947807309070338",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:966947807309070338"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "aa026569af6a0145a195c4481f8e411d"
+}

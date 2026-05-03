@@ -1,0 +1,520 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811065481686417409": {
+        "area": "Chemistry",
+        "authors": "Fatemeh Borji | Ali Nakhaei Pour | Javad Karimi | Mohammad Izadyar | Zahra Keyvanloo | Mohamadreza Hashemian",
+        "available_online": "2017-2-1",
+        "cover_date_start": "2017-02-01",
+        "created_at": "2022-12-17T18:44:41+08:00",
+        "doi": "10.3184/146867816x14799161258479",
+        "en_title": "The Molecular Adsorption of Carbon Monoxide on Cobalt Surfaces: A Dft Study",
+        "id": "811065481686417409",
+        "keywords": "",
+        "publication_date": "2017-2",
+        "publication_id": "3707",
+        "publication_name": "Progress in Reaction Kinetics and Mechanism _ Progress in Reaction Kinetics and Mechanism",
+        "research_categories": "",
+        "zh_title": "一氧化碳在钴表面的分子吸附：一项密度泛函理论（DFT）研究"
+      },
+      "paper:811079011500294145": {
+        "area": "Geoscience",
+        "authors": "K.H. Huang",
+        "available_online": "",
+        "cover_date_start": "1991-01-01",
+        "created_at": "2022-12-17T19:38:27+08:00",
+        "doi": "10.1016/0304-5102(91)85130-t",
+        "en_title": "Transition metal bonding functions and their applications in catalytic adsorptions and reactions",
+        "id": "811079011500294145",
+        "keywords": "",
+        "publication_date": "1991-1",
+        "publication_id": "12828",
+        "publication_name": "Journal of Molecular Catalysis _ Journal of Molecular Catalysis",
+        "research_categories": "",
+        "zh_title": "过渡金属键合函数及其在催化吸附和反应中的应用"
+      },
+      "paper:811147829224407041": {
+        "area": "Engineering Technology",
+        "authors": "Hong Zhong | Liangying Wen | Jianlong Li | Jian Xu | Meilong Hu | Zhongqing Yang",
+        "available_online": "",
+        "cover_date_start": "2016-12-01",
+        "created_at": "2022-12-18T00:11:54+08:00",
+        "doi": "10.1016/j.powtec.2016.09.017",
+        "en_title": "The adsorption behaviors of CO and H2 on FeO surface: A density functional theory study",
+        "id": "811147829224407041",
+        "keywords": "[{\"en_name\": \"CO\", \"ch_name\": \"\"}, {\"en_name\": \"Density functional theory\", \"ch_name\": \"\"}, {\"en_name\": \"Energy barrier\", \"ch_name\": \"\"}, {\"en_name\": \"FeO surface\", \"ch_name\": \"\"}, {\"en_name\": \"H<sub>2</sub>\", \"ch_name\": \"\"}]",
+        "publication_date": "2016-12",
+        "publication_id": "3887",
+        "publication_name": "Powder Technology _ Powder Technology",
+        "research_categories": "",
+        "zh_title": "CO和H₂在FeO表面的吸附行为：一项密度泛函理论研究"
+      },
+      "paper:811258604270125056": {
+        "area": "Geoscience",
+        "authors": "Ted H. Yu | Randy Torres | Boris V. Merinov | William A. Goddard",
+        "available_online": "",
+        "cover_date_start": "2016-11-01",
+        "created_at": "2022-12-18T07:32:03+08:00",
+        "doi": "10.1016/j.molcata.2016.07.008",
+        "en_title": "Elucidating challenges of reactions with correlated reactant and product binding energies on an example of oxygen reduction reaction",
+        "id": "811258604270125056",
+        "keywords": "",
+        "publication_date": "2016-11",
+        "publication_id": "12728",
+        "publication_name": "Journal of Molecular Catalysis A: Chemical _ Journal of Molecular Catalysis A: Chemical",
+        "research_categories": "",
+        "zh_title": "以氧还原反应为例阐明具有相关反应物和产物结合能的反应的挑战 "
+      },
+      "paper:811768037458837505": {
+        "area": "Engineering Technology",
+        "authors": "Mauricio Garza Castañón | S. Velumani | Oxana Vasilievna Kharissova | Marco A. Jiménez | Arunachala M. Kannan",
+        "available_online": "2011-5-6",
+        "cover_date_start": "2011-05-06",
+        "created_at": "2022-12-19T17:16:22+08:00",
+        "doi": "10.1002/er.1714",
+        "en_title": "CO adsorption in PdxCoyXz (X = Au, Mo, Ni) tertiary alloy nanocatalysts for PEM fuel cells-a theoretical analysis",
+        "id": "811768037458837505",
+        "keywords": "",
+        "publication_date": "2011-6-10",
+        "publication_id": "4185",
+        "publication_name": "International Journal of Energy Research _ Int. J. Energy Res.",
+        "research_categories": "[\"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "PEM 燃料电池用 PdxCoyXz (X = Au, Mo, Ni) 三元合金纳米催化剂对 CO 的吸附——理论分析"
+      },
+      "paper:812034311745175553": {
+        "area": "Chemistry",
+        "authors": "W. Liu | Y. F. Zhu | J. S. Lian | Q. Jiang",
+        "available_online": "2006-12-8",
+        "cover_date_start": "2006-12-08",
+        "created_at": "2022-12-20T10:54:27+08:00",
+        "doi": "10.1021/jp0661488",
+        "en_title": "Adsorption of CO on Surfaces of 4d and 5d Elements in Group VIII",
+        "id": "812034311745175553",
+        "keywords": "",
+        "publication_date": "2007-1-1",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "CO在第VIII族4d和5d元素表面的吸附"
+      },
+      "paper:812313507994271744": {
+        "area": "Engineering Technology",
+        "authors": "P Murugan | R V Belosludov | H Mizuseki | T Nishimatsu | T Fukumura | M Kawasaki | Y Kawazoe",
+        "available_online": "2004-12-18",
+        "cover_date_start": "2004-12-18",
+        "created_at": "2022-12-21T05:23:53+08:00",
+        "doi": "10.1088/0957-0233/16/1/032",
+        "en_title": "TiO 2 (rutile) doped with double impurities for fabricating spintronic devices—a combinatorial computational approach",
+        "id": "812313507994271744",
+        "keywords": "",
+        "publication_date": "2005-1-1",
+        "publication_id": "4239",
+        "publication_name": "Measurement Science and Technology _ Meas. Sci. Technol.",
+        "research_categories": "",
+        "zh_title": "用于制造自旋电子器件的双杂质掺杂二氧化钛（金红石型）——一种组合计算方法"
+      },
+      "paper:812331422277697536": {
+        "area": "Material science",
+        "authors": "Chiho Kim | Yong-Chae Chung",
+        "available_online": "",
+        "cover_date_start": "2005-02-01",
+        "created_at": "2022-12-21T06:35:04+08:00",
+        "doi": "10.1016/j.jmmm.2004.09.099",
+        "en_title": "Atomistic behaviors of Co adatom on Al (001) surface: first-principle approach",
+        "id": "812331422277697536",
+        "keywords": "[{\"en_name\": \"Co/Al (0 0 1)\", \"ch_name\": \"\"}, {\"en_name\": \"Density functional theory calculation\", \"ch_name\": \"\"}, {\"en_name\": \"Incorporation\", \"ch_name\": \"\"}, {\"en_name\": \"Surface diffusion\", \"ch_name\": \"\"}]",
+        "publication_date": "2005-2",
+        "publication_id": "2151",
+        "publication_name": "Journal of Magnetism and Magnetic Materials _ Journal of Magnetism and Magnetic Materials",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "钴吸附原子在铝（001）表面的原子行为：第一性原理方法"
+      },
+      "paper:812594203505721345": {
+        "area": "Material science",
+        "authors": "Cong Wang | Chang-Yan Zhu | Min Zhang | Yun Geng | Yang-Guang Li | Zhong-Min Su",
+        "available_online": "2020",
+        "cover_date_start": "2020-01-01",
+        "created_at": "2022-12-21T23:59:16+08:00",
+        "doi": "10.1039/d0ta04993j",
+        "en_title": "An intriguing window opened by a metallic two-dimensional Lindqvist-cobaltporphyrin organic framework as an electrochemical catalyst for the CO 2 reduction reaction",
+        "id": "812594203505721345",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ J. Mater. Chem. A",
+        "research_categories": "",
+        "zh_title": "一种由金属二维Lindqvist-钴卟啉有机框架打开的有趣窗口，作为二氧化碳还原反应的电化学催化剂"
+      },
+      "paper:812776712759672833": {
+        "area": "Chemistry",
+        "authors": "Priyanka Garg | Akhil S. Nair | Kuber Singh Rawat | Biswarup Pathak",
+        "available_online": "2019-5-9",
+        "cover_date_start": "2019-05-09",
+        "created_at": "2022-12-22T12:04:28+08:00",
+        "doi": "10.1021/acs.jpcc.9b01589",
+        "en_title": "Computational Screening of Electrocatalytic Activity of Transition Metal-Doped CdS Nanotubes for Water Splitting",
+        "id": "812776712759672833",
+        "keywords": "",
+        "publication_date": "2019-6-6",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Engineering\", \"Materials Engineering\", \"Nanotechnology\"]",
+        "zh_title": "过渡金属掺杂硫化镉纳米管用于水分解的电催化活性的计算筛选"
+      },
+      "paper:813043396485578752": {
+        "area": "Material science",
+        "authors": "Evans A. Monyoncho | Stephan N. Steinmann | Philippe Sautet | Elena A. Baranova | Carine Michel",
+        "available_online": "",
+        "cover_date_start": "2018-06-01",
+        "created_at": "2022-12-23T05:44:11+08:00",
+        "doi": "10.1016/j.electacta.2018.04.102",
+        "en_title": "Computational screening for selective catalysts: Cleaving the C C bond during ethanol electro-oxidation reaction",
+        "id": "813043396485578752",
+        "keywords": "[{\"en_name\": \"Catalyst design\", \"ch_name\": \"\"}, {\"en_name\": \"DFT\", \"ch_name\": \"\"}, {\"en_name\": \"Ethanol electro-oxidation\", \"ch_name\": \"\"}, {\"en_name\": \"Reaction energies\", \"ch_name\": \"\"}, {\"en_name\": \"Transition metals\", \"ch_name\": \"\"}]",
+        "publication_date": "2018-6",
+        "publication_id": "2102",
+        "publication_name": "Electrochimica Acta _ Electrochimica Acta",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Engineering\"]",
+        "zh_title": "选择性催化剂的计算筛选：乙醇电氧化反应中碳 - 碳键的断裂"
+      },
+      "paper:813105777450418178": {
+        "area": "Material science",
+        "authors": "Jinxia Liang | Qi Yu | Xiaofeng Yang | Tao Zhang | Jun Li",
+        "available_online": "2018-2-2",
+        "cover_date_start": "2018-02-02",
+        "created_at": "2022-12-23T09:52:04+08:00",
+        "doi": "10.1007/s12274-017-1775-0",
+        "en_title": "A systematic theoretical study on FeOx-supported single-atom catalysts: M1/FeOx for CO oxidation",
+        "id": "813105777450418178",
+        "keywords": "[{\"en_name\": \"density functional theory\", \"ch_name\": \"\"}, {\"en_name\": \"heterogeneous catalysis\", \"ch_name\": \"\"}, {\"en_name\": \"M<sub>1</sub>/FeO<sub>x</sub>\", \"ch_name\": \"\"}, {\"en_name\": \"single-atom catalyst\", \"ch_name\": \"\"}]",
+        "publication_date": "2018-3",
+        "publication_id": "2050",
+        "publication_name": "Nano Research _ Nano Res.",
+        "research_categories": "[\"Chemical Sciences\", \"Inorganic Chemistry\"]",
+        "zh_title": "关于FeOx负载单原子催化剂的系统理论研究：用于CO氧化的M1/FeOx"
+      },
+      "paper:813348396109660161": {
+        "area": "Chemistry",
+        "authors": "Štěpán Pick",
+        "available_online": "",
+        "cover_date_start": "2012-04-01",
+        "created_at": "2022-12-24T01:56:10+08:00",
+        "doi": "10.1016/j.susc.2011.12.001",
+        "en_title": "Density-functional study of the compressed (2√3×2√3)R30°-CO overlayer on the ferromagnetic Co(0001) surface",
+        "id": "813348396109660161",
+        "keywords": "",
+        "publication_date": "2012-4",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "铁磁 Co(0001) 表面上压缩的(2√3×2√3)R30°-CO 覆盖层的密度泛函研究"
+      },
+      "paper:823144123987918848": {
+        "area": "Chemistry",
+        "authors": "Elisabeth M. Dietze | Henrik Grönbeck",
+        "available_online": "",
+        "cover_date_start": "2023-01-20",
+        "created_at": "2023-01-20T02:40:54+08:00",
+        "doi": "10.1021/acs.jctc.2c01005",
+        "en_title": "Ensemble Effects in Adsorbate-Adsorbate Interactions in Microkinetic Modeling",
+        "id": "823144123987918848",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3358",
+        "publication_name": "Journal of Chemical Theory and Computation _ ",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "微动力学建模中吸附质-吸附质相互作用的集合效应"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the calculation of adsorption energies and activation barriers for CO oxidation on single-atom catalysts consisting of one transition-metal atom M (M = Fe, Co, Ni, Cu; Ru, Rh, Pd, Ag; Os, Ir, Pt, Au) substituting a surface Fe site on an O3-terminated α-Fe2O3(0001) periodic slab, the Kohn–Sham DFT protocol used here employs the Perdew–Burke–Ernzerhof (PBE) generalized gradient approximation exchange–correlation functional, projector augmented-wave (PAW) pseudopotentials (including mass–velocity and Darwin relativistic corrections but omitting explicit spin–orbit coupling), a plane-wave kinetic-energy cutoff of 400 eV, a 3×3×1 Monkhorst–Pack sampling grid of the surface Brillouin zone, and a DFT+U correction with parameters U = 4 eV and J = 1 eV applied for iron and other strongly correlated 3d metals; the systematic errors of adsorption energies and transition-state barriers arising from this protocol are asserted to be small enough (typical per-barrier uncertainty of order 0.1–0.3 eV) and to lack a consistent bias across the different M values such that the computed ordering (ranking) of the largest cycle barriers (the rate-determining steps) across the twelve metals is reliable for grouping metals into low-barrier versus high-barrier categories under the same modelling conditions.",
+        "content_hash": "301147e7bae3fdc4a1f55bf1853c99af672179a27164e3cf70e96563ae107eb7",
+        "id": "gcn_672c8eb10ce44b73",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813105777450418178::P1",
+            "package_id": "paper:813105777450418178",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813105777450418178"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028782894736842105,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For carbon monoxide (CO) adsorption on the most favorable close-packed adsorption sites of the group‑VIII 4d/5d metal surfaces Ru(0001), Rh(111), Pd(111), Os(0001), Ir(111), and Pt(111), density functional theory (DFT) total‑energy calculations performed with the Dmol3 code using the revised Perdew–Burke–Ernzerhof generalized‑gradient exchange‑correlation functional (RPBE) and an all‑electron relativistic (AER) core treatment, a uniform (2×2) surface unit cell, a four‑layer slab with the upper two layers relaxed, and the adsorption energy defined as E = E_t − (E_slab + E_CO) yield a set of computed adsorption energies (denoted E1) whose numerical values order the adsorption strengths as Pd > Pt > Rh > Ru > Os > Ir.",
+        "content_hash": "6ea08fb302851d078909b460494ac2a7252bf7bf6d444d514c20ce6163515bbf",
+        "id": "gcn_52fcedda87c64878",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812034311745175553::conclusion_1",
+            "package_id": "paper:812034311745175553",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812034311745175553"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02724014336917563,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Mason / Abild‑Pedersen linear adsorption‑energy correction $\\Delta E = A - B\\cdot \\nu$ (with the slope parameter $B=0.0008\\ \\mathrm{eV\\cdot cm}$ adopted from the literature and $A$ fitted for the PBE functional) is applied to the computed DFT CO stretching frequencies for the densely packed $(2\\sqrt{3}\\times2\\sqrt{3})R30^\\circ$ CO overlayer on Co(0001); under the assumption of transferability of this empirical form to the present compressed overlayer, application of the correction reduces absolute adsorption energies while leaving small relative energy differences and the ordering (A lower than H/F) essentially unchanged.\n      Equations (1) and (2) and discussion in Sec. 2 and Sec. 3",
+        "content_hash": "12256c6082be97034c9438343e6db069f4b3ba62f792aa798ce93f18f4da941e",
+        "id": "gcn_f91a8f8303904ff5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813348396109660161::P11",
+            "package_id": "paper:813348396109660161",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813348396109660161"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02542892156862745,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computed per‑metal scalar bonding parameters for the Group‑VIII metals, evaluated in the present calculations and reported here as scaled numerical point values, are (all scalings shown explicitly): $A\\times10^{2}$ = Fe 11.47; Co 14.19; Ni 15.99; Ru 2.995; Rh 2.147; Pd 4.153; Os 3.983; Ir 3.321; Pt 5.001. $A_{s}\\times10^{2}$ = Fe 11.36; Co 13.92; Ni 15.51; Ru 2.471; Rh 1.575; Pd 4.360; Os 3.307; Ir 2.791; Pt 4.089. $B\\times10^{2}$ = Fe 2.895; Co 2.121; Ni 1.539; Ru 13.92; Rh 8.913; Pd 5.935; Os 15.68; Ir 12.19; Pt 9.807. $B_{s}\\times10^{2}$ = Fe 2.708; Co 1.976; Ni 1.430; Ru 10.14; Rh 8.307; Pd 5.516; Os 15.10; Ir 11.35; Pt 9.128. The derived single‑site products are $AB\\times10^{4}$ = Fe 33.19; Co 30.10; Ni 24.61; Ru 41.69; Rh 19.14; Pd 24.65; Os 62.47; Ir 39.94; Pt 49.05, and $A_{s}B_{s}\\times10^{4}$ = Fe 30.75; Co 27.51; Ni 22.18; Ru 25.05; Rh 13.08; Pd 24.05; Os 49.94; Ir 31.69; Pt 37.32. These numerical scalars quantify, on the chosen idealized surface models and within the computational prescription used to obtain overlaps and energy denominators, the relative capacities of the Group‑VIII metals to accept CO lone‑pair density (via $A$, $A_{s}$) and to back‑donate into CO antibonding orbitals (via $B$, $B_{s}$) for end‑on and side‑on contacts.",
+        "content_hash": "164f50231313b4058aaac6344cd61a6eb2db582cdbcb7823d2287f5f7656dd0e",
+        "id": "gcn_143b83513dc148ca",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811079011500294145::conclusion_4",
+            "package_id": "paper:811079011500294145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811079011500294145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For CO adsorption on the close‑packed surfaces of the group‑VIII 4d/5d metals Ru, Rh, Pd, Os, Ir, and Pt, the adsorption energy is defined as E = E_t − (E_slab + E_CO), where E_t is the total energy of the relaxed combined slab‑plus‑CO system, E_slab is the total energy of the isolated clean slab (in the same atomic geometry), and E_CO is the total energy of the isolated CO molecule; these energies were computed with the Dmol3 implementation of density functional theory using the revised Perdew–Burke–Ernzerhof generalized‑gradient approximation (RPBE), an all‑electron relativistic (AER) core treatment, a uniform (2×2) surface unit cell, a four‑layer slab with a vacuum region of 12 Å, a 5×5×1 k‑point mesh, relaxation of the upper two slab layers, and convergence tolerances energy 2.0×10^−5 Ha (1 Ha = 27.2114 eV), maximum force 0.004 Ha/Å, and maximum displacement 0.005 Å; the resulting set of computed adsorption energies (denoted E1) for the six metals is on average approximately 5.02% lower than the assembled literature experimental adsorption energies (denoted E5) used as reference in the comparison.\n      W. Liu et al., J. Phys. Chem. C (2006) (Table 1)",
+        "content_hash": "cbb13a107399ab3ae2398f03edbf71260f2bab8c30fb1de29eb4e6129dc2ffd1",
+        "id": "gcn_0e4c37660feb4e76",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812034311745175553::P1",
+            "package_id": "paper:812034311745175553",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812034311745175553"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The linear relation between the computed adsorption energy of acetyl (CH$_3$CO) in a C-bound on-top geometry and the adsorption energy of atomic C was obtained by fitting DFT adsorption energies computed for twelve pure transition-metal surfaces (Re, Ru, Os, Co, Rh, Ir, Ni, Pd, Pt, Cu, Ag, Au) using the authors' DFT protocol (VASP with the PBE functional, PAW potentials, 400 eV cutoff, 7x7x1 Monkhorst-Pack $k$-point mesh, slab models), producing $ \\Delta E(\\mathrm{CH}_3\\mathrm{CO}) = 0.40\\,\\Delta E_C + 3.31\\ \\text{eV}$ with a mean absolute error of $0.10\\,$eV; this fit therefore rests on a relatively small sample (N = 12) drawn from pure-element facets and does not include alloys, oxide terminations, alternative facets, or different surface coverage states in the training set.\n      Fig. 3",
+        "content_hash": "6079b9e8c45dcb8ee4d6f1ebdff86fdd6288b94ad92de3f81c5b030b77045eea",
+        "id": "gcn_889e2f3639f742dc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813043396485578752::P1",
+            "package_id": "paper:813043396485578752",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813043396485578752"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The total energy of an isolated cobalt atom, denoted E_{Co} in the adsorption-energy expression E_ad = -E_{Co/Al} + E_{Al} + E_{Co}, is assumed to have been computed within the same plane-wave density-functional-theory framework (using the same LDA exchange-correlation functional, the same type of ultrasoft pseudopotential for Co, and consistent cell and sampling corrections) so that E_{Co} constitutes a numerically consistent reference energy for adsorption-energy comparisons between different surface sites and does not introduce uncontrolled systematic offsets in the reported adsorption energies.",
+        "content_hash": "02932509c437c26764f19c73af304543544c6b0c87d1abdf1dd4003c6b4160df",
+        "id": "gcn_7c1e697612ca4b66",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812331422277697536::P3",
+            "package_id": "paper:812331422277697536",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812331422277697536"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "On the screened series of periodic 2D TM‑PMOF models the most stable adsorption site for a single CO molecule is directly atop the central transition‑metal atom of the porphyrin, forming a TM–C bond, and the computed CO adsorption energies $E_{ads}^{CO}$ (single‑molecule adsorption energies in eV evaluated as total‑energy differences at relaxed geometries in vacuum periodic boundary conditions) are: Ru $-2.66\\ \\mathrm{eV}$, Os $-2.82\\ \\mathrm{eV}$ (very strong binding); Fe $-1.42\\ \\mathrm{eV}$, Co $-1.16\\ \\mathrm{eV}$, Ir $-1.24\\ \\mathrm{eV}$, Rh $-1.03\\ \\mathrm{eV}$ (moderate binding conducive to further hydrogenation); and Ni $-0.05\\ \\mathrm{eV}$, Pd $-0.05\\ \\mathrm{eV}$, Cu $-0.12\\ \\mathrm{eV}$, Pt $-0.13\\ \\mathrm{eV}$, Zn $-0.20\\ \\mathrm{eV}$ (very weak binding favoring CO desorption). From these computed adsorption energies the TM‑PMOFs segregate into three operational groups for electrochemical CO$_2$ reduction: (i) very strong CO binders (Ru, Os) that are likely to retain CO as a site‑blocking intermediate (CO poisoning), (ii) moderate CO binders (Fe, Co, Ir, Rh) whose CO adsorption strengths are compatible with further hydrogenation of surface *CO toward deeper reduced products, and (iii) weak CO binders (Ni, Pd, Cu, Pt, Zn) whose CO adsorption strengths favor facile desorption of CO as the dominant product.",
+        "content_hash": "3e7e4ebc4a18adb280b4580e35af1a5ab59a1d3e7bd5a224acaf05261d13909e",
+        "id": "gcn_e9e4cd9f4e6744fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812594203505721345::conclusion_2",
+            "package_id": "paper:812594203505721345",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812594203505721345"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The FeO(100) calculations that yield a perpendicular CO molecule bound at a surface Fe top site with a C-Fe bond length of 1.885 Å, an adsorbed C-O bond length of 1.167 Å, and an adsorption energy $E_{ad}=0.81$ eV were performed in CASTEP with ultrasoft pseudopotentials, the generalized gradient approximation in the Perdew-Burke-Ernzerhof form, and no on-site $+U$ correction for Fe 3d states. Because omission of $+U$ can change Fe 3d localization, band positions, and adsorption energetics on iron-oxide surfaces, the computed adsorption energy and partial-density-of-states features for CO on FeO(100) can shift under alternative treatments of strong correlation.Fig.3b; Fig.4",
+        "content_hash": "d0d6c5509b7146f5df45c25bbd98ecb85042e55627dfd30048fec4f81331b03d",
+        "id": "gcn_c55a5e1d3b574030",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811147829224407041::P1",
+            "package_id": "paper:811147829224407041",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811147829224407041"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "We assume the pure-metal reference linear relation\n      $BE_{OH}=0.667\\cdot BE_O - 8.17\\times 10^{-4}\\ \\text{eV}$,\n      where $BE_O$ is the adsorption binding energy (in eV) of an atomic oxygen adsorbate on a pure metal surface and $BE_{OH}$ is the adsorption binding energy (in eV) of a hydroxyl adsorbate on the same pure metal surface, derived from prior DFT binding-energy calculations on twelve pure metals (Fe, Co, Ni, Cu, Ru, Rh, Pd, Ag, Os, Ir, Pt, Au), provides a physically appropriate baseline for measuring perpendicular departures of Pt–M–Pt sandwich catalysts in the $(BE_O,BE_{OH})$ plane across the 28-element Pt–M–Pt dataset.\n      [2]",
+        "content_hash": "436e92a037737bda1c3ea7b2072dab36521e0db0bcde40ba7ed1264bcae71762",
+        "id": "gcn_01477b5d315548ba",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811258604270125056::P1",
+            "package_id": "paper:811258604270125056",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811258604270125056"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The numeric entries reported in the paper for the change in chemisorption energy per CO molecule—specifically the values −587 eV for Pd‑Co‑Au and −596.52 eV for Pd‑Co‑Ni as printed in the paper's results—are assumed to be correctly reported as physical adsorption energies per CO in units of electronvolts and not to contain typographical errors (for example, missing decimal points), omitted normalization by the number of adsorbates in the supercell, or other unit‑scaling mistakes that would change their order‑of‑magnitude interpretation.",
+        "content_hash": "021df39a827dd3434cb5103a20262e6d6db5be19ced09671daef20db437cb22f",
+        "id": "gcn_94ecac109c0d4d4b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811768037458837505::P9",
+            "package_id": "paper:811768037458837505",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811768037458837505"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "All total-energy and structural-relaxation calculations used spin-polarized Kohn–Sham density functional theory with the Perdew–Burke–Ernzerhof generalized-gradient-approximation exchange–correlation functional (PBE-GGA), the projector-augmented wave (PAW) method for core-valence partitioning, and a plane-wave kinetic-energy cutoff of $470\\ \\mathrm{eV}$; within this computational setup the relative formation energies between the considered late transition-metal cadmium-substitutional dopants (Fe, Co, Ni, Cu, Ru, Rh, Pd, Ag, Os, Ir, Pt, Au) are treated as sufficiently accurate to establish a thermodynamic stability ranking at the modeled $2.7\\%$ concentration without inclusion of beyond-GGA corrections (such as DFT+$U$, hybrid functionals, or many-body perturbation methods) or additional empirical energy corrections.",
+        "content_hash": "f8299f98934466179f49409c6e5f9c0fb9e92098fd7beaafaf8a8b8eceb7ae64",
+        "id": "gcn_55a1add7c99d412e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812776712759672833::P2",
+            "package_id": "paper:812776712759672833",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812776712759672833"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the present set of spin-polarized DFT-GGA calculations for transition-metal impurities Cr, Mn, Fe, Co, Ni, Mo, Ru, W, Re and Os substituting Ti in rutile TiO2 at the 12.5% concentration model (Ti14M1M2O32) no explicit on-site Hubbard U correction (DFT+U) was applied to the transition-metal d orbitals; within the scope of the reported results the omission of an explicit U term is taken to indicate that the qualitative oxidation-state assignments from integrated projected d occupancies, the computed local magnetic moments, the signs of impurity–impurity exchange inferred from energy comparisons of collinear initializations and the presence or absence of apparent half-metallic features in the calculated spin-resolved DOS are those produced by plain spin-polarized GGA calculations without on-site U.",
+        "content_hash": "e47e9c705cc6eff4eda9f720efa1721fd375f5d6f48592bc6c7c9a584408dbdf",
+        "id": "gcn_6c0ad0ac1d834b53",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812313507994271744::P9",
+            "package_id": "paper:812313507994271744",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812313507994271744"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The interaction-parameter fits ($V_{\\mathrm{gas}},V_{\\mathrm{metal}}$) are based on adsorption energies computed with periodic DFT using the PBE exchange–correlation functional, with a plane-wave cutoff energy of $450\\ \\mathrm{eV}$, four-layer surface slabs (with the two bottom layers fixed to bulk positions), at least $10\\ \\mathrm{\\AA}$ of vacuum in the $z$-direction, convergence criteria of forces below $0.01\\ \\mathrm{eV/\\AA}$ and electronic energy differences below $10^{-7}\\ \\mathrm{eV}$, and $k$-point sampling densities as reported in the Supporting Information; to compensate known PBE errors in CO adsorption the computed adsorption energies were corrected a posteriori by the C–O stretch dependent correction\n      $$\n      \\Delta E_{\\mathrm{c}}(\\omega_{\\mathrm{CO}})\\ (\\mathrm{eV}) = 1.92 - 0.0008\\,\\omega_{\\mathrm{CO}}\\ (\\mathrm{cm}^{-1}),\n      $$\n      and the interaction parametrization relies on these corrected adsorption energies and the stated DFT slab settings.\n      Refs. 7,8,9 (Abild-Pedersen & Andersson; Feibelman et al.; Patra et al.)",
+        "content_hash": "6a0c3e7167a80c541ffe8e5cddaa405a8fca26c065a2cf1b3d6614eafd1a58ab",
+        "id": "gcn_e344890e6cd242c1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:823144123987918848::P3",
+            "package_id": "paper:823144123987918848",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:823144123987918848"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The molecular adsorption energy for a carbon monoxide (CO) molecule on a periodic cobalt surface slab is defined as $E_{\\mathrm{ads}} = E_{\\mathrm{CO/Co\\ slab}} - E_{\\mathrm{Co\\ slab}} - E_{\\mathrm{CO}}$, where $E_{\\mathrm{CO/Co\\ slab}}$ is the converged Kohn–Sham total energy of the periodic slab model with a chemisorbed CO molecule, $E_{\\mathrm{Co\\ slab}}$ is the converged Kohn–Sham total energy of the corresponding clean periodic cobalt slab, and $E_{\\mathrm{CO}}$ is the converged Kohn–Sham total energy of an isolated gas-phase CO molecule computed in a sufficiently large periodic unit cell.",
+        "content_hash": "b28ae26e06a01d059885b75a0e85e72b12eff1c58b0a841bd571e8c92bc3a5cb",
+        "id": "gcn_035b4aba8979446a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811065481686417409::conclusion_1",
+            "package_id": "paper:811065481686417409",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811065481686417409"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.014705882352941176,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "5956e003706e75747443c8f055827c15"
+}

@@ -1,0 +1,415 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1154390142069243928": {
+        "area": "arXiv-Physics",
+        "authors": "Ziqi Wang | Hongshuo Huang | Hancheng Zhao | Changwen Xu | Shang Zhu | Jan Janssen | Venkatasubramanian Viswanathan",
+        "available_online": "",
+        "cover_date_start": "2025-07-18",
+        "created_at": "2025-07-22T04:14:17+08:00",
+        "doi": "10.48550/arxiv.2507.14267",
+        "en_title": "DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation",
+        "id": "1154390142069243928",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Artificial Intelligence",
+        "research_categories": "",
+        "zh_title": "梦想：基于密度泛函理论的智能材料模拟研究引擎 "
+      },
+      "paper:811105631078449155": {
+        "area": "Material science",
+        "authors": "John W. F. To | Jia Wei Desmond Ng | Samira Siahrostami | Ai Leen Koh | Yangjin Lee | Zhihua Chen | Kara D. Fong | Shucheng Chen | Jiajun He | Won-Gyu Bae | Jennifer Wilcox | Hu Young Jeong | Kwanpyo Kim | Felix Studt | Jens K. Nørskov | Thomas F. Jaramillo | Zhenan Bao",
+        "available_online": "2016-11-30",
+        "cover_date_start": "2016-11-30",
+        "created_at": "2022-12-17T21:24:13+08:00",
+        "doi": "10.1007/s12274-016-1347-8",
+        "en_title": "High-performance oxygen reduction and evolution carbon catalysis: From mechanistic studies to device integration",
+        "id": "811105631078449155",
+        "keywords": "[{\"ch_name\":\"密度泛函理论\",\"en_name\":\"density functional theory\"},{\"ch_name\":\"电催化\",\"en_name\":\"electrocatalysis\"},{\"ch_name\":\"多孔碳\",\"en_name\":\"porous carbon\"}]",
+        "publication_date": "2017-4",
+        "publication_id": "2050",
+        "publication_name": "Nano Research _ Nano Res.",
+        "research_categories": "",
+        "zh_title": "高性能氧还原与析氧碳催化：从机理研究到器件集成"
+      },
+      "paper:812666131151060993": {
+        "area": "Chemistry",
+        "authors": "Caitlin Horvatits | Dan Li | Michel Dupuis | Eleni A. Kyriakidou | Eric A. Walker",
+        "available_online": "2020-3-11",
+        "cover_date_start": "2020-03-11",
+        "created_at": "2022-12-22T04:45:06+08:00",
+        "doi": "10.1021/acs.jpcc.0c00849",
+        "en_title": "Ethylene and Water Co-Adsorption on Ag/SSZ-13 Zeolites: A Theoretical Study",
+        "id": "812666131151060993",
+        "keywords": "",
+        "publication_date": "2020-4-2",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "乙烯与水在Ag/SSZ-13沸石上的共吸附：一项理论研究"
+      },
+      "paper:813048568502812672": {
+        "area": "Chemistry",
+        "authors": "Shenjun Zha | Guodong Sun | Tengfang Wu | Jiubing Zhao | Zhi-Jian Zhao | Jinlong Gong",
+        "available_online": "2018",
+        "cover_date_start": "2018-01-01",
+        "created_at": "2022-12-23T06:04:45+08:00",
+        "doi": "10.1039/c8sc00802g",
+        "en_title": "Identification of Pt-based catalysts for propane dehydrogenation via a probability analysis",
+        "id": "813048568502812672",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3353",
+        "publication_name": "Chemical Science _ Chem. Sci.",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "通过概率分析鉴定用于丙烷脱氢的铂基催化剂"
+      },
+      "paper:813134284566036482": {
+        "area": "Comprehensive Periodical",
+        "authors": "Xinyan Liu | Jianping Xiao | Hongjie Peng | Xin Hong | Karen Chan | Jens K. Nørskov",
+        "available_online": "2017-5-22",
+        "cover_date_start": "2017-05-22",
+        "created_at": "2022-12-23T11:45:21+08:00",
+        "doi": "10.1038/ncomms15438",
+        "en_title": "Understanding trends in electrochemical carbon dioxide reduction rates",
+        "id": "813134284566036482",
+        "keywords": "",
+        "publication_date": "2017-8",
+        "publication_id": "10026",
+        "publication_name": "Nature Communications _ Nat Commun",
+        "research_categories": "",
+        "zh_title": "理解电化学二氧化碳还原速率的趋势"
+      },
+      "paper:813301714722488323": {
+        "area": "Physics and Astrophysics",
+        "authors": "Jess Wellendorff | Keld T. Lundgaard | Andreas Møgelhøj | Vivien Petzold | David D. Landis | Jens K. Nørskov | Thomas Bligaard | Karsten W. Jacobsen",
+        "available_online": "2012-6-27",
+        "cover_date_start": "2012-06-27",
+        "created_at": "2022-12-23T22:50:40+08:00",
+        "doi": "10.1103/physrevb.85.235149",
+        "en_title": "Density functionals for surface science: Exchange-correlation model development with Bayesian error estimation",
+        "id": "813301714722488323",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "表面科学中的密度泛函：基于贝叶斯误差估计的交换关联模型开发"
+      },
+      "paper:814560876601278464": {
+        "area": "Chemistry",
+        "authors": "Nuoya Yang | Andrew J. Medford | Xinyan Liu | Felix Studt | Thomas Bligaard | Stacey F. Bent | Jens K. Nørskov",
+        "available_online": "2016-3-9",
+        "cover_date_start": "2016-03-09",
+        "created_at": "2022-12-27T10:14:08+08:00",
+        "doi": "10.1021/jacs.5b12087",
+        "en_title": "Intrinsic Selectivity and Structure Sensitivity of Rhodium Catalysts for C 2+ Oxygenate Production",
+        "id": "814560876601278464",
+        "keywords": "",
+        "publication_date": "2016-3-23",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "铑催化剂用于C2+含氧化合物生产的本征选择性和结构敏感性"
+      },
+      "paper:814599006658232322": {
+        "area": "Material science",
+        "authors": "Jakob Kibsgaard | Charlie Tsai | Karen Chan | Jesse D. Benck | Jens K. Nørskov | Frank Abild-Pedersen | Thomas F. Jaramillo",
+        "available_online": "2015",
+        "cover_date_start": "2015-01-01",
+        "created_at": "2022-12-27T12:45:39+08:00",
+        "doi": "10.1039/c5ee02179k",
+        "en_title": "Designing an improved transition metal phosphide catalyst for hydrogen evolution using experimental and theoretical trends",
+        "id": "814599006658232322",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2013",
+        "publication_name": "Energy and Environmental Science _ Energy Environ. Sci.",
+        "research_categories": "[\"Chemical Sciences\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "利用实验和理论趋势设计一种用于析氢的改进型过渡金属磷化物催化剂"
+      },
+      "paper:814716209382555650": {
+        "area": "Comprehensive Periodical",
+        "authors": "Andrew J. Medford | Jess Wellendorff | Aleksandra Vojvodic | Felix Studt | Frank Abild-Pedersen | Karsten W. Jacobsen | Thomas Bligaard | Jens K. Nørskov",
+        "available_online": "",
+        "cover_date_start": "2014-07-11",
+        "created_at": "2022-12-27T20:31:22+08:00",
+        "doi": "10.1126/science.1253486",
+        "en_title": "Assessing the reliability of calculated catalytic ammonia synthesis rates",
+        "id": "814716209382555650",
+        "keywords": "",
+        "publication_date": "2014-7-11",
+        "publication_id": "7984",
+        "publication_name": "Science _ Science",
+        "research_categories": "",
+        "zh_title": "评估计算得到的催化氨合成速率的可靠性"
+      },
+      "paper:867766444903891869": {
+        "area": "arXiv-Physics",
+        "authors": "Björn Kirchhoff | Aleksei Ivanov | Egill Skúlason | Timo Jacob | Donato Fantauzzi | Hannes Jónsson",
+        "available_online": "",
+        "cover_date_start": "2021-09-08",
+        "created_at": "2023-05-23T05:54:03+08:00",
+        "doi": "10.48550/arXiv.2109.03634",
+        "en_title": "Assessment of the Accuracy of Density Functionals for Calculating Oxygen Reduction Reaction on Nitrogen Doped Graphene",
+        "id": "867766444903891869",
+        "keywords": "",
+        "publication_date": "2021-09-08",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "用于计算氮掺杂石墨烯上氧还原反应的密度泛函准确性评估"
+      },
+      "paper:977532169758966513": {
+        "area": "Comprehensive Periodical",
+        "authors": "Shilong Chen | Jelena Jelic | Denise Rein | Sharif Najafishirtari | Franz-Philipp Schmidt | Frank Girgsdies | Liqun Kang | Aleksandra Wandzilak | Anna Rabe | Dmitry E. Doronkin | Jihao Wang | Klaus Friedel Ortega | Serena DeBeer | Jan-Dierk Grunwaldt | Robert Schlögl | Thomas Lunkenbein | Felix Studt | Malte Behrens",
+        "available_online": "2024-1-29",
+        "cover_date_start": "2024-01-29",
+        "created_at": "2024-03-21T03:24:30+08:00",
+        "doi": "10.1038/s41467-023-44661-6",
+        "en_title": "Highly loaded bimetallic iron-cobalt catalysts for hydrogen release from ammonia",
+        "id": "977532169758966513",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "10026",
+        "publication_name": "Nature Communications _ Nat Commun",
+        "research_categories": "[\"Chemical Sciences\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "用于从氨中释放氢气的高负载双金属铁钴催化剂"
+      }
+    },
+    "variables": [
+      {
+        "content": "The exchange-correlation uncertainty proposition asserts that employing the statistical ensemble of exchange-correlation parameterizations associated with the Bayesian Error Estimation Functional with van der Waals (BEEF-vdW) functional to generate an ensemble of adsorption energies provides an uncertainty estimate that meaningfully quantifies the principal sources of DFT error for chemisorption of OH*, O*, and OOH* on the defective carbon motifs considered; in this statement the \"BEEF-vdW ensemble\" denotes the collection of functionals sampled within the BEEF framework and \"accurate uncertainty quantification\" denotes producing confidence intervals that bound typical deviations between single-point DFT predictions and higher-fidelity theoretical or experimental energetics for these classes of surface-adsorbate systems.",
+        "content_hash": "42dcece156f9083e8dc0700dccb3213f71bdd3ae29cd87055dabbdcf597351b2",
+        "id": "gcn_e41df2cd1f504772",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811105631078449155::P8",
+            "package_id": "paper:811105631078449155",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811105631078449155"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "BEEF-vdW (the Bayesian Error Estimation Functional with van der Waals corrections) is the DFT exchange–correlation functional used to compute electronic energies, adsorption energies, and transition-state energies for Rh(111) and Rh(211) slab models and for the adsorbates/transition states considered (CO*, hydrogenated C_x species, oxygenates); the proposition is that BEEF-vdW yields adsorption and activation energies of sufficient accuracy in absolute and relative senses, and that after ensemble-based uncertainty quantification and chemisorption rescaling the resulting microkinetic trends (relative barrier heights and activity/selectivity ranking between facets) are trustworthy for the qualitative conclusions drawn.",
+        "content_hash": "d27529a61e8196a4772a5cc811d1c91e4fb32202e93e85114c63946c1147a0b4",
+        "id": "gcn_b54c098e61a04a74",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814560876601278464::P13",
+            "package_id": "paper:814560876601278464",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814560876601278464"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0315136476426799,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The BEEF-vdW exchange-correlation error-estimation ensemble is the set of perturbed exchange-correlation parameterizations associated with the BEEF-vdW functional that produce an ensemble of computed total and chemisorption energies for a fixed atomic geometry; the proposition is that multiplying the ensemble energy deviations by a chemisorption rescaling factor of 0.683 yields an ensemble whose variance and covariance structure better reflects the uncertainty and inter-energy correlations of chemisorption energies for the class of adsorbates and Rh surface configurations studied, and that using this rescaled ensemble as stochastic perturbations of adsorption and transition-state energies provides a realistic propagation of exchange-correlation uncertainty to microkinetic observables such as turnover frequencies and selectivities.",
+        "content_hash": "d05164386718b8d878bcaad9b4a5de36affcd55d90ec55e63bb27fbd322b20e5",
+        "id": "gcn_6c4d7451f0c64d6a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814560876601278464::P4",
+            "package_id": "paper:814560876601278464",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814560876601278464"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03036576949620428,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Adsorption and activation energies in the study were computed with the BEEF-vdW exchange–correlation functional and uncertainty estimates were derived from its Bayesian error-estimation ensemble; the proposition is that the BEEF-vdW functional together with the ensemble uncertainties provides a meaningful estimate of systematic and relative errors in adsorption and transition-state energies across the series of transition and noble metals and the sulfide cases so that the reported error bars and inferences about the robustness of trends (such as the transition-state scaling slope, the volcano peak near copper, and facet ordering) are informative and do not substantially underestimate important systematic biases for the comparative conclusions drawn.",
+        "content_hash": "d435e209184cb56ef223beaccead386f85478ea26c3fb370e29a4ff8beb19977",
+        "id": "gcn_3e2f001d1e834711",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813134284566036482::P6",
+            "package_id": "paper:813134284566036482",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813134284566036482"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029083245521601686,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Analysis using the Bayesian error estimation functional BEEF‑vdW with an ensemble of 2000 parametrizations yields a one‑standard‑deviation spread of approximately 0.20 eV for the ΔE binding‑energy difference on the 4×4 graphene model and an ensemble spread for the thermochemical overpotential η_TCM that spans roughly 0.2–1.0 V (ensemble standard deviation ≈ 0.8 V); these results quantify large parametrization‑dependent uncertainty within the GGA functional form for these adsorption problems, while the BEEF‑vdW ensemble does not capture systematic functional‑form errors that are common to all GGA parametrizations (for example, the self‑interaction error).",
+        "content_hash": "2a32c78d0a72acf9ee559a0263bf2a74b73a6a77b107862a1823f6774f9817bd",
+        "id": "gcn_ad94a0ff0aaa4c54",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867766444903891869::conclusion_8",
+            "package_id": "paper:867766444903891869",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867766444903891869"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027820121951219513,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A practical, general procedure to estimate and propagate uncertainty from the density-functional-theory (DFT) exchange-correlation approximation into composite materials properties is as follows: (i) construct an ensemble of exchange-correlation models by sampling parameter vectors $\\boldsymbol{\\alpha}$ around the Bayesian error estimation functional with van der Waals correlation (BEEF-vdW), where each sampled $\\boldsymbol{\\alpha}$ defines a parametrized exchange-correlation functional $E_{\\mathrm{xc}}[\\rho;\\boldsymbol{\\alpha}]$ that maps an electronic density $\\rho$ to an energy; (ii) for each sampled functional evaluate the microscopic energetics required for the target property (for example, adsorption energies and activation energies for surface intermediates and transition states); and (iii) propagate the resulting ensemble of microscopic energetics through the downstream analysis that produces the macroscopic property of interest (for example, a microkinetic model or a descriptor regression) to obtain an ensemble of predicted macroscopic properties. The statistical variance of that ensemble of macroscopic predictions quantifies the uncertainty arising from the modeled exchange-correlation variation: if the ensemble predictions for a scalar quantity are stacked into the vector $\\vec{p}^{\\,i}$ (index $i$ labeling ensemble members) then the reported numerical uncertainty is $\\sigma_{BEE}=\\sqrt{Var(\\vec{p}^{\\,i})}$, where $Var(\\cdot)$ denotes the ensemble variance.",
+        "content_hash": "c92740a98c2d9a1bbb9cabe9bb3ea9eb66d6bf88677f9aafec6242c1b1bdf2db",
+        "id": "gcn_88122b04a11943b7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814716209382555650::conclusion_1",
+            "package_id": "paper:814716209382555650",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814716209382555650"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.026860955056179775,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Bayesian error estimation functional with van der Waals correlation (BEEF‑vdW) procedure generates, after a single self‑consistent DFT calculation using the BEEF‑vdW base functional, a finite ensemble of N = 2000 alternative exchange‑correlation functional parameterizations whose distribution of predicted adsorption and activation Gibbs free energies is taken as an estimate of exchange‑correlation‑driven uncertainty; for the specific computational protocol used here (plane‑wave DFT with projector‑augmented wave pseudopotentials, plane‑wave cutoff energy 400 eV, four‑layer slab models with the top two layers relaxed, Monkhorst–Pack k‑point sampling as specified for each slab, Methfessel–Paxton electronic smearing 0.15 eV with total energies extrapolated to zero broadening, harmonic vibrational free‑energy corrections, and ab initio transition‑state methods such as climbing image nudged elastic band or the dimer method) the standard deviation of adsorption and barrier Gibbs free energies computed across the BEEF‑vdW N = 2000 ensemble is taken to represent the dominant component of the uncertainty in the predicted surface energetics for Pt–In and related Pt3X alloy surfaces under these modelling approximations, such that other possible systematic effects (for example: inadequacy of the base functional form beyond the ensemble variations, finite slab thickness, k‑point sampling errors, neglected anharmonic vibrational contributions, spin polarization effects, charged surface effects, or surface reconstructions not captured by the chosen slab geometries) are assumed not to introduce comparable or larger unaccounted‑for errors for the purpose of the probability analysis.\n      J. Wellendorff et al., Phys. Rev. B, 2012, 85, 235149; A. J. Medford et al., Science, 2014, 345, 197–200.",
+        "content_hash": "2ac37ef8c8f78567a56ee3e06a392eb9e85b46b44d9f9fae0c9d6abf2853e9a2",
+        "id": "gcn_d3e5e6d8aa5b4459",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813048568502812672::P1",
+            "package_id": "paper:813048568502812672",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813048568502812672"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026553280111072546,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Bayesian Error Estimation Functional with van der Waals correction (BEEF-vdW) ensemble method is implemented as an ensemble of 2,000 perturbations of the exchange-correlation functional parameters, and when applied to fixed, converged total-energy reference calculations for the same geometries (clean slab, isolated CO molecule, and adsorbed configurations) produces an empirical distribution of adsorption-energy differences ΔBE = E_{ads,ontop} − E_{ads,fcc} that quantifies the exchange-correlation-functional-driven uncertainty under the BEEF modeling assumptions; using 2,000 ensemble members yields a numerically well-sampled empirical distribution from which sample mean and standard-deviation statistics for ΔBE can be computed.\n      Wellendorff et al., BEEF-vdW (citation [29] in the paper)",
+        "content_hash": "8dcc67bf4defe09f71ba8ff13ea8ba723c90be8233e4082a4396f7beac62992b",
+        "id": "gcn_e292bcf70f0e40c7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1154390142069243928::P10",
+            "package_id": "paper:1154390142069243928",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1154390142069243928"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026399331662489554,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the BEEF‑vdW ensemble as the set of 2000 exchange–correlation parameterizations supplied with the BEEF‑vdW functional, where for a fixed optimized geometry each ensemble member i yields an electronic energy E_i and, after common zero‑point and thermal corrections, an adsorption Gibbs free energy ΔG_rxn,i (i = 1,…,2000). The claim is that the empirical spread (marginal distribution width) and the internal correlation structure observed across the BEEF‑vdW {ΔG_rxn,i} ensemble provide a useful representation of epistemic uncertainty in DFT adsorption energies for these Ag/SSZ‑13 adsorption problems so that conclusions drawn from the ensemble about (a) relative uncertainties between first and second adsorption events (e.g., broader ensemble for second C2H4 adsorption) and (b) the role of correlated errors in reducing effective uncertainty for energy differences, are informative and reliable for the stated comparisons, even though the BEEF‑vdW ensemble is generated within a GGA‑based functional family and does not explicitly include non‑GGA functionals such as HSE06.",
+        "content_hash": "9a3f5ece674dab0ab4c126bf6dadf29f596e9e346ba8b1617fb93f23cf4170a0",
+        "id": "gcn_c81deb4cc33c442a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812666131151060993::P3",
+            "package_id": "paper:812666131151060993",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812666131151060993"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026200135226504394,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Applying BEEF–vdW non-self-consistently to compute the potential-energy curve for graphene adsorption on the Ni(111) surface yields a curve that is qualitatively consistent with high-level random-phase-approximation (RPA) calculations in that a physisorption minimum appears at interlayer distance $d\\approx 3.0$–$3.5$ Å and a shallow chemisorption feature is located near $d\\approx 2.2$ Å; in the present non-self-consistent BEEF–vdW profile the chemisorption local minimum at $d=2.25$ Å is very shallow and has a positive adsorption energy (i.e., not bound). The Bayesian ensemble constructed around BEEF–vdW exhibits error bars along the potential-energy curve that increase markedly for $d\\lesssim 2.6$ Å, indicating substantially larger model uncertainty in the chemically bonded region than in the physisorption region and therefore low confidence that the BEEF–vdW model alone can definitively predict chemisorption of graphene on Ni(111); this illustrates that the ensemble can flag regions of configuration space where exchange–correlation model uncertainty is large.",
+        "content_hash": "1cafe662e55317c66b2b794deea895eafbb9792dd3eb043782f463187ece4649",
+        "id": "gcn_ceadf42e2a7a4293",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813301714722488323::conclusion_6",
+            "package_id": "paper:813301714722488323",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813301714722488323"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02603648424543947,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $\\Delta G_{\\mathrm{H}}^{\\mathrm{DFT}}(M,s,\\theta)$ denote the hydrogen adsorption free energy computed by density functional theory for material $M$ on surface facet $s$ at hydrogen coverage $\\theta$. The proposition asserted is: using the Bayesian error‑estimation exchange‑correlation functional ensemble BEEF‑vdW to generate an ensemble of exchange‑correlation descriptions provides a reliable estimate of the relative uncertainty in $\\Delta G_{\\mathrm{H}}^{\\mathrm{DFT}}$ across different TMP materials and facets in this study, such that the ensemble‑based spread in relative $\\Delta G_{\\mathrm{H}}$ values (taken with respect to MoP as a fixed reference) is within approximately $0.1\\ \\text{eV}$ for the TMP systems considered, making the relative ordering of the computed $\\Delta G_{\\mathrm{H}}$ values meaningful for volcano correlations.\n      36-38",
+        "content_hash": "6838fa32764355cbf169708a75829daaf96fc7f5bcd9e6a807decb23c9dc246f",
+        "id": "gcn_cd22b910abe5429c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814599006658232322::P3",
+            "package_id": "paper:814599006658232322",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814599006658232322"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025859192525859193,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When adsorption energies are computed with the BEEF‑vdW exchange–correlation functional, the associated ensemble of perturbed functionals available within the BEEF framework provides a distribution of predicted adsorption energies from which a standard deviation can be obtained; the proposition is that these ensemble-derived standard deviations furnish a meaningful estimate of the uncertainty in computed dissociative N2 adsorption energies for the Fe, Co and Fe–Co slab models reported here, such that ensemble error bars can be used to assess confidence in mapping computed energies to experimental TOFs, subject to the caveat that other model approximations (finite slab size, k-point sampling, neglect of anharmonic contributions to zero-point energies, and omission of dynamic temperature effects) could introduce additional errors not fully captured by the BEEF ensemble.",
+        "content_hash": "c642f63b90d832511c4ee920e0df5ce18b27cebba8ac9e4b67d7c3a77e185c9a",
+        "id": "gcn_40b72cffdc634b13",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:977532169758966513::P11",
+            "package_id": "paper:977532169758966513",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:977532169758966513"
+          ]
+        },
+        "role": "premise",
+        "score": 0.024722804914593947,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "fb2b6786d356e913fe83d82212aa8d89"
+}

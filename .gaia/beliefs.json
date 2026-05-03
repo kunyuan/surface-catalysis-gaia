@@ -1,263 +1,647 @@
 {
   "beliefs": [
     {
-      "belief": 0.7340195388034794,
+      "belief": 0.7079330811679488,
+      "knowledge_id": "github:surface_catalysis::__conjunction_result_0a8f7f09",
+      "label": "__conjunction_result_0a8f7f09"
+    },
+    {
+      "belief": 0.733706555991657,
       "knowledge_id": "github:surface_catalysis::__conjunction_result_11302e07",
       "label": "__conjunction_result_11302e07"
     },
     {
-      "belief": 0.8840266082772795,
+      "belief": 0.8279778948623919,
       "knowledge_id": "github:surface_catalysis::__conjunction_result_6e29e271",
       "label": "__conjunction_result_6e29e271"
     },
     {
-      "belief": 0.94807300228215,
+      "belief": 0.6447117182857492,
+      "knowledge_id": "github:surface_catalysis::__conjunction_result_703efab4",
+      "label": "__conjunction_result_703efab4"
+    },
+    {
+      "belief": 0.9478706564062995,
       "knowledge_id": "github:surface_catalysis::__conjunction_result_7fc4a261",
       "label": "__conjunction_result_7fc4a261"
     },
     {
-      "belief": 0.7037993397399839,
+      "belief": 0.8187078469421756,
       "knowledge_id": "github:surface_catalysis::__conjunction_result_9ce8f79c",
       "label": "__conjunction_result_9ce8f79c"
     },
     {
-      "belief": 0.07406121634793188,
+      "belief": 0.7186341287542993,
+      "knowledge_id": "github:surface_catalysis::__conjunction_result_b0ecc9b8",
+      "label": "__conjunction_result_b0ecc9b8"
+    },
+    {
+      "belief": 0.7136598064530326,
+      "knowledge_id": "github:surface_catalysis::__conjunction_result_c1d00f38",
+      "label": "__conjunction_result_c1d00f38"
+    },
+    {
+      "belief": 0.03178761029105522,
       "knowledge_id": "github:surface_catalysis::__conjunction_result_c7264fd6",
       "label": "__conjunction_result_c7264fd6"
     },
     {
-      "belief": 0.8853435385141867,
+      "belief": 0.19850222481800378,
+      "knowledge_id": "github:surface_catalysis::__conjunction_result_d1770813",
+      "label": "__conjunction_result_d1770813"
+    },
+    {
+      "belief": 0.7,
+      "knowledge_id": "github:surface_catalysis::acbn0_self_consistent_u",
+      "label": "acbn0_self_consistent_u"
+    },
+    {
+      "belief": 0.8010664748795289,
+      "knowledge_id": "github:surface_catalysis::beef_consistent_with_rpa",
+      "label": "beef_consistent_with_rpa"
+    },
+    {
+      "belief": 0.82,
+      "knowledge_id": "github:surface_catalysis::beef_ensemble_method",
+      "label": "beef_ensemble_method"
+    },
+    {
+      "belief": 0.9316249529400188,
+      "knowledge_id": "github:surface_catalysis::beef_ensemble_spread",
+      "label": "beef_ensemble_spread"
+    },
+    {
+      "belief": 0.78,
+      "knowledge_id": "github:surface_catalysis::beef_uncertainty_propagation",
+      "label": "beef_uncertainty_propagation"
+    },
+    {
+      "belief": 0.7042178832516937,
+      "knowledge_id": "github:surface_catalysis::bep_catalyst_family",
+      "label": "bep_catalyst_family"
+    },
+    {
+      "belief": 0.6504393165701833,
+      "knowledge_id": "github:surface_catalysis::bep_co_formation",
+      "label": "bep_co_formation"
+    },
+    {
+      "belief": 0.13287812989146638,
+      "knowledge_id": "github:surface_catalysis::bep_multiclass",
+      "label": "bep_multiclass"
+    },
+    {
+      "belief": 0.5966607498886729,
+      "knowledge_id": "github:surface_catalysis::bep_no_dissociation",
+      "label": "bep_no_dissociation"
+    },
+    {
+      "belief": 0.8605036412557395,
+      "knowledge_id": "github:surface_catalysis::che_method_approximation",
+      "label": "che_method_approximation"
+    },
+    {
+      "belief": 0.7400000000000001,
+      "knowledge_id": "github:surface_catalysis::co2_dissociation_10metals",
+      "label": "co2_dissociation_10metals"
+    },
+    {
+      "belief": 0.8300376561605702,
       "knowledge_id": "github:surface_catalysis::co_2pi_mechanism",
       "label": "co_2pi_mechanism"
     },
     {
-      "belief": 0.9979247447062939,
+      "belief": 0.7011649642012907,
+      "knowledge_id": "github:surface_catalysis::co_adsorption_6_metals",
+      "label": "co_adsorption_6_metals"
+    },
+    {
+      "belief": 0.7904075914573843,
+      "knowledge_id": "github:surface_catalysis::co_on_3d_metals",
+      "label": "co_on_3d_metals"
+    },
+    {
+      "belief": 0.5,
+      "knowledge_id": "github:surface_catalysis::co_on_single_atom_11metals",
+      "label": "co_on_single_atom_11metals"
+    },
+    {
+      "belief": 0.8654435293677873,
+      "knowledge_id": "github:surface_catalysis::co_pt_coordination_dependent",
+      "label": "co_pt_coordination_dependent"
+    },
+    {
+      "belief": 0.9220785570452488,
+      "knowledge_id": "github:surface_catalysis::co_ru_lattice_gas",
+      "label": "co_ru_lattice_gas"
+    },
+    {
+      "belief": 0.9999989961780286,
+      "knowledge_id": "github:surface_catalysis::contradiction_beef_uncertainty",
+      "label": "contradiction_beef_uncertainty"
+    },
+    {
+      "belief": 0.9927324212871967,
+      "knowledge_id": "github:surface_catalysis::contradiction_bep_universality",
+      "label": "contradiction_bep_universality"
+    },
+    {
+      "belief": 0.9999989964118251,
+      "knowledge_id": "github:surface_catalysis::contradiction_coverage",
+      "label": "contradiction_coverage"
+    },
+    {
+      "belief": 0.9999989976469632,
+      "knowledge_id": "github:surface_catalysis::contradiction_dft_u_compound",
+      "label": "contradiction_dft_u_compound"
+    },
+    {
+      "belief": 0.9982739790348235,
       "knowledge_id": "github:surface_catalysis::contradiction_experiment_ambiguity",
       "label": "contradiction_experiment_ambiguity"
     },
     {
-      "belief": 0.99936818591222,
+      "belief": 0.9999989956180583,
       "knowledge_id": "github:surface_catalysis::contradiction_hybrid",
       "label": "contradiction_hybrid"
     },
     {
-      "belief": 0.9994355629209339,
+      "belief": 0.9999989975888065,
+      "knowledge_id": "github:surface_catalysis::contradiction_rpa_benchmark",
+      "label": "contradiction_rpa_benchmark"
+    },
+    {
+      "belief": 0.9933629718359895,
       "knowledge_id": "github:surface_catalysis::contradiction_site_ordering",
       "label": "contradiction_site_ordering"
     },
     {
-      "belief": 0.9993775289451322,
+      "belief": 0.9999989964513303,
+      "knowledge_id": "github:surface_catalysis::contradiction_solvent_gap",
+      "label": "contradiction_solvent_gap"
+    },
+    {
+      "belief": 0.9999989956491616,
+      "knowledge_id": "github:surface_catalysis::contradiction_total_error",
+      "label": "contradiction_total_error"
+    },
+    {
+      "belief": 0.9989221068608458,
+      "knowledge_id": "github:surface_catalysis::contradiction_tpd_vs_dft",
+      "label": "contradiction_tpd_vs_dft"
+    },
+    {
+      "belief": 0.9999989962235872,
       "knowledge_id": "github:surface_catalysis::contradiction_vdw_gap",
       "label": "contradiction_vdw_gap"
     },
     {
-      "belief": 0.44237843686227857,
+      "belief": 0.4269622890143704,
       "knowledge_id": "github:surface_catalysis::correction_reduces_site_spread",
       "label": "correction_reduces_site_spread"
     },
     {
-      "belief": 0.5886110262182807,
+      "belief": 0.48950877225130185,
       "knowledge_id": "github:surface_catalysis::correction_site_reordering",
       "label": "correction_site_reordering"
     },
     {
-      "belief": 0.9999031165780062,
+      "belief": 0.8079574568116392,
+      "knowledge_id": "github:surface_catalysis::coverage_dft_vs_exp_rh",
+      "label": "coverage_dft_vs_exp_rh"
+    },
+    {
+      "belief": 0.5,
+      "knowledge_id": "github:surface_catalysis::coverage_site_dependent_pd_au",
+      "label": "coverage_site_dependent_pd_au"
+    },
+    {
+      "belief": 0.8726378341512447,
+      "knowledge_id": "github:surface_catalysis::dband_hammersley_norskov_correlation",
+      "label": "dband_hammersley_norskov_correlation"
+    },
+    {
+      "belief": 0.8132021567551592,
+      "knowledge_id": "github:surface_catalysis::dband_shift_rhodium",
+      "label": "dband_shift_rhodium"
+    },
+    {
+      "belief": 0.78,
+      "knowledge_id": "github:surface_catalysis::dft_plus_u_uncertainty",
+      "label": "dft_plus_u_uncertainty"
+    },
+    {
+      "belief": 0.7199999020042904,
+      "knowledge_id": "github:surface_catalysis::dft_u_vdw_formalism",
+      "label": "dft_u_vdw_formalism"
+    },
+    {
+      "belief": 0.7869743181065749,
+      "knowledge_id": "github:surface_catalysis::entropy_correction_uncertainty",
+      "label": "entropy_correction_uncertainty"
+    },
+    {
+      "belief": 0.9998961577603155,
       "knowledge_id": "github:surface_catalysis::equiv_oxide_parallel",
       "label": "equiv_oxide_parallel"
     },
     {
-      "belief": 0.32503191444679386,
+      "belief": 0.4016332024842412,
       "knowledge_id": "github:surface_catalysis::experimental_site_methods",
       "label": "experimental_site_methods"
     },
     {
-      "belief": 0.954597517604978,
+      "belief": 0.5548992573847179,
+      "knowledge_id": "github:surface_catalysis::extrapolation_hypothesis_stated",
+      "label": "extrapolation_hypothesis_stated"
+    },
+    {
+      "belief": 0.954420937744537,
       "knowledge_id": "github:surface_catalysis::gga_2pi_too_low",
       "label": "gga_2pi_too_low"
     },
     {
-      "belief": 0.9857265491945825,
+      "belief": 0.9856710367243765,
       "knowledge_id": "github:surface_catalysis::gga_back_donation_overestimated",
       "label": "gga_back_donation_overestimated"
     },
     {
-      "belief": 0.9987899737546624,
+      "belief": 0.9982063034730035,
       "knowledge_id": "github:surface_catalysis::gga_failure_origin",
       "label": "gga_failure_origin"
     },
     {
-      "belief": 0.8669644002902879,
+      "belief": 0.8668082478665671,
       "knowledge_id": "github:surface_catalysis::gga_o2_sie_error",
       "label": "gga_o2_sie_error"
     },
     {
-      "belief": 0.9986563111211697,
+      "belief": 0.9980867486742978,
       "knowledge_id": "github:surface_catalysis::gga_oxide_error_parallel",
       "label": "gga_oxide_error_parallel"
     },
     {
-      "belief": 0.8337055003628598,
+      "belief": 0.8335103098332087,
       "knowledge_id": "github:surface_catalysis::gga_oxide_gap_error",
       "label": "gga_oxide_gap_error"
     },
     {
-      "belief": 0.8192678332925712,
+      "belief": 0.9382158249465659,
       "knowledge_id": "github:surface_catalysis::hybrid_direction_inconsistent",
       "label": "hybrid_direction_inconsistent"
     },
     {
-      "belief": 0.8875059342836727,
+      "belief": 0.9472802732251882,
       "knowledge_id": "github:surface_catalysis::hybrid_limitation",
       "label": "hybrid_limitation"
     },
     {
-      "belief": 0.8521282272393764,
+      "belief": 0.8696407699666749,
       "knowledge_id": "github:surface_catalysis::hybrid_magnitude_nonuniform",
       "label": "hybrid_magnitude_nonuniform"
     },
     {
-      "belief": 0.37809372424781873,
+      "belief": 0.46020354610203623,
+      "knowledge_id": "github:surface_catalysis::mason_abildpedersen_vibrational",
+      "label": "mason_abildpedersen_vibrational"
+    },
+    {
+      "belief": 0.35886873287839166,
       "knowledge_id": "github:surface_catalysis::mason_validation_pt_al2o3",
       "label": "mason_validation_pt_al2o3"
     },
     {
-      "belief": 0.8107194346414834,
+      "belief": 0.76180323257846,
       "knowledge_id": "github:surface_catalysis::method_cross_comparison",
       "label": "method_cross_comparison"
     },
     {
-      "belief": 0.6712779048731603,
+      "belief": 0.8192312383106173,
+      "knowledge_id": "github:surface_catalysis::o2_barrier_model_sensitive",
+      "label": "o2_barrier_model_sensitive"
+    },
+    {
+      "belief": 0.630661077052078,
       "knowledge_id": "github:surface_catalysis::pbe_pw91_rpbe_comparison",
       "label": "pbe_pw91_rpbe_comparison"
     },
     {
-      "belief": 0.6773636049987612,
+      "belief": 0.23830884316020906,
       "knowledge_id": "github:surface_catalysis::prem_benchmark_valid",
       "label": "prem_benchmark_valid"
     },
     {
-      "belief": 0.2024207186258847,
+      "belief": 0.4895490173049769,
       "knowledge_id": "github:surface_catalysis::prem_extrapolation_valid",
       "label": "prem_extrapolation_valid"
     },
     {
-      "belief": 0.9827548331631655,
+      "belief": 0.8677455939715748,
       "knowledge_id": "github:surface_catalysis::prem_linear_mapping",
       "label": "prem_linear_mapping"
     },
     {
-      "belief": 0.048010889594103524,
+      "belief": 1.370802559745247e-07,
       "knowledge_id": "github:surface_catalysis::root_correction_method",
       "label": "root_correction_method"
     },
     {
-      "belief": 0.8865432885130182,
+      "belief": 0.9664830161046858,
+      "knowledge_id": "github:surface_catalysis::rpa_co_benchmark",
+      "label": "rpa_co_benchmark"
+    },
+    {
+      "belief": 0.7499998980081969,
+      "knowledge_id": "github:surface_catalysis::rpa_deviates_from_experiment",
+      "label": "rpa_deviates_from_experiment"
+    },
+    {
+      "belief": 0.891219808681735,
+      "knowledge_id": "github:surface_catalysis::rpa_method",
+      "label": "rpa_method"
+    },
+    {
+      "belief": 0.7969436428725721,
+      "knowledge_id": "github:surface_catalysis::rpa_optimized",
+      "label": "rpa_optimized"
+    },
+    {
+      "belief": 0.8140048550076527,
+      "knowledge_id": "github:surface_catalysis::solvent_correction_gap",
+      "label": "solvent_correction_gap"
+    },
+    {
+      "belief": 0.9202037068597373,
+      "knowledge_id": "github:surface_catalysis::solvent_free_energy_gap",
+      "label": "solvent_free_energy_gap"
+    },
+    {
+      "belief": 0.9465956689870428,
+      "knowledge_id": "github:surface_catalysis::total_error_budget_incomplete",
+      "label": "total_error_budget_incomplete"
+    },
+    {
+      "belief": 0.6267405351991338,
+      "knowledge_id": "github:surface_catalysis::tpd_coverage_dependent_energetics",
+      "label": "tpd_coverage_dependent_energetics"
+    },
+    {
+      "belief": 0.9299478536684246,
       "knowledge_id": "github:surface_catalysis::vdw_effect_co",
       "label": "vdw_effect_co"
     },
     {
-      "belief": 0.7547726282677005,
+      "belief": 0.7715108319470467,
       "knowledge_id": "github:surface_catalysis::vdw_geometry_issues",
       "label": "vdw_geometry_issues"
+    },
+    {
+      "belief": 0.8021904382418196,
+      "knowledge_id": "github:surface_catalysis::zpe_harmonic_error",
+      "label": "zpe_harmonic_error"
     }
   ],
   "diagnostics": {
     "belief_history": {
+      "github:surface_catalysis::__conjunction_result_0a8f7f09": [
+        0.7079330811679488
+      ],
       "github:surface_catalysis::__conjunction_result_11302e07": [
-        0.7340195388034794
+        0.733706555991657
       ],
       "github:surface_catalysis::__conjunction_result_6e29e271": [
-        0.8840266082772795
+        0.8279778948623919
+      ],
+      "github:surface_catalysis::__conjunction_result_703efab4": [
+        0.6447117182857492
       ],
       "github:surface_catalysis::__conjunction_result_7fc4a261": [
-        0.94807300228215
+        0.9478706564062995
       ],
       "github:surface_catalysis::__conjunction_result_9ce8f79c": [
-        0.7037993397399839
+        0.8187078469421756
+      ],
+      "github:surface_catalysis::__conjunction_result_b0ecc9b8": [
+        0.7186341287542993
+      ],
+      "github:surface_catalysis::__conjunction_result_c1d00f38": [
+        0.7136598064530326
       ],
       "github:surface_catalysis::__conjunction_result_c7264fd6": [
-        0.07406121634793188
+        0.03178761029105522
+      ],
+      "github:surface_catalysis::__conjunction_result_d1770813": [
+        0.19850222481800378
+      ],
+      "github:surface_catalysis::acbn0_self_consistent_u": [
+        0.7
+      ],
+      "github:surface_catalysis::beef_consistent_with_rpa": [
+        0.8010664748795289
+      ],
+      "github:surface_catalysis::beef_ensemble_method": [
+        0.82
+      ],
+      "github:surface_catalysis::beef_ensemble_spread": [
+        0.9316249529400188
+      ],
+      "github:surface_catalysis::beef_uncertainty_propagation": [
+        0.78
+      ],
+      "github:surface_catalysis::bep_catalyst_family": [
+        0.7042178832516937
+      ],
+      "github:surface_catalysis::bep_co_formation": [
+        0.6504393165701833
+      ],
+      "github:surface_catalysis::bep_multiclass": [
+        0.13287812989146638
+      ],
+      "github:surface_catalysis::bep_no_dissociation": [
+        0.5966607498886729
+      ],
+      "github:surface_catalysis::che_method_approximation": [
+        0.8605036412557395
+      ],
+      "github:surface_catalysis::co2_dissociation_10metals": [
+        0.7400000000000001
       ],
       "github:surface_catalysis::co_2pi_mechanism": [
-        0.8853435385141867
+        0.8300376561605702
+      ],
+      "github:surface_catalysis::co_adsorption_6_metals": [
+        0.7011649642012907
+      ],
+      "github:surface_catalysis::co_on_3d_metals": [
+        0.7904075914573843
+      ],
+      "github:surface_catalysis::co_on_single_atom_11metals": [
+        0.5
+      ],
+      "github:surface_catalysis::co_pt_coordination_dependent": [
+        0.8654435293677873
+      ],
+      "github:surface_catalysis::co_ru_lattice_gas": [
+        0.9220785570452488
+      ],
+      "github:surface_catalysis::contradiction_beef_uncertainty": [
+        0.9999989961780286
+      ],
+      "github:surface_catalysis::contradiction_bep_universality": [
+        0.9927324212871967
+      ],
+      "github:surface_catalysis::contradiction_coverage": [
+        0.9999989964118251
+      ],
+      "github:surface_catalysis::contradiction_dft_u_compound": [
+        0.9999989976469632
       ],
       "github:surface_catalysis::contradiction_experiment_ambiguity": [
-        0.9979247447062939
+        0.9982739790348235
       ],
       "github:surface_catalysis::contradiction_hybrid": [
-        0.99936818591222
+        0.9999989956180583
+      ],
+      "github:surface_catalysis::contradiction_rpa_benchmark": [
+        0.9999989975888065
       ],
       "github:surface_catalysis::contradiction_site_ordering": [
-        0.9994355629209339
+        0.9933629718359895
+      ],
+      "github:surface_catalysis::contradiction_solvent_gap": [
+        0.9999989964513303
+      ],
+      "github:surface_catalysis::contradiction_total_error": [
+        0.9999989956491616
+      ],
+      "github:surface_catalysis::contradiction_tpd_vs_dft": [
+        0.9989221068608458
       ],
       "github:surface_catalysis::contradiction_vdw_gap": [
-        0.9993775289451322
+        0.9999989962235872
       ],
       "github:surface_catalysis::correction_reduces_site_spread": [
-        0.44237843686227857
+        0.4269622890143704
       ],
       "github:surface_catalysis::correction_site_reordering": [
-        0.5886110262182807
+        0.48950877225130185
+      ],
+      "github:surface_catalysis::coverage_dft_vs_exp_rh": [
+        0.8079574568116392
+      ],
+      "github:surface_catalysis::coverage_site_dependent_pd_au": [
+        0.5
+      ],
+      "github:surface_catalysis::dband_hammersley_norskov_correlation": [
+        0.8726378341512447
+      ],
+      "github:surface_catalysis::dband_shift_rhodium": [
+        0.8132021567551592
+      ],
+      "github:surface_catalysis::dft_plus_u_uncertainty": [
+        0.78
+      ],
+      "github:surface_catalysis::dft_u_vdw_formalism": [
+        0.7199999020042904
+      ],
+      "github:surface_catalysis::entropy_correction_uncertainty": [
+        0.7869743181065749
       ],
       "github:surface_catalysis::equiv_oxide_parallel": [
-        0.9999031165780062
+        0.9998961577603155
       ],
       "github:surface_catalysis::experimental_site_methods": [
-        0.32503191444679386
+        0.4016332024842412
+      ],
+      "github:surface_catalysis::extrapolation_hypothesis_stated": [
+        0.5548992573847179
       ],
       "github:surface_catalysis::gga_2pi_too_low": [
-        0.954597517604978
+        0.954420937744537
       ],
       "github:surface_catalysis::gga_back_donation_overestimated": [
-        0.9857265491945825
+        0.9856710367243765
       ],
       "github:surface_catalysis::gga_failure_origin": [
-        0.9987899737546624
+        0.9982063034730035
       ],
       "github:surface_catalysis::gga_o2_sie_error": [
-        0.8669644002902879
+        0.8668082478665671
       ],
       "github:surface_catalysis::gga_oxide_error_parallel": [
-        0.9986563111211697
+        0.9980867486742978
       ],
       "github:surface_catalysis::gga_oxide_gap_error": [
-        0.8337055003628598
+        0.8335103098332087
       ],
       "github:surface_catalysis::hybrid_direction_inconsistent": [
-        0.8192678332925712
+        0.9382158249465659
       ],
       "github:surface_catalysis::hybrid_limitation": [
-        0.8875059342836727
+        0.9472802732251882
       ],
       "github:surface_catalysis::hybrid_magnitude_nonuniform": [
-        0.8521282272393764
+        0.8696407699666749
+      ],
+      "github:surface_catalysis::mason_abildpedersen_vibrational": [
+        0.46020354610203623
       ],
       "github:surface_catalysis::mason_validation_pt_al2o3": [
-        0.37809372424781873
+        0.35886873287839166
       ],
       "github:surface_catalysis::method_cross_comparison": [
-        0.8107194346414834
+        0.76180323257846
+      ],
+      "github:surface_catalysis::o2_barrier_model_sensitive": [
+        0.8192312383106173
       ],
       "github:surface_catalysis::pbe_pw91_rpbe_comparison": [
-        0.6712779048731603
+        0.630661077052078
       ],
       "github:surface_catalysis::prem_benchmark_valid": [
-        0.6773636049987612
+        0.23830884316020906
       ],
       "github:surface_catalysis::prem_extrapolation_valid": [
-        0.2024207186258847
+        0.4895490173049769
       ],
       "github:surface_catalysis::prem_linear_mapping": [
-        0.9827548331631655
+        0.8677455939715748
       ],
       "github:surface_catalysis::root_correction_method": [
-        0.048010889594103524
+        1.370802559745247e-07
+      ],
+      "github:surface_catalysis::rpa_co_benchmark": [
+        0.9664830161046858
+      ],
+      "github:surface_catalysis::rpa_deviates_from_experiment": [
+        0.7499998980081969
+      ],
+      "github:surface_catalysis::rpa_method": [
+        0.891219808681735
+      ],
+      "github:surface_catalysis::rpa_optimized": [
+        0.7969436428725721
+      ],
+      "github:surface_catalysis::solvent_correction_gap": [
+        0.8140048550076527
+      ],
+      "github:surface_catalysis::solvent_free_energy_gap": [
+        0.9202037068597373
+      ],
+      "github:surface_catalysis::total_error_budget_incomplete": [
+        0.9465956689870428
+      ],
+      "github:surface_catalysis::tpd_coverage_dependent_energetics": [
+        0.6267405351991338
       ],
       "github:surface_catalysis::vdw_effect_co": [
-        0.8865432885130182
+        0.9299478536684246
       ],
       "github:surface_catalysis::vdw_geometry_issues": [
-        0.7547726282677005
+        0.7715108319470467
+      ],
+      "github:surface_catalysis::zpe_harmonic_error": [
+        0.8021904382418196
       ]
     },
     "converged": true,
@@ -267,5 +651,5 @@
     "treewidth": 3
   },
   "gaia_lang_version": "0.4.3",
-  "ir_hash": "sha256:94f16f4e1e0cec538c834cd9b5eae9dd7d0f29348e8e86c7ae930939e7684c0e"
+  "ir_hash": "sha256:7131b00764bba6936b065351ee2d9913b4f66babb345a48f28401454fbcd82d0"
 }

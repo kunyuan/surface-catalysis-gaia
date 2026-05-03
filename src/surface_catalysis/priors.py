@@ -25,6 +25,55 @@ from .paper_upstream import (
     method_cross_comparison,
     experimental_site_methods,
 )
+from .paper_iter2 import (
+    co_adsorption_6_metals,
+    extrapolation_hypothesis_stated,
+    mason_abildpedersen_vibrational,
+    co_on_3d_metals,
+    co_pt_coordination_dependent,
+)
+from .paper_coverage import (
+    coverage_dft_vs_exp_rh,
+    co_ru_lattice_gas,
+    tpd_coverage_dependent_energetics,
+)
+from .paper_bep import (
+    bep_no_dissociation,
+    bep_multiclass,
+    bep_catalyst_family,
+    bep_co_formation,
+)
+from .paper_rpa import (
+    rpa_method,
+    rpa_co_benchmark,
+    rpa_optimized,
+    rpa_deviates_from_experiment,
+)
+from .paper_beef import (
+    beef_ensemble_method,
+    beef_ensemble_spread,
+    beef_uncertainty_propagation,
+    beef_consistent_with_rpa,
+)
+from .paper_solvent import (
+    solvent_free_energy_gap,
+    che_method_approximation,
+    solvent_correction_gap,
+)
+from .paper_dband_zpe import (
+    dband_hammersley_norskov_correlation,
+    dband_shift_rhodium,
+    zpe_harmonic_error,
+    entropy_correction_uncertainty,
+    total_error_budget_incomplete,
+)
+from .paper_barriers import (
+    co2_dissociation_10metals,
+    o2_barrier_model_sensitive,
+    dft_plus_u_uncertainty,
+    dft_u_vdw_formalism,
+    acbn0_self_consistent_u,
+)
 
 PRIORS = {
     # Decomposed atomic claims — gga_failure_origin
@@ -166,5 +215,212 @@ PRIORS = {
         "and the observation that they give method-dependent coverage "
         "dependences is a documented experimental subtlety that complicates "
         "direct comparison between theory and experiment."
+    ),
+    # Iter2 — expanded metal set, coverage, BEP
+    co_adsorption_6_metals: (
+        0.78,
+        "DFT calculations on 6 group-VIII metals using consistent methodology "
+        "provide a reliable dataset; the inclusion of Os and Ir extends the "
+        "original Mason parameterization but the use of a single functional "
+        "(RPBE) limits generalizability."
+    ),
+    extrapolation_hypothesis_stated: (
+        0.65,
+        "The extrapolation hypothesis is clearly stated in the literature but "
+        "has not been independently tested across a systematic range of metals "
+        "and functionals; the assumption of linearity beyond the sampled region "
+        "is the core weakness."
+    ),
+    mason_abildpedersen_vibrational: (
+        0.68,
+        "Extending the Mason correction to CO vibrational frequency as the "
+        "linear predictor is a creative generalization, but the universal "
+        "slope B = 0.0008 eV·cm has only been validated on a limited set of "
+        "systems."
+    ),
+    co_on_3d_metals: (
+        0.72,
+        "The different CO chemisorption trend on 3d metals is a plausible "
+        "finding consistent with d-band theory, but the bonding parameter "
+        "values are from a single computational study."
+    ),
+    co_pt_coordination_dependent: (
+        0.80,
+        "The coordination-dependence of CO adsorption energy on Pt is "
+        "well-established by DFT and consistent with d-band center theory; "
+        "the implication for Mason correction transferability is real."
+    ),
+    coverage_dft_vs_exp_rh: (
+        0.75,
+        "The discrepancy between DFT-computed and experimental coverage "
+        "dependence on Rh(111) is a documented finding but may depend on "
+        "the specific functional and coverage model used."
+    ),
+    co_ru_lattice_gas: (
+        0.78,
+        "Lattice-gas models with DFT lateral interactions for CO/Ru(0001) "
+        "are a well-established approach, and the importance of CO-CO "
+        "interactions for coverage-dependent energetics is well-known."
+    ),
+    tpd_coverage_dependent_energetics: (
+        0.82,
+        "TPD is a mature experimental technique and the coverage-dependence "
+        "of desorption energies is experimentally well-documented; the gap "
+        "between zero-coverage DFT and finite-coverage experiment is a "
+        "recognized issue in surface science."
+    ),
+    bep_no_dissociation: (
+        0.70,
+        "A BEP relation for NO dissociation on only four data points is "
+        "suggestive but not statistically robust; needs validation on a "
+        "larger dataset across more metals."
+    ),
+    bep_multiclass: (
+        0.82,
+        "The existence of class-specific BEP relations is well-documented "
+        "in the literature; the non-universality of BEP parameters is a "
+        "key insight for understanding the limits of scaling relations."
+    ),
+    bep_catalyst_family: (
+        0.78,
+        "The catalyst-family dependence of BEP parameters is a logical "
+        "extension of the multi-class BEP concept but has not been "
+        "systematically quantified across a wide range of materials classes."
+    ),
+    bep_co_formation: (
+        0.74,
+        "BEP for CO formation from C+O is a specific reaction class with "
+        "moderate evidence; the linear scaling between activation energy "
+        "and reaction energy for this step is supported by DFT calculations."
+    ),
+    # Iter2 — RPA, BEEF, solvent
+    rpa_method: (
+        0.85,
+        "EXX+RPA@PBE is a well-established computational protocol; "
+        "the method is systematically improvable and provides the "
+        "current gold-standard for surface adsorption energetics."
+    ),
+    rpa_co_benchmark: (
+        0.78,
+        "RPA is demonstrably more accurate than GGA for CO chemisorption, "
+        "but RPA calculations for surface adsorption are computationally "
+        "expensive and limited to a small number of benchmark systems."
+    ),
+    rpa_optimized: (
+        0.72,
+        "The empirical factor 1.17 in optRPA is fitted to a limited "
+        "dataset; its transferability to chemisorption systems is "
+        "not systematically validated."
+    ),
+    rpa_deviates_from_experiment: (
+        0.75,
+        "The residual RPA error of several tens of meV is documented "
+        "from benchmark dataset comparisons; this represents the current "
+        "practical accuracy limit of first-principles surface energetics."
+    ),
+    beef_ensemble_method: (
+        0.82,
+        "BEEF-vdW ensemble method is well-established and published; "
+        "the 2000-member ensemble approach is a standard tool for "
+        "DFT error estimation in the surface catalysis community."
+    ),
+    beef_ensemble_spread: (
+        0.80,
+        "The ~0.20 eV ensemble spread for binding energies is a "
+        "representative value for typical chemisorption systems; "
+        "the exact value depends on the specific system and property."
+    ),
+    beef_uncertainty_propagation: (
+        0.78,
+        "BEEF ensemble uncertainty propagation is a general method; "
+        "the nonlinear propagation of exchange-correlation errors into "
+        "catalytic rates is an active research area."
+    ),
+    beef_consistent_with_rpa: (
+        0.72,
+        "BEEF-vdW consistency with RPA is a validation point but the "
+        "comparison has only been made for a limited set of systems."
+    ),
+    solvent_free_energy_gap: (
+        0.80,
+        "Solvent effects of 0.1-0.3 eV are well-documented in "
+        "electrocatalysis literature; the gap between UHV DFT and "
+        "electrochemical conditions is a recognized challenge."
+    ),
+    che_method_approximation: (
+        0.82,
+        "The computational hydrogen electrode is the standard method "
+        "in computational electrocatalysis; its limitations are "
+        "well-characterized and its typical uncertainty of ~0.1-0.3 eV "
+        "is accepted in the field."
+    ),
+    solvent_correction_gap: (
+        0.76,
+        "Each correction term (ZPE, entropy, solvation, potential) "
+        "carries independent uncertainties that compound; the total "
+        "uncertainty is likely larger than individual contributions."
+    ),
+    # Iter2 final — barriers and DFT+U
+    co2_dissociation_10metals: (
+        0.74,
+        "DFT barriers for CO2 dissociation on 10 metals provide a "
+        "useful benchmark dataset; the functional-sensitivity of "
+        "barriers is well-known but the specific error magnitudes "
+        "are less systematically characterized than for adsorption energies."
+    ),
+    o2_barrier_model_sensitive: (
+        0.76,
+        "The model-sensitivity of O2 dissociation barriers is a known "
+        "issue in computational catalysis; barrier errors exceeding "
+        "0.5 eV due to model choice are documented across multiple systems."
+    ),
+    dft_plus_u_uncertainty: (
+        0.78,
+        "The U_eff parameter dependence of DFT+U adsorption energies "
+        "is well-documented; the optimal U value is system-dependent "
+        "and introduces an additional source of functional uncertainty."
+    ),
+    dft_u_vdw_formalism: (
+        0.72,
+        "Combining +U, vdW, and molecular reference corrections is a "
+        "practical necessity for oxide catalysts but the cross-correction "
+        "errors have not been systematically quantified."
+    ),
+    acbn0_self_consistent_u: (
+        0.70,
+        "Self-consistent Hubbard U from ACBN0 removes empiricism but "
+        "the computed U values still depend on the underlying functional; "
+        "this is an improvement over empirical U but not a complete solution."
+    ),
+    # Final layer — d-band and ZPE
+    dband_hammersley_norskov_correlation: (
+        0.85,
+        "The Hammer-Norskov d-band model is one of the most well-established "
+        "concepts in computational surface catalysis, but its quantitative "
+        "limitations are increasingly recognized."
+    ),
+    dband_shift_rhodium: (
+        0.78,
+        "The d-band shift correlation for Rh is consistent with the HN model "
+        "but the metal-specific coupling matrix element introduces deviations "
+        "from a universal scaling relation."
+    ),
+    zpe_harmonic_error: (
+        0.74,
+        "Harmonic ZPE errors of 0.05-0.1 eV are a systematic uncertainty "
+        "in DFT-based adsorption free energies; anharmonic effects are "
+        "typically neglected due to computational cost."
+    ),
+    entropy_correction_uncertainty: (
+        0.72,
+        "The hindered translator/rotator approximation for adsorbate entropy "
+        "is a recognized source of error, particularly for weakly bound "
+        "molecules where the harmonic oscillator model is inaccurate."
+    ),
+    total_error_budget_incomplete: (
+        0.88,
+        "The enumeration of independent error sources in DFT-experiment "
+        "comparison is a systematic exercise; the conclusion that the Mason "
+        "correction addresses only 1 of ~7 error sources is robust."
     ),
 }

@@ -1,0 +1,431 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1010729595567079428": {
+        "area": "Material science",
+        "authors": "Wei Ying Lieu | Anupma Thakur | Sonal Kumar | Yuanjian Li | Xue Liang Li | Yixiang Li | Gaoliang Yang | Yifan Li | Tanmay Ghosh | Man‐Fai Ng | Babak Anasori | Hui Ying Yang | Zhi Wei Seh",
+        "available_online": "",
+        "cover_date_start": "2024-06-20",
+        "created_at": "2024-06-20T18:01:52+08:00",
+        "doi": "10.1002/adfm.202408959",
+        "en_title": "Amplifying the Differences in Aluminum‐Based Eutectic Electrolytes Through Electrodeposition on MXenes",
+        "id": "1010729595567079428",
+        "keywords": "[{\"en_name\": \"1-Ethyl-3-methylimidazolium chloride (EMImCl)/AlCl3 electrolyte\", \"ch_name\": \"\"}, {\"en_name\": \"aluminum batteries\", \"ch_name\": \"\"}, {\"en_name\": \"eutectic mixtures\", \"ch_name\": \"\"}, {\"en_name\": \"MXenes\", \"ch_name\": \"\"}, {\"en_name\": \"urea/AlCl3 electrolyte\", \"ch_name\": \"\"}]",
+        "publication_date": "",
+        "publication_id": "2023",
+        "publication_name": "Advanced Functional Materials _ ",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "通过在MXenes上进行电沉积放大铝基共晶电解质中的差异"
+      },
+      "paper:1144326976736067609": {
+        "area": "arXiv-Physics",
+        "authors": "Shibghatullah Muhammady | Jun Haruyama | Shusuke Kasamatsu | Osamu Sugino",
+        "available_online": "",
+        "cover_date_start": "2025-06-23",
+        "created_at": "2025-06-24T09:46:51+08:00",
+        "doi": "10.48550/arxiv.2506.18225",
+        "en_title": "Benchmarking of Oxygen Adsorption using TPD Spectroscopy for Accurate DFT Prediction of ORR on Anatase Titanium Dioxide (101)",
+        "id": "1144326976736067609",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics",
+        "research_categories": "",
+        "zh_title": "使用程序升温脱附光谱法对氧吸附进行基准测试，以实现对锐钛矿型二氧化钛（101）上氧还原反应的准确密度泛函理论预测"
+      },
+      "paper:811045965677985793": {
+        "area": "Chemistry",
+        "authors": "Huaqing Dong | Zhenzhan Zhuang | Yongbing Gu | Jianrong Gao",
+        "available_online": "",
+        "cover_date_start": "2017-07-01",
+        "created_at": "2022-12-17T17:27:08+08:00",
+        "doi": "10.1016/j.jechem.2017.03.009",
+        "en_title": "The adsorption and activation of formic acid on different anatase TiO 2 surfaces",
+        "id": "811045965677985793",
+        "keywords": "[{\"ch_name\":\"锐钛矿型TiO<sub>2</sub>\",\"en_name\":\"Anatase TiO<sub>2</sub>\"},{\"ch_name\":\"密度泛函理论\",\"en_name\":\"Density functional theory\"},{\"ch_name\":\"甲酸\",\"en_name\":\"Formic acid\"},{\"ch_name\":\"光降解\",\"en_name\":\"Photodegradation\"}]",
+        "publication_date": "2017-7",
+        "publication_id": "3366",
+        "publication_name": "Journal of Energy Chemistry _ Journal of Energy Chemistry",
+        "research_categories": "",
+        "zh_title": "甲酸在不同锐钛矿型TiO₂表面的吸附与活化"
+      },
+      "paper:811080952276058113": {
+        "area": "Chemistry",
+        "authors": "Afnan Alghannam | Christopher L. Muhich | Charles B. Musgrave",
+        "available_online": "2017",
+        "cover_date_start": "2017-01-01",
+        "created_at": "2022-12-17T19:46:10+08:00",
+        "doi": "10.1039/c6cp08789b",
+        "en_title": "Adatom surface diffusion of catalytic metals on the anatase TiO 2 (101) surface",
+        "id": "811080952276058113",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3439",
+        "publication_name": "Physical Chemistry Chemical Physics _ Phys. Chem. Chem. Phys.",
+        "research_categories": "",
+        "zh_title": "催化金属在锐钛矿型TiO₂(101)表面的吸附原子表面扩散"
+      },
+      "paper:811147763042484224": {
+        "area": "Material science",
+        "authors": "Chi Chen | Francesco Ciucci",
+        "available_online": "2016-9-26",
+        "cover_date_start": "2016-09-26",
+        "created_at": "2022-12-18T00:11:39+08:00",
+        "doi": "10.1021/acs.chemmater.6b02953",
+        "en_title": "Designing Fe-Based Oxygen Catalysts by Density Functional Theory Calculations",
+        "id": "811147763042484224",
+        "keywords": "",
+        "publication_date": "2016-10-11",
+        "publication_id": "2060",
+        "publication_name": "Chemistry of Materials _ Chem. Mater.",
+        "research_categories": "[\"Chemical Sciences\", \"Inorganic Chemistry\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "通过密度泛函理论计算设计铁基氧催化剂"
+      },
+      "paper:812117725269721089": {
+        "area": "Environmental Science and Ecology",
+        "authors": "Meng Gao | Guangzhi He | Wenshuo Zhang | Jinpeng Du | Hong He",
+        "available_online": "2021-6-24",
+        "cover_date_start": "2021-06-24",
+        "created_at": "2022-12-20T16:25:54+08:00",
+        "doi": "10.1021/acs.est.1c01628",
+        "en_title": "Reaction Pathways of the Selective Catalytic Reduction of NO with NH3 on the α-Fe2O3(012) Surface: a Combined Experimental and DFT Study",
+        "id": "812117725269721089",
+        "keywords": "[{\"en_name\": \"DFT calculation\", \"ch_name\": \"\"}, {\"en_name\": \"Fe<sub>2</sub>O<sub>3</sub>-based catalysts\", \"ch_name\": \"\"}, {\"en_name\": \"in situ DRIFTS\", \"ch_name\": \"\"}, {\"en_name\": \"NH<sub>3</sub>-SCR\", \"ch_name\": \"\"}, {\"en_name\": \"reaction mechanism\", \"ch_name\": \"\"}]",
+        "publication_date": "2021-8-17",
+        "publication_id": "2959",
+        "publication_name": "Environmental Science and Technology _ Environ. Sci. Technol.",
+        "research_categories": "[\"Chemical Sciences\", \"Inorganic Chemistry\"]",
+        "zh_title": "α-Fe₂O₃(012)表面上NH₃选择性催化还原NO的反应路径：实验与密度泛函理论相结合的研究"
+      },
+      "paper:812673574153224193": {
+        "area": "Geoscience",
+        "authors": "ZhenHua Zeng | Jeff Greeley",
+        "available_online": "",
+        "cover_date_start": "2013-10-27",
+        "created_at": "2022-12-22T05:14:40+08:00",
+        "doi": "10.1149/ma2013-02/15/1360",
+        "en_title": "Modeling Mono- and Bi-Functional Alkaline Electrocatalysts for Hydrogen Oxidation and Evolution Reactions On the Basis of First-Principles Calculations",
+        "id": "812673574153224193",
+        "keywords": "",
+        "publication_date": "2013-10-27",
+        "publication_id": "74228",
+        "publication_name": "ECS Meeting Abstracts _ Meet. Abstr.",
+        "research_categories": "",
+        "zh_title": "基于第一性原理计算对用于氢氧化和析氢反应的单功能和双功能碱性电催化剂进行建模"
+      },
+      "paper:813031133053714433": {
+        "area": "Chemistry",
+        "authors": "Xiang-Kui Gu | Juliana S. A. Carneiro | Samji Samira | Anirban Das | Nuwandi M. Ariyasingha | Eranda Nikolla",
+        "available_online": "2018-5-30",
+        "cover_date_start": "2018-05-30",
+        "created_at": "2022-12-23T04:55:28+08:00",
+        "doi": "10.1021/jacs.7b11138",
+        "en_title": "Efficient Oxygen Electrocatalysis by Nanostructured Mixed-Metal Oxides",
+        "id": "813031133053714433",
+        "keywords": "",
+        "publication_date": "2018-7-5",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "纳米结构混合金属氧化物实现高效氧电催化"
+      },
+      "paper:813144455023427584": {
+        "area": "Material science",
+        "authors": "Francis Malar Auxilia | Shinsuke Ishihara | Saikat Mandal | Toyokazu Tanabe | Govindachetty Saravanan | Gubbala V. Ramesh | Naoto Umezawa | Toru Hara | Ya Xu | Shunichi Hishita | Yusuke Yamauchi | Arivuoli Dakshanamoorthy | Jonathan P. Hill | Katsuhiko Ariga | Hideki Abe",
+        "available_online": "2014-4-30",
+        "cover_date_start": "2014-04-30",
+        "created_at": "2022-12-23T12:25:46+08:00",
+        "doi": "10.1002/adma.201306055",
+        "en_title": "Low-Temperature Remediation of NO Catalyzed by Interleaved CuO Nanoplates",
+        "id": "813144455023427584",
+        "keywords": "[{\"en_name\": \"catalysts\", \"ch_name\": \"\"}, {\"en_name\": \"copper oxide\", \"ch_name\": \"\"}, {\"en_name\": \"crystal engineering\", \"ch_name\": \"\"}, {\"en_name\": \"environmental remediation\", \"ch_name\": \"\"}, {\"en_name\": \"surface science\", \"ch_name\": \"\"}]",
+        "publication_date": "2014-7",
+        "publication_id": "2016",
+        "publication_name": "Advanced Materials _ Adv. Mater.",
+        "research_categories": "",
+        "zh_title": "交错排列的CuO纳米片催化低温去除NO"
+      },
+      "paper:814655903763529730": {
+        "area": "Chemistry",
+        "authors": "Zhongnan Xu | Jan Rossmeisl | John R. Kitchin",
+        "available_online": "2015-2-20",
+        "cover_date_start": "2015-02-20",
+        "created_at": "2022-12-27T16:31:44+08:00",
+        "doi": "10.1021/jp511426q",
+        "en_title": "A Linear Response DFT+ U Study of Trends in the Oxygen Evolution Activity of Transition Metal Rutile Dioxides",
+        "id": "814655903763529730",
+        "keywords": "",
+        "publication_date": "2015-3-5",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "过渡金属金红石型二氧化物析氧活性趋势的线性响应密度泛函理论加U研究 "
+      },
+      "paper:850063868695674881": {
+        "area": "Environmental Science and Ecology",
+        "authors": "Xin Lei | Qingyun Tang | Yongping Zheng | Pinit Kidkhunthod | Xiaolong Zhou | Bifa Ji | Yongbing Tang",
+        "available_online": "",
+        "cover_date_start": "2023-03-31",
+        "created_at": "2023-04-04T09:30:19+08:00",
+        "doi": "10.1038/s41893-023-01101-z",
+        "en_title": "High-entropy single-atom activated carbon catalysts for sustainable oxygen electrocatalysis",
+        "id": "850063868695674881",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2936",
+        "publication_name": "Nature Sustainability _ ",
+        "research_categories": "[\"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "用于可持续氧电催化的高熵单原子活性炭催化剂"
+      },
+      "paper:867749632791282417": {
+        "area": "arXiv-Physics",
+        "authors": "Wooil Yang | Bo Gyu Jang | Young-Woo Son | Seung-Hoon Jhi",
+        "available_online": "",
+        "cover_date_start": "2022-05-06",
+        "created_at": "2023-05-23T04:47:14+08:00",
+        "doi": "10.48550/arXiv.2205.02972",
+        "en_title": "Lattice dynamical properties of antiferromagnetic oxides calculated using self-consistent extended Hubbard functional method",
+        "id": "867749632791282417",
+        "keywords": "",
+        "publication_date": "2022-05-06",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "使用自洽扩展哈伯德泛函方法计算的反铁磁氧化物的晶格动力学性质"
+      }
+    },
+    "variables": [
+      {
+        "content": "For stoichiometric rutile TiO$_2$(110) adsorption sites where the surface Ti atom has a nominal $d^0$ configuration and bonding to OH, O, and OOH involves significant Ti $3p$ and O $2p$ character, the weak-point claim is: computing separate, state-specific Hubbard $U$ values for the Ti ion in the clean surface and for the Ti ion in the adsorbed state (the DFT+U(R) approach that accounts for changes in $U$ with electronic state), or alternatively applying a Hubbard $U$ correction to oxygen $2p$ orbitals or Ti $3p$ orbitals instead of to Ti $3d$, will produce adsorption energetics for TiO$_2$ that resolve the observed anomalous behavior (specifically, the OOH adsorption energy becoming more exothermic with increasing conventional Ti $3d$ $U$) and restore more physically consistent trends comparable to other transition metal oxides.\n      Kulik, H. J.; Marzari, N. Accurate Potential Energy Surfaces With a DFT+U(R) Approach. J. Chem. Phys. 2011, 135, 194105.",
+        "content_hash": "bb5c55f09eeda3f824974b80be98c4169f26e3386a5ca6b682bf02f9d3e124c2",
+        "id": "gcn_8d3c54b72ed04900",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814655903763529730::P10",
+            "package_id": "paper:814655903763529730",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814655903763529730"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028404512489927477,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: In spin-polarized plane-wave density functional theory with an on-site Hubbard U correction (DFT+U) applied to transition-metal oxide slab models, choosing on-site U parameters of U_Mn = 4.0 eV, U_Fe = 4.0 eV, U_Co = 3.3 eV, U_Ni = 6.4 eV, and U_Cu = 4.0 eV (values adopted from literature) yields computed relative trends in the adsorption energy E_bind(O_2@V_O) (defined as E[slab with O_2 adsorbed at a surface V_O] − E[slab with V_O] − E[O_2(g)]), the transition-state energy for O_2 dissociation (referenced to gas-phase O_2 + surface vacancy), and vacancy-formation/diffusion barriers that preserve the physical ordering across the sampled B-site elements (Al, Mn, Fe, Co, Ni, Cu); implicit in this claim is that (i) the chosen U values capture the dominant static-correlation effects for the 3d orbitals of each transition metal in the modeled surface environment, (ii) any residual systematic U-dependent shifts do not change the qualitative series ordering or the presence of approximately linear correlations between O_2 dissociation transition-state energy and E_bind(O_2@V_O) and between surface vacancy-formation energy and E_bind(O_2@V_O) observed in the DFT dataset, and (iii) sensitivity tests (for example, varying U_Ni between 5.4 and 7.4 eV, which in the paper changes the computed E_bind on La_2NiO_4 from −1.30 to −1.01 eV) are taken to be representative of the U sensitivity across the other B-site elements.",
+        "content_hash": "31f23d598c4e01679b31b1af0509622a7eefedcd24d892c3770b6b08e6f0d997",
+        "id": "gcn_0f44a320877948ae",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813031133053714433::P2",
+            "package_id": "paper:813031133053714433",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813031133053714433"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027071520029266508,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DFT calculations applying a Hubbard-like DFT+$U$ correction use an effective parameter $U-J=3.0\\ \\mathrm{eV}$ only for the iron $3d$ electrons while treating Mn, Co, Ni and Cu without an explicit $U$ correction; the proposition is that this selective application of $U-J=3.0\\ \\mathrm{eV}$ to Fe $3d$ and the omission of $U$ corrections on the other transition-metal $3d$ states produce sufficiently accurate relative projected density-of-states (PDOS) positions, metal–ligand hybridization trends and adsorption Gibbs free-energy differences $\\Delta G_{1\\sim4}$ to reliably support the qualitative and quantitative conclusions about redistribution of adsorption free energies among sites in the HESA model.",
+        "content_hash": "f310cbd9b72263de7cb6c86495e90e8c69eee3bcc54cc9fe84f4afdbf2f9a1c9",
+        "id": "gcn_859c7cebb69441a0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:850063868695674881::P2",
+            "package_id": "paper:850063868695674881",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:850063868695674881"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026161328190508135,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Density functional theory augmented by an on-site Hubbard Coulomb correction (DFT+U) implemented with plane-wave projector-augmented-wave potentials is employed with the Hubbard U correction applied to localized transition-metal d manifolds using element-specific U values that were obtained by fitting oxide formation enthalpies in the approach of Wang, Maxisch, and Ceder; the DFT+U total-energy functional used in these calculations includes a rotationally invariant Hubbard term E_U = (U/2) ∑_{i,σ} n_{iσ}(1−n_{iσ}) applied to the specified d orbitals, and the same single set of fitted U values (one U per transition-metal element from the cited fitting protocol) is used for all substituted compositions, all computed formation energies, oxygen-vacancy formation energies E_vac, electronic densities of states DOS(E_F), and climbing-image nudged-elastic-band oxygen migration barriers E_mig reported here.\n      Wang, L.; Maxisch, T.; Ceder, G., Phys. Rev. B 2006, 73, 195107.",
+        "content_hash": "2a324e44f357390040260e354978168cb498ef7c95ee43780f668eead275763c",
+        "id": "gcn_6e8ce650a1ee4b73",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811147763042484224::P1",
+            "package_id": "paper:811147763042484224",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811147763042484224"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026021080368906456,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In plane-wave DFT simulations of anatase TiO₂ the proposition is that not applying an on-site Hubbard U correction (DFT+U) or not using hybrid exchange–correlation functionals to correct the position and localization of titanium 3d electronic states can lead to an inaccurate description of the oxide conduction-band edge and localized d-state energetics, and that such inaccuracies can in turn affect computed adsorption energetics, charge transfer, and activation barriers for reactions involving surface Ti sites; omission of a U correction or hybrid treatment therefore introduces an additional source of uncertainty in computed adsorption and activation properties.",
+        "content_hash": "a64328ca5ade75437ccd608b3d56a3088fc0942e07dc41b4b48ae7b8e274e0ba",
+        "id": "gcn_9b999f666bf445fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811045965677985793::P8",
+            "package_id": "paper:811045965677985793",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811045965677985793"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02420289855072464,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A combined computational formalism was implemented that couples first-principles Density Functional Theory with Hubbard $U$ corrections and van der Waals treatment (DFT+$U$+vdW) to a thermodynamic analysis of oxidation and reduction equilibria of transition metal (hydr)oxide films on precious-metal electrocatalyst surfaces; this framework maps the relative free energies of surface structures as a function of electrochemical potential and pH and is suitable for constructing Pourbaix diagrams and surface phase diagrams for thin (1–2 monolayer) overlayers on close-packed metal substrates. In this statement: \"DFT+$U$+vdW\" denotes density functional calculations that include an on-site Hubbard $U$ correction for strongly correlated $d$ electrons of the transition metal and an explicit van der Waals dispersion correction; \"thermodynamic analysis\" denotes the use of computed total energies and adsorption energies together with standard electrochemical free-energy corrections to express stability as a function of electrode potential and solution pH; and \"thin (1–2 monolayer) overlayers\" refers to atomistic models of Ni(OH)$_x$ and related (hydr)oxide films of one to two atomic layers on close-packed Pt surfaces.",
+        "content_hash": "5fe3f908c4d997c847a7ee35252db08332721f5114700cf7aa1eb6da5f232db8",
+        "id": "gcn_112df63862b94e15",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812673574153224193::conclusion_1",
+            "package_id": "paper:812673574153224193",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812673574153224193"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let U be the DFT+U Hubbard correction parameter (in eV) applied to Ti 3d orbitals in plane‑wave DFT calculations of anatase‑TiO₂(101); for the pristine anatase surface models and the set of molecular and atomic adsorption geometries sampled, increasing U from 4 eV to 6 eV produces only small quantitative changes in the computed adsorption enthalpy differences ΔH_calc (the pattern of which sites are stable versus unstable and the ordering of site energies remain the same and numerical shifts are small compared with the adsorption‑energy scale of interest).",
+        "content_hash": "4a6c1d07e94499ef7b53d52807795f31d32a0f7a03522c95cdcde4242ac1d1e7",
+        "id": "gcn_024ee7667ac349ef",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1144326976736067609::P6",
+            "package_id": "paper:1144326976736067609",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1144326976736067609"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The electronic-structure calculations that yield the adsorption energies, optimized geometries, and transition-state barriers are spin-polarized density functional theory (DFT) calculations using the Perdew–Burke–Ernzerhof (PBE) generalized gradient approximation augmented by an on-site Hubbard $U$ correction with $U_{\\mathrm{eff}}=4\\ \\mathrm{eV}$ applied to Fe 3d orbitals (DFT+$U$) and by Grimme's DFT-D3 empirical dispersion correction, and it is assumed that this methodological choice produces adsorption energies and Gibbs free-energy barriers that are quantitatively reliable within typical DFT uncertainties (on the order of a few tenths of an electronvolt) for the transition-metal oxide surface chemisorption and bond-breaking processes studied on $\\alpha$-Fe$_2$O$_3$(012).",
+        "content_hash": "5d7319ac0524e7129ae3b4b87cd695b21b763455245a625e433a7c789b38c76c",
+        "id": "gcn_09242aaec09f4152",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812117725269721089::P2",
+            "package_id": "paper:812117725269721089",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812117725269721089"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Density-functional theory with a Hubbard $U$ correction (``DFT+$U$'') is a quantum-mechanical electronic-structure computational approach that solves the Kohn–Sham density-functional equations using an approximate exchange-correlation functional and includes an on-site Coulomb correction term $U$ applied to localized copper $3d$ orbitals to partially remedy self-interaction and localization errors; when DFT+$U$ is applied with the specific choices of exchange-correlation functional, basis set, plane-wave cutoff, slab thickness, vacuum spacing, $k$-point sampling, and numerical value of $U$ reported in the Supporting Information, the computed outputs reported are: surface energy for the CuO $\\{001\\}$ facet $=+1.70\\ \\mathrm{J\\ m^{-2}}$, surface energy for the CuO $\\{100\\}$ facet $=+1.56\\ \\mathrm{J\\ m^{-2}}$, adsorption-energy difference for CO$_{2}$ on oxygen-deficient surfaces $\\Delta E_{\\mathrm{ads}}^{CO_2} = E_{\\mathrm{ads}}^{\\{001\\}} - E_{\\mathrm{ads}}^{\\{100\\}} = 2.4\\ \\mathrm{eV}$, and adsorption-energy difference for N$_{2}$ on ideal surfaces $\\Delta E_{\\mathrm{ads}}^{N_2} = E_{\\mathrm{ads}}^{\\{001\\}} - E_{\\mathrm{ads}}^{\\{100\\}} = 2.3\\ \\mathrm{eV}$; this premise asserts those numerical DFT+$U$ outputs as reported.\n      Supporting Information (SI)",
+        "content_hash": "c34571a7964e91fa466074160abd7dac34abf213eb150e83c709d93ef4723309",
+        "id": "gcn_61889c8084db4e44",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813144455023427584::P1",
+            "package_id": "paper:813144455023427584",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813144455023427584"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Applying a Hubbard $U$ correction of $3.5\\ \\mathrm{eV}$ to the titanium $d$-states (DFT+U on Ti) while applying no on-site Hubbard correction to the transition-metal adatom $d$-states yields relative adsorption geometries and energetics (binding energies and activation barriers) for the set $M\\in\\{\\mathrm{Au,Ag,Cu,Pt,Rh,Ni,Co,Fe}\\}$ on anatase TiO$_{2}$ (101) that are stable in the sense that varying $U$ within a plausible range of approximately $2.5$–$4.5\\ \\mathrm{eV}$ or applying reasonable +$U$ corrections to the adatom $d$-states would not qualitatively change the ordering of adsorption sites (OO, OTi, OTiO) nor the relative ordering of the computed activation energies reported here.",
+        "content_hash": "834ed73b5ea734a162f501f2140c683bc523d94bfc292d7cc533e9dd43a00282",
+        "id": "gcn_9136a062580c4b20",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811080952276058113::P3",
+            "package_id": "paper:811080952276058113",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811080952276058113"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The rotationally invariant DFT+U approach used in the electronic-structure calculations (Dudarev formulation) with U(Mo) = 4.0 eV and U(Ti) = 4.2 eV is assumed not to qualitatively alter the ranking of adsorption energies — i.e., the relative ordering of surfaces and termination types with respect to adsorption strength for the Al-containing neutral molecular models AlCl4, Al2Cl7, and [AlCl2·(urea)2] — compared to plausible alternative reasonable U choices or to calculations without a +U correction, so that the mechanistic conclusions drawn from the reported adsorption-energy trends are considered robust to the specific U parameter selection; definitions: \"DFT+U\" denotes the rotationally invariant on-site Hubbard correction applied to selected transition-metal d states, and \"qualitatively alter\" means changing the ordering between at least two distinct surface/termination adsorption preferences used to motivate experimental expectations.",
+        "content_hash": "1f3470e1e830fe6ced0337b255eeec66fcecfea83a643394db6b61f18017d13e",
+        "id": "gcn_c28a7489cd894dbc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1010729595567079428::P3",
+            "package_id": "paper:1010729595567079428",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1010729595567079428"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The extended ACBN0 self-consistent procedure, applied at the experimental cubic rocksalt lattice constants of manganese monoxide (MnO) and nickel monoxide (NiO), produced converged scalar Hubbard parameters defined as follows: U_{d} is the on-site Hubbard correction energy parameter for transition-metal 3d orbitals, U_{p} is the on-site Hubbard correction energy parameter for oxygen 2p orbitals, and V_{dp} is the nearest-neighbor intersite Hubbard correction energy parameter coupling a transition-metal 3d orbital and a neighboring oxygen 2p orbital. Using density-functional theory (DFT) with only the on-site Hubbard correction (DFT+U) and with both on-site and nearest-neighbor intersite Hubbard corrections (DFT+U+V), the numerical values obtained at the experimental cubic lattice constants are: for MnO, DFT+U: U_{d}=4.88 eV, U_{p}=3.35 eV; DFT+U+V: U_{d}=5.23 eV, U_{p}=3.41 eV, V_{dp}=2.90 eV; for NiO, DFT+U: U_{d}=8.96 eV, U_{p}=3.91 eV; DFT+U+V: U_{d}=7.65 eV, U_{p}=2.52 eV, V_{dp}=3.15 eV.",
+        "content_hash": "d37c86ebcdf2c279ef5688bc254bd910ba067406adb5049b419de09c7101969f",
+        "id": "gcn_8d9ff5a5962845c7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749632791282417::conclusion_1",
+            "package_id": "paper:867749632791282417",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749632791282417"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "8b928c93432ab9b53dbc6cc558039a59"
+}

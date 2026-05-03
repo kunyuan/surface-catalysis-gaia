@@ -1,0 +1,520 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811079087442362370": {
+        "area": "Chemistry",
+        "authors": "Jin Cheng | Kuang Yu | Florian Libisch | Johannes M. Dieterich | Emily A. Carter",
+        "available_online": "2017-2-13",
+        "cover_date_start": "2017-02-13",
+        "created_at": "2022-12-17T19:38:45+08:00",
+        "doi": "10.1021/acs.jctc.6b01011",
+        "en_title": "Potential Functional Embedding Theory at the Correlated Wave Function Level. 2. Error Sources and Performance Tests",
+        "id": "811079087442362370",
+        "keywords": "",
+        "publication_date": "2017-3-14",
+        "publication_id": "3358",
+        "publication_name": "Journal of Chemical Theory and Computation _ J. Chem. Theory Comput.",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Theoretical and Computational Chemistry\"]",
+        "zh_title": "关联波函数层面的潜在泛函嵌入理论。2. 误差来源与性能测试"
+      },
+      "paper:811698204323086338": {
+        "area": "Physics and Astrophysics",
+        "authors": "Sujata Paul | Marco Buongiorno Nardelli",
+        "available_online": "",
+        "cover_date_start": "2010-12-06",
+        "created_at": "2022-12-19T12:38:53+08:00",
+        "doi": "10.1063/1.3525372",
+        "en_title": "Rational computational design of optimal catalytic surfaces",
+        "id": "811698204323086338",
+        "keywords": "",
+        "publication_date": "2010-12-6",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "",
+        "zh_title": "最优催化表面的理性计算设计"
+      },
+      "paper:811708536475090945": {
+        "area": "Physics and Astrophysics",
+        "authors": "P. Thostrup | E. Christoffersen | H. T. Lorensen | K. W. Jacobsen | F. Besenbacher | J. K. Nørskov",
+        "available_online": "2001-8-30",
+        "cover_date_start": "2001-08-30",
+        "created_at": "2022-12-19T13:19:57+08:00",
+        "doi": "10.1103/physrevlett.87.126102",
+        "en_title": "Adsorption-Induced Step Formation",
+        "id": "811708536475090945",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\"]",
+        "zh_title": "吸附诱导台阶形成"
+      },
+      "paper:811861649022517250": {
+        "area": "Physics and Astrophysics",
+        "authors": "W. Meyer | K. Biedermann | M. Gubo | L. Hammer | K. Heinz",
+        "available_online": "2009-3-31",
+        "cover_date_start": "2009-03-31",
+        "created_at": "2022-12-19T23:28:21+08:00",
+        "doi": "10.1103/physrevb.79.121403",
+        "en_title": "Superstructure in the termination of CoO(111) surfaces: Low-energy electron diffraction and scanning tunneling microscopy",
+        "id": "811861649022517250",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "CoO(111)表面终止处的超结构：低能电子衍射和扫描隧道显微镜"
+      },
+      "paper:811872717916602369": {
+        "area": "Chemistry",
+        "authors": "Pussana Hirunsit | Perla B. Balbuena",
+        "available_online": "",
+        "cover_date_start": "2009-03-01",
+        "created_at": "2022-12-20T00:12:20+08:00",
+        "doi": "10.1016/j.susc.2009.02.004",
+        "en_title": "Surface atomic distribution and water adsorption on Pt–Co alloys",
+        "id": "811872717916602369",
+        "keywords": "",
+        "publication_date": "2009-3",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "铂钴合金的表面原子分布与水吸附"
+      },
+      "paper:812356194684370945": {
+        "area": "Material science",
+        "authors": "Shandong Li | Hong Bi | Zongjun Tian | Feng Xu | Benxi Gu | Mu Lu | Youwei Du",
+        "available_online": "",
+        "cover_date_start": "2004-10-01",
+        "created_at": "2022-12-21T08:13:30+08:00",
+        "doi": "10.1016/j.jmmm.2004.03.040",
+        "en_title": "Surface spin pinning effect of polymer decomposition residues in CoCr2O4 nanocrystallites system",
+        "id": "812356194684370945",
+        "keywords": "[{\"ch_name\":\"CoCr<sub>2</sub>O<sub>4</sub>磁性能\",\"en_name\":\"CoCr<sub>2</sub>O<sub>4</sub> magnetic properties\"},{\"ch_name\":\"纳米材料\",\"en_name\":\"Nanometer materials\"},{\"ch_name\":\"表面钉扎效应\",\"en_name\":\"Surface pinning effect\"}]",
+        "publication_date": "2004-10",
+        "publication_id": "2151",
+        "publication_name": "Journal of Magnetism and Magnetic Materials _ Journal of Magnetism and Magnetic Materials",
+        "research_categories": "",
+        "zh_title": "CoCr₂O₄纳米微晶体系中聚合物分解残余物的表面自旋钉扎效应"
+      },
+      "paper:812360126500438016": {
+        "area": "Physics and Astrophysics",
+        "authors": "Sara E. Mason | Ilya Grinberg | Andrew M. Rappe",
+        "available_online": "2004-4-5",
+        "cover_date_start": "2004-04-05",
+        "created_at": "2022-12-21T08:29:08+08:00",
+        "doi": "10.1103/physrevb.69.161401",
+        "en_title": "First-principles extrapolation method for accurate CO adsorption energies on metal surfaces",
+        "id": "812360126500438016",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "用于精确计算金属表面CO吸附能的第一性原理外推方法"
+      },
+      "paper:812520766183571457": {
+        "area": "Chemistry",
+        "authors": "Nuwan H. Attanayake | Huta R. Banjade | Akila C. Thenuwara | Babak Anasori | Qimin Yan | Daniel R. Strongin",
+        "available_online": "2021",
+        "cover_date_start": "2021-01-01",
+        "created_at": "2022-12-21T19:07:27+08:00",
+        "doi": "10.1039/d0cc05822j",
+        "en_title": "Electrocatalytic CO 2 reduction on earth abundant 2D Mo 2 C and Ti 3 C 2 MXenes",
+        "id": "812520766183571457",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3407",
+        "publication_name": "Chemical Communications _ Chem. Commun.",
+        "research_categories": "[\"Engineering\", \"Materials Engineering\", \"Nanotechnology\"]",
+        "zh_title": "基于地球上储量丰富的二维碳化钼（Mo₂C）和碳化钛铝（Ti₃C₂ MXenes）的电催化二氧化碳还原反应"
+      },
+      "paper:812543608577064960": {
+        "area": "Chemistry",
+        "authors": "Sungwoo Kang | Suyeon Ju | Seungwu Han | Youngho Kang",
+        "available_online": "2020-11-12",
+        "cover_date_start": "2020-11-12",
+        "created_at": "2022-12-21T20:38:14+08:00",
+        "doi": "10.1021/acs.jpcc.0c07113",
+        "en_title": "Computational Identification of Transition-Metal Dichalcogenides for Electrochemical CO2 Reduction to Highly Reduced Species Beyond CO and HCOOH",
+        "id": "812543608577064960",
+        "keywords": "",
+        "publication_date": "2020-11-25",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "用于电化学二氧化碳还原为除一氧化碳和甲酸之外的高还原态物种的过渡金属二硫属化物的计算识别"
+      },
+      "paper:813020560014442497": {
+        "area": "Material science",
+        "authors": "Songcan Wang | Tianwei He | Jung‐Ho Yun | Yuxiang Hu | Mu Xiao | Aijun Du | Lianzhou Wang",
+        "available_online": "2018-6-26",
+        "cover_date_start": "2018-06-26",
+        "created_at": "2022-12-23T04:13:27+08:00",
+        "doi": "10.1002/adfm.201802685",
+        "en_title": "New Iron‐Cobalt Oxide Catalysts Promoting BiVO 4 Films for Photoelectrochemical Water Splitting",
+        "id": "813020560014442497",
+        "keywords": "[{\"en_name\": \"bismuth vanadate\", \"ch_name\": \"\"}, {\"en_name\": \"iron-cobalt oxide\", \"ch_name\": \"\"}, {\"en_name\": \"oxygen evolution cocatalyst\", \"ch_name\": \"\"}, {\"en_name\": \"photoanode\", \"ch_name\": \"\"}, {\"en_name\": \"water splitting\", \"ch_name\": \"\"}]",
+        "publication_date": "2018-8",
+        "publication_id": "2023",
+        "publication_name": "Advanced Functional Materials _ Adv. Funct. Mater.",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "新型铁钴氧化物催化剂促进用于光电化学水分解的BiVO₄薄膜"
+      },
+      "paper:813105263425880065": {
+        "area": "Material science",
+        "authors": "Zhansheng Lu | Meixin Yang | Dongwei Ma | Peng Lv | Shuo Li | Zongxian Yang",
+        "available_online": "",
+        "cover_date_start": "2017-12-01",
+        "created_at": "2022-12-23T09:50:02+08:00",
+        "doi": "10.1016/j.apsusc.2017.08.217",
+        "en_title": "CO oxidation on Mn-N4 porphyrin-like carbon nanotube: A DFT-D study",
+        "id": "813105263425880065",
+        "keywords": "[{\"en_name\": \"CO oxidation\", \"ch_name\": \"\"}, {\"en_name\": \"DFT-D\", \"ch_name\": \"\"}, {\"en_name\": \"Single atom catalyst\", \"ch_name\": \"\"}, {\"en_name\": \"Termolecular Eley-Rideal mechanism\", \"ch_name\": \"\"}]",
+        "publication_date": "2017-12",
+        "publication_id": "2051",
+        "publication_name": "Applied Surface Science _ Applied Surface Science",
+        "research_categories": "",
+        "zh_title": "锰氮四配位类卟啉碳纳米管上的一氧化碳氧化：一项密度泛函理论-色散校正（DFT-D）研究"
+      },
+      "paper:814644501367750656": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. Di | J. Kubal | Z. Zeng | J. Greeley | F. Maroun | P. Allongue",
+        "available_online": "",
+        "cover_date_start": "2015-03-23",
+        "created_at": "2022-12-27T15:46:26+08:00",
+        "doi": "10.1063/1.4916554",
+        "en_title": "Influence of controlled surface oxidation on the magnetic anisotropy of Co ultrathin films",
+        "id": "814644501367750656",
+        "keywords": "",
+        "publication_date": "2015-3-23",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "",
+        "zh_title": "可控表面氧化对钴超薄膜磁各向异性的影响"
+      },
+      "paper:867760677031248080": {
+        "area": "arXiv-Physics",
+        "authors": "D.W.Yuan | X.G. Gong | Ruqian Wu",
+        "available_online": "",
+        "cover_date_start": "2007-01-31",
+        "created_at": "2023-05-23T05:31:08+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0701769",
+        "en_title": "Composition and reactivity on Pd/Au(111) surface: A first-principle study",
+        "id": "867760677031248080",
+        "keywords": "",
+        "publication_date": "2007-01-31",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "Pd/Au(111)表面的组成与反应活性：第一性原理研究"
+      },
+      "paper:867767281881448928": {
+        "area": "arXiv-Physics",
+        "authors": "Valentino R. Cooper | Alexie M. Kolpak | Yashar Yourdshahyan | Andrew M. Rappe",
+        "available_online": "",
+        "cover_date_start": "2004-10-14",
+        "created_at": "2023-05-23T05:57:23+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0410377",
+        "en_title": "Support-mediated activation and deactivation of Pt thin films",
+        "id": "867767281881448928",
+        "keywords": "",
+        "publication_date": "2004-10-14",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "支撑介导的铂薄膜的激活与失活"
+      }
+    },
+    "variables": [
+      {
+        "content": "The adsorption and coadsorption electronic energies (Eads(O2)=2.05 eV, Eads(CO)=2.20 eV, Ecoads(CO+O2)=2.14 eV, Ecoads(2CO)=2.71 eV) were computed with the Perdew–Burke–Ernzerhof generalized-gradient functional (PBE) augmented by a DFT-D dispersion correction as implemented in the DMol³ code together with DNP basis functions and DFT semi-core pseudopotentials (DSPPs); these methodological choices (exchange–correlation functional, dispersion scheme, pseudopotentials, and finite localized basis) are known to introduce systematic errors in chemisorption energies on open-shell transition-metal centers and can alter adsorption-energy differences on the order of a few tenths of an electronvolt. Fig. 3",
+        "content_hash": "28e0844bcda201dcd678d77714b4ca9a33c978f8e618b871d6f711b92cdbef3d",
+        "id": "gcn_e74e4db35ce64dfd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813105263425880065::P4",
+            "package_id": "paper:813105263425880065",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813105263425880065"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02736498731424429,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The hypothesis underlying the extrapolation correction is that a single horizontal shift in the gas-phase CO singlet–triplet excitation energy — i.e., replacing the DFT-GGA value $\\Delta E_{\\mathrm{S-T}}^{\\mathrm{GGA}}$ by the high-level reference $\\Delta E_{\\mathrm{S-T}}^{\\mathrm{CI}}$ — combined with the empirically obtained per-site linear sensitivity $\\delta E_{\\mathrm{chem}}^{\\mathrm{GGA}}/\\delta\\Delta E_{\\mathrm{S-T}}^{\\mathrm{GGA}}$ removes the dominant portion of the systematic DFT-GGA error in the computed chemisorption energy $E_{\\mathrm{chem}}$, meaning that other potential error sources (such as residual inaccuracies in the metal electronic structure, surface relaxation effects, coverage-dependent lateral interactions, or exchange-correlation contributions not related to CO frontier orbital placement) are assumed to be small compared to the $\\Delta E_{\\mathrm{S-T}}$-related correction for the systems and conditions studied.",
+        "content_hash": "0b2993d6e3082f5c9c4d20180de4e3098f3bb7051abdd9ab727f038e7f6e3a61",
+        "id": "gcn_ee3ed147a9014ec8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812360126500438016::P5",
+            "package_id": "paper:812360126500438016",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812360126500438016"
+          ]
+        },
+        "role": "premise",
+        "score": 0.022574508560558024,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition is: because cobalt monoxide (CoO) is a transition-metal oxide with partially filled Co $3d$ states and known strong on-site electron-electron correlation effects in bulk and at surfaces, first-principles computational methods intended to yield quantitatively reliable predictions of surface energetics, magnetic ordering, and local electronic structure for CoO surfaces must explicitly include treatments of strong electronic correlations beyond standard local or semilocal density-functional approximations—for example via DFT+$U$, hybrid exchange-correlation functionals, dynamical mean-field theory, or related many-body approaches—since neglecting such correlation treatments risks qualitatively incorrect predictions for surface energetics and magnetic states.\n      U. D. Wdowik and K. Parlinski, Phys. Rev. B 75, 104306 (2007); W. Meyer et al., Phys. Rev. B 79, 121403 (2009)",
+        "content_hash": "73a847b3e438002e5f9690bbf3f48f8989893dbdfa2adda8bdf9d523509cdc84",
+        "id": "gcn_1a4a40556e2643d1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811861649022517250::P13",
+            "package_id": "paper:811861649022517250",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811861649022517250"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DFT-calculated trend of increasing CO chemisorption energy with decreasing local Pt coordination is correlated with the local electronic structure: as the mean nearest-neighbor Pt coordination number n of a surface Pt atom is reduced, the center (average energy) of that atom's d-projected electronic states shifts upward in energy and the d band becomes narrower (reduced bandwidth), and this upward shift and narrowing of the local d band increases the strength of the CO–Pt interaction because the adsorbate molecular states hybridize more favorably with the higher-energy, narrower Pt d states; consequently low-coordinated Pt atoms such as step atoms and adatoms bind CO more strongly than high-coordinated terrace atoms.",
+        "content_hash": "1ca6858988705281f7e07b4f9770716084e447224fae5dffb9d808332cd332fc",
+        "id": "gcn_adefb8887eef41e2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811708536475090945::conclusion_3",
+            "package_id": "paper:811708536475090945",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811708536475090945"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a single atomic layer (n=1) of platinum (Pt) deposited as a Pt(111)-like film on the alpha-alumina (α-Al2O3) support, the density-functional-theory (DFT) computed CO chemisorption energy for CO bound at the surface top site is larger than the corresponding CO top-site chemisorption energy on an unsupported Pt(111) reference slab computed at the same in-plane lattice geometry as the supported metal; this enhancement of the top-site chemisorption energy is observed for both the alumina surface terminated by surface aluminum atoms (the Al-terminated surface, denoted Al_T) and the alumina surface terminated by surface oxygen atoms (the O-terminated surface, denoted O_T). Here the “top” site denotes CO molecular adsorption with the CO molecule bonded to a single surface Pt atom, with direct bonding described by electron donation from the filled CO 5σ molecular orbital into Pt d_z^2 orbitals and back-donation described by electron transfer from Pt d_xz and d_yz orbitals into the CO 2π* antibonding orbitals; the reported enhancement is the DFT-computed change in the CO top-site chemisorption energy for the n=1 supported Pt layer relative to the value computed for the unsupported Pt(111) reference.",
+        "content_hash": "2c602786437d44851858450d256b314214af4953d407692599c16a58cb886bdc",
+        "id": "gcn_41e1f2263706421a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767281881448928::conclusion_1",
+            "package_id": "paper:867767281881448928",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767281881448928"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The argument employs an analogy to well-characterized small-molecule chemisorption cases (for example, CO on Ni surfaces, where CO coordination drives an intra-atomic electronic redistribution tending toward a filled d shell) to propose that polymer-decomposition fragments chemisorbed on CoCr2O4 surface sites can act as ligand fields that strongly modify surface electronic states and pin surface magnetic moments; this analogy assumes that (a) the chemical bonding motif and effective ligand-field strength produced by the polymer fragments on oxide (Co,Cr) surface sites have comparable qualitative electronic effects to those in the cited small-molecule metal–ligand examples, and (b) the oxide surface electronic structure responds to covalent ligand coordination in a manner sufficiently analogous to the metallic examples to allow transfer of the ligand-field intuition.",
+        "content_hash": "cfcf94d315792466b2e09e358a0408a09529ed45ac8db601501b627f9cf238e1",
+        "id": "gcn_3e2c8700f1544846",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812356194684370945::P10",
+            "package_id": "paper:812356194684370945",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812356194684370945"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The adsorption and reaction free energies reported were computed with the Perdew–Burke–Ernzerhof (PBE) generalized-gradient-approximation density functional using the paper's specified computational settings (pseudopotentials, plane-wave cutoffs, k-point sampling, slab thickness, and applied zero-point and vibrational corrections), and the methodological proposition used to interpret those results is that PBE-level DFT, despite known systematic quantitative errors for adsorption energies, correctly classifies the qualitative binding regimes observed in the calculations—specifically that bare (no surface oxygen) MXene terminations overbind CO and *COOH, fully oxygen-terminated surfaces bind CO₂/CO too weakly, and oxygen-terminated surfaces with oxygen vacancies occupy an intermediate and chemically reasonable binding regime for CO₂ reduction intermediates.",
+        "content_hash": "59cbffa3d0884aa86ccac5d32626009051dc7865ec059459bfcd32f0ca972391",
+        "id": "gcn_5d3f138f2b82464b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812520766183571457::P7",
+            "package_id": "paper:812520766183571457",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812520766183571457"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Density functional theory calculations of adsorption energies and reaction free energies for OER intermediates on transition‑metal oxide surface models performed with the Perdew–Burke–Ernzerhof (PBE) generalized gradient approximation, with Grimme D3 empirical dispersion corrections (DFT+D3), a plane‑wave cutoff of $500\\ \\mathrm{eV}$, and Gamma‑point Brillouin zone sampling can produce quantitative adsorption energies and OER overpotentials that are affected by systematic errors intrinsic to the exchange‑correlation functional choice, dispersion treatment, finite supercell and slab thickness, and sparse $k$‑point sampling; consequently, computed overpotential differences on the order of a few hundred millivolts (e.g., ≈0.22 V) carry significant methodological uncertainty. In this proposition, \"significant methodological uncertainty\" denotes typical DFT systematic errors for transition‑metal oxide surfaces that can be of the same order as the reported overpotential differences.\n      [38][39][40]",
+        "content_hash": "fcdbb75639bb5fc8b37cd7e74e96d84bfb43541503140d516761ddf27e934bfb",
+        "id": "gcn_36f8e9efb3934acb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813020560014442497::P12",
+            "package_id": "paper:813020560014442497",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813020560014442497"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For Pt films grown on the Al-terminated α-Al2O3 surface (Al_T), the DFT-computed CO top-site chemisorption energy decreases monotonically as the Pt film thickness n is increased from n=1 to n=4 atomic layers, approaching the CO chemisorption energy of the unsupported Pt(111) reference by n≈4; correspondingly, the site-preference energy defined as E_top−E_fcc (the difference between the CO top-site chemisorption energy E_top and the CO fcc hollow-site chemisorption energy E_fcc) for n≥4 is essentially equal to the E_top−E_fcc value computed for the unsupported Pt(111) reference, indicating that the influence of the oxide–metal interface on surface CO adsorption is confined to the first few atomic Pt layers in this Al_T-supported system.",
+        "content_hash": "8593f765d54ff98a1e43a82b0a0ebfa735f439d2985bb05b642d513e7c6f1a47",
+        "id": "gcn_b489195b0e51445f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767281881448928::conclusion_2",
+            "package_id": "paper:867767281881448928",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767281881448928"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Surface electronic structure analyses, using d-projected densities of states (d-projected density of states, d-DOS, i.e., the DOS projected onto atomic d orbitals of surface atoms) and the d-band center defined as the first moment (energy-weighted center) of the surface-atom d-projected DOS measured relative to the Fermi level, show systematic changes with surface cobalt fraction: increasing the Co atomic fraction on the surface shifts the surface d states upward in energy (closer to the Fermi level) and increases the minority-spin density near the Fermi energy for Co-rich surfaces. Atomic oxygen chemisorption energies computed at representative surfaces correlate with these electronic shifts: the strongest computed atomic O adsorption energy reported here is −5.04 eV on the Co-rich fct PtCo surface, while the Pt-skin fct PtCo surface (B-2) gives −3.31 eV; for the Pt3Co family the strongest reported values are −4.82 eV for a Co-exposing Pt3Co termination and −4.07 eV for the Pt-skin over Pt3Co, and a reference value on the pure Pt(111) surface is −4.48 eV. Because more positive (less negative) d-band-center values correspond to d states closer to the Fermi level, these computed trends are consistent with the d-band model expectation that an upward shift of the surface d-band center leads to stronger adsorption (more negative adsorption energy) of an electrophilic atomic adsorbate such as atomic oxygen.",
+        "content_hash": "724e281194d967412e62f3e360c94fea87a6a2199f1f7d5f03ae237b57b70fdc",
+        "id": "gcn_0bd472ba59ba4c8a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811872717916602369::conclusion_2",
+            "package_id": "paper:811872717916602369",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811872717916602369"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Perdew–Wang 1991 generalized-gradient-approximation exchange-correlation functional (PW91-GGA), when used with ultrasoft pseudopotentials and plane-wave periodic-boundary DFT calculations to compute chemisorption energies $E_{ad}$ of carbon monoxide (CO) on transition-metal surfaces, systematically overestimates the absolute adsorption energy $E_{ad}$ (where $E_{ad}=E_{CO+surface}-E_{surface}-E_{CO(gas)}$, $E_{CO+surface}$ is the total energy of the optimized CO-plus-surface system, $E_{surface}$ is the total energy of the relaxed clean surface, and $E_{CO(gas)}$ is the total energy of an isolated CO molecule computed with the same DFT setup) by a roughly reproducible amount on the order of a few tenths of an electronvolt (commonly $\\sim 0.2$–$0.5\\,$eV) relative to experimentally derived adsorption energies, while typically preserving the qualitative ordering of relative site energies (i.e., which adsorption site is preferred) across similar surface environments.\n      B. Hammer, L. B. Hansen, and J. K. N\\o rskov, Phys. Rev. B 59, 7413 (1999).",
+        "content_hash": "c4a9d06eb5d82153fb94d5dc349c4588236904c2bbbe53c8c69d4e2975827fd5",
+        "id": "gcn_a4092fbea683447f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867760677031248080::P1",
+            "package_id": "paper:867760677031248080",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867760677031248080"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "We established the following practical guideline for embedded correlated-wavefunction-in-DFT calculations: the density-based, non-self-consistent DFET scheme (which applies a DFT/DFT embedding potential and a posteriori linearized CW correction) is adequate for weakly interacting, well screened, or closed-shell interfaces—examples include hydrogen-bonded complexes and many metal-surface chemisorption problems—because polarization differences between DFT and CW descriptions of the embedded region and nonlinear interaction-energy effects are small; by contrast, for ionic or strongly polar interfaces where the embedded-region densities differ substantially between DFT and CW, the fully self-consistent PFET scheme (which removes both the DFET frozen-environment and linearization approximations and evaluates the interaction energy exactly via OEP inversion) is required to obtain benchmark-quality CW/DFT results. PFET is therefore the most rigorous and robust embedded correlated-wavefunction (ECW) scheme tested here, while DFET and the intermediate DFET/PFET scheme can be accurate only when fortuitous error cancellation occurs; PFET's principal drawback is greater computational cost arising from the numerically demanding optimized effective potential (OEP) inversion and iterative optimization of the embedding potential $V_{emb}$ with explicit CW evaluations.",
+        "content_hash": "c4e976e89920d77b7693ff4e031c4900e72262bfaf527b0fd496f120d0bb89f8",
+        "id": "gcn_0d0a3b3881a64bab",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811079087442362370::conclusion_8",
+            "package_id": "paper:811079087442362370",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811079087442362370"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let ΔE_{OH–H2O} denote the effective interaction energy of an adsorbed OH group with surrounding water (in eV per OH); DFT surface thermodynamics results indicate that setting ΔE_{OH–H2O} = 0 eV favors the (2×2)-OH adlayer as the lowest-energy oxidized surface in the oxidation potential window, whereas setting ΔE_{OH–H2O} = 0.2 eV per OH stabilizes the expanded (√9/13×√9/13)-CoOH structure; therefore the predicted most-stable oxidized surface is sensitive to the chosen value of ΔE_{OH–H2O}, and uncertainty or error in this interaction-energy parameter can change which oxidized structure is identified as lowest in free energy.",
+        "content_hash": "93be577e92c8daf41980698d47022f4079b5b343eca4be905f21123ca627218d",
+        "id": "gcn_7bb6bc4342cd4867",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814644501367750656::P8",
+            "package_id": "paper:814644501367750656",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814644501367750656"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A constant empirical correction of $-0.45\\ \\mathrm{eV}$ was applied to the DFT-calculated gas-phase CO total energy to compensate for known systematic errors of the PBE functional in describing the CO triple bond, and this single gas-phase CO energy correction was used without modification when that reference appears in surface/adsorbate free-energy cycles for all vacancy-containing MX₂ environments in the screening (the same correction is assumed transferable to the different surface electronic structures for comparative purposes).",
+        "content_hash": "d0cee3042862d4e7c53f86aa59fffe7b96430a2942858d22037df7d8bf6270c3",
+        "id": "gcn_9f6f0f9dbfdb46e7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812543608577064960::P9",
+            "package_id": "paper:812543608577064960",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812543608577064960"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Plane-wave pseudopotential density‑functional theory (DFT) calculations performed with both the Perdew–Zunger local density approximation (LDA) exchange–correlation functional and the Perdew–Burke–Ernzerhof (PBE) generalized gradient approximation (GGA) exchange–correlation functional show that for palladium films supported on a barium oxide (BaO) substrate the computed CO₂ chemisorption energy and the computed dissociation energy for CO₂ → CO + O vary systematically with palladium film thickness: for film thicknesses taken as bulk-like (∞, the clean Pd(001) surface), 3 monolayers (3 ML), 2 ML, and 1 ML, the static T = 0 K DFT total‑energy chemisorption energy ΔE_A = E(CO₂+surface) − E(surface) − E(CO₂) becomes increasingly exothermic (stronger binding) as the Pd film becomes thinner, and the computed dissociation energy for CO₂ → CO + O becomes correspondingly more favorable for thinner films; this qualitative, monotonic thickness-dependent trend is observed with both the LDA and the PBE‑GGA approximations.",
+        "content_hash": "b52a1d26598733a7ea8c055f3103d973444e496c8c51935272895fcb99c3f41b",
+        "id": "gcn_2012acb576ed419d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811698204323086338::conclusion_2",
+            "package_id": "paper:811698204323086338",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811698204323086338"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "d71561ec4121307be17857ef66041fe4"
+}

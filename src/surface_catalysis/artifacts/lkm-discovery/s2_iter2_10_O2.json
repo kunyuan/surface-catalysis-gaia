@@ -1,0 +1,431 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1149320034389065732": {
+        "area": "arXiv-Physics",
+        "authors": "Yue Pan | Shiyu Zhen | Xiaozhi Liu | Mengshu Ge | Jianxiong Zhao | Lin Gu | Dan Zhou | Liang Zhang | Dong Su",
+        "available_online": "",
+        "cover_date_start": "2025-07-07",
+        "created_at": "2025-07-08T04:27:29+08:00",
+        "doi": "10.48550/arxiv.2507.05052",
+        "en_title": "Looping metal-support interaction in heterogeneous catalysts during redox reactions",
+        "id": "1149320034389065732",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "氧化还原反应过程中多相催化剂中的循环金属-载体相互作用"
+      },
+      "paper:811188239284043777": {
+        "area": "Chemistry",
+        "authors": "Verena Pfeifer | Travis E. Jones | Sabine Wrabetz | Cyriac Massué | Juan J. Velasco Vélez | Rosa Arrigo | Michael Scherzer | Simone Piccinin | Michael Hävecker | Axel Knop-Gericke | Robert Schlögl",
+        "available_online": "2016",
+        "cover_date_start": "2016-01-01",
+        "created_at": "2022-12-18T02:52:29+08:00",
+        "doi": "10.1039/c6sc01860b",
+        "en_title": "Reactive oxygen species in iridium-based OER catalysts",
+        "id": "811188239284043777",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3353",
+        "publication_name": "Chemical Science _ Chem. Sci.",
+        "research_categories": "",
+        "zh_title": "铱基析氧反应催化剂中的活性氧物种"
+      },
+      "paper:812126583530717186": {
+        "area": "Chemistry",
+        "authors": "Marie-Laure Bocquet | David Loffreda",
+        "available_online": "2005-11-15",
+        "cover_date_start": "2005-11-15",
+        "created_at": "2022-12-20T17:01:06+08:00",
+        "doi": "10.1021/ja051397f",
+        "en_title": "Ethene Epoxidation Selectivity Inhibited by Twisted Oxametallacycle: A DFT Study on Ag Surface-Oxide",
+        "id": "812126583530717186",
+        "keywords": "",
+        "publication_date": "2005-12-1",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "扭曲的氧金属环抑制乙烯环氧化选择性：银表面氧化物的密度泛函理论研究 "
+      },
+      "paper:812487407743008769": {
+        "area": "Material science",
+        "authors": "Yinghua Niu | Yucun Zhou | Weiqiang Lv | Yu Chen | Yanxiang Zhang | Weilin Zhang | Zheyu Luo | Nicholas Kane | Yong Ding | Luke Soule | Yuchen Liu | Weidong He | Meilin Liu",
+        "available_online": "2021-3-10",
+        "cover_date_start": "2021-03-10",
+        "created_at": "2022-12-21T16:54:54+08:00",
+        "doi": "10.1002/adfm.202100034",
+        "en_title": "Enhancing Oxygen Reduction Activity and Cr Tolerance of Solid Oxide Fuel Cell Cathodes by a Multiphase Catalyst Coating",
+        "id": "812487407743008769",
+        "keywords": "[{\"en_name\": \"cathodes\", \"ch_name\": \"\"}, {\"en_name\": \"Cr tolerance\", \"ch_name\": \"\"}, {\"en_name\": \"multiphase catalysts\", \"ch_name\": \"\"}, {\"en_name\": \"oxygen reduction reactions\", \"ch_name\": \"\"}, {\"en_name\": \"solid oxide fuel cells\", \"ch_name\": \"\"}]",
+        "publication_date": "2021-5",
+        "publication_id": "2023",
+        "publication_name": "Advanced Functional Materials _ Adv. Funct. Mater.",
+        "research_categories": "",
+        "zh_title": "通过多相催化剂涂层提高固体氧化物燃料电池阴极的氧还原活性和耐铬性"
+      },
+      "paper:812574120641298432": {
+        "area": "Chemistry",
+        "authors": "Shu‐Hu Yin | Jian Yang | Yu Han | Gen Li | Li‐Yang Wan | You‐Hu Chen | Chi Chen | Xi‐Ming Qu | Yan‐Xia Jiang | Shi‐Gang Sun",
+        "available_online": "2020-10-6",
+        "cover_date_start": "2020-10-06",
+        "created_at": "2022-12-21T22:39:28+08:00",
+        "doi": "10.1002/anie.202010013",
+        "en_title": "Construction of Highly Active Metal‐Containing Nanoparticles and FeCo‐N 4 Composite Sites for the Acidic Oxygen Reduction Reaction",
+        "id": "812574120641298432",
+        "keywords": "[{\"en_name\": \"composite sites\", \"ch_name\": \"\"}, {\"en_name\": \"metal-N-C\", \"ch_name\": \"\"}, {\"en_name\": \"nanoparticles\", \"ch_name\": \"\"}, {\"en_name\": \"non-precious metals\", \"ch_name\": \"\"}, {\"en_name\": \"oxygen reduction reaction\", \"ch_name\": \"\"}]",
+        "publication_date": "2020-12",
+        "publication_id": "3347",
+        "publication_name": "Angewandte Chemie International Edition _ Angew. Chem. Int. Ed.",
+        "research_categories": "",
+        "zh_title": "用于酸性氧还原反应的高活性含金属纳米颗粒和FeCo-N₄复合位点的构建"
+      },
+      "paper:812679755592630276": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yeliz Unutulmazsoy | Claudia Cancellieri | Mirco Chiodi | Sebastian Siol | Luchan Lin | Lars P. H. Jeurgens",
+        "available_online": "",
+        "cover_date_start": "2020-02-14",
+        "created_at": "2022-12-22T05:39:14+08:00",
+        "doi": "10.1063/1.5131516",
+        "en_title": "In situ oxidation studies of Cu thin films: Growth kinetics and oxide phase evolution",
+        "id": "812679755592630276",
+        "keywords": "",
+        "publication_date": "2020-2-14",
+        "publication_id": "585",
+        "publication_name": "Journal of Applied Physics _ Journal of Applied Physics",
+        "research_categories": "",
+        "zh_title": "铜薄膜的原位氧化研究：生长动力学与氧化物相演变"
+      },
+      "paper:813054415710715904": {
+        "area": "Engineering Technology",
+        "authors": "Sashank Kasiraju | Lars C. Grabow",
+        "available_online": "2018-3-25",
+        "cover_date_start": "2018-03-25",
+        "created_at": "2022-12-23T06:27:59+08:00",
+        "doi": "10.1002/aic.16151",
+        "en_title": "Learning from the past: Are catalyst design principles transferrable between hydrodesulfurization and deoxygenation?",
+        "id": "813054415710715904",
+        "keywords": "",
+        "publication_date": "2018-8",
+        "publication_id": "4021",
+        "publication_name": "AIChE Journal _ AIChE J.",
+        "research_categories": "",
+        "zh_title": "从过去学习：加氢脱硫和脱氧之间的催化剂设计原则可转移吗？"
+      },
+      "paper:813056900739366913": {
+        "area": "Chemistry",
+        "authors": "Xinbo Wang | Chunmei Tang | Weihua Zhu | Xiaofeng Zhou | Qionghua Zhou | Chun Cheng",
+        "available_online": "2018-2-19",
+        "cover_date_start": "2018-02-19",
+        "created_at": "2022-12-23T06:37:51+08:00",
+        "doi": "10.1021/acs.jpcc.8b01089",
+        "en_title": "A New Effective Approach to Prevent the Degradation of Black Phosphorus: The Scandium Transition Metal Doping",
+        "id": "813056900739366913",
+        "keywords": "",
+        "publication_date": "2018-5-3",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "一种防止黑磷降解的新有效方法：钪过渡金属掺杂"
+      },
+      "paper:813109043362004993": {
+        "area": "Comprehensive Periodical",
+        "authors": "Gan Luo | Yu Wang | Yafei Li",
+        "available_online": "",
+        "cover_date_start": "2017-10-01",
+        "created_at": "2022-12-23T10:05:03+08:00",
+        "doi": "10.1016/j.scib.2017.08.015",
+        "en_title": "Two-dimensional iron-porphyrin sheet as a promising catalyst for oxygen reduction reaction: a computational study",
+        "id": "813109043362004993",
+        "keywords": "",
+        "publication_date": "2017-10",
+        "publication_id": "8512",
+        "publication_name": "Science Bulletin _ Science Bulletin",
+        "research_categories": "",
+        "zh_title": "二维铁卟啉片作为氧还原反应的有前景的催化剂：一项计算研究"
+      },
+      "paper:813136974889091073": {
+        "area": "Engineering Technology",
+        "authors": "Xiang-Kui Gu | Juliana S. A. Carneiro | Eranda Nikolla",
+        "available_online": "2017-5-16",
+        "cover_date_start": "2017-05-16",
+        "created_at": "2022-12-23T11:56:02+08:00",
+        "doi": "10.1021/acs.iecr.7b00854",
+        "en_title": "First-Principles Study of High Temperature CO 2 Electrolysis on Transition Metal Electrocatalysts",
+        "id": "813136974889091073",
+        "keywords": "",
+        "publication_date": "2017-5-31",
+        "publication_id": "4160",
+        "publication_name": "Industrial and Engineering Chemistry Research _ Ind. Eng. Chem. Res.",
+        "research_categories": "",
+        "zh_title": "过渡金属电催化剂上高温二氧化碳电解的第一性原理研究"
+      },
+      "paper:813371840415137793": {
+        "area": "Chemistry",
+        "authors": "Ya-Huei(Cathy) Chin | Corneliu Buda | Matthew Neurock | Enrique Iglesia",
+        "available_online": "2011-9-15",
+        "cover_date_start": "2011-09-15",
+        "created_at": "2022-12-24T03:29:19+08:00",
+        "doi": "10.1021/ja202411v",
+        "en_title": "Reactivity of Chemisorbed Oxygen Atoms and Their Catalytic Consequences during CH 4 –O 2 Catalysis on Supported Pt Clusters",
+        "id": "813371840415137793",
+        "keywords": "",
+        "publication_date": "2011-10-12",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "负载型铂簇上CH₄–O₂催化过程中化学吸附氧原子的反应活性及其催化后果"
+      },
+      "paper:813374196372471809": {
+        "area": "Chemistry",
+        "authors": "Xiaofang Yang | Jun Hu | Jie Fu | Ruqian Wu | Bruce E. Koel",
+        "available_online": "2011-9-22",
+        "cover_date_start": "2011-09-22",
+        "created_at": "2022-12-24T03:38:41+08:00",
+        "doi": "10.1002/anie.201101251",
+        "en_title": "Role of Surface Iron in Enhanced Activity for the Oxygen Reduction Reaction on a Pd3Fe(111) Single-Crystal Alloy",
+        "id": "813374196372471809",
+        "keywords": "[{\"en_name\": \"alloys\", \"ch_name\": \"\"}, {\"en_name\": \"density functional calculations\", \"ch_name\": \"\"}, {\"en_name\": \"electrocatalysis\", \"ch_name\": \"\"}, {\"en_name\": \"oxygen reduction reaction\", \"ch_name\": \"\"}, {\"en_name\": \"surface chemistry\", \"ch_name\": \"\"}]",
+        "publication_date": "2011-10-17",
+        "publication_id": "3347",
+        "publication_name": "Angewandte Chemie International Edition _ Angew. Chem. Int. Ed.",
+        "research_categories": "",
+        "zh_title": "表面铁在增强Pd3Fe(111)单晶合金上氧还原反应活性中的作用"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the ten transition-metal facets Au(111), Ag(111), Pd(111), Cu(111), Ni(111), Co(0001), Ru(0001), Fe(110), Mo(110), and W(110), the DFT-computed activation barriers for CO2 dissociation (both the thermochemical surface dissociation CO2 + 2* → CO* + O* and the concerted electrochemical dissociation CO2 + * + 2e− → CO* + O2−) exhibit an approximately linear dependence on the DFT atomic-oxygen binding energy BE(O) on the same metal surface (BE(O) defined as the adsorption energy of atomic O per the formula BE = E(ad/sub) − E(ad) − E(sub)); specifically, metals with more negative (stronger) BE(O) show systematically lower CO2 dissociation barriers and metals with less negative (weaker) BE(O) show systematically higher CO2 dissociation barriers, such that BE(O) functions as a single computed surface property that predicts the elementary-step barrier for CO2 activation across this metal set.",
+        "content_hash": "3029d548dfee20f7562994732c055621178f813165a92e301f29e17c176d37dd",
+        "id": "gcn_98cf2d3a990840c5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813136974889091073::conclusion_3",
+            "package_id": "paper:813136974889091073",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813136974889091073"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.031544957774465976,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A computed transition-state activation energy barrier of 2.04 eV for surface dissociation of an adsorbed O2 molecule on the Fe–porphyrin monolayer (within the DFT+COSMO model and the employed numerical setup) is taken to imply that the dissociative O2 activation pathway is kinetically inaccessible under ambient electrochemical conditions (for example, room temperature and relevant electrode potentials), and therefore the associative four-electron ORR pathway is the operative mechanism for oxygen reduction on this surface in the thermochemical analysis.",
+        "content_hash": "d001e57f090785168b069a2b8aa3c051b9464daa737b22d71e0b8925f8af3241",
+        "id": "gcn_4c3ead3ce0524cbd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813109043362004993::P8",
+            "package_id": "paper:813109043362004993",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813109043362004993"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030621785881252923,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Observation: Transition-state DFT calculations on the employed cluster models produce O2 dissociation energy barriers reported as 1.34 eV for the isolated FeN4 model, 0.66 eV for Fe4/FeN4, and 0.47 eV for Fe2Co2/FeN4. Proposition: Treating these DFT-computed barrier values and their relative reductions as quantitatively accurate estimates of true activation energies under electrochemical ORR conditions assumes that the chosen exchange–correlation functional, the absence of explicit solvent molecules, the neglect of electrode potential and electric-field effects in vacuum or implicit-solvent cluster models, and other methodological approximations do not introduce systematic errors large enough to overturn the reported numerical barrier reductions; this proposition addresses the transferability of static DFT barrier values to the experimental electrochemical environment given typical methodological uncertainties. Definitions: \"DFT-computed dissociation energy barrier\" denotes the energy difference between an optimized adsorbed O2 state and the highest-energy transition-state geometry along the dissociation coordinate as obtained in the DFT calculation.",
+        "content_hash": "3cd0dc2893f9c6c15e4cb83f9cbcb11243a6870acc366ec46e64ecc870b57415",
+        "id": "gcn_10181e83c1ae4625",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812574120641298432::P10",
+            "package_id": "paper:812574120641298432",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812574120641298432"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029138513513513514,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Density-functional-theory (DFT+U) minimum-energy-path calculations for molecular oxygen dissociation on an Fe adatom anchored to Fe₃O₄ surface sites produce an activation energy barrier that is numerically small in the present calculations; the proposition is that this computed low activation barrier, when compared qualitatively to thermal energies available at experimental temperatures near 700 °C and to other computed barriers in the redox sequence, implies that O₂ dissociation on arriving Fe adatoms will proceed rapidly under the operando experimental conditions and therefore will not be the kinetic bottleneck in the observed interfacial reduction–surface-oxidation cycle.",
+        "content_hash": "be2c2f8d6d9afee55c0b89f32cd66efe999121bba040359b36e361a5af7c4034",
+        "id": "gcn_5a232f4a277d4c9a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1149320034389065732::P11",
+            "package_id": "paper:1149320034389065732",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1149320034389065732"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028404512489927477,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the DFT effective activation barrier for O2 dissociation on an uncovered $Pt_{201}$ cluster as $E_{\\text{eff,O}_2}=E_{2\\mathrm{bf}}-Q_{O_2}$, where $E_{2\\mathrm{bf}}$ is the DFT transition‑state energy for O2* dissociation and $Q_{O_2}$ is the DFT heat of molecular O2 adsorption. The proposition is that the DFT‑derived small effective barrier ($E_{\\text{eff,O}_2}<20\\ \\mathrm{kJ}\\ \\mathrm{mol}^{-1}$) for O2 dissociation on uncovered Pt clusters remains an accurate representation of the physical activated complex under reaction conditions around 873 K, i.e., that dynamic effects not included in static DFT calculations (triplet→singlet crossing costs, entropic and anharmonic finite‑temperature contributions, and finite‑size cluster artifacts) do not increase the effective barrier sufficiently to change the experimental conclusion that O2 dissociation on bare Pt surfaces is essentially non‑activated and therefore consistent with the observed near‑zero apparent activation energy and regime‑3 kinetics.",
+        "content_hash": "30af31929b3cd9ef2b188d81f1f336da66e9b07ceae057438f95913e88f84852",
+        "id": "gcn_a07c9cc8873847a6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813371840415137793::P12",
+            "package_id": "paper:813371840415137793",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813371840415137793"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027692895339954164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The representative DFT electronic‑energy H2 dissociation / oxygen‑vacancy formation barrier computed for the (1V_O + 2H) surface is ≈2.0 eV, and temperature‑programmed reduction (TPR) experiments on MoO3 powders report apparent activation energies in the range 1.97–2.59 eV for reducibility in H2; the proposition asserted here is that the macroscopic activation energies extracted from those TPR experiments (which probe reduction of MoO3 powders under a TPR protocol) correspond quantitatively to the microscopic single‑event surface transition‑state barrier for direct H2 dissociation and water desorption on the pristine single‑crystal‑surface model, i.e., that the TPR activation energy can be interpreted as an empirical surrogate for the computed surface vacancy‑formation barrier. \n      [82]",
+        "content_hash": "c9a78507de246885eccb171f42dc86c6aaee405642edff7fba9c1947a7d29a47",
+        "id": "gcn_95d73215d47346a2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813054415710715904::P8",
+            "package_id": "paper:813054415710715904",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813054415710715904"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027242401779095628,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Zero-Kelvin DFT adsorption energies and dissociation reaction energies for molecular oxygen (defined as E_ad(O2) = E{O2-surface} − E{surface} − E{O2} with E{O2} the DFT total energy of gas-phase O2) computed on model crystalline surface slabs can be used as predictors of relative oxygen reduction reaction (ORR) activity at intermediate-temperature fuel-cell operating conditions (600–750 °C), under the approximation that entropic and finite-temperature effects, surface coverage, and kinetic prefactors do not qualitatively change the ordering of adsorption strengths and barrier heights between the candidate surfaces.",
+        "content_hash": "20bad62d196b3b1f5c332d57e470f94b729cc58d2debbd0706515050bae01146",
+        "id": "gcn_0c6f62755cca4bf5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812487407743008769::P6",
+            "package_id": "paper:812487407743008769",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812487407743008769"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02658450704225352,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Interpreting an experimentally observed decrease of activation energy from about 0.5–0.7 eV in air to 0.34 ± 0.02 eV at reduced oxygen partial pressure (pO2 ≈ 10 mbar, 1 vol.% O2 in Ar) as arising from an increased oxygen‑vacancy concentration at the outer surface that lowers the dissociative O2 chemisorption barrier requires the applicability of published density functional theory (DFT) calculations of O2 adsorption and dissociation barriers performed on idealized defective Cu2O(111) surface models to the actual experimental oxide surfaces, which in practice present a distribution of facets, defect types, nonstoichiometry, and possible adsorbates; this interpretation therefore assumes that the change in experimental Ea is dominantly controlled by the same vacancy‑induced barrier‑lowering mechanism captured by those DFT studies.\n      [51]\n      [52]",
+        "content_hash": "ecce65418740b85e5e3cc8ffc6c8495d7f978420a7ad5529cb0beea4f66add5b",
+        "id": "gcn_348cae0ec2e0427a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812679755592630276::P5",
+            "package_id": "paper:812679755592630276",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812679755592630276"
+          ]
+        },
+        "role": "premise",
+        "score": 0.024758454106280192,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Activation energy barriers for molecular oxygen ($O_2$) dissociation computed by nudged-elastic-band or related transition-state methods on periodic vacuum slab models—approximately $1.02\\ \\mathrm{eV}$ for surface I (a palladium monolayer on Pd$_3$Fe(111)) and approximately $0.28\\ \\mathrm{eV}$ for surface II (Pd$_3$Fe(111) with $6.25\\%$ Fe in the surface layer)—are taken to represent the actual free-energy barriers that control the rate of the dissociation step $O_2\\to 2\\mathrm{O_{ads}}$ under oxygen reduction reaction (ORR) operating conditions in aqueous acidic electrolyte at room temperature, without explicit inclusion of solvation free energy corrections, potential-dependent charge transfer, electrochemical kinetic prefactors, or finite-temperature entropic contributions.",
+        "content_hash": "5a8e70b50e7cc7237dac4c543252cb3b246cc7c74ec5fb47c492611982ff23a5",
+        "id": "gcn_a9d80274a2ca42fb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813374196372471809::P7",
+            "package_id": "paper:813374196372471809",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813374196372471809"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computed low O2 dissociation forward activation barrier Eact(O2 dissoc) = 0.35 eV on the doubly reduced surface-oxide model arises because the Ag1.83O 4 × 4 oxide supercell considered contains local Ag-vacancy regions that permit a lateral shift of a central Ag atom (labeled Ag1 in the DFT structures) and the transient formation of a roughly square four-Ag motif that accommodates an endo molecular O2 precursor with near fourfold coordination; the premise asserts that if the oxide stoichiometry or local vacancy filling were different (for example, fewer vacancies or different local registry), the structural rearrangement that lowers the dissociation barrier would be hindered and the dissociation barrier could be substantially larger than 0.35 eV.",
+        "content_hash": "d725a7822164ceaeb6073961d5cc488346af93b214a6f806c9bbceca53a6319a",
+        "id": "gcn_e94f167473134e31",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812126583530717186::P8",
+            "package_id": "paper:812126583530717186",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812126583530717186"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A climbing-image nudged-elastic-band (CI-NEB) calculation performed with spin-polarized DFT using the same pseudopotentials, k-point sampling, and relaxed geometries as the other calculations yields an activation energy barrier of $0.92\\ \\text{eV}$ for O2 dissociation on the Sc-decorated bilayer black phosphorus surface, and within conventional transition-state theory an activation barrier of this magnitude corresponds to a substantially reduced thermal rate of spontaneous O2 dissociation at 300 K (i.e., the 0.92 eV barrier implies a low rate of thermally activated dissociation on room-temperature experimental timescales in the absence of photoactivation).",
+        "content_hash": "3f31e794129421bad6d23996ae43a9dea49360891b15bd6d90f7b7ed207311db",
+        "id": "gcn_38a568cc9a7d4027",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813056900739366913::P9",
+            "package_id": "paper:813056900739366913",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813056900739366913"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Minimum-energy-path DFT calculations reported representative activation barriers of order ∼10 kJ mol^{-1} (oxidized (110) surface), ∼50 kJ mol^{-1} (partially reduced (113) surface), and ∼170 kJ mol^{-1} (reaction with formal O^{II-} on a surface); these numerically reported activation energies and reaction enthalpies are asserted to be quantitatively accurate approximations of the true activation energies and enthalpies for the corresponding elementary processes, i.e., the computational methodology (choice of exchange–correlation functional, slab sizes, defect models, and treatments of zero-point and thermal contributions) produces errors small enough that the reported values reliably predict which oxygen types are reactive at room temperature.",
+        "content_hash": "eafd52d5bd3ad22f617917fc42265e365a034ea5bf99f953ffc6e930865e9d56",
+        "id": "gcn_86729b3261d449c9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811188239284043777::P7",
+            "package_id": "paper:811188239284043777",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811188239284043777"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "3dc536dec86188713c1cbe44f208c681"
+}
