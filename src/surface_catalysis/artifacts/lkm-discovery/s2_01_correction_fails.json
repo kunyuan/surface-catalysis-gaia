@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811703742066851840": {
+        "area": "Chemistry",
+        "authors": "A. C. Kizilkaya | J. M. Gracia | J. W. Niemantsverdriet",
+        "available_online": "2010-11-16",
+        "cover_date_start": "2010-11-16",
+        "created_at": "2022-12-19T13:00:54+08:00",
+        "doi": "10.1021/jp109232j",
+        "en_title": "A Direct Relation between Adsorbate Interactions, Configurations, and Reactivity: CO Oxidation on Rh(100) and Rh(111)",
+        "id": "811703742066851840",
+        "keywords": "",
+        "publication_date": "2010-12-16",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "吸附质相互作用、构型与反应活性之间的直接关系：Rh(100)和Rh(111)上的CO氧化反应"
+      },
+      "paper:812115896687394819": {
+        "area": "Chemistry",
+        "authors": "Sara E. Mason | Ilya Grinberg | Andrew M. Rappe",
+        "available_online": "2006-1-31",
+        "cover_date_start": "2006-01-31",
+        "created_at": "2022-12-20T16:18:38+08:00",
+        "doi": "10.1021/jp0548669",
+        "en_title": "Adsorbate−Adsorbate Interactions and Chemisorption at Different Coverages Studied by Accurate ab initio Calculations: CO on Transition Metal Surfaces",
+        "id": "812115896687394819",
+        "keywords": "",
+        "publication_date": "2006-3-1",
+        "publication_id": "3453",
+        "publication_name": "The Journal of Physical Chemistry B _ J. Phys. Chem. B",
+        "research_categories": "",
+        "zh_title": "通过精确的从头算计算研究不同覆盖度下吸附质 - 吸附质相互作用和化学吸附：过渡金属表面上的CO"
+      },
+      "paper:812360126500438016": {
+        "area": "Physics and Astrophysics",
+        "authors": "Sara E. Mason | Ilya Grinberg | Andrew M. Rappe",
+        "available_online": "2004-4-5",
+        "cover_date_start": "2004-04-05",
+        "created_at": "2022-12-21T08:29:08+08:00",
+        "doi": "10.1103/physrevb.69.161401",
+        "en_title": "First-principles extrapolation method for accurate CO adsorption energies on metal surfaces",
+        "id": "812360126500438016",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "用于精确计算金属表面CO吸附能的第一性原理外推方法"
+      },
+      "paper:814572389697323008": {
+        "area": "Material science",
+        "authors": "Qian-Lin Tang | Xiao-Xuan Duan | Bei Liu | An-Qing Wei | Sheng-Long Liu | Qi Wang | Yan-Ping Liang | Xiao-Hua Ma",
+        "available_online": "",
+        "cover_date_start": "2016-02-01",
+        "created_at": "2022-12-27T10:59:53+08:00",
+        "doi": "10.1016/j.apsusc.2015.12.007",
+        "en_title": "A density functional study on properties of a Cu3Zn material and CO adsorption onto its surfaces",
+        "id": "814572389697323008",
+        "keywords": "[{\"ch_name\":\"吸附质-基质相互作用\",\"en_name\":\"Adsorbate-substrate interaction\"},{\"ch_name\":\"吸附活性\",\"en_name\":\"Adsorption activity\"},{\"ch_name\":\"一氧化碳\",\"en_name\":\"Carbon monoxide\"},{\"ch_name\":\"铜锌合金\",\"en_name\":\"Copper-zinc alloys\"},{\"ch_name\":\"第一原理计算\",\"en_name\":\"First-principles calculations\"},{\"ch_name\":\"表面结构\",\"en_name\":\"Surface structure\"}]",
+        "publication_date": "2016-2",
+        "publication_id": "2051",
+        "publication_name": "Applied Surface Science _ Applied Surface Science",
+        "research_categories": "",
+        "zh_title": "关于Cu₃Zn材料性质及CO在其表面吸附的密度泛函研究"
+      },
+      "paper:867752033053049685": {
+        "area": "arXiv-Physics",
+        "authors": "Xu Huang | Sara E. Mason",
+        "available_online": "",
+        "cover_date_start": "2013-07-05",
+        "created_at": "2023-05-23T04:56:47+08:00",
+        "doi": "10.48550/arXiv.1307.1644",
+        "en_title": "DFT-GGA errors in NO chemisorption energies on (111) transition metal surfaces: Possible origins and correction schemes",
+        "id": "867752033053049685",
+        "keywords": "",
+        "publication_date": "2013-07-05",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics _ Physics.physics.chem-ph",
+        "research_categories": "",
+        "zh_title": "(111)过渡金属表面上一氧化氮化学吸附能的密度泛函理论广义梯度近似误差：可能的来源及校正方案"
+      },
+      "paper:867767281881448928": {
+        "area": "arXiv-Physics",
+        "authors": "Valentino R. Cooper | Alexie M. Kolpak | Yashar Yourdshahyan | Andrew M. Rappe",
+        "available_online": "",
+        "cover_date_start": "2004-10-14",
+        "created_at": "2023-05-23T05:57:23+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0410377",
+        "en_title": "Support-mediated activation and deactivation of Pt thin films",
+        "id": "867767281881448928",
+        "keywords": "",
+        "publication_date": "2004-10-14",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "支撑介导的铂薄膜的激活与失活"
+      },
+      "paper:867767318044738213": {
+        "area": "arXiv-Physics",
+        "authors": "Sara E. Mason | Ilya Grinberg | Andrew M. Rappe",
+        "available_online": "",
+        "cover_date_start": "2003-10-29",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0310688",
+        "en_title": "First-principles extrapolation method for accurate CO adsorption energies on metal surfaces",
+        "id": "867767318044738213",
+        "keywords": "",
+        "publication_date": "2003-10-29",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "用于精确计算金属表面CO吸附能的第一性原理外推方法"
+      }
+    },
+    "variables": [
+      {
+        "content": "The DFT-GGA chemisorption energy $E_{\\mathrm{chem}}^{\\mathrm{GGA}}$ for CO at a given adsorption site and substrate can be corrected to a first-principles benchmark by shifting it along the site- and substrate-specific linear relation $E_{\\mathrm{chem}}^{\\mathrm{GGA}}=E_{0}+m\\,\\Delta E_{S-T}^{\\mathrm{GGA}}$ to the gas-phase singlet–triplet target value obtained from high-level wavefunction calculations; explicitly, the corrected chemisorption energy is given by $E_{\\mathrm{chem}}^{\\mathrm{corr}}=E_{\\mathrm{chem}}^{\\mathrm{GGA}}+\\left(\\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}}\\right)\\,m$, where $\\Delta E_{S-T}^{\\mathrm{CI}}$ is the coupled-cluster/configuration-interaction (CC/CI) benchmark singlet–triplet splitting for gas-phase CO (coupled-cluster and large configuration-interaction calculations reproduce the experimental value $6.095\\,$eV within their stated uncertainties), $\\Delta E_{S-T}^{\\mathrm{GGA}}$ is the DFT-GGA gas-phase CO singlet–triplet splitting computed with the same pseudopotential set used for the surface calculation, and $m=\\delta E_{\\mathrm{chem}}^{\\mathrm{GGA}}/\\delta\\Delta E_{S-T}^{\\mathrm{GGA}}$ is the slope of the DFT-GGA linear fit determined for that specific adsorption site and metal surface.",
+        "content_hash": "f0ea6786ebe0407e9f7552c6007fc8651e4ebfcbf1ec06b1e77431126cd6aa92",
+        "id": "gcn_244409c845cd4a6d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044738213::conclusion_2",
+            "package_id": "paper:867767318044738213",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044738213"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03177805800756621,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The hypothesis underlying the extrapolation correction is that a single horizontal shift in the gas-phase CO singlet–triplet excitation energy — i.e., replacing the DFT-GGA value $\\Delta E_{\\mathrm{S-T}}^{\\mathrm{GGA}}$ by the high-level reference $\\Delta E_{\\mathrm{S-T}}^{\\mathrm{CI}}$ — combined with the empirically obtained per-site linear sensitivity $\\delta E_{\\mathrm{chem}}^{\\mathrm{GGA}}/\\delta\\Delta E_{\\mathrm{S-T}}^{\\mathrm{GGA}}$ removes the dominant portion of the systematic DFT-GGA error in the computed chemisorption energy $E_{\\mathrm{chem}}$, meaning that other potential error sources (such as residual inaccuracies in the metal electronic structure, surface relaxation effects, coverage-dependent lateral interactions, or exchange-correlation contributions not related to CO frontier orbital placement) are assumed to be small compared to the $\\Delta E_{\\mathrm{S-T}}$-related correction for the systems and conditions studied.",
+        "content_hash": "0b2993d6e3082f5c9c4d20180de4e3098f3bb7051abdd9ab727f038e7f6e3a61",
+        "id": "gcn_ee3ed147a9014ec8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812360126500438016::P5",
+            "package_id": "paper:812360126500438016",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812360126500438016"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03125763125763126,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "If, for a given adsorption site and substrate, the DFT-GGA relation between the chemisorption energy $E_{\\mathrm{chem}}^{\\mathrm{GGA}}$ and the DFT-GGA gas-phase singlet–triplet splitting $ \\Delta E_{S-T}^{\\mathrm{GGA}}$ is accurately described by a linear function $E_{\\mathrm{chem}}^{\\mathrm{GGA}}=E_{0}+m\\,\\Delta E_{S-T}^{\\mathrm{GGA}}$ over the interval from the sampled DFT-GGA $ \\Delta E_{S-T}^{\\mathrm{GGA}}$ values to the high-level quantum-chemistry benchmark $ \\Delta E_{S-T}^{\\mathrm{CI}}$, then multiplying the difference $(\\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}})$ by the slope $m$ provides a valid first-principles correction to the DFT-GGA surface chemisorption energy, yielding $E_{\\mathrm{chem}}^{\\mathrm{corr}}=E_{\\mathrm{chem}}^{\\mathrm{GGA}}+(\\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}})\\,m$; this proposition further assumes that the electronic-structure discrepancy between DFT-GGA and CC/CI that manifests in the gas-phase $ \\Delta E_{S-T}$ maps linearly onto the bonding descriptors that control surface chemisorption for the adsorption geometry considered.",
+        "content_hash": "1dc3b35c5c7343a504493154edea258e91b70abaadbfac5320725615cbb0312f",
+        "id": "gcn_2ca0860e6ab04204",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044738213::P4",
+            "package_id": "paper:867767318044738213",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044738213"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030798389007344232,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For CO chemisorption on late transition-metal surfaces, the gas-phase singlet–triplet excitation energy $ \\Delta E_{S-T}$ (the energy to excite an electron from the CO $5\\sigma$ orbital into the $2\\pi^{*}$ orbital) is closely related to the energetic position of the CO $2\\pi^{*}$ orbital relative to the metal $d$-band; consequently, if DFT-GGA underestimates $ \\Delta E_{S-T}$ (i.e., places the CO $2\\pi^{*}$ orbital too low in energy), this yields artificially enhanced metal-to-CO $2\\pi^{*}$ back-donation and therefore an overestimation of the chemisorption energy, with the magnitude of this overbinding increasing with adsorption-site coordination because higher coordination increases the metal–$2\\pi^{*}$ orbital overlap.",
+        "content_hash": "f9cf33e5b8164904f3b7f07987d2f117774c6d407b65be2d8fb15010de85a244",
+        "id": "gcn_951b103f255d4432",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044738213::P7",
+            "package_id": "paper:867767318044738213",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044738213"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03047794966520434,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Applying the linear-extrapolation correction to the DFT-GGA chemisorption energies for CO on the studied surfaces (Pt(111), Rh(111), Pd(111), Cu(111) and the corresponding (100) surfaces) changes the DFT-GGA predicted energetic ordering of high-symmetry adsorption sites so that the corrected energies $E_{\\mathrm{chem}}^{\\mathrm{corr}}$ select the adsorption sites observed experimentally; for example, on Pt(111) the uncorrected DFT-GGA top-minus-hollow energy $E_{\\mathrm{t-h}}^{\\mathrm{GGA}}$ was −0.076 eV (favoring hollow/bridge), whereas after correction $E_{\\mathrm{t-h}}^{\\mathrm{corr}}=+0.164\\ \\mathrm{eV}$, indicating the top site is preferred and matching the experimentally observed site-preference energetic ordering.",
+        "content_hash": "28c1f69a0145742939f830fc9d3f33111e13cff1aae876b7830781b53acb8983",
+        "id": "gcn_5ceccdc16e3c4317",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812360126500438016::conclusion_4",
+            "package_id": "paper:812360126500438016",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812360126500438016"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029910714285714284,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The CO adsorption energies and the reported preferred adsorption sites were computed with the PW91 generalized‑gradient approximation without applying corrections that have been used elsewhere to remedy known semilocal‑DFT deficiencies for CO chemisorption (examples of such corrective strategies include DFT+U on metal $d$ states, hybrid exchange–correlation functionals, or semi‑empirical CO site‑correction schemes that shift the energy of the CO $2\\pi^*$ level); prior literature documents that semi‑local GGA can misestimate absolute adsorption energies and, in some cases, even predict incorrect adsorption–site orderings for CO on transition‑metal surfaces, so the absolute values and site assignments reported here should be considered with those methodological limitations in mind.\n      Refs. [43-46]; see Section 2 (Computational methods)",
+        "content_hash": "cba36c41d3e429b5cf249f16c6e25622f864ff757bb515916bd026cabfaa271c",
+        "id": "gcn_342c4123d77042e1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814572389697323008::P5",
+            "package_id": "paper:814572389697323008",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814572389697323008"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02964254577157803,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The extrapolation correction procedure of Mason et al. (the method described in Ref. [28]) was applied to the generalized-gradient-approximation Kohn–Sham DFT chemisorption energies for CO on Pt surfaces in this study, and application of that correction reduces known systematic GGA errors in computed CO adsorption energies so that the corrected adsorption energies lie within approximately 0.05–0.15 eV of more accurate benchmark values (experimental measurements or higher-level theoretical calculations) for the purposes of assessing trends and adsorption site preferences reported here.\n      [28]",
+        "content_hash": "d8e858dd3083463a7795aa34516ef6e2d0fb77795d7b14ba71283a671a913354",
+        "id": "gcn_7bbc0d0008f14381",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767281881448928::P2",
+            "package_id": "paper:867767281881448928",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767281881448928"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028474711270410194,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Applying the post-DFT extrapolation correction formula of Conclusion 3 to the set of adsorption-site energies on a given metal surface reduces the computed spread (range) of chemisorption energies across the sampled adsorption sites, producing a quantitatively smoother potential-energy surface; concretely, for NO on Rh(111) at 0.25 ML the uncorrected DFT-GGA energies E_chem span a range of 0.584 eV across the sampled sites, while the extrapolation-corrected energies E_chem^{corr} span a reduced range of 0.310 eV, indicating a substantial reduction in site-to-site corrugation after correction.",
+        "content_hash": "e7092cfda725bf34ef44817c38c91ca28b97aaa9cbdc23693c3664f9071c5c74",
+        "id": "gcn_7a6a4cea8c864a06",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867752033053049685::conclusion_6",
+            "package_id": "paper:867752033053049685",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867752033053049685"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027799227799227798,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For plane-wave periodic DFT calculations of adsorption on transition-metal surfaces, the choice of generalized-gradient-approximation (GGA) exchange–correlation functional (for example the revised Perdew–Burke–Ernzerhof functional used here) influences relative adsorption-site energies and CO adsorption energetics; in particular, GGA variants are known to sometimes mispredict CO adsorption site preferences and the strength of CO metal–bonding (the documented \"CO adsorption puzzle\"), so the numerical adsorption-energy differences and energetic preference between reconstructed versus unreconstructed Rh(100) coadsorption structures reported using a specific revised-PBE functional may change in magnitude—and in some cases in sign—if a different, more accurate functional or higher-level method were used, making functional-dependent error a real source of uncertainty for conclusions that rely on small energy differences between coadsorption/site configurations.",
+        "content_hash": "a2b5eafca3143cb2261176d5d71528c2c0f704c5ff724f2b2c5912cd7b3ca0dc",
+        "id": "gcn_a9941c0f2fed4f51",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811703742066851840::P2",
+            "package_id": "paper:811703742066851840",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811703742066851840"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0264301860545992,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Chemisorption energies E_{\\text{chem}} for carbon monoxide (CO) adsorbed on single-crystal metal substrates and surface terminations Pt(111), Rh(111), Pd(111), Pt(100), Rh(100), Pd(100), and selected Al(111)/Al(100) cases were computed at coverages \\Theta = 0.25, 0.5, 0.75, and 1.0 monolayer (ML) using density functional theory (DFT) with the Perdew–Burke–Ernzerhof generalized-gradient-approximation exchange-correlation functional (PBE GGA) and norm-conserving optimized pseudopotentials; the raw DFT-PBE total energies were adjusted by a first-principles, nonempirical extrapolation correction derived from additional ab initio calculations and applied uniformly to the raw energies to reduce the known DFT-GGA overbinding error for CO chemisorption and to recover experimentally consistent adsorption site preferences at low coverage. Positive E_{\\text{chem}} values denote exothermic adsorption per CO molecule under the definition\n      E_{\\text{chem}} = \\frac{-E_{\\text{surface-CO}} + N E_{\\text{CO}} + E_{\\text{surface}}}{N},\n      where E_{\\text{surface-CO}} is the total energy of the slab with N adsorbed CO molecules in the unit cell, E_{\\text{CO}} is the total energy of an isolated CO molecule, E_{\\text{surface}} is the total energy of the clean slab, and N is the number of CO per unit cell; the corrected E_{\\text{chem}} values reported are numerically converged to better than 0.025 eV per molecule and the magnitude of the extrapolation correction changes with coverage \\Theta by less than 0.01 eV per molecule.",
+        "content_hash": "63a23c4c77d9499d92ed750a37a23df2f1fc1fa648d1b5a62c3192b4d722d727",
+        "id": "gcn_ea29ba1f8f574cd8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812115896687394819::conclusion_1",
+            "package_id": "paper:812115896687394819",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812115896687394819"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.026200135226504394,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "a1abce119ba848cc64df72dbbc664f39"
+}

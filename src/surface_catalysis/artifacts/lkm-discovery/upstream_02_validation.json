@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1230114828543066126": {
+        "area": "arXiv-Physics",
+        "authors": "Jakkapat Seeyangnok | Rungkiat Nganglumpoon | Joongjai Panpranot | Udomsilp Pinsook",
+        "available_online": "",
+        "cover_date_start": "2026-02-13",
+        "created_at": "2026-02-16T03:17:09+08:00",
+        "doi": "10.48550/arXiv.2602.12562",
+        "en_title": "Mechanism-driven CO2 Capture and Activation on Two-dimensional Transition-metal Diborides",
+        "id": "1230114828543066126",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "二维过渡金属硼化物上的机制驱动二氧化碳捕获与活化"
+      },
+      "paper:811105299749404673": {
+        "area": "Chemistry",
+        "authors": "Da-Jiang Liu | Federico Zahariev | Mark S. Gordon | James W. Evans",
+        "available_online": "2016-12-13",
+        "cover_date_start": "2016-12-13",
+        "created_at": "2022-12-17T21:22:54+08:00",
+        "doi": "10.1021/acs.jpcc.6b10102",
+        "en_title": "Predictive Beyond-Mean-Field Rate Equations for Multisite Lattice–Gas Models of Catalytic Surface Reactions: CO Oxidation on Pd(100)",
+        "id": "811105299749404673",
+        "keywords": "",
+        "publication_date": "2016-12-22",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "催化表面反应多格点晶格气体模型的预测性超越平均场速率方程：Pd(100)上的CO氧化反应"
+      },
+      "paper:812140152561336320": {
+        "area": "Physics and Astrophysics",
+        "authors": "Valentino R. Cooper | Alexie M. Kolpak | Yashar Yourdshahyan | Andrew M. Rappe",
+        "available_online": "2005-8-29",
+        "cover_date_start": "2005-08-29",
+        "created_at": "2022-12-20T17:55:01+08:00",
+        "doi": "10.1103/physrevb.72.081409",
+        "en_title": "Supported metal electronic structure: Implications for molecular adsorption",
+        "id": "812140152561336320",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "负载金属电子结构：对分子吸附的影响"
+      },
+      "paper:812344815403401218": {
+        "area": "Chemistry",
+        "authors": "Sentaro Ozawa | Seiichiro Kusumi | Yoshisada Ogino",
+        "available_online": "",
+        "cover_date_start": "1976-07-01",
+        "created_at": "2022-12-21T07:28:17+08:00",
+        "doi": "10.1016/0021-9797(76)90149-1",
+        "en_title": "Physical adsorption of gases at high pressure. IV. An improvement of the Dubinin—Astakhov adsorption equation",
+        "id": "812344815403401218",
+        "keywords": "",
+        "publication_date": "1976-7",
+        "publication_id": "3382",
+        "publication_name": "Journal of Colloid and Interface Science _ Journal of Colloid and Interface Science",
+        "research_categories": "",
+        "zh_title": "高压下气体的物理吸附。IV. 杜比宁—阿斯塔霍夫吸附方程的改进 "
+      },
+      "paper:812399621933367297": {
+        "area": "Material science",
+        "authors": "T.G. Lamond | H. Marsh",
+        "available_online": "",
+        "cover_date_start": "1964-04-01",
+        "created_at": "2022-12-21T11:06:04+08:00",
+        "doi": "10.1016/0008-6223(64)90282-9",
+        "en_title": "The surface properties of carbon-II the effect of capillary condensation at low relative pressures upon the determination of surface area",
+        "id": "812399621933367297",
+        "keywords": "",
+        "publication_date": "1964-4",
+        "publication_id": "2058",
+        "publication_name": "Carbon _ Carbon",
+        "research_categories": "",
+        "zh_title": "碳的表面性质二：低相对压力下毛细凝聚对表面积测定的影响 "
+      },
+      "paper:812400181671624705": {
+        "area": "Material science",
+        "authors": "M. Jaroniec | J.A. Jaroniec",
+        "available_online": "",
+        "cover_date_start": "1977-01-01",
+        "created_at": "2022-12-21T11:08:18+08:00",
+        "doi": "10.1016/0008-6223(77)90025-2",
+        "en_title": "On the characterization of microporous adsorbents",
+        "id": "812400181671624705",
+        "keywords": "",
+        "publication_date": "1977",
+        "publication_id": "2058",
+        "publication_name": "Carbon _ Carbon",
+        "research_categories": "",
+        "zh_title": "关于微孔吸附剂的表征"
+      },
+      "paper:813313238425927680": {
+        "area": "Chemistry",
+        "authors": "Prashant Deshlahra | Jonathan Conway | Eduardo E. Wolf | William F. Schneider",
+        "available_online": "2012-5-24",
+        "cover_date_start": "2012-05-24",
+        "created_at": "2022-12-23T23:36:27+08:00",
+        "doi": "10.1021/la300975s",
+        "en_title": "Influence of Dipole–Dipole Interactions on Coverage-Dependent Adsorption: CO and NO on Pt(111)",
+        "id": "813313238425927680",
+        "keywords": "",
+        "publication_date": "2012-6-5",
+        "publication_id": "3437",
+        "publication_name": "Langmuir _ Langmuir",
+        "research_categories": "",
+        "zh_title": "偶极-偶极相互作用对覆盖度依赖吸附的影响：CO和NO在Pt(111)上的吸附"
+      },
+      "paper:813348396109660161": {
+        "area": "Chemistry",
+        "authors": "Štěpán Pick",
+        "available_online": "",
+        "cover_date_start": "2012-04-01",
+        "created_at": "2022-12-24T01:56:10+08:00",
+        "doi": "10.1016/j.susc.2011.12.001",
+        "en_title": "Density-functional study of the compressed (2√3×2√3)R30°-CO overlayer on the ferromagnetic Co(0001) surface",
+        "id": "813348396109660161",
+        "keywords": "",
+        "publication_date": "2012-4",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "铁磁 Co(0001) 表面上压缩的(2√3×2√3)R30°-CO 覆盖层的密度泛函研究"
+      },
+      "paper:867759281829577591": {
+        "area": "arXiv-Physics",
+        "authors": "Sara E. Mason | Ilya Grinberg | Andrew M. Rappe",
+        "available_online": "",
+        "cover_date_start": "2005-12-28",
+        "created_at": "2023-05-23T05:25:35+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0512672",
+        "en_title": "Adsorbate-adsorbate interactions and chemisorption at different coverage studied by accurate {\\em ab initio} calculations: CO on transition metal surfaces",
+        "id": "867759281829577591",
+        "keywords": "",
+        "publication_date": "2005-12-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "通过精确的从头算计算研究不同覆盖度下吸附质 - 吸附质相互作用和化学吸附：过渡金属表面上的CO"
+      },
+      "paper:867767281881448928": {
+        "area": "arXiv-Physics",
+        "authors": "Valentino R. Cooper | Alexie M. Kolpak | Yashar Yourdshahyan | Andrew M. Rappe",
+        "available_online": "",
+        "cover_date_start": "2004-10-14",
+        "created_at": "2023-05-23T05:57:23+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0410377",
+        "en_title": "Support-mediated activation and deactivation of Pt thin films",
+        "id": "867767281881448928",
+        "keywords": "",
+        "publication_date": "2004-10-14",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "支撑介导的铂薄膜的激活与失活"
+      }
+    },
+    "variables": [
+      {
+        "content": "The extrapolation correction procedure of Mason et al. (the method described in Ref. [28]) was applied to the generalized-gradient-approximation Kohn–Sham DFT chemisorption energies for CO on Pt surfaces in this study, and application of that correction reduces known systematic GGA errors in computed CO adsorption energies so that the corrected adsorption energies lie within approximately 0.05–0.15 eV of more accurate benchmark values (experimental measurements or higher-level theoretical calculations) for the purposes of assessing trends and adsorption site preferences reported here.\n      [28]",
+        "content_hash": "d8e858dd3083463a7795aa34516ef6e2d0fb77795d7b14ba71283a671a913354",
+        "id": "gcn_7bbc0d0008f14381",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767281881448928::P2",
+            "package_id": "paper:867767281881448928",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767281881448928"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Mason / Abild‑Pedersen linear adsorption‑energy correction $\\Delta E = A - B\\cdot \\nu$ (with the slope parameter $B=0.0008\\ \\mathrm{eV\\cdot cm}$ adopted from the literature and $A$ fitted for the PBE functional) is applied to the computed DFT CO stretching frequencies for the densely packed $(2\\sqrt{3}\\times2\\sqrt{3})R30^\\circ$ CO overlayer on Co(0001); under the assumption of transferability of this empirical form to the present compressed overlayer, application of the correction reduces absolute adsorption energies while leaving small relative energy differences and the ordering (A lower than H/F) essentially unchanged.\n      Equations (1) and (2) and discussion in Sec. 2 and Sec. 3",
+        "content_hash": "12256c6082be97034c9438343e6db069f4b3ba62f792aa798ce93f18f4da941e",
+        "id": "gcn_f91a8f8303904ff5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813348396109660161::P11",
+            "package_id": "paper:813348396109660161",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813348396109660161"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0315136476426799,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The adsorption-energy differences $E_{\\mathrm{M_2B_2+CO_2}} - (E_{\\mathrm{M_2B_2}} + E_{\\mathrm{CO_2}})$ computed with periodic plane-wave PAW calculations and an isolated-molecule reference placed in vacuum are effectively free of significant basis-set superposition error (BSSE) for the chosen plane-wave cutoffs and vacuum sizes, so no explicit counterpoise-like BSSE correction or special treatment of the isolated CO₂ reference was applied in these adsorption-energy values.",
+        "content_hash": "e426e4caa0482be0c8fc64e94bff10e820930f5a8e22089557621bb284ed7e2b",
+        "id": "gcn_17973a758bcd499e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1230114828543066126::P11",
+            "package_id": "paper:1230114828543066126",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1230114828543066126"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02690100430416069,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Across a set of electronic-structure calculations yielding pairs $(\\Delta E_{\\mathrm{T-S}},E_{\\mathrm{CO}}^{\\mathrm{a}})$ for CO on Pd model systems computed with diverse methods (plane-wave slab PBE/HSE06, plane-wave cluster PBE/HSE06, and localized-basis HF, PBE, PBE0, CR-CC(2,3) on finite Pd clusters), the computed pairs display an approximately linear relationship; therefore inserting the experimental CO singlet–triplet splitting value $\\Delta E_{\\mathrm{T-S}}^{\\mathrm{(exp)}}=6.095\\ \\mathrm{eV}$ into the linear fit provides a corrected estimate of the true CO adsorption energy $E_{\\mathrm{CO}}^{\\mathrm{a}}$ for the extended Pd(100) surface, which is used as $E_{\\mathrm{des}}=+1.64\\ \\mathrm{eV}$ in the msLG modeling reported here.\n      Mason, S. E.; Grinberg, I.; Rappe, A. M. First-principles extrapolation method for accurate CO adsorption energies on metal surfaces. Phys. Rev. B 2004, 69, 161401. (cited in text)",
+        "content_hash": "ef6b486fd6fb5f00ee0b0794f7e1418cba785f864ccdba5602ed830554c32acc",
+        "id": "gcn_558594a5333e473b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811105299749404673::P7",
+            "package_id": "paper:811105299749404673",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811105299749404673"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025603864734299518,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The numerical 1/4 ML adsorbate dipole values reported for CO and NO on Pt(111) (for example, extrapolated CO μz(atop) = +0.089 eÅ and μz(fcc) = −0.079 eÅ; NO μz(atop) = +0.065 eÅ and μz(fcc) = −0.056 eÅ) are obtained from periodic plane-wave DFT calculations carried out with the PW91 generalized-gradient approximation exchange–correlation functional, projector-augmented-wave (PAW) atom cores for the ionic cores, and a CO excitation-energy extrapolation correction that mixes adsorption-energy results computed with three different PAW atom cores according to the Mason et al. extrapolation scheme; therefore these sign assignments and numerical magnitudes depend on how accurately PW91-GGA describes the surface-to-adsorbate back-donation physics and on the validity and implementation of the Mason extrapolation correction for CO.\n      Table 1; Fig. 3",
+        "content_hash": "f338baf587443eab795ed10f209f83c9486c1c8027c70832301b399b2a15df8b",
+        "id": "gcn_4e03325cba594813",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813313238425927680::P1",
+            "package_id": "paper:813313238425927680",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813313238425927680"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Treating the exponential-virial intercept C_{0} as related to adsorption heat by C_{0} = \\beta_{0} - Q/(R T), where \\beta_{0} is a temperature-independent constant, R is the gas constant, T is absolute temperature and Q is the adsorption heat (energy per mole), and estimating Q from the slope of a linear regression of - C_{0} versus 1/T for hydrocarbons on MSC-5A yields values of Q that are consistent with previously reported values by Kawazoe et al. (as cited in the adsorption literature).",
+        "content_hash": "3ac5294fe5957b71b182e282beb13a862fd7457094934e5e1aa85dedd369850b",
+        "id": "gcn_6d294a9249ac4219",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812400181671624705::conclusion_8",
+            "package_id": "paper:812400181671624705",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812400181671624705"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Applying the Mason et al. extrapolation correction for known DFT errors in CO chemisorption energies reduces the systematic density-functional-theory error for CO adsorption on the present Pt/α-Al2O3 slab calculations to an estimated uncertainty of approximately 0.02 eV, so that the corrected DFT chemisorption energies reported for the studied layer counts and both alumina terminations can be considered accurate to within this small error bar (S. E. Mason et al., Phys. Rev. B 69, 161401(R) (2004)).\n      S. E. Mason et al., Phys. Rev. B 69, 161401(R) (2004)",
+        "content_hash": "28f44ab5c4a0211ae95664d9805d8b0f7a2e014932dac5c0175f5cc24322141b",
+        "id": "gcn_55369fd80a854d1e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812140152561336320::P5",
+            "package_id": "paper:812140152561336320",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812140152561336320"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The thermal‑expansion coefficient of the adsorbed phase $\\alpha_{e}$ (deg⁻¹) is approximated by a single, species‑independent mean value $\\bar{\\alpha}_{e}=2.5\\times 10^{-3}\\ \\mathrm{deg}^{-1}$ for all adsorbates considered (Ar, N₂, CH₄, CO₂) on MSC‑5A in the numerical evaluation of $d_{s}$, with $d_{s}^{*}$ and $T_{b}^{*}$ taken from standard liquid properties at normal boiling points.",
+        "content_hash": "4737ff5ba2e511a861d4573cf546d3c749c67f0a36ecfd56a8ea698a1140aed0",
+        "id": "gcn_d068e0de24bd4313",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812344815403401218::P7",
+            "package_id": "paper:812344815403401218",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812344815403401218"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The first-principles extrapolation correction is a computational procedure that takes as input total energies computed with the Perdew–Burke–Ernzerhof generalized-gradient-approximation density functional (PBE GGA) for periodic slab models of metal surfaces and isolated-molecule energies, and produces corrected chemisorption energies E_{chem} by applying an extrapolation algorithm derived from ab initio gas-phase and cluster calculations (see Mason, Grinberg, and Rappe, Phys. Rev. B Rapid Comm. 69, 161401(R) (2004)); when this correction is applied to PBE-GGA slab calculations for CO chemisorption on the Pt, Pd, and Rh (111) and (100) surfaces at coverages Theta in {0.25, 0.5, 0.75, 1.0} and for the modeled overlayer patterns, the correction reduces the known PBE-GGA overbinding and incorrect site-preference tendency and yields corrected E_{chem} values whose coverage dependence is negligible (corrections change by <0.01 eV per CO across the studied Theta range) and whose low-coverage site preferences are consistent with experimental assignments, supporting the quantitative applicability of the extrapolation mapping to the combination of substrates, surface terminations, adsorption sites, and coverage-dependent overlayers modeled here.\n      Mason, S. E.; Grinberg, I.; Rappe, A. M., Phys. Rev. B Rapid Comm. 69, 161401(R) (2004)",
+        "content_hash": "4d7d20336cef07843f47f08b1eb6fb3a3d149609602b9f8e77eecede6301fa79",
+        "id": "gcn_77bcff293c614bfb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867759281829577591::P1",
+            "package_id": "paper:867759281829577591",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867759281829577591"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When CO$_2$ adsorption isotherms are measured at $T=273\\ \\mathrm{K}$ or $T=293\\ \\mathrm{K}$ but the target reference is $T_{\\mathrm{ref}}=195\\ \\mathrm{K}$, an approximate empirical multiplicative correction may be applied to the CO$_2$‑Potential Energy derived surface area $A_{\\mathrm{meas}}$ by computing $A_{195\\mathrm{K}}\\approx 1.10\\times A_{\\mathrm{meas}}$ for $T=273\\ \\mathrm{K}$ data and $A_{195\\mathrm{K}}\\approx 1.20\\times A_{\\mathrm{meas}}$ for $T=293\\ \\mathrm{K}$ to account provisionally for reduced packing density at higher temperature; these correction factors are provisional and do not correct for pore‑diameter‑dependent packing variations.",
+        "content_hash": "9a0a314f90d44cc14ebabbc9bb0e22400f6c4ec128eed7a7e6519fb2796fb420",
+        "id": "gcn_67bf1e7a84c24f82",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812399621933367297::P12",
+            "package_id": "paper:812399621933367297",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812399621933367297"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "c5759f3b8da869eeedb7c2c43d998cb3"
+}

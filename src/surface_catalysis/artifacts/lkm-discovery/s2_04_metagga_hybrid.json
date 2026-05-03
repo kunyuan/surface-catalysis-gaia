@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811660556573343745": {
+        "area": "Physics and Astrophysics",
+        "authors": "Philipp Haas | Fabien Tran | Peter Blaha | Karlheinz Schwarz",
+        "available_online": "2011-5-19",
+        "cover_date_start": "2011-05-19",
+        "created_at": "2022-12-19T10:09:17+08:00",
+        "doi": "10.1103/physrevb.83.205117",
+        "en_title": "Construction of an optimal GGA functional for molecules and solids",
+        "id": "811660556573343745",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "用于分子和固体的最优广义梯度近似（GGA）泛函的构建"
+      },
+      "paper:811941769716432900": {
+        "area": "Physics and Astrophysics",
+        "authors": "Alessandro Stroppa",
+        "available_online": "2008-1-24",
+        "cover_date_start": "2008-01-24",
+        "created_at": "2022-12-20T04:46:43+08:00",
+        "doi": "10.1088/0953-8984/20/6/064205",
+        "en_title": "CO adsorption on metal surfaces: a hybrid density functional study with plane wave basis set (abstract only)",
+        "id": "811941769716432900",
+        "keywords": "",
+        "publication_date": "2008-2-13",
+        "publication_id": "626",
+        "publication_name": "Journal of Physics: Condensed Matter _ J. Phys.: Condens. Matter",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "一氧化碳在金属表面的吸附：基于平面波基组的杂化密度泛函研究（仅摘要）"
+      },
+      "paper:811956780329336833": {
+        "area": "Physics and Astrophysics",
+        "authors": "Alessandro Stroppa | Konstantinos Termentzidis | Joachim Paier | Georg Kresse | Jürgen Hafner",
+        "available_online": "2007-11-27",
+        "cover_date_start": "2007-11-27",
+        "created_at": "2022-12-20T05:46:21+08:00",
+        "doi": "10.1103/physrevb.76.195440",
+        "en_title": "CO adsorption on metal surfaces: A hybrid functional study with plane-wave basis set",
+        "id": "811956780329336833",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "一氧化碳在金属表面的吸附：基于平面波基组的杂化泛函研究"
+      },
+      "paper:812719119634792450": {
+        "area": "Chemistry",
+        "authors": "Thomas Teusch | Thorsten Klüner",
+        "available_online": "2019-10-30",
+        "cover_date_start": "2019-10-30",
+        "created_at": "2022-12-22T08:15:39+08:00",
+        "doi": "10.1021/acs.jpcc.9b08268",
+        "en_title": "Understanding the Water Splitting Mechanism on WO 3 (001)—A Theoretical Approach",
+        "id": "812719119634792450",
+        "keywords": "",
+        "publication_date": "2019-11-21",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "理解WO₃(001)上的水分解机制——一种理论方法"
+      },
+      "paper:813289739258953728": {
+        "area": "Physics and Astrophysics",
+        "authors": "G. Scappucci | O. Warschkow | G. Capellini | W. M. Klesse | D. R. McKenzie | M. Y. Simmons",
+        "available_online": "2012-8-13",
+        "cover_date_start": "2012-08-13",
+        "created_at": "2022-12-23T22:03:05+08:00",
+        "doi": "10.1103/physrevlett.109.076101",
+        "en_title": "n -Type Doping of Germanium from Phosphine: Early Stages Resolved at the Atomic Level",
+        "id": "813289739258953728",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "通过磷化氢对锗进行n型掺杂：原子水平上解析早期阶段"
+      },
+      "paper:867748443991310608": {
+        "area": "arXiv-Physics",
+        "authors": "A. Stroppa | K. Termentzidis | J. Paier | G. Kresse | J. Hafner",
+        "available_online": "",
+        "cover_date_start": "2007-06-25",
+        "created_at": "2023-05-23T04:42:31+08:00",
+        "doi": "10.48550/arXiv.0706.3615",
+        "en_title": "CO adsorption on metal surfaces: a hybrid functional study with plane wave basis set",
+        "id": "867748443991310608",
+        "keywords": "",
+        "publication_date": "2007-06-25",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "一氧化碳在金属表面的吸附：基于平面波基组的杂化泛函研究"
+      },
+      "paper:867749979978989905": {
+        "area": "arXiv-Physics",
+        "authors": "Heng-Rui Liu | Hongjun Xiang | X. G. Gong",
+        "available_online": "",
+        "cover_date_start": "2011-11-07",
+        "created_at": "2023-05-23T04:48:37+08:00",
+        "doi": "10.48550/arXiv.1111.1490",
+        "en_title": "First Principles Study of Adsorption of $O_{2}$ on Al Surface with Hybrid Functionals",
+        "id": "867749979978989905",
+        "keywords": "",
+        "publication_date": "2011-11-07",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "基于杂化泛函的铝表面氧气吸附的第一性原理研究"
+      },
+      "paper:867761748805943983": {
+        "area": "arXiv-Physics",
+        "authors": "A. Stroppa | G. Kresse",
+        "available_online": "",
+        "cover_date_start": "2008-05-11",
+        "created_at": "2023-05-23T05:35:23+08:00",
+        "doi": "10.48550/arXiv.0805.1532",
+        "en_title": "The shortcomings of semi-local and hybrid functionals: what we can learn from surface science studies",
+        "id": "867761748805943983",
+        "keywords": "",
+        "publication_date": "2008-05-11",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "半局域和杂化泛函的缺点：我们能从表面科学研究中学到什么"
+      },
+      "paper:867768289084834250": {
+        "area": "arXiv-Physics",
+        "authors": "Vikram Mahamiya | Alok Shukla | Nandini Garg | Brahmananda Chakraborty",
+        "available_online": "",
+        "cover_date_start": "2022-01-23",
+        "created_at": "2023-05-23T06:01:23+08:00",
+        "doi": "10.48550/arXiv.2201.09174",
+        "en_title": "High-capacity reversible hydrogen storage in scandium decorated holey graphyne: Theoretical perspectives",
+        "id": "867768289084834250",
+        "keywords": "",
+        "publication_date": "2022-01-23",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "钪修饰的多孔石墨炔中高容量可逆储氢：理论视角"
+      },
+      "paper:867769521606230365": {
+        "area": "arXiv-Physics",
+        "authors": "Yan Wang | Hai-Ping Cheng",
+        "available_online": "",
+        "cover_date_start": "2012-10-04",
+        "created_at": "2023-05-23T06:06:16+08:00",
+        "doi": "10.48550/arXiv.1210.1554",
+        "en_title": "Oxygen reduction activity on perovskite oxide surfaces: a comparative first-principle study of LaMnO$_3$, LaFeO$_3$ and LaCrO$_3$",
+        "id": "867769521606230365",
+        "keywords": "",
+        "publication_date": "2012-10-04",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics _ Physics.physics.chem-ph",
+        "research_categories": "",
+        "zh_title": "钙钛矿氧化物表面的氧还原活性：LaMnO₃、LaFeO₃和LaCrO₃的第一性原理比较研究"
+      }
+    },
+    "variables": [
+      {
+        "content": "Single‑point HSE06 hybrid‑functional calculations for selected adsorption steps reproduce the PBE‑GGA+DFT‑D2 adsorption energetics within a few hundredths of an electronvolt: the first H2 binding energy is −0.37 eV with HSE06 versus −0.38 eV with PBE‑GGA+DFT‑D2, and the average binding energy over five H2 is −0.32 eV with HSE06 versus −0.36 eV with PBE‑GGA+DFT‑D2, supporting the numerical consistency of the reported adsorption energies.",
+        "content_hash": "bc6053169e29b4c5a767fa616efc97ed575e98f43c8dd88867bfa16b39224ecf",
+        "id": "gcn_ac7065baeb4646c7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867768289084834250::conclusion_10",
+            "package_id": "paper:867768289084834250",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867768289084834250"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02819138376017471,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $E_{\\\\sigma}$ denote the computed surface energy per unit surface area for a clean metal surface model and $E_{\\\\mathrm{ads}}$ denote the computed chemisorption energy of a CO molecule on the same surface site using consistent geometries; for the CO chemisorption problems considered on Rh(111) and Pt(111) surface models, HTBS departs from the near-linear trend observed for common GGAs between $E_{\\\\sigma}$ and $E_{\\\\mathrm{ads}}$: HTBS retains surface energies similar to the Wu–Cohen (WC) GGA (the WC functional being a “weaker” GGA with a slowly rising enhancement factor) while significantly improving the CO adsorption energies $E_{\\\\mathrm{ads}}$ toward values at least as good as those obtained with the Perdew–Burke–Ernzerhof (PBE) GGA; the random-phase approximation (RPA) remains more accurate for these surface and adsorption energies but requires substantially higher computational cost.",
+        "content_hash": "ba5d08280fef37d1741a9e099126a67c3ecba8f91eca6ea1e3fa40389dd081f9",
+        "id": "gcn_9171eace9fe94dcb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811660556573343745::conclusion_5",
+            "package_id": "paper:811660556573343745",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811660556573343745"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02702702702702703,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The implementation of the PBE0 and HSE03 hybrid exchange–correlation functionals in a plane-wave, pseudopotential or projector-augmented-wave (PAW) periodic-slab density-functional-theory code is asserted to produce adsorption-site total-energy differences for CO on metal (111) surfaces that are accurate to within approximately $20\\ \\mathrm{meV}$ of a notional all-electron, fully converged reference calculation, i.e., the plane-wave pseudopotential/PAW realization of these hybrid functionals does not introduce method-specific errors comparable to the reported hybrid-induced site-energy shifts.",
+        "content_hash": "20193b27823e3011e057d44be3ea18d95e64560ff0e2c952da05e5ef796d5220",
+        "id": "gcn_385bcbdccfc8418e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811941769716432900::P10",
+            "package_id": "paper:811941769716432900",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811941769716432900"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the chemisorption problem of gaseous phosphine (PH3) on the reconstructed germanium (001) surface, define a \"small cluster\" chemical model as the hydrogen-terminated cluster with chemical formula Ge15H16 and a \"large cluster\" model as the hydrogen-terminated cluster with chemical formula Ge53H44. Define E_HSE06(X) as the total electronic energy of cluster X computed using the HSE06 hybrid exchange-correlation functional with a large composite basis set, and define E_GGA(X) as the total electronic energy of cluster X computed using a generalized-gradient-approximation (GGA) exchange-correlation functional. Define the compound-cluster estimated adsorption energy by the algebraic expression\n      E_compound = E_HSE06(Ge15H16 + adsorbate) + [ E_GGA(Ge53H44 + adsorbate) − E_GGA(Ge15H16 + adsorbate) ].\n      The proposition is that this compound-cluster combination formula yields adsorption energies for PH3-derived adsorbates on the true extended Ge(001) surface that are accurate to within typical \"chemical accuracy\" tolerances (roughly 0.1–0.2 eV), i.e., that the high-level small-cluster HSE06 energy corrected by the GGA-based cluster-size difference provides a quantitatively reliable approximation to the infinite-surface result.\n      [12],[14]",
+        "content_hash": "cf8abda6057995114cd043732290f58c0e81dce2ae2bec99d1d8bf337f0bbec0",
+        "id": "gcn_e01bead0e0544876",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813289739258953728::P1",
+            "package_id": "paper:813289739258953728",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813289739258953728"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Among the semilocal GGAs tested (Perdew–Burke–Ernzerhof (PBE), Becke–Lee–Yang–Parr (BLYP), revised PBE (rPBE), PBEsol, AM05) and the hybrid functionals considered (short-range HSE, global PBEh/PBE0, B3LYP), none provides a consistent, simultaneously accurate description of (i) metal equilibrium lattice constants and atomization energies, (ii) surface energies σ, and (iii) CO adsorption-site ordering and absolute adsorption energies E_ads; improvements in one class of observables systematically entail degradations in others within the set of functionals and systems studied.",
+        "content_hash": "e5227de80fea8590083a9a4fb3b4f31f6808a8aeacdc5b9100b5816a3798e260",
+        "id": "gcn_11dd00a48e5347d6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867761748805943983::conclusion_6",
+            "package_id": "paper:867761748805943983",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867761748805943983"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The atomic-oxygen adsorbate O* exhibits the largest variation in calculated adsorption energy among the ORR intermediates when the exchange–correlation treatment is changed between GGA (PBE), Dudarev GGA+U (U_eff applied on B-site d orbitals), and HSE06 hybrid functional: for example on the LaMnO3(001) surface the adsorption energy ΔE_O changes from −3.755 eV (GGA) to −1.278 eV (HSE06), a change of ≈2.48 eV, whereas the OO* adsorption energy on LaMnO3 changes from −0.659 eV (GGA) to +0.162 eV (HSE06), a change of ≈0.82 eV; this indicates that O* adsorption energy is particularly sensitive to corrected treatments of transition-metal B-site d-electron correlation and exchange.",
+        "content_hash": "ee079f66ded67fbe3e89e9ef24e0e88235d22249da5b798351de7cbea683af96",
+        "id": "gcn_f7cfa5aae2af4ce0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867769521606230365::conclusion_2",
+            "package_id": "paper:867769521606230365",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867769521606230365"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Along the bridge approach trajectory for O$_2$ adsorption on Al(111), Bader charge partitioning of the electron density indicates net electron transfer from the Al(111) surface to the approaching O$_2$ molecule for the semi-local Perdew–Burke–Ernzerhof (PBE) functional and for the hybrid functionals HSE06 and PBE0, but the magnitude differs between functionals: at molecule–surface separations larger than about $2.4\\ \\mathrm{\\AA}$, PBE predicts more electron transfer to O$_2$ (a more negative net Bader charge on the molecule) than HSE06 and PBE0 predict. This reduced charge transfer at larger separations in the hybrid-functional calculations co-occurs with the presence of an adsorption-energy barrier in the hybrid-functional adsorption-energy profiles along the investigated bridge trajectory.",
+        "content_hash": "e2fc0d6714c6493bef157ef9f29edd191f0a4c07909c11e28bb66c1ae1938f65",
+        "id": "gcn_382df13934d54816",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749979978989905::conclusion_4",
+            "package_id": "paper:867749979978989905",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749979978989905"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The inclusion of a fraction of exact nonlocal exchange via the PBE0 and HSE03 hybrid functionals does not produce a uniform improvement in agreement with experimental CO adsorption energies across the three transition-metal substrates studied: for Cu(111) the hybrid functionals give adsorption energies close to experimental values and thus represent an improvement relative to PBE, whereas for Rh(111) and Pt(111) the hybrid functionals yield stronger binding (more negative adsorption energies) than PBE and thereby worsen the agreement with the experimental binding-energy ranges reported for those metals.",
+        "content_hash": "9255d240f449893c592480cb13462a6a82fad9232ea78a27f1cda0383cea0c3b",
+        "id": "gcn_edc27c0d6ea44e07",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811956780329336833::conclusion_6",
+            "package_id": "paper:811956780329336833",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811956780329336833"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The effect of hybrid functionals on computed adsorption energies depends on the metal: for CO on Cu(111) computed with plane-wave PAW periodic slab models (asymmetric four-layer c(2×4) slab, Θ=0.25 ML, Methfessel–Paxton smearing 0.1 eV), the PBE0 and HSE03 top-site adsorption energy (≈−0.60 eV) is closer to the experimentally inferred range (−0.52 to −0.46 eV) than semilocal PBE values. By contrast, for Rh(111) the hybrids give top-site adsorption energies −2.109 eV (PBE0) and −2.012 eV (HSE03), which are more exothermic by ≈0.4–0.6 eV than the quoted experimental range (≈−1.65 to −1.43 eV). For Pt(111) the hybrid functionals also yield adsorption energies more exothermic than experiment (experimental range ≈−1.71 to −1.43 eV) and do not improve agreement relative to PBE.",
+        "content_hash": "fd420054137979beadbe6d539b10d365857b7479d170d99e607b175669fa1e15",
+        "id": "gcn_f7ebde0cb2a6490e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748443991310608::conclusion_3",
+            "package_id": "paper:867748443991310608",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748443991310608"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because the PBE0 calculations reproduce the HSE06 result for the molecular adsorption geometry labeled b—i.e., the optimized geometry and BSSE-corrected adsorption energy for H2O in configuration b are numerically indistinguishable between HSE06 and PBE0 in these calculations—the PBE0 functional is used for the complete set of adsorbates (OH, O, OOH, O2) under the assumption that PBE0 will deliver adsorption energies of comparable accuracy to HSE06 across this chemically diverse adsorbate set so that the PBE0-derived BSSE-corrected adsorption energies can be used to rank intermediate stabilities.",
+        "content_hash": "7759bbb855a86a77fd384d15985bc531b07e8833932129535eca93287292c946",
+        "id": "gcn_6defdaaac38247bc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812719119634792450::P7",
+            "package_id": "paper:812719119634792450",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812719119634792450"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "e7660b11de40ae8587e1a8f4dd865d7d"
+}

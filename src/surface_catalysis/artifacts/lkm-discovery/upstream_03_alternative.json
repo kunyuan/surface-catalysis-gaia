@@ -1,0 +1,9 @@
+{
+  "code": 290001,
+  "error": {
+    "msg": "search failed: hybrid search failed: both semantic and lexical search failed: semantic=semantic search failed: semantic search failed: scope=claim: query execution failed: context deadline exceeded, lexical=lexical search failed: keyword search failed: scope=claim: query execution failed: context deadline exceeded",
+    "reference": "",
+    "title": ""
+  },
+  "trace_id": "d1bd11e1cca7706585a7e6eb93d91d65"
+}

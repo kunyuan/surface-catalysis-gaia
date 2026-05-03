@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "focus": null,
+  "focus_kind": null,
+  "focus_resolved_id": null,
+  "mode": "auto",
+  "last_review_id": "2026-05-03T10-52-16Z_94f16f4e_auto",
+  "baseline_review_id": "2026-05-03T10-52-16Z_94f16f4e_auto",
+  "focus_stack": [],
+  "synthetic_obligations": [
+    {
+      "qid": "oblig_133695bc",
+      "target_qid": "prem_extrapolation_valid",
+      "content": "Weakest link (belief 0.20): linear extrapolation from [5.35,5.84]eV to 6.095eV is contradicted by hybrid functional evidence. Needs systematic test of extrapolation validity across more metals.",
+      "diagnostic_kind": "other",
+      "anchor": {},
+      "created_at": "2026-05-03T10:51:08Z"
+    },
+    {
+      "qid": "oblig_2a28a21d",
+      "target_qid": "prem_benchmark_valid",
+      "content": "Unvalidated assumption (belief 0.68): gas-phase CC/CI benchmark 6.095eV assumed valid in chemisorbed geometry. Needs experimental measurement of CO 2pi* resonance on metal surfaces.",
+      "diagnostic_kind": "other",
+      "anchor": {},
+      "created_at": "2026-05-03T10:51:08Z"
+    },
+    {
+      "qid": "oblig_f032689c",
+      "target_qid": "hyp_94d7ab64",
+      "content": "Resolve contradiction_hybrid: test Mason correction on early transition metals (Ti, Zr, Fe) where d-band filling differs from Pt/Pd/Cu.",
+      "diagnostic_kind": "other",
+      "anchor": {},
+      "created_at": "2026-05-03T10:51:09Z"
+    },
+    {
+      "qid": "oblig_f06fb3a4",
+      "target_qid": "hyp_10d1558e",
+      "content": "Resolve contradiction_site_ordering: compute site-specific m values for on-top/bridge/hollow on all metals and quantify slope uncertainty propagation.",
+      "diagnostic_kind": "other",
+      "anchor": {},
+      "created_at": "2026-05-03T10:51:09Z"
+    },
+    {
+      "qid": "oblig_8a806c9e",
+      "target_qid": "hyp_f5e3cf5e",
+      "content": "Resolve contradiction_vdw_gap: enumerate complete error budget (GGA SIE + vdW + coverage + surface model) for CO chemisorption DFT.",
+      "diagnostic_kind": "other",
+      "anchor": {},
+      "created_at": "2026-05-03T10:51:09Z"
+    },
+    {
+      "qid": "oblig_93c1dd46",
+      "target_qid": "hyp_bb5b10e4",
+      "content": "Resolve contradiction_experiment_ambiguity: conduct side-by-side RAIRS+SFG measurement under identical coverage/temperature conditions to reconcile site determination.",
+      "diagnostic_kind": "other",
+      "anchor": {},
+      "created_at": "2026-05-03T10:51:09Z"
+    }
+  ],
+  "synthetic_hypotheses": [
+    {
+      "qid": "hyp_94d7ab64",
+      "content": "Is the gas-phase singlet-triplet extrapolation correction universally applicable across all transition metals, or does it fail for specific metal substrates where metal d-band hybridization with CO 2pi* is fundamentally different from the molecular orbital picture?",
+      "scope_qid": "cross_paper::contradiction_hybrid",
+      "created_at": "2026-05-03T10:50:49Z"
+    },
+    {
+      "qid": "hyp_10d1558e",
+      "content": "How reliable is the site-specific slope m of the E_chem vs DeltaE_ST linear relation, and what is the uncertainty in site preference prediction after applying the Mason correction?",
+      "scope_qid": "cross_paper::contradiction_site_ordering",
+      "created_at": "2026-05-03T10:50:49Z"
+    },
+    {
+      "qid": "hyp_f5e3cf5e",
+      "content": "What is the complete list of independent sources of systematic error in DFT predictions of CO chemisorption energies, and can a single correction method address all of them simultaneously?",
+      "scope_qid": "cross_paper::contradiction_vdw_gap",
+      "created_at": "2026-05-03T10:50:50Z"
+    },
+    {
+      "qid": "hyp_bb5b10e4",
+      "content": "Given the methodological ambiguity in experimental site determination (RAIRS vs SFG), how can the accuracy of DFT site-preference predictions — including post-Mason-correction predictions — be rigorously validated?",
+      "scope_qid": "cross_paper::contradiction_experiment_ambiguity",
+      "created_at": "2026-05-03T10:50:50Z"
+    }
+  ],
+  "synthetic_rejections": []
+}

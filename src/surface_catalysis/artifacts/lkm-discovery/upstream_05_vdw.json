@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811048022203957248": {
+        "area": "Chemistry",
+        "authors": "Ali Abbaspour Tamijani | Elham Ebrahimiaqda",
+        "available_online": "",
+        "cover_date_start": "2017-08-01",
+        "created_at": "2022-12-17T17:35:18+08:00",
+        "doi": "10.1016/j.susc.2017.03.002",
+        "en_title": "Molecule-decorated rutile-type ZnF 2 (110): A periodic DFT study",
+        "id": "811048022203957248",
+        "keywords": "",
+        "publication_date": "2017-8",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "分子修饰的金红石型ZnF₂(110)：一项周期性密度泛函理论研究"
+      },
+      "paper:811980498707415041": {
+        "area": "Material science",
+        "authors": "Yao Ren | Hooman Rahmani | Efstathios I. Meletis | Qiming Zhang | Ye Cao",
+        "available_online": "",
+        "cover_date_start": "2021-11-01",
+        "created_at": "2022-12-20T07:20:36+08:00",
+        "doi": "10.1016/j.matchemphys.2021.125057",
+        "en_title": "A first-principles study of thiadiazole and dimercapto-thiadiazole adsorption on copper and silver surfaces",
+        "id": "811980498707415041",
+        "keywords": "[{\"ch_name\":\"吸附\",\"en_name\":\"Adsorption\"},{\"ch_name\":\"铜\",\"en_name\":\"Copper\"},{\"ch_name\":\"腐蚀\",\"en_name\":\"Corrosion\"},{\"ch_name\":\"第一原理计算\",\"en_name\":\"First-principles calculations\"},{\"ch_name\":\"抑制\",\"en_name\":\"Inhibition\"},{\"ch_name\":\"银\",\"en_name\":\"Silver\"},{\"ch_name\":\"噻二唑\",\"en_name\":\"Thiadiazole\"}]",
+        "publication_date": "2021-11",
+        "publication_id": "2156",
+        "publication_name": "Materials Chemistry and Physics _ Materials Chemistry and Physics",
+        "research_categories": "",
+        "zh_title": "噻二唑和二巯基噻二唑在铜和银表面吸附的第一性原理研究"
+      },
+      "paper:812752223598542849": {
+        "area": "Material science",
+        "authors": "V. Nagarajan | R. Chandiramouli",
+        "available_online": "",
+        "cover_date_start": "2019-11-01",
+        "created_at": "2022-12-22T10:27:12+08:00",
+        "doi": "10.1016/j.apsusc.2019.07.214",
+        "en_title": "Acrylonitrile vapor adsorption studies on armchair arsenene nanoribbon based on DFT study",
+        "id": "812752223598542849",
+        "keywords": "[{\"ch_name\":\"丙烯腈\",\"en_name\":\"Acrylonitrile\"},{\"ch_name\":\"砷烯\",\"en_name\":\"Arsenene\"},{\"ch_name\":\"电荷转移\",\"en_name\":\"Charge transfer\"},{\"ch_name\":\"纳米带\",\"en_name\":\"Nanoribbon\"},{\"ch_name\":\"物理吸附\",\"en_name\":\"Physisorption\"}]",
+        "publication_date": "2019-11",
+        "publication_id": "2051",
+        "publication_name": "Applied Surface Science _ Applied Surface Science",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "基于密度泛函理论（DFT）研究的扶手椅型砷烯纳米带对丙烯腈蒸汽的吸附研究"
+      },
+      "paper:813147274388439040": {
+        "area": "Physics and Astrophysics",
+        "authors": "Y. N. Zhang | V. Bortolani | G. Mistura",
+        "available_online": "2014-4-17",
+        "cover_date_start": "2014-04-17",
+        "created_at": "2022-12-23T12:36:58+08:00",
+        "doi": "10.1103/physrevb.89.165414",
+        "en_title": "Determination of corrugation and friction of Cu(111) toward adsorption and motion of Ne and Xe",
+        "id": "813147274388439040",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "铜（111）表面对氖和氙吸附及运动的波纹度和摩擦力的测定"
+      },
+      "paper:813209141156773889": {
+        "area": "Chemistry",
+        "authors": "Ricardo M. Ferullo | Maria Marta Branda | Francesc Illas",
+        "available_online": "",
+        "cover_date_start": "2013-11-01",
+        "created_at": "2022-12-23T16:42:48+08:00",
+        "doi": "10.1016/j.susc.2013.07.005",
+        "en_title": "Structure and stability of acrolein and allyl alcohol networks on Ag(111) from density functional theory based calculations with dispersion corrections",
+        "id": "813209141156773889",
+        "keywords": "[{\"en_name\": \"Acrolein\", \"ch_name\": \"\"}, {\"en_name\": \"Allyl alcohol Ag(111)\", \"ch_name\": \"\"}, {\"en_name\": \"DFT-D\", \"ch_name\": \"\"}, {\"en_name\": \"Ordered overlayers\", \"ch_name\": \"\"}]",
+        "publication_date": "2013-11",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "基于含色散校正的密度泛函理论计算的Ag(111)表面丙烯醛和烯丙醇网络的结构与稳定性"
+      },
+      "paper:813262249832480769": {
+        "area": "Chemistry",
+        "authors": "José J. Plata | Veronica Collico | Antonio M. Márquez | Javier Fdez Sanz",
+        "available_online": "2012-12-15",
+        "cover_date_start": "2012-12-15",
+        "created_at": "2022-12-23T20:13:51+08:00",
+        "doi": "10.1007/s00214-012-1311-y",
+        "en_title": "Analysis of the origin of lateral interactions in the adsorption of small organic molecules on oxide surfaces",
+        "id": "813262249832480769",
+        "keywords": "[{\"en_name\": \"Acetaldehyde\", \"ch_name\": \"\"}, {\"en_name\": \"Adsorption\", \"ch_name\": \"\"}, {\"en_name\": \"DFT\", \"ch_name\": \"\"}, {\"en_name\": \"Lateral interactions\", \"ch_name\": \"\"}, {\"en_name\": \"Van der waals\", \"ch_name\": \"\"}]",
+        "publication_date": "2013-2",
+        "publication_id": "3588",
+        "publication_name": "Theoretical Chemistry Accounts _ Theor Chem Acc",
+        "research_categories": "",
+        "zh_title": "小有机分子在氧化物表面吸附中横向相互作用起源的分析"
+      },
+      "paper:814510693494554625": {
+        "area": "Material science",
+        "authors": "Dongwei Ma | Qinggao Wang | Tingxian Li | Chaozheng He | Benyuan Ma | Yanan Tang | Zhansheng Lu | Zongxian Yang",
+        "available_online": "2016",
+        "cover_date_start": "2016-01-01",
+        "created_at": "2022-12-27T06:54:43+08:00",
+        "doi": "10.1039/c6tc01746k",
+        "en_title": "Repairing sulfur vacancies in the MoS 2 monolayer by using CO, NO and NO 2 molecules",
+        "id": "814510693494554625",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2076",
+        "publication_name": "Journal of Materials Chemistry C _ J. Mater. Chem. C",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "通过使用一氧化碳、一氧化氮和二氧化氮分子修复二硫化钼单层中的硫空位"
+      },
+      "paper:867748208825074282": {
+        "area": "arXiv-Physics",
+        "authors": "Andrey A. Kistanov | Stepan A. Shcherbinin | Svetlana V. Ustiuzhanina | Marko Huttula | Wei Cao | Vladimir R. Nikitenko | Oleg V. Prezhdo",
+        "available_online": "",
+        "cover_date_start": "2021-04-04",
+        "created_at": "2023-05-23T04:41:35+08:00",
+        "doi": "10.48550/arXiv.2104.01610",
+        "en_title": "First-Principles Prediction of Two-Dimensional B3C2P3 and B2C4P2: Structural Stability, Fundamental Properties, and Renewable Energy Applications",
+        "id": "867748208825074282",
+        "keywords": "",
+        "publication_date": "2021-04-04",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Engineering\", \"Materials Engineering\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "二维B3C2P3和B2C4P2的第一性原理预测：结构稳定性、基本性质及可再生能源应用"
+      },
+      "paper:867758267890139762": {
+        "area": "arXiv-Physics",
+        "authors": "Qian Wang | Rui Pang | Xingqiang Shi",
+        "available_online": "",
+        "cover_date_start": "2015-07-13",
+        "created_at": "2023-05-23T05:21:33+08:00",
+        "doi": "10.48550/arXiv.1507.03368",
+        "en_title": "Molecular Precursors-Induced Surface Reconstruction at Graphene/Pt(111) Interfaces",
+        "id": "867758267890139762",
+        "keywords": "",
+        "publication_date": "2015-07-13",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics _ Physics.physics.chem-ph",
+        "research_categories": "",
+        "zh_title": "分子前驱体诱导的石墨烯/Pt(111)界面表面重构"
+      },
+      "paper:977389785163235370": {
+        "area": "Comprehensive Periodical",
+        "authors": "R. Essehli | B. Aïssa | T. Altamash | M. Lachkar | M. Atilhan | B. El Bali | G. R. Berdiyorov | A. Amhamed",
+        "available_online": "",
+        "cover_date_start": "2024-03-20",
+        "created_at": "2024-03-20T17:58:03+08:00",
+        "doi": "10.1038/s41598-024-57060-8",
+        "en_title": "Efficient crystal structure materials as reactive sorbent for the CO2 and CH4 adsorption and storage",
+        "id": "977389785163235370",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "9354",
+        "publication_name": "Scientific Reports _ ",
+        "research_categories": "[\"Chemical Sciences\", \"Inorganic Chemistry\"]",
+        "zh_title": "高效晶体结构材料作为用于二氧化碳和甲烷吸附与存储的反应性吸附剂"
+      }
+    },
+    "variables": [
+      {
+        "content": "The finding that the optB86b-vdW functional overbinds at low coverage and performs better at full coverage is based on results obtained with a single van-der-Waals density-functional variant (optB86b-vdW); other dispersion treatments and vdW-DF implementations or parametrizations (for example, the original vdW-DF, vdW-DF2, or semiempirical D3 corrections) can produce quantitatively different adsorption energies and exhibit their own known trends of over- or under-binding in surface adsorption problems.\n      Section 2; references [36–39,46]",
+        "content_hash": "5276a4c2492d28e53b2e6ddc00204004871f99425a12f5b1ddcf30bfa4a85124",
+        "id": "gcn_0a393bca7fd043ab",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813262249832480769::P8",
+            "package_id": "paper:813262249832480769",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813262249832480769"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031054405392392875,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The CO adsorption energies reported (physisorption ≈0.19 eV, molecular chemisorption ≈1.21 eV) and the filling-step exothermicity of −1.02 eV are computed with the optB86b-vdW exchange functional used to include van-der-Waals interactions; adsorption energetics and weak chemical bonding energies are quantitatively sensitive to the choice of exchange-correlation functional and the method used to treat dispersion (vdW) effects, so the numerical adsorption energies can vary when different functionals or vdW schemes are employed.\n      Fig. 2(a); Table 1; Table 2",
+        "content_hash": "9d3bd4ab50dbd5ae08f33bf01538686f22b7829dca3c4217de8449bc7df69fc9",
+        "id": "gcn_e70879b710e74585",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814510693494554625::P5",
+            "package_id": "paper:814510693494554625",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814510693494554625"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03036576949620428,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The nonlocal van der Waals density functional variant optB86b-vdW predicts larger adsorption energies than semi-local GGA but can yield adsorption geometries that differ markedly from experiment and from the DFT-D predictions for this system; for example, for acrolein in the low-coverage p(4 × 4) cell optB86b gives E_{ads}=0.45 eV and predicts a C=O–surface tilt angle θ ≈ 36.4°, substantially larger than the DFT-D predicted θ ≈ 8.2° and larger than the experimental estimate θ ≈ 2°, indicating that some non-empirical vdW-DF implementations do not necessarily provide more accurate adsorbate geometries than empirical dispersion-corrected DFT in this adsorbate–surface problem.",
+        "content_hash": "971f05c199279b489d771cd0962675796353cc21325d38e42b8c13cd0948493d",
+        "id": "gcn_2e28ab98b84446b3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209141156773889::conclusion_6",
+            "package_id": "paper:813209141156773889",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209141156773889"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027583600982429624,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DFT calculations include a van-der-Waals dispersion correction but do not specify in the reporting which particular scheme was used (for example, Grimme DFT-D2, DFT-D3, Tkatchenko–Scheffler, or a nonlocal vdW functional such as optB86b-vdW); omitting the specific vdW scheme assumes that the chosen dispersion treatment captures molecule–metal dispersion interactions adequately and that reasonable alternative vdW schemes would not qualitatively change the reported adsorption geometries or adsorption energies on Cu and Ag, whereas in practice different dispersion corrections can shift adsorption energies and adsorption distances by tenths of an eV.",
+        "content_hash": "05267c706e9367b72fdba9f7bc2694ad71aeaaa7086e6ff3203b35f4d38d2ff4",
+        "id": "gcn_77a6be6e23f94d72",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811980498707415041::P9",
+            "package_id": "paper:811980498707415041",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811980498707415041"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02564935064935065,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The van der Waals-corrected exchange–correlation functional optB88-vdW, when used in spin-polarized plane-wave DFT calculations with the numerical settings described for the B3C2P3 surface, is assumed to yield adsorption energies for physisorbed small molecules (specifically H2O, H2, and O2) on a chemically heterogeneous two-dimensional surface with typical errors of order 0.05–0.15 eV relative to the true interaction energies, i.e., the computed optB88-vdW adsorption energies are regarded as sufficiently reliable to classify interactions as physisorption versus chemisorption and to make semi-quantitative comparisons across similar systems.",
+        "content_hash": "3636fb227b93b898881d95ddbdf41af07c2a3f98902c555e94615db32422c36b",
+        "id": "gcn_6f6462069cd54784",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748208825074282::P7",
+            "package_id": "paper:867748208825074282",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748208825074282"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define optB86b-vdW-DF as the nonlocal van der Waals density functional variant that combines the optB86b generalized-gradient exchange functional with the vdW-DF nonlocal correlation kernel; for rare-gas (Ne, Xe) adsorption on Cu(111) modeled by periodic DFT slab calculations, the proposition is that optB86b-vdW-DF yields adsorption distances, adsorption energies, and relative site-orderings that are physically reliable and in closer agreement with available experimental structural data and other vdW-inclusive theoretical studies than standard local or semilocal functionals, making optB86b-vdW-DF an appropriate practical choice for studying rare-gas/Cu(111) physisorption in these calculations.\n      [20-22]",
+        "content_hash": "41fbb59a7e64c3dacf1a01c5ed6a1e97c3753fa66c398519bff4cbd338ed97e3",
+        "id": "gcn_36a55a566fc943a2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813147274388439040::P6",
+            "package_id": "paper:813147274388439040",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813147274388439040"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Nonlocal dispersion interactions were included in the DFT calculations via a van der Waals density functional correction (vdW-DF); the employed vdW-DF description of long-range dispersion is intended to capture the dominant van der Waals contribution to single acrylonitrile (AN) molecule physisorption on hydrogen-passivated armchair arsenene nanoribbon (Arm-AsNR), and for the reported adsorption geometries the authors estimate that adsorption energies $E_{\\mathrm{ad}}$ obtained with this vdW-DF approach are accurate to within roughly $\\pm 0.10\\ \\mathrm{eV}$.",
+        "content_hash": "1b5f2bbd30e22de50d3ac101e1b46e03863719a3dd724f99d2ab66315eb16648",
+        "id": "gcn_44969e5b49fc42ba",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812752223598542849::P4",
+            "package_id": "paper:812752223598542849",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812752223598542849"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Total-energy differences computed with the Perdew–Burke–Ernzerhof (PBE) generalized gradient approximation exchange-correlation functional without any explicit van der Waals (dispersion) correction (e.g., DFT-D, vdW-DF, or many-body dispersion) yield quantitatively reliable adsorption energies and an accurate ranking of adsorption strengths for weakly bound gas molecules (such as CO$_2$ and CH$_4$) on an oxide/phosphate surface such that the reported adsorption energies $E_{ads}=-0.93\\ \\text{eV}$ for CO$_2$ and $E_{ads}=-0.42\\ \\text{eV}$ for CH$_4$ correctly reflect the true relative adsorption energetics and the qualitative chemisorption versus physisorption character without further dispersion corrections or empirical adjustments.",
+        "content_hash": "f70f3cf099241c0f9d2a80f2379d5890ef197692acb7137c8825522ae6c959ed",
+        "id": "gcn_3743a48f992340df",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:977389785163235370::P3",
+            "package_id": "paper:977389785163235370",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:977389785163235370"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "At 0.1ML coverage for the C‑bound adsorption geometry, the calculated adsorption energies per CO for a set of dispersion‑free and dispersion‑inclusive exchange–correlation treatments are: PBE (dispersion‑free) $247.2\\ \\mathrm{meV}$, vdW‑DF $363.0\\ \\mathrm{meV}$, vdW‑DF2 $364.8\\ \\mathrm{meV}$, RPBE‑D3 (zero‑damped Grimme D3 on RPBE exchange) $377.6\\ \\mathrm{meV}$, RPBE‑D3(BJ) (Becke–Johnson damped D3 on RPBE) $422.5\\ \\mathrm{meV}$, and optB88‑vdW $447.0\\ \\mathrm{meV}$; inclusion of explicit nonlocal van der Waals correlation (vdW‑DF, vdW‑DF2, optB88‑vdW) or pairwise dispersion corrections (D3 variants) substantially strengthens the calculated physisorption binding relative to dispersion‑free PBE, bringing adsorption energies into the typical physisorption range and reducing method‑to‑method scatter among the nonlocal/pairwise‑corrected approaches (with optB88‑vdW giving the largest values among those listed).",
+        "content_hash": "cc0048ffe94eeba0992153bb94461e495a65ac48c0509ab57964c3321ede9b0f",
+        "id": "gcn_3f527cabb5d24ccb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811048022203957248::conclusion_5",
+            "package_id": "paper:811048022203957248",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811048022203957248"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When comparing adsorption energies and geometries for graphene on Pt(111) obtained with the local-density approximation (LDA) to those obtained with a nonlocal van-der-Waals functional (optB86b-vdW-DF), it is acceptable within the modelling context to attribute part of the discrepancy—specifically LDA predicting larger adsorption-energy contrasts and shorter adsorption distances in some cases—to the known tendency of LDA to overbind noncovalent (van-der-Waals-dominated) interactions, and therefore a direct comparison between LDA and vdW-DF results is informative for concluding that LDA may misrepresent the balance between physisorption and chemisorption in this interface system.",
+        "content_hash": "f1dbf8c665b6fa09dc8d291fef547cef0a433e2f8ccbc25c536ec07efee8ee80",
+        "id": "gcn_7b09d98802c44021",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867758267890139762::P14",
+            "package_id": "paper:867758267890139762",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867758267890139762"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "3fb104f37e9a3cd47c330861d976bb05"
+}

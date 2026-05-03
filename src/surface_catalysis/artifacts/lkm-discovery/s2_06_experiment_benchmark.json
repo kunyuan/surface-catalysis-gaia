@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1048085502785224710": {
+        "area": "Geoscience",
+        "authors": "Zhiyang Zhai | Deliang Li | Xin Lu | Huizhu Cai | Qi Hu | Hengpan Yang | Chuanxin He",
+        "available_online": "",
+        "cover_date_start": "2024-10-01",
+        "created_at": "2024-10-01T19:57:36+08:00",
+        "doi": "10.1002/cey2.648",
+        "en_title": "Heteroatom‐induced tensile strain in copper lattice boosts CO2 electroreduction toward multi‐carbon products",
+        "id": "1048085502785224710",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "69463",
+        "publication_name": "Carbon Energy _ ",
+        "research_categories": "",
+        "zh_title": "杂原子诱导的铜晶格拉伸应变促进二氧化碳电还原生成多碳产物"
+      },
+      "paper:811968562515148801": {
+        "area": "Chemistry",
+        "authors": "Yuemin Wang | Xinyu Xia | Alexander Urban | Hengshan Qiu | Jennifer Strunk | Bernd Meyer | Martin Muhler | Christof Wöll",
+        "available_online": "",
+        "cover_date_start": "2007-09-24",
+        "created_at": "2022-12-20T06:33:11+08:00",
+        "doi": "10.1002/anie.200702815",
+        "en_title": "Tuning the Reactivity of Oxide Surfaces by Charge-Accepting Adsorbates",
+        "id": "811968562515148801",
+        "keywords": "[{\"en_name\": \"Ab initio calculations\", \"ch_name\": \"\"}, {\"en_name\": \"Heterogeneous catalysis\", \"ch_name\": \"\"}, {\"en_name\": \"Microcalorimetry\", \"ch_name\": \"\"}, {\"en_name\": \"Vibrational spectroscopy\", \"ch_name\": \"\"}, {\"en_name\": \"Zinc oxide\", \"ch_name\": \"\"}]",
+        "publication_date": "2007-9-24",
+        "publication_id": "3347",
+        "publication_name": "Angewandte Chemie International Edition _ Angew. Chem. Int. Ed.",
+        "research_categories": "",
+        "zh_title": "通过电荷接受型吸附质调节氧化物表面的反应活性"
+      },
+      "paper:812416942085242881": {
+        "area": "Chemistry",
+        "authors": "F. Solymosi | L. Bugyi",
+        "available_online": "",
+        "cover_date_start": "2000-01-01",
+        "created_at": "2022-12-21T12:14:54+08:00",
+        "doi": "10.1023/a:1019092800186",
+        "en_title": "Effects of potassium on the chemisorption of CO2 and CO on the Mo2C/Mo(100) surface",
+        "id": "812416942085242881",
+        "keywords": "",
+        "publication_date": "2000",
+        "publication_id": "3526",
+        "publication_name": "Catalysis Letters _ ",
+        "research_categories": "",
+        "zh_title": "钾对二氧化碳和一氧化碳在Mo₂C/Mo(100)表面化学吸附的影响"
+      },
+      "paper:812446822248218626": {
+        "area": "Chemistry",
+        "authors": "John L. Gland | Robert J. Madix | Robert W. McCabe | Craig DeMaggio",
+        "available_online": "",
+        "cover_date_start": "1984-07-01",
+        "created_at": "2022-12-21T14:13:38+08:00",
+        "doi": "10.1016/0039-6028(84)90409-6",
+        "en_title": "Vibrational characterization of carbon monoxide adsorption on sulfur modified Ni(100) surfaces",
+        "id": "812446822248218626",
+        "keywords": "",
+        "publication_date": "1984-7",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "一氧化碳在硫改性的Ni(100)表面吸附的振动特性"
+      },
+      "paper:812448519301365761": {
+        "area": "Chemistry",
+        "authors": "E.I. Altman | R.J. Gorte",
+        "available_online": "",
+        "cover_date_start": "1986-06-01",
+        "created_at": "2022-12-21T14:20:22+08:00",
+        "doi": "10.1016/0039-6028(86)90584-4",
+        "en_title": "The desorption of CO from small Pt particles on Al2O3",
+        "id": "812448519301365761",
+        "keywords": "",
+        "publication_date": "1986-6",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "CO从氧化铝上的小铂颗粒上的脱附"
+      },
+      "paper:812455167218679809": {
+        "area": "Chemistry",
+        "authors": "A. Ludviksson | K.H. Ernst | R. Zhang | C.T. Campbell",
+        "available_online": "",
+        "cover_date_start": "1993-06-01",
+        "created_at": "2022-12-21T14:46:47+08:00",
+        "doi": "10.1006/jcat.1993.1148",
+        "en_title": "The Chemisorption of CO on Cu Films on ZnO(0001)-O",
+        "id": "812455167218679809",
+        "keywords": "",
+        "publication_date": "1993-6",
+        "publication_id": "3381",
+        "publication_name": "Journal of Catalysis _ Journal of Catalysis",
+        "research_categories": "",
+        "zh_title": "CO在ZnO(0001)-O上的铜膜上的化学吸附"
+      },
+      "paper:813063237623873537": {
+        "area": "Material science",
+        "authors": "Jin-an Wang | G Aguilar-Rı́os | Ren Wang",
+        "available_online": "",
+        "cover_date_start": "1999-05-01",
+        "created_at": "2022-12-23T07:03:02+08:00",
+        "doi": "10.1016/s0169-4332(99)00073-2",
+        "en_title": "Inhibition of carbon monoxide on methanol oxidation over γ-alumina supported Ag, Pd and Ag–Pd catalysts",
+        "id": "813063237623873537",
+        "keywords": "",
+        "publication_date": "1999-5",
+        "publication_id": "2051",
+        "publication_name": "Applied Surface Science _ Applied Surface Science",
+        "research_categories": "",
+        "zh_title": "一氧化碳对γ-氧化铝负载的银、钯及银-钯催化剂上甲醇氧化反应的抑制作用"
+      },
+      "paper:813099960336646145": {
+        "area": "Chemistry",
+        "authors": "Leo DeRita | Sheng Dai | Kimberly Lopez-Zepeda | Nicholas Pham | George W. Graham | Xiaoqing Pan | Phillip Christopher",
+        "available_online": "2017-9-27",
+        "cover_date_start": "2017-09-27",
+        "created_at": "2022-12-23T09:28:57+08:00",
+        "doi": "10.1021/jacs.7b07093",
+        "en_title": "Catalyst Architecture for Stable Single Atom Dispersion Enables Site-Specific Spectroscopic and Reactivity Measurements of CO Adsorbed to Pt Atoms, Oxidized Pt Clusters, and Metallic Pt Clusters on TiO 2",
+        "id": "813099960336646145",
+        "keywords": "",
+        "publication_date": "2017-10-11",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "用于稳定单原子分散的催化剂结构实现了对吸附在TiO₂上的Pt原子、氧化的Pt团簇和金属Pt团簇上的CO进行位点特异性光谱和反应性测量"
+      },
+      "paper:813120536115675137": {
+        "area": "Chemistry",
+        "authors": "J. Paul | F.M. Hoffmann",
+        "available_online": "",
+        "cover_date_start": "1986-10-01",
+        "created_at": "2022-12-23T10:50:43+08:00",
+        "doi": "10.1016/0009-2614(86)80446-8",
+        "en_title": "CO adsorption on clean and oxidized Al(110)",
+        "id": "813120536115675137",
+        "keywords": "",
+        "publication_date": "1986-10",
+        "publication_id": "3555",
+        "publication_name": "Chemical Physics Letters _ Chemical Physics Letters",
+        "research_categories": "",
+        "zh_title": "一氧化碳在清洁和氧化的铝（110）表面的吸附 "
+      },
+      "paper:813143466304339970": {
+        "area": "Engineering Technology",
+        "authors": "Thomas G. Kelly | Alan L. Stottlemyer | Xiaofang Yang | Jingguang G. Chen",
+        "available_online": "2014-5-3",
+        "cover_date_start": "2014-01-01",
+        "created_at": "2022-12-23T12:21:50+08:00",
+        "doi": "10.1149/2.017408jes",
+        "en_title": "Theoretical and Experimental Studies of Ethanol Decomposition and Electrooxidation over Pt-Modified Tungsten Carbide",
+        "id": "813143466304339970",
+        "keywords": "",
+        "publication_date": "2014",
+        "publication_id": "4308",
+        "publication_name": "Journal of The Electrochemical Society _ J. Electrochem. Soc.",
+        "research_categories": "",
+        "zh_title": "铂修饰碳化钨上乙醇分解与电氧化的理论与实验研究"
+      }
+    },
+    "variables": [
+      {
+        "content": "The working approximation used to relate temperature-programmed desorption (TPD) data to adsorption energetics is that the desorption peak temperature, defined operationally as the temperature at which the desorption-rate peak occurs under the experimental heating rate, serves as a proxy for the adsorption activation energy (binding energy) for CO on a given surface site, such that, all other kinetic factors being equal, a higher desorption peak temperature corresponds qualitatively to a stronger CO–surface bond.",
+        "content_hash": "5c3d14815b75fa3b8c6de0a5ef96eec9bf43c92af75ec8022ad8f6ad9e9901fc",
+        "id": "gcn_8e2228a7339c4b78",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812448519301365761::P9",
+            "package_id": "paper:812448519301365761",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812448519301365761"
+          ]
+        },
+        "role": "premise",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Under comparable experimental temperature‑programmed desorption (TPD) or temperature‑programmed oxidation (TPO) protocols—defined operationally by initial CO saturation at room temperature followed by a linear temperature ramp at rate β in an inert He carrier for TPD or with O2 introduction for TPO—the onset and peak temperatures of CO desorption from distinct Pt site types serve as qualitative indicators of the relative adsorption strength (binding energy) of CO on those sites: earlier desorption onset and lower peak temperatures indicate weaker adsorption, whereas higher desorption temperatures indicate stronger adsorption. The proposition recognizes that quantitative conversion from desorption temperature to adsorption energy requires specifying desorption kinetics (reaction order, pre‑exponential factor) and accounting for coverage dependence and finite temporal averaging during spectral acquisition.",
+        "content_hash": "29046652fbfb71dd8985bc6d40ee4217f17c66a26fc7e992610e242909f4c949",
+        "id": "gcn_35483a1877e348d9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813099960336646145::P9",
+            "package_id": "paper:813099960336646145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813099960336646145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0264301860545992,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For CO temperature‑programmed desorption (CO‑TPD) performed on two catalyst surfaces with comparable CO dosing protocols, a higher temperature of a CO desorption peak corresponds to a more negative adsorption free energy (stronger thermodynamic binding) of CO on the surface sites responsible for that peak, rather than to differences dominated by kinetics, diffusion, readsorption, or changes in site populations.",
+        "content_hash": "0c57b57d2efc95a24e00128975a15f8f53fc3996abe6b0edbd13044b6d2b6601",
+        "id": "gcn_4cc78f11963a4ac1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1048085502785224710::P16",
+            "package_id": "paper:1048085502785224710",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1048085502785224710"
+          ]
+        },
+        "role": "premise",
+        "score": 0.023809523809523808,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Combined experimental results from powder microcalorimetry and temperature-programmed desorption, single-crystal temperature-programmed desorption and high-resolution electron energy loss spectroscopy, and density functional theory calculations of geometry, energetics, and energy decomposition show that charge-accepting coadsorbates that form surface carbonates, specifically CO$_2$ on ZnO, can substantially increase the Lewis acidity of neighboring surface metal cations and thereby strengthen adsorption of Lewis-basic probe molecules such as CO. This substrate-mediated modification of adsorption energies and vibrational properties occurs on both single-crystal ZnO(10$\\overline{1}0)$ and polycrystalline ZnO powders and must therefore be considered when interpreting and modeling heterogeneous catalysis on oxide surfaces in the presence of such coadsorbates.",
+        "content_hash": "d7ea8a9e977a3feb2603dcdf8078a1749ca15b4c79c76c9fdc492eb196e7236a",
+        "id": "gcn_17bc0e570c674ce4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811968562515148801::conclusion_6",
+            "package_id": "paper:811968562515148801",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811968562515148801"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the temperature-programmed desorption (TPD) measurements performed on Mo2C/Mo(100) in the reported experiments (linear heating-rate ramps, CO2 adsorption at 90 K for the CO2 TPD traces shown, and the stated dosing and ramp conditions), a higher TPD desorption-peak temperature Tp is taken to correspond to a larger adsorption binding energy (enthalpy of desorption) for the monitored desorbing state, so that relative binding strengths under these experimental conditions can be inferred from observed shifts in Tp.",
+        "content_hash": "315af54de4243e0d1254735fa163bfbbf4b0df30998c7269bfbfd29db247a259",
+        "id": "gcn_fe3408bfd7834375",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812416942085242881::P4",
+            "package_id": "paper:812416942085242881",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812416942085242881"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "On a Ni(100) single‑crystal surface covered by an ordered p(2×2) sulfur overlayer (defined here as a two‑dimensional array in which one quarter of the four‑fold hollow sites of the Ni(100) surface are occupied by atomic sulfur), two distinct carbon monoxide (CO) binding states are identified and quantified by combined high resolution electron energy loss spectroscopy (HREELS, high resolution electron energy loss spectroscopy) and temperature programmed desorption (TPD, temperature programmed desorption) measurements: CO that is assigned to an unencumbered four‑fold hollow metal adsorption site of the p(2×2) array exhibits a C–O stretching wavenumber of 1740 cm^-1 and a desorption peak near 370 K, whereas CO that is assigned to a two‑fold bridge metal adsorption site available within the p(2×2) array exhibits a C–O stretching wavenumber near 1930 cm^-1 and a desorption peak near 290 K.",
+        "content_hash": "958cc3e6b2e91c2c06fb0f2f8cbed8cd2b05b41f7f9471e356dc8aae2af057a0",
+        "id": "gcn_a9eb573929544355",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812446822248218626::conclusion_1",
+            "package_id": "paper:812446822248218626",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812446822248218626"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Thermal desorption spectroscopy (TDS) traces recorded following CO adsorption on clean Al(100) (adsorption at cryogenic temperature, Tads ≈ 70–80 K; TDS heating rate ≈ 1.3 K s−1) show a principal CO desorption peak centered at 125 K; treating this desorption peak as a first-order desorption process and adopting a pre-exponential (attempt) frequency factor ν = 1×10^14 s−1 yields an estimated adsorption enthalpy (binding energy) of approximately 8 kcal mol−1 for the chemisorbed CO on Al(100), and at high CO exposures (near saturation coverage) the TDS trace develops a split desorption peak.",
+        "content_hash": "6d6a3f35e9bff9d5b4227c48369ac0a253f33713f012c0ad81b2800bd1d9cd5b",
+        "id": "gcn_cfa6472b91ca4221",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813120536115675137::conclusion_2",
+            "package_id": "paper:813120536115675137",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813120536115675137"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Carbon monoxide (CO) adsorbed at 130 K onto submonolayer two-dimensional copper films grown at 130 K on the oxygen-terminated ZnO(0001)-O single-crystal surface is taken up with an inferred sticking probability close to unity under the experimental dosing conditions used in these measurements, and the temperature-programmed desorption (TPD) spectra of this CO are dominated by a principal desorption peak centered near 220 K that reaches saturation after roughly a 0.4 L CO exposure in the reported dosing geometry and heating rate; the observed dominant desorption temperature and saturation behavior closely match published CO desorption behavior from the metallic Cu(110) single-crystal surface under comparable heating-rate conditions, implying that the dominant adsorption sites on these supported films are Cu(110)-like in their CO-binding energetics.",
+        "content_hash": "d7ea95da60de54d2cd8a9bc192ab448df004f47c41caf40245b741405947bc69",
+        "id": "gcn_d7e93e13e28049bf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812455167218679809::conclusion_2",
+            "package_id": "paper:812455167218679809",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812455167218679809"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In temperature programmed desorption experiments carried out with a fixed linear heating rate β = dT/dt on a family of catalyst surfaces under otherwise comparable experimental conditions, observation of a CO desorption‑rate peak at a higher temperature Tdes is indicative of stronger effective CO binding to that surface and therefore can be used as a qualitative validation of the ordering of CO adsorption energies across those surfaces.\n      Z. J. Mellinger, E. C. Weigert, A. L. Stottlemyer, and J. G. Chen, Electrochemical and Solid-State Letters, 11, B63 (2008).",
+        "content_hash": "5ce29082dfe7301bb39bfd01cb6a8ecc0609ddad729c8763382574b046576a86",
+        "id": "gcn_e41c440e98e547a6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813143466304339970::P5",
+            "package_id": "paper:813143466304339970",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813143466304339970"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the CO-temperature-programmed desorption (CO-TPD) experiments performed on 0.1 g samples (protocol: preclean to 500 °C in He at 10 °C min^-1, cool to 50 °C, evacuate, then dose 0.21 vol.% CO at 20 mL min^-1 for 0.5 h, purge physisorbed CO, ramp temperature at 10 °C min^-1 to 700 °C with TCD detection), the central temperature of a desorption peak T_max(i) is treated as a proxy for the average adsorption binding energy (higher T_max indicating stronger average binding) for that CO population and the normalized peak area Ar_i (normalized in this study to the first-peak area measured on 5% Ag/γ-Al2O3) is treated as proportional to the surface CO capacity of that population, under the assumption that convolution from readsorption, CO decomposition, overlapping unresolved peaks, or detector nonlinearity is negligible.",
+        "content_hash": "d0873b035a296ddd07f7a78b443e8223162ce397e28ee6fd620521680a51dd1f",
+        "id": "gcn_06abb434fa634858",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813063237623873537::P4",
+            "package_id": "paper:813063237623873537",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813063237623873537"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "7f07164577d20045ac5b5289ebc3c6e9"
+}

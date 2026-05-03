@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811081552950722560": {
+        "area": "Chemistry",
+        "authors": "Shohei Ogura | Katsuyuki Fukutani",
+        "available_online": "2017-1-30",
+        "cover_date_start": "2017-01-30",
+        "created_at": "2022-12-17T19:48:33+08:00",
+        "doi": "10.1021/acs.jpcc.6b10965",
+        "en_title": "Dynamic Blocking by CO of Hydrogen Transport across Pd 70 Au 30 (110) Surfaces",
+        "id": "811081552950722560",
+        "keywords": "",
+        "publication_date": "2017-2-16",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "一氧化碳对氢在Pd₇₀Au₃₀(110)表面传输的动态阻碍作用"
+      },
+      "paper:811095755866505217": {
+        "area": "Chemistry",
+        "authors": "Athula Bandara | Satoshi Katano | Jun Kubota | Ken Onda | Akihide Wada | Kazunari Domen | Chiaki Hirose",
+        "available_online": "",
+        "cover_date_start": "1998-06-01",
+        "created_at": "2022-12-17T20:44:59+08:00",
+        "doi": "10.1016/s0009-2614(98)00493-x",
+        "en_title": "The effect of co-adsorption of on-top CO on the sum-frequency generation signal of bridge CO on the Ni(111) surface",
+        "id": "811095755866505217",
+        "keywords": "",
+        "publication_date": "1998-6",
+        "publication_id": "3555",
+        "publication_name": "Chemical Physics Letters _ Chemical Physics Letters",
+        "research_categories": "",
+        "zh_title": "在Ni(111)表面上，顶位CO的共吸附对桥式CO和频产生信号的影响"
+      },
+      "paper:811834764846694401": {
+        "area": "Chemistry",
+        "authors": "Maarten M. M. Jansen | Jose Gracia | Ben E. Nieuwenhuys | (Hans) J. W. Niemantsverdriet",
+        "available_online": "",
+        "cover_date_start": "2009-01-01",
+        "created_at": "2022-12-19T21:41:31+08:00",
+        "doi": "10.1039/b910497f",
+        "en_title": "Interactions between co-adsorbed CO and H on a Rh(100) single crystal surface",
+        "id": "811834764846694401",
+        "keywords": "",
+        "publication_date": "2009",
+        "publication_id": "3439",
+        "publication_name": "Physical Chemistry Chemical Physics _ Phys. Chem. Chem. Phys.",
+        "research_categories": "",
+        "zh_title": "铑（100）单晶表面上共吸附的一氧化碳和氢之间的相互作用"
+      },
+      "paper:811871835271462913": {
+        "area": "Chemistry",
+        "authors": "James E. Jones | Michael Trenary",
+        "available_online": "2008-11-24",
+        "cover_date_start": "2008-11-24",
+        "created_at": "2022-12-20T00:08:49+08:00",
+        "doi": "10.1021/jp807906e",
+        "en_title": "Surface Chemistry of NCO Formed from HNCO on Pt(111)",
+        "id": "811871835271462913",
+        "keywords": "",
+        "publication_date": "2008-12-25",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "在Pt(111)表面上由HNCO形成的NCO的表面化学"
+      },
+      "paper:812266391712301056": {
+        "area": "",
+        "authors": "Ellen H.G. Backus | Mischa Bonn",
+        "available_online": "",
+        "cover_date_start": "2005-08-01",
+        "created_at": "2022-12-21T02:16:39+08:00",
+        "doi": "10.1016/j.cplett.2005.06.118",
+        "en_title": "A quantitative comparison between reflection absorption infrared and sum-frequency generation spectroscopy",
+        "id": "812266391712301056",
+        "keywords": "",
+        "publication_date": "2005-8",
+        "publication_id": "101269",
+        "publication_name": "Chemical Physics Letters _ Chemical Physics Letters",
+        "research_categories": "",
+        "zh_title": "反射吸收红外光谱与和频振动光谱的定量比较"
+      },
+      "paper:812424017662181377": {
+        "area": "Geoscience",
+        "authors": "J.V. Nekrylova | C. French | A.N. Artsyukhovich | V.A. Ukraintsev | I. Harrison",
+        "available_online": "",
+        "cover_date_start": "1993-09-01",
+        "created_at": "2022-12-21T12:43:01+08:00",
+        "doi": "10.1016/0167-2584(93)91008-c",
+        "en_title": "Low temperature adsorption of CO on Pt(111): disequilibrium and the occupation of three-fold hollow sites",
+        "id": "812424017662181377",
+        "keywords": "",
+        "publication_date": "1993-9",
+        "publication_id": "14157",
+        "publication_name": "Surface Science Letters _ Surface Science Letters",
+        "research_categories": "",
+        "zh_title": "CO在Pt(111)上的低温吸附：非平衡态与三重空穴位点的占据情况"
+      },
+      "paper:812446711539564544": {
+        "area": "Chemistry",
+        "authors": "J.V. Nekrylova | C. French | A.N. Artsyukhovich | V.A. Ukraintsev | I. Harrison",
+        "available_online": "",
+        "cover_date_start": "1993-09-01",
+        "created_at": "2022-12-21T14:13:11+08:00",
+        "doi": "10.1016/0039-6028(93)90173-h",
+        "en_title": "Low temperature adsorption of CO on Pt(111): disequilibrium and the occupation of three-fold hollow sites",
+        "id": "812446711539564544",
+        "keywords": "",
+        "publication_date": "1993-9",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "CO在Pt(111)上的低温吸附：非平衡态与三重空穴位点的占据情况"
+      },
+      "paper:812447107741908993": {
+        "area": "Chemistry",
+        "authors": "Natividad Vasquez | Anthony Muscat | Robert J. Madix",
+        "available_online": "",
+        "cover_date_start": "1994-01-01",
+        "created_at": "2022-12-21T14:14:46+08:00",
+        "doi": "10.1016/0039-6028(94)91289-0",
+        "en_title": "The effect of site distribution on desorption kinetics: carbon monoxide from Ni(100)",
+        "id": "812447107741908993",
+        "keywords": "",
+        "publication_date": "1994-1",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "位点分布对脱附动力学的影响：镍（100）表面的一氧化碳"
+      },
+      "paper:812591944147402752": {
+        "area": "Chemistry",
+        "authors": "A.R Garcia | J.L da Silva | L.M Ilharco",
+        "available_online": "",
+        "cover_date_start": "1998-09-01",
+        "created_at": "2022-12-21T23:50:18+08:00",
+        "doi": "10.1016/s0039-6028(98)00590-1",
+        "en_title": "Chemical adsorption of acetic acid and deuterated acetic acid on Ru(0001), by RAIRS",
+        "id": "812591944147402752",
+        "keywords": "",
+        "publication_date": "1998-9",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "通过反射吸收红外光谱法（RAIRS）研究乙酸和氘代乙酸在Ru(0001)上的化学吸附"
+      }
+    },
+    "variables": [
+      {
+        "content": "Reflection absorption infrared spectroscopy (RAIRS) and sum-frequency generation spectroscopy (SFG) give qualitatively different coverage dependences for the C–O stretch of CO molecules adsorbed in atop geometry on a stepped platinum surface with Miller index Pt(5 3 3): here RAIRS denotes reflection absorption infrared spectroscopy and SFG denotes sum-frequency generation spectroscopy, and the relative coverage θ denotes the fraction of a saturated monolayer. In the RAIR spectra the integrated intensity of the atop-CO C–O stretch (the integral of the absorbance associated with atop-bound CO) increases monotonically and nearly continuously as θ increases from low values toward saturation. In the SFG spectra the response of the same atop-bound C–O vibrational mode as a function of θ evolves much more abruptly as the surface population shifts from CO on step atop sites (step-site CO) to CO on terrace atop sites (terrace-site CO), and the integrated SFG intensity exhibits a pronounced minimum near θ ≈ 0.4: for example, the measured SFG integrated intensity at θ = 0.43 is more than a factor of two smaller than at θ = 0.25 despite the larger total number of adsorbed CO molecules at θ = 0.43. The fitted central frequencies of the atop C–O peaks obtained by fitting Lorentzian lineshapes to the RAIRS and SFG spectra also differ slightly: for terrace-site atop CO the SFG central frequency is slightly higher than the RAIRS central frequency at low θ, while for step-site atop CO the RAIRS central frequency is slightly lower than the SFG central frequency for θ ≲ 0.5 and becomes higher than the SFG central frequency at higher θ.",
+        "content_hash": "ac3f50d9956d942c713ee8d7dfc739c2f84410c675bdd3192a421d12c53e0893",
+        "id": "gcn_9ee7d42644ac4146",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812266391712301056::conclusion_1",
+            "package_id": "paper:812266391712301056",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812266391712301056"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Reflection–absorption infrared spectroscopy (RAIRS) measurements of the C–O stretch for CO adsorbed on Rh(100) provide site-specific vibrational signatures such that CO molecules adsorbed on atop (on-top) sites produce RAIRS bands in the approximate frequency range $1997$–$2055\\ \\mathrm{cm^{-1}}$ while bridge-bonded CO produce bands in the approximate range $1870$–$1944\\ \\mathrm{cm^{-1}}$, and, under the assumption that transition dipole strengths and molecular orientation factors do not change strongly across the measured coverage range, the integrated RAIRS absorption intensity $I_{\\mathrm{RAIRS}}$ of a given band is approximately proportional to the surface population (site-occupancy fraction) of CO molecules residing in the corresponding adsorption-site class.",
+        "content_hash": "c00bc41ea68d7d2ccb8ae6331294319b8e4da9391cc82475f819ea5bf1c21296",
+        "id": "gcn_80b6b50b570d4d62",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811834764846694401::P4",
+            "package_id": "paper:811834764846694401",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811834764846694401"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031054405392392875,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Reflection absorption infrared spectroscopy on Pt(111) shows established spectral fingerprints for CO adsorption geometries such that CO in an on-top (atop) site gives an intense vibrational band near $2090\\ \\mathrm{cm}^{-1}$ and CO in a 2-fold bridge site gives a band near $1840$--$1860\\ \\mathrm{cm}^{-1}$; the proposition is that these known RAIRS site-frequency assignments are applicable to CO molecules produced in situ by thermal decomposition of adsorbed NCO on Pt(111) under the experimental annealing and coverage conditions described, thereby enabling interpretation of observed CO bands as evidence for on-top occupation at low CO coverage and bridge occupation at higher CO+NCO coverage. All terms (on-top, bridge, RAIRS frequencies, in situ CO production) are defined.",
+        "content_hash": "cdeb21a5c090c6bbed9aa0c4f6f66b52f374dbaf6c687b262ab43ce4ff57f82a",
+        "id": "gcn_e5e40cc8ea294580",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811871835271462913::P11",
+            "package_id": "paper:811871835271462913",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811871835271462913"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030536130536130537,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Reflection–absorption infrared spectroscopy (RAIRS; IR spectra recorded in p-polarization at grazing incidence so that only vibrational modes with a vertical transition dipole component are detected) shows that the presence of coadsorbed atomic hydrogen on Rh(100) shifts the preferred adsorption site of CO from predominantly atop (on-top) sites toward bridge sites: at a CO coverage $\\theta_{\\mathrm{CO}} = 0.68\\ \\mathrm{ML}$ with an initial coadsorbed hydrogen coverage $\\theta_{\\mathrm{H,ini}} = 0.43\\ \\mathrm{ML}$ the integrated RAIRS absorption intensity ratio of the bridge-CO band to the atop-CO band is approximately $10:1$, and a discrete shift of the bridge-CO RAIRS band frequency from about $1900\\ \\mathrm{cm^{-1}}$ to about $1980\\ \\mathrm{cm^{-1}}$ is observed as $\\theta_{\\mathrm{CO}}$ increases through approximately $0.2\\ \\mathrm{ML}$; here the RAIRS band assignments follow the site-specific C–O stretch ranges that identify atop versus bridge-bonded CO.",
+        "content_hash": "39f7deec5ae07eba040b3b7a0e3e73a3dd34105c84523a47b6d676b33450b329",
+        "id": "gcn_d1d82a57823f436e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811834764846694401::conclusion_4",
+            "package_id": "paper:811834764846694401",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811834764846694401"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.029030910609857977,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Sum-frequency generation (SFG) spectra of carbon monoxide (CO) adsorbed on a Ni(111) single-crystal surface, measured at a sample temperature of 130 K, show that the vibrational SFG peak assigned to CO molecules bound at twofold bridge adsorption sites on Ni(111) is clearly observable for total CO coverages Θ between 0.04 monolayer (ML) and approximately 0.40–0.47 ML, begins to weaken once on-top CO (CO bound at single-top surface sites) first appears near Θ ≈ 0.33 ML, and is no longer detectable in the SFG spectra by Θ = 0.60 ML; by contrast, infrared reflection absorption spectroscopy (IRAS) measurements on the same Ni(111) surface at 130 K continue to display both the bridge C–O stretching band and the on-top C–O stretching band up to the saturation coverage defined as 1.0 ML (1 ML is the saturated-surface CO coverage used throughout these measurements). In the SFG spectral analysis the bridge-mode resonant complex amplitude is denoted χ_bridge^R and its half-width is denoted Γ_bridge, and the fitted area proxy used to quantify the bridge-mode SFG intensity is the product |χ_bridge^R|^2×Γ_bridge; the observed disappearance of the bridge-mode SFG area proxy while the bridge-mode IRAS band remains visible demonstrates a pronounced suppression specific to SFG detection of the bridge-CO resonance in the coverage regime where on-top CO coexists, a suppression that is not paralleled in the linear IR absorption measured by IRAS.",
+        "content_hash": "12b4e77d5e1b5836beda7b20f866235d372bdedc27d0280274c4bebe2b04825a",
+        "id": "gcn_2a132538178b4491",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811095755866505217::conclusion_1",
+            "package_id": "paper:811095755866505217",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811095755866505217"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.028814262023217248,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the reflection-absorption infrared spectroscopy (RAIRS) measurements reported for CO on Ni(100) (spectra acquired with a Nicolet 740 Fourier-transform spectrometer, a liquid-nitrogen-cooled mercury-cadmium-telluride detector, averaging 1200 scans at 8 cm^-1 resolution), the integrated RAIRS signal intensity at a given CO stretching frequency is taken, for the purposes of site-population analysis, to be directly proportional to the number of CO molecules occupying the corresponding adsorption-site type (for example, atop or bridge) without applying corrections for possible differences in transition dipole magnitudes, dipole–dipole coupling between adsorbates, or surface-selection-rule-induced intensity variations.",
+        "content_hash": "db76162832d754c51c9b2ac9474db3fe1c0d9e22454af55bf9ac2277b33f01ab",
+        "id": "gcn_aa3ba8b52c254c65",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812447107741908993::P2",
+            "package_id": "paper:812447107741908993",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812447107741908993"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02694394213381555,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In reflection-absorption infrared spectroscopy (RAIRS) experiments on a Pd70Au30(110) single-crystal surface measured at cryogenic to moderate temperatures, observed CO C–O stretching peaks with centers in the ranges 2100–2121 cm⁻¹, 2069–2087 cm⁻¹, and 1900–2000 cm⁻¹ are assigned, by direct comparison of their center wavenumbers to published benchmark RAIRS/IRAS values reported for pure Pd(110), Au(110), and Pd–Au alloy surfaces, to CO adsorption on (respectively) Au on-top sites (CO bound atop Au atoms), Pd on-top sites (CO bound atop Pd atoms), and bridge/hollow sites (CO bound between two or over three surface atoms).  The working proposition is that simple proximity of an observed RAIRS peak center to literature benchmark wavenumbers (agreement within a few cm⁻¹) provides a sufficiently reliable indicator of the adsorption-site identity for CO on Pd–Au surfaces under the experimental conditions used here, permitting assignment of the observed spectral components to the named adsorption ensembles.",
+        "content_hash": "a1929593d0959207f66eaf6a0c5072488704fcb3d70d0dd5f94b3ab98dd4f5f9",
+        "id": "gcn_dc12f7bd472443ca",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811081552950722560::P1",
+            "package_id": "paper:811081552950722560",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811081552950722560"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026860955056179775,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The infrared absorption band observed at 2022 cm⁻¹ in reflection absorption infrared spectroscopy (RAIRS) of species adsorbed on a ruthenium single‑crystal surface oriented along the (0001) plane (Ru(0001)) is produced by carbon monoxide (CO) molecules adsorbed in an on‑top (atop) adsorption site, where an on‑top site is the configuration in which the CO molecule is bonded with its carbon atom positioned vertically above a single surface Ru atom and the observed RAIRS feature corresponds to the internal C–O stretching vibrational transition of that adsorbed CO.",
+        "content_hash": "ebb96c0e0c1f660abc1af2d30355878168e7f6c9edfd48f95f706f88c1ccda01",
+        "id": "gcn_430689200135417c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812591944147402752::P1",
+            "package_id": "paper:812591944147402752",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812591944147402752"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026333789329685362,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Reflection absorption infrared spectroscopy (RAIRS) of CO dosed onto Pt(111) at $20\\ \\mathrm{K}$ reveals a distinct absorption band centered at $1736\\ \\mathrm{cm}^{-1}$ with full width at half maximum approximately $25\\ \\mathrm{cm}^{-1}$ that is assigned to CO chemisorbed in three‑fold hollow adsorption sites; this $1736\\ \\mathrm{cm}^{-1}$ band first appears in the RAIRS spectra at mean exposures corresponding to about $\\theta\\gtrsim 0.35\\ \\mathrm{ML}$, grows in intensity with further exposure and then saturates in integrated absorbance between mean exposures of approximately $0.35\\ \\mathrm{ML}$ and $1.0\\ \\mathrm{ML}$ (here $1\\ \\mathrm{ML}=1.5\\times10^{15}\\ \\mathrm{cm}^{-2}$), and, under the assumption adopted for areal scaling that the RAIRS infrared absorption cross‑section for the C–O stretch of hollow‑site CO equals that of bridge‑site CO, the maximum three‑fold hollow‑site areal coverage estimated from the measured integrated absorbance is approximately $0.025\\ \\mathrm{ML}$.",
+        "content_hash": "7a834797f16f0158647148cb3545b0449590f446f7d516ae83175f3bdc26a8dd",
+        "id": "gcn_f1b45c9c2eda4076",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812446711539564544::conclusion_3",
+            "package_id": "paper:812446711539564544",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812446711539564544"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02604430914933198,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A reflection–absorption infrared spectroscopy (RAIRS) absorption band centered at $1736\\ \\mathrm{cm}^{-1}$ with full width at half maximum (FWHM) approximately $25\\ \\mathrm{cm}^{-1}$ is observed for CO dosed on Pt(111) at $20\\ \\mathrm{K}$ and is attributed to CO chemisorbed at three-fold hollow terrace sites; the attribution is based on the expected red-shift of the CO intramolecular stretch with increasing metal coordination under the Blyholder/back-donation picture. The integrated RAIRS absorbance of the $1736\\ \\mathrm{cm}^{-1}$ band increases as the CO exposure is increased and grows in and saturates as exposure is increased from about $0.35\\ \\mathrm{ML}$ to $1.0\\ \\mathrm{ML}$. Using the measured integrated absorbances and estimating the hollow-site infrared cross-section to be equal to the bridge-site cross-section (see premise P2), the maximum hollow-site CO areal density inferred from these measured absorbances is approximately $0.025\\ \\mathrm{ML}$.",
+        "content_hash": "f6b40f53c5d3f2017fdad41297386247a0b28f12e5f71bebcd307ce9f5ff30eb",
+        "id": "gcn_3a11e61c093d4d6d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812424017662181377::conclusion_3",
+            "package_id": "paper:812424017662181377",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812424017662181377"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02574682290807064,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "ae8cca72f970967f4330e9b67a3849cf"
+}

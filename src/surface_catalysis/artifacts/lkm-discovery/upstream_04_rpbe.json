@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811081168400154625": {
+        "area": "Chemistry",
+        "authors": "Patanachai Janthon | Francesc Viñes | Jakkapan Sirijaraensre | Jumras Limtrakul | Francesc Illas",
+        "available_online": "2017",
+        "cover_date_start": "2017-01-01",
+        "created_at": "2022-12-17T19:47:01+08:00",
+        "doi": "10.1039/c6cy02253g",
+        "en_title": "Carbon dissolution and segregation in platinum",
+        "id": "811081168400154625",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3414",
+        "publication_name": "Catalysis Science and Technology _ Catal. Sci. Technol.",
+        "research_categories": "",
+        "zh_title": "碳在铂中的溶解与偏析"
+      },
+      "paper:811163955144687617": {
+        "area": "Material science",
+        "authors": "K. Palotás | I. Bakó | L. Bugyi",
+        "available_online": "",
+        "cover_date_start": "2016-12-01",
+        "created_at": "2022-12-18T01:15:59+08:00",
+        "doi": "10.1016/j.apsusc.2016.08.020",
+        "en_title": "Structural, electronic and adsorption properties of Rh(111)/Mo(110) bimetallic catalyst: A DFT study",
+        "id": "811163955144687617",
+        "keywords": "[{\"en_name\": \"Bimetallic catalyst\", \"ch_name\": \"\"}, {\"en_name\": \"Bonding mechanism\", \"ch_name\": \"\"}, {\"en_name\": \"CO adsorption\", \"ch_name\": \"\"}, {\"en_name\": \"DFT\", \"ch_name\": \"\"}, {\"en_name\": \"Molybdenum\", \"ch_name\": \"\"}, {\"en_name\": \"Rhodium\", \"ch_name\": \"\"}]",
+        "publication_date": "2016-12",
+        "publication_id": "2051",
+        "publication_name": "Applied Surface Science _ Applied Surface Science",
+        "research_categories": "[\"Chemical Sciences\", \"Inorganic Chemistry\", \"Physical Chemistry\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "Rh(111)/Mo(110)双金属催化剂的结构、电子及吸附性质：一项密度泛函理论研究 "
+      },
+      "paper:811795994130776065": {
+        "area": "Physics and Astrophysics",
+        "authors": "B. Hammer | L. B. Hansen | J. K. Nørskov",
+        "available_online": "1999-3-15",
+        "cover_date_start": "1999-03-15",
+        "created_at": "2022-12-19T19:07:27+08:00",
+        "doi": "10.1103/physrevb.59.7413",
+        "en_title": "Improved adsorption energetics within density-functional theory using revised Perdew-Burke-Ernzerhof functionals",
+        "id": "811795994130776065",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "使用修正的佩德韦-伯克-恩泽尔霍夫泛函在密度泛函理论内改进吸附能学"
+      },
+      "paper:812015315411009536": {
+        "area": "Physics and Astrophysics",
+        "authors": "Dingwang Yuan | Xingao Gong | Ruqian Wu",
+        "available_online": "2007-2-16",
+        "cover_date_start": "2007-02-16",
+        "created_at": "2022-12-20T09:38:57+08:00",
+        "doi": "10.1103/physrevb.75.085428",
+        "en_title": "Atomic configurations of Pd atoms in PdAu(111) bimetallic surfaces investigated using the first-principles pseudopotential plane wave approach",
+        "id": "812015315411009536",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "采用第一性原理赝势平面波方法研究PdAu(111)双金属表面中Pd原子的原子构型"
+      },
+      "paper:812021986573156352": {
+        "area": "Geoscience",
+        "authors": "Xiao-Yuan Liao | Dong-Bo Cao | Sheng-Guang Wang | Zhong-Yun Ma | Yong-Wang Li | Jianguo Wang | Haijun Jiao",
+        "available_online": "",
+        "cover_date_start": "2007-05-01",
+        "created_at": "2022-12-20T10:05:28+08:00",
+        "doi": "10.1016/j.molcata.2007.01.015",
+        "en_title": "Density functional theory study of CO adsorption on the (100), (001) and (010) surfaces of Fe3C",
+        "id": "812021986573156352",
+        "keywords": "[{\"en_name\": \"Adsorption\", \"ch_name\": \"\"}, {\"en_name\": \"CO\", \"ch_name\": \"\"}, {\"en_name\": \"DFT\", \"ch_name\": \"\"}, {\"en_name\": \"Fe<sub>3</sub>C\", \"ch_name\": \"\"}, {\"en_name\": \"Fischer-Tropsch synthesis\", \"ch_name\": \"\"}]",
+        "publication_date": "2007-5",
+        "publication_id": "12728",
+        "publication_name": "Journal of Molecular Catalysis A: Chemical _ Journal of Molecular Catalysis A: Chemical",
+        "research_categories": "",
+        "zh_title": "Fe₃C的(100)、(001)和(010)表面上CO吸附的密度泛函理论研究"
+      },
+      "paper:812715700882767873": {
+        "area": "Chemistry",
+        "authors": "Jun Meng | Beien Zhu | Yi Gao",
+        "available_online": "2019-10-29",
+        "cover_date_start": "2019-10-29",
+        "created_at": "2022-12-22T08:02:04+08:00",
+        "doi": "10.1021/acs.jpcc.9b08398",
+        "en_title": "Surface Composition Evolution of Bimetallic Alloys under Reaction Conditions",
+        "id": "812715700882767873",
+        "keywords": "",
+        "publication_date": "2019-11-21",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "[\"Chemical Sciences\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "反应条件下双金属合金的表面成分演变"
+      },
+      "paper:813128770083880961": {
+        "area": "Chemistry",
+        "authors": "B. Hammer",
+        "available_online": "",
+        "cover_date_start": "2000-07-01",
+        "created_at": "2022-12-23T11:23:26+08:00",
+        "doi": "10.1016/s0039-6028(00)00467-2",
+        "en_title": "Adsorption, diffusion, and dissociation of NO, N and O on flat and stepped Ru(0001)",
+        "id": "813128770083880961",
+        "keywords": "",
+        "publication_date": "2000-7",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "NO、N和O在平整及阶梯状Ru(0001)表面的吸附、扩散和解离"
+      },
+      "paper:813190977387757569": {
+        "area": "Material science",
+        "authors": "Xin Li | Bo Li | Ze Yang | Zhiwen Chen | Wang Gao | Qing Jiang",
+        "available_online": "2022",
+        "cover_date_start": "2022-01-01",
+        "created_at": "2022-12-23T15:30:38+08:00",
+        "doi": "10.1039/d1ta09184k",
+        "en_title": "A transferable machine-learning scheme from pure metals to alloys for predicting adsorption energies",
+        "id": "813190977387757569",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ J. Mater. Chem. A",
+        "research_categories": "[\"Chemical Sciences\", \"Medicinal and Biomolecular Chemistry\"]",
+        "zh_title": "一种从纯金属到合金的可转移机器学习方案，用于预测吸附能"
+      },
+      "paper:867760677031248080": {
+        "area": "arXiv-Physics",
+        "authors": "D.W.Yuan | X.G. Gong | Ruqian Wu",
+        "available_online": "",
+        "cover_date_start": "2007-01-31",
+        "created_at": "2023-05-23T05:31:08+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0701769",
+        "en_title": "Composition and reactivity on Pd/Au(111) surface: A first-principle study",
+        "id": "867760677031248080",
+        "keywords": "",
+        "publication_date": "2007-01-31",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "Pd/Au(111)表面的组成与反应活性：第一性原理研究"
+      }
+    },
+    "variables": [
+      {
+        "content": "The reported adsorption energies for CO on Fe₃C(1 0 0) that are quoted as RPBE values were obtained by performing single‑point total‑energy evaluations with the RPBE (revised Perdew–Burke–Ernzerhof generalized‑gradient) exchange–correlation functional on geometries relaxed with the PW91 (Perdew–Wang 1991) functional (i.e., a PW91 geometry + RPBE single‑point protocol is used for the set of CO adsorption sites at 1/5 monolayer); generalized‑gradient approximation functionals in the PW91/PBE/RPBE family frequently differ in computed adsorption energies by a few‑tenths of an electron‑volt for CO on transition‑metal surfaces, and the reported cross‑comparison in the compiled comparison data shows RPBE vs experiment offsets of order ≈0.3–0.4 eV for representative clean Fe surfaces (for example, reported RPBE −1.49 eV vs experimental −1.11 eV on Fe(1 0 0) and RPBE −1.58 eV vs experimental −1.24 eV on Fe(1 1 0)), implying that functional choice and the single‑point correction protocol can shift adsorption energetics by amounts comparable to the site energy differences reported for Fe₃C(1 0 0).\n      Table 3; Table 6",
+        "content_hash": "67a60b4141f06faafa5e3a14e9852f5a2320a5891590c21709e67153ca4f180a",
+        "id": "gcn_46031940852c4abf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812021986573156352::P1",
+            "package_id": "paper:812021986573156352",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812021986573156352"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03200204813108039,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Adsorption energies $E_{ad}$ computed with both the PW91 generalized-gradient-approximation functional and the revised PBE (RPBE) functional in the same plane-wave DFT setup show that RPBE produces reduced adsorption energies by approximately $0.24$–$0.28\\,$eV relative to PW91 for the set of systems considered (CO on Pd(111), CO on Au(111), and CO on the various PdAu(111) ensembles), and the implicit proposition used in the analysis is that this shift from PW91 to RPBE acts effectively as a near-uniform constant offset on $E_{ad}$ across different adsorption sites and ensemble geometries so that relative energy differences and therefore preferred adsorption sites remain unchanged upon use of RPBE.\n      B. Hammer, L. B. Hansen, and J. K. N\\o rskov, Phys. Rev. B 59, 7413 (1999).",
+        "content_hash": "67b4fff982cb84fe4d4f7b61777bb272d8686cddc8b825228f6d573f23942b52",
+        "id": "gcn_89fcbf8214cb483f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867760677031248080::P10",
+            "package_id": "paper:867760677031248080",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867760677031248080"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031009615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For adsorption of a species A on a crystalline metal surface M the chemisorption energy is defined as E_chem = E_{AM} - E_A - E_M for molecular or atomic adsorption (with E_{AM} the total energy of the combined adsorbate+surface system, E_A the total energy of the isolated adsorbate, and E_M the total energy of the isolated surface), and for dissociative adsorption of a molecule AB as E_chem = E_{AM} + E_{BM} - E_{AB} - 2E_M. For the finite dataset S consisting of atomic and molecular adsorption of O, CO, and NO on the surfaces Ni(100), Ni(111), Rh(100), Pd(100), and Pd(111) the root-mean-square deviation between calculated chemisorption energies and the compiled experimental initial chemisorption energies (σ_tot) takes the numerical values σ_tot ≈ 1.76 eV for the local-density approximation (LDA), ≈ 0.66 eV for the Perdew–Wang-91 generalized-gradient approximation (PW91), ≈ 0.56 eV for the Perdew–Burke–Ernzerhof generalized-gradient approximation (PBE), and ≈ 0.30 eV for both the revised PBE (revPBE) and the RPBE functional defined below; comparable reductions occur in the rms deviations computed separately for the O, CO, and NO subsamples. These numerical comparisons for the dataset S indicate that the revPBE and RPBE functionals reduce the typical overbinding of chemisorbed atoms and molecules by roughly a factor of two relative to the residual generalized-gradient-approximation (GGA) error found for PW91/PBE and yield dramatically smaller errors than the LDA for the same set of transition-metal surface adsorption systems.",
+        "content_hash": "dca2a814b3cbe90da028167821561bd59746f49a3a05c325bb9a0cd6b7849ef6",
+        "id": "gcn_c45b41da82414451",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811795994130776065::conclusion_1",
+            "package_id": "paper:811795994130776065",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811795994130776065"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028370221327967807,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the DFT dataset generation, the Perdew–Burke–Ernzerhof (PBE) generalized-gradient exchange–correlation functional is used to compute vacuum segregation energies $E_{seg}$ for all alloy systems and to compute CO adsorption energies on Au and Ag surface sites, while the revised PBE (RPBE) functional is used to compute CO adsorption energies on Co, Ni, Cu, Rh, Pt, Pd, and Ir surface sites; this choice of PBE vs RPBE follows prior assessments indicating that RPBE generally improves adsorption energetics on many transition-metal surfaces whereas PBE is acceptable for Au and Ag, and these functional selections are assumed to yield adsorption and segregation energetics sufficiently accurate for the intended comparative and screening purposes in the $E_{eseg}(T,P)$ mapping.\n      PBE/RPBE functional assessments (see Hammer et al., Gajdos et al.; refs. [25,26] in the paper).",
+        "content_hash": "655024aa3970691ce34f1b465ca9994adbb1bedf58812d83c34d2b405079ba6f",
+        "id": "gcn_91fe9efda50b4cac",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812715700882767873::P4",
+            "package_id": "paper:812715700882767873",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812715700882767873"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028283227848101264,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Comparisons among exchange–correlation descriptions show that the Perdew–Burke–Ernzerhof (PBE) GGA yields chemisorption energies and energy barriers very close to those obtained self-consistently with the Perdew–Wang-91 (PW91) GGA, while the revised PBE (RPBE) functional systematically reduces (destabilizes) many chemisorption energies by roughly ≈0.5 eV relative to PW91, with an additional ≈0.2 eV destabilization for adsorption geometries that have larger molecule–surface contact area; energy barriers for diffusion and dissociation change less but can vary by up to ≈±0.2 eV depending on whether the transition-state or initial-state geometry has larger contact area, and dissociation barriers tend to increase in RPBE for transitions whose transition states have large molecule–surface contact area.",
+        "content_hash": "190aebc989587c0344308184d45c8dec732ff7ca50c2e89bde32ca0efce8cc42",
+        "id": "gcn_d56d3b8b11ec45f3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813128770083880961::conclusion_9",
+            "package_id": "paper:813128770083880961",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813128770083880961"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.025859192525859193,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the experiment reported here a model was trained on transition-metal surface adsorption data computed using the RPBE exchange–correlation functional and tested on nanoparticle adsorption data computed with the PBE functional; the model test RMSE on those PBE-computed nanoparticle examples is approximately $0.167\\ \\mathrm{eV}$. The proposition is that training on RPBE-computed targets will generalize to PBE-computed targets with negligible systematic bias beyond the reported RMSE in the considered surfaces and adsorbates, i.e., that typical functional-dependent systematic energy shifts between RPBE and PBE do not substantially degrade predictive accuracy for adsorption energies under the datasets and conditions used here.",
+        "content_hash": "b38e6d93cd4ea3c1e7e556dd964da726ed5adcee016c2dc82961d59839715216",
+        "id": "gcn_85be5bb38f364866",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813190977387757569::P14",
+            "package_id": "paper:813190977387757569",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813190977387757569"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025833333333333333,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Periodic density-functional theory calculations (VWN, PW91, PBE, RPBE) on a $3\\times 3$ Pt(111) slab containing six atomic layers (three bottom layers fixed, three upper layers relaxed) with one carbon atom per cell (coverage $1/9$ monolayer) predict that the octahedral subsurface interstitial site oss (first-layer octahedral site below a surface fcc hollow) is thermodynamically disfavoured relative to the adjacent surface fcc hollow, whereas the tetrahedral subsurface interstitial site tss (first-layer tetrahedral site below a surface hcp hollow) is approximately isoenergetic with the adjacent surface hcp hollow. With $E_{ads/abs}=-E_{C/metal}+(E_C+E_{metal})$, the computed energies (kJ mol$^{-1}$) are: surface fcc adsorption $E_{ads}(\\mathrm{fcc})=796$ (VWN), 706 (PW91), 708 (PBE), 674 (RPBE) and subsurface oss absorption $E_{abs}(\\mathrm{oss})=747$ (VWN), 648 (PW91), 650 (PBE), 614 (RPBE), so oss is destabilized by 49 (VWN), 58 (PW91), 58 (PBE), and 60 (RPBE) kJ mol$^{-1}$ relative to surface fcc. For the hcp/tss pair, $E_{ads}(\\mathrm{hcp})=783$ (VWN), 692 (PW91), 694 (PBE), 660 (RPBE) and $E_{abs}(\\mathrm{tss})=780$ (VWN), 697 (PW91), 697 (PBE), 666 (RPBE), so tss differs from surface hcp by −3 (VWN), +5 (PW91), +3 (PBE), and +6 (RPBE) kJ mol$^{-1}$. Transition states obtained from a constrained-height scan along the line connecting adsorption and absorption minima, followed by quasi-Newton refinement and vibrational verification, yield subsurface sinking barriers $E_{sub}$ (kJ mol$^{-1}$) of 104 (VWN), 96 (PW91), 97 (PBE), and 96 (RPBE) for $fcc \\leftrightarrow oss$, and 41 (VWN), 29 (PW91), 31 (PBE), and 27 (RPBE) for $hcp \\leftrightarrow tss$, making oss occupation both thermodynamically and kinetically unlikely while allowing kinetically facile access to tss. Deformation energies defined by $E_{def}=E_{metal}^{def}-E_{metal}$, where $E_{metal}^{def}$ is the single-point energy of the metal slab frozen in the geometry optimized with C present but with C removed, are comparatively large for Pt(111) with C in tss (70–121 kJ mol$^{-1}$ across VWN/PW91/PBE/RPBE) but directional tetrahedral bonding yields $E_{abs}(\\mathrm{tss})$ values comparable to surface hollows, explaining the thermodynamic competitiveness of tss on Pt(111).",
+        "content_hash": "4e6bd1aa6757e96083d031ad26c6e3fd15ead2c17b88b2848e1c099accd581f0",
+        "id": "gcn_2367e7985a694178",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811081168400154625::conclusion_3",
+            "package_id": "paper:811081168400154625",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811081168400154625"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "It is assumed that using the revised Perdew–Burke–Ernzerhof (RPBE) exchange-correlation functional instead of PW91 reduces computed CO adsorption energies E_{\\text{ad}} by roughly 0.2–0.3 eV in a largely predictable and uniform way across the adsorption geometries considered, while leaving adsorption-site preferences (the relative ordering of adsorption energies and the identity of the most favorable adsorption site for each ensemble) unchanged.",
+        "content_hash": "bcdf8ef644b9356dd84b9ceb17c180418a61ee163c3eb768e86e96bf087528c4",
+        "id": "gcn_74672daefe544951",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812015315411009536::P10",
+            "package_id": "paper:812015315411009536",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812015315411009536"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The electronic structure calculations that yield the adsorption energies used the generalized‑gradient approximation Perdew–Burke–Ernzerhof (GGA‑PBE) exchange‑correlation functional within Kohn–Sham density functional theory and the projector‑augmented‑wave (PAW) method for electron–ion interactions; it is established for CO chemisorption on transition‑metal surfaces that semi‑local GGA‑PBE frequently produces systematic quantitative errors in adsorption energies (errors up to roughly 0.2–0.6 eV depending on the metal and adsorption site) and in some cases incorrect adsorption‑site energy ordering, so the absolute E_{\\mathrm{ads}} values obtained with PBE are subject to known functional‑dependent systematic uncertainty.",
+        "content_hash": "e3998286c358ae773d89227670496e5363dbbdb417f08e7af1341b9e7c0cb883",
+        "id": "gcn_ba1f00409939484e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811163955144687617::P2",
+            "package_id": "paper:811163955144687617",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811163955144687617"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For Pt(111) modelled as a periodic $3\\times 3$ six-layer slab (three bottom layers fixed, three upper layers relaxed) with one C atom per surface cell (coverage $1/9$ monolayer), density-functional calculations using VWN, PW91, PBE, and RPBE yield subsurface tetrahedral-site energies $E_{abs}(\\mathrm{tss})$ of 780 (VWN), 697 (PW91), 697 (PBE), and 666 (RPBE) kJ mol$^{-1}$ and adjacent surface hcp adsorption energies $E_{ads}(\\mathrm{hcp})$ of 783 (VWN), 692 (PW91), 694 (PBE), and 660 (RPBE) kJ mol$^{-1}$, giving an energy difference $E_{abs}(\\mathrm{tss})-E_{ads}(\\mathrm{hcp})$ of −3 to +6 kJ mol$^{-1}$ across functionals. In the same calculations, subsurface octahedral-site energies $E_{abs}(\\mathrm{oss})$ are 747 (VWN), 648 (PW91), 650 (PBE), and 614 (RPBE) kJ mol$^{-1}$ while surface fcc adsorption energies $E_{ads}(\\mathrm{fcc})$ are 796 (VWN), 706 (PW91), 708 (PBE), and 674 (RPBE) kJ mol$^{-1}$, so oss is destabilized by 49–60 kJ mol$^{-1}$ relative to surface fcc. Subsurface sinking barriers $E_{sub}$ for $hcp \\to tss$ are 41 (VWN), 29 (PW91), 31 (PBE), and 27 (RPBE) kJ mol$^{-1}$.\n      Fig. 3\n      Table 1\n      Table 4",
+        "content_hash": "b9a4087a88106f7663e34fd91a8c04a1a16337a7839caec57078d3ca2f33e6cc",
+        "id": "gcn_dc2bcca4e39a47df",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811081168400154625::P4",
+            "package_id": "paper:811081168400154625",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811081168400154625"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "0e96afb255b3dd80f7c9444e4c812542"
+}

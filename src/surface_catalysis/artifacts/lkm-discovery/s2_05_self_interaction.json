@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811829380505403392": {
+        "area": "Chemistry",
+        "authors": "Wen Lai Huang | Qingshan Zhu",
+        "available_online": "2009-9-28",
+        "cover_date_start": "2009-09-28",
+        "created_at": "2022-12-19T21:20:07+08:00",
+        "doi": "10.1021/ct900405j",
+        "en_title": "Structures and Energetics of SrFeO2.875 Calculated within the GGA + U Framework",
+        "id": "811829380505403392",
+        "keywords": "",
+        "publication_date": "2009-10-13",
+        "publication_id": "3358",
+        "publication_name": "Journal of Chemical Theory and Computation _ J. Chem. Theory Comput.",
+        "research_categories": "",
+        "zh_title": "在广义梯度近似（GGA）+U框架下计算的SrFeO₂.₈₇₅的结构与能量学"
+      },
+      "paper:811855817526476801": {
+        "area": "Chemistry",
+        "authors": "Wen Lai Huang",
+        "available_online": "",
+        "cover_date_start": "2009-12-01",
+        "created_at": "2022-12-19T23:05:11+08:00",
+        "doi": "10.1002/jcc.21283",
+        "en_title": "First-principles calculations on the energetics, electronic structures and magnetism of SrFeO 2",
+        "id": "811855817526476801",
+        "keywords": "[{\"en_name\": \"Density functional theory\", \"ch_name\": \"\"}, {\"en_name\": \"Electronic structure\", \"ch_name\": \"\"}, {\"en_name\": \"Magnetism\", \"ch_name\": \"\"}, {\"en_name\": \"Oxygen vacancy\", \"ch_name\": \"\"}, {\"en_name\": \"Srfeo<sub>2</sub>\", \"ch_name\": \"\"}]",
+        "publication_date": "2009-12",
+        "publication_id": "3463",
+        "publication_name": "Journal of Computational Chemistry _ J. Comput. Chem.",
+        "research_categories": "",
+        "zh_title": "关于SrFeO₂的能量学、电子结构和磁性的第一性原理计算"
+      },
+      "paper:812095357981818881": {
+        "area": "Physics and Astrophysics",
+        "authors": "Lei Wang | Thomas Maxisch | Gerbrand Ceder",
+        "available_online": "2006-5-4",
+        "cover_date_start": "2006-05-04",
+        "created_at": "2022-12-20T14:57:01+08:00",
+        "doi": "10.1103/physrevb.73.195107",
+        "en_title": "Oxidation energies of transition metal oxides within the GGA + U framework",
+        "id": "812095357981818881",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "GGA + U框架下过渡金属氧化物的氧化能"
+      },
+      "paper:812446859292311553": {
+        "area": "Chemistry",
+        "authors": "S.P. Mehandru | Alfred B. Anderson",
+        "available_online": "",
+        "cover_date_start": "1986-04-01",
+        "created_at": "2022-12-21T14:13:47+08:00",
+        "doi": "10.1016/0039-6028(86)90594-7",
+        "en_title": "Why CO bonds side-on at low coverage and both side-on and upright at high coverage on the Cr(110) surface",
+        "id": "812446859292311553",
+        "keywords": "",
+        "publication_date": "1986-4",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "为什么在Cr(110)表面上，CO在低覆盖度时以侧基吸附，而在高覆盖度时则同时存在侧基吸附和垂直吸附？ "
+      },
+      "paper:812592790755082240": {
+        "area": "Chemistry",
+        "authors": "Panpan Wu | Jeremie Zaffran | Dongyang Xu | Bo Yang",
+        "available_online": "2020-7-6",
+        "cover_date_start": "2020-07-06",
+        "created_at": "2022-12-21T23:53:40+08:00",
+        "doi": "10.1021/acs.jpcc.0c03975",
+        "en_title": "First-Principles-Based Microkinetic Simulations of CO2 Hydrogenation to Methanol over Intermetallic GaPd2: Method Development to Include Complex Interactions between Surface Adsorbates",
+        "id": "812592790755082240",
+        "keywords": "",
+        "publication_date": "2020-7-23",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "基于第一性原理的金属间化合物GaPd₂上CO₂加氢制甲醇的微观动力学模拟：考虑表面吸附物间复杂相互作用的方法开发"
+      },
+      "paper:813067489511473153": {
+        "area": "Chemistry",
+        "authors": "Kun Jiang | Robert B. Sandberg | Austin J. Akey | Xinyan Liu | David C. Bell | Jens K. Nørskov | Karen Chan | Haotian Wang",
+        "available_online": "2018-1-15",
+        "cover_date_start": "2018-01-15",
+        "created_at": "2022-12-23T07:19:56+08:00",
+        "doi": "10.1038/s41929-017-0009-x",
+        "en_title": "Metal ion cycling of Cu foil for selective C–C coupling in electrochemical CO2 reduction",
+        "id": "813067489511473153",
+        "keywords": "",
+        "publication_date": "2018-2",
+        "publication_id": "3335",
+        "publication_name": "Nature Catalysis _ Nat Catal",
+        "research_categories": "",
+        "zh_title": "用于电化学二氧化碳还原中选择性碳-碳偶联的铜箔金属离子循环"
+      },
+      "paper:813328877215547392": {
+        "area": "Physics and Astrophysics",
+        "authors": "P. Alippi | Vincenzo Fiorentini",
+        "available_online": "2012-2-29",
+        "cover_date_start": "2012-02-01",
+        "created_at": "2022-12-24T00:38:36+08:00",
+        "doi": "10.1140/epjb/e2012-21067-6",
+        "en_title": "Magnetism and unusual Cu valency in quadruple perovskites",
+        "id": "813328877215547392",
+        "keywords": "",
+        "publication_date": "2012-2",
+        "publication_id": "658",
+        "publication_name": "The European Physical Journal B _ Eur. Phys. J. B",
+        "research_categories": "",
+        "zh_title": "四重钙钛矿中的磁性与异常的铜价态"
+      },
+      "paper:867754418865439606": {
+        "area": "arXiv-Physics",
+        "authors": "J.-S. McEwen | A. Eichler",
+        "available_online": "",
+        "cover_date_start": "2004-08-17",
+        "created_at": "2023-05-23T05:06:16+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0408383",
+        "en_title": "Phase Diagram And Adsorption-Desorption Kinetics Of CO On Ru(0001): Present Limitations Of A First Principles Approach",
+        "id": "867754418865439606",
+        "keywords": "",
+        "publication_date": "2004-08-17",
+        "publication_id": "108488",
+        "publication_name": "Statistical Mechanics _ Physics.cond-mat.stat-mech",
+        "research_categories": "",
+        "zh_title": "CO在Ru(0001)上的相图及吸附-脱附动力学：第一性原理方法的当前局限性"
+      },
+      "paper:867764772613915505": {
+        "area": "arXiv-Physics",
+        "authors": "Qing-Miao Hu | Karsten Reuter | Matthias Scheffler",
+        "available_online": "",
+        "cover_date_start": "2007-03-13",
+        "created_at": "2023-05-23T05:47:24+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0703354",
+        "en_title": "Towards an exact treatment of exchange and correlation in materials: Application to the \"CO adsorption puzzle\" and other systems",
+        "id": "867764772613915505",
+        "keywords": "",
+        "publication_date": "2007-03-13",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "迈向材料中交换关联的精确处理：应用于“CO吸附难题”及其他体系"
+      },
+      "paper:867767318044738213": {
+        "area": "arXiv-Physics",
+        "authors": "Sara E. Mason | Ilya Grinberg | Andrew M. Rappe",
+        "available_online": "",
+        "cover_date_start": "2003-10-29",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0310688",
+        "en_title": "First-principles extrapolation method for accurate CO adsorption energies on metal surfaces",
+        "id": "867767318044738213",
+        "keywords": "",
+        "publication_date": "2003-10-29",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "用于精确计算金属表面CO吸附能的第一性原理外推方法"
+      }
+    },
+    "variables": [
+      {
+        "content": "For CO chemisorption on late transition-metal surfaces, the gas-phase singlet–triplet excitation energy $ \\Delta E_{S-T}$ (the energy to excite an electron from the CO $5\\sigma$ orbital into the $2\\pi^{*}$ orbital) is closely related to the energetic position of the CO $2\\pi^{*}$ orbital relative to the metal $d$-band; consequently, if DFT-GGA underestimates $ \\Delta E_{S-T}$ (i.e., places the CO $2\\pi^{*}$ orbital too low in energy), this yields artificially enhanced metal-to-CO $2\\pi^{*}$ back-donation and therefore an overestimation of the chemisorption energy, with the magnitude of this overbinding increasing with adsorption-site coordination because higher coordination increases the metal–$2\\pi^{*}$ orbital overlap.",
+        "content_hash": "f9cf33e5b8164904f3b7f07987d2f117774c6d407b65be2d8fb15010de85a244",
+        "id": "gcn_951b103f255d4432",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044738213::P7",
+            "package_id": "paper:867767318044738213",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044738213"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03225806451612903,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For an adsorbed carbon monoxide molecule ($^{*}\\mathrm{CO}$) on a metal surface where a generalized gradient approximation (GGA) density functional places the unoccupied CO $2\\pi^{*}$ orbital too low in energy causing systematic overbinding, define a CO adsorption energy correction $\\Delta E_{\\mathrm{CO}}$ as a scalar shift determined from the deviation of the computed internal C–O stretch frequency $\\nu_{\\mathrm{CO}}$ (obtained from vacuum calculations of the adsorbed CO) from a reference experimental or higher‑level theoretical value; applying facet‑specific numeric corrections of $\\Delta E_{\\mathrm{CO}}=0.28\\,$eV for Cu(100), $0.34\\,$eV for Cu(111) and $0.26\\,$eV for Cu(211) compensates for the principal GGA errors in $^{*}\\mathrm{CO}$ binding energies on those Cu facets for the purposes of comparing relative adsorption energies and reaction energetics.",
+        "content_hash": "b258e8775c2d7b0024d7e84ae57932b5b4d47dfb652d5ff2daa4ab616f7ecbb9",
+        "id": "gcn_00e444ec1c6048c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813067489511473153::P4",
+            "package_id": "paper:813067489511473153",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813067489511473153"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0287391216352965,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the electronic-structure descriptors of an adsorbed CO molecule as the single-particle molecular-orbital energy alignment relative to the substrate Fermi level, specifically the energy positions of the CO $5\\\\sigma$ level (the highest occupied molecular orbital, HOMO) and the CO $2\\\\pi^{*}$ level (the lowest unoccupied molecular orbital, LUMO), and define self-interaction error as the spurious self-Coulomb interaction of an electron with itself that is not fully canceled by common semilocal exchange–correlation functionals. The proposition is: the observation that applying two different higher-level cluster correction methods (the B3LYP hybrid functional and $\\\\mathrm{HF\\\\mbox{-}MP2}$) yields qualitatively similar shifts in the relative adsorption-site energetics for CO on Cu(111) implies that the principal origin of the wrong LDA/GGA site preference is the self-interaction error and the associated incorrect relative alignment of the CO $5\\\\sigma$ and $2\\\\pi^{*}$ levels, i.e. correcting the local xc treatment reduces the spurious orbital alignment and stabilizes the CO bond in a manner consistent with the experimentally observed top-site preference.",
+        "content_hash": "73c2dc6b4eb8ad02886b11b6447c5210cba383844e756b60c3b989663f1fe8b0",
+        "id": "gcn_22c16fb407c54a65",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764772613915505::P12",
+            "package_id": "paper:867764772613915505",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764772613915505"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027212143650499815,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The atom-superposition and electron-delocalization molecular-orbital (ASMO) computational approach, as implemented with the chosen atomic basis functions and the specific parameter adjustments described above, is assumed to systematically overestimate absolute CO adsorption energies but to reliably reproduce relative stabilities (that is, the energetic ordering of adsorption sites and qualitative trends in CO bond weakening and metal-to-CO backbonding) for CO adsorption on transition-metal surfaces, including the Cr(110) surface.",
+        "content_hash": "91ef287dedd72a591926ee1e0f11dc2abe92eeff8ba2507e2959431dc17b07ef",
+        "id": "gcn_46e6e637239d4c39",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812446859292311553::P4",
+            "package_id": "paper:812446859292311553",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812446859292311553"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025448143405889884,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When reporting uncorrected GGA oxygen-vacancy formation energies for bulk SrFeO₃ → SrFeO₂, it is assumed that (i) the systematic GGA overbinding error of the triplet O₂ molecule (which tends to make the calculated E(O₂) artificially low) and (ii) the GGA self-interaction error that raises the energy of the reduced transition-metal 3d states partially cancel such that the uncorrected formation energies nevertheless provide qualitatively meaningful relative energetics among the nonmagnetic, ferromagnetic and antiferromagnetic magnetic states.",
+        "content_hash": "a605d49648099844de3b8aa02dfebb2d86fca8f4f09ec0b0fc395f9033f9cda7",
+        "id": "gcn_d88304fb14754a82",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811855817526476801::P5",
+            "package_id": "paper:811855817526476801",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811855817526476801"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The principal reason that generalized-gradient-approximation (GGA) exchange–correlation functionals in plane-wave DFT calculations produce incorrect adsorption-site energy differences for CO on transition-metal surfaces (including Ru(0001)) is that these functionals inadequately predict the relative energies and occupations of the molecular frontier orbitals of CO — specifically the 2π^{*} (molecular-derived lowest unoccupied orbital) and the 5σ (molecular-derived highest occupied orbital) states — leading to incorrect site-dependent hybridization strengths between molecular orbitals and metal states and thereby causing errors in predicted binding-energy differences among top, hollow and bridge adsorption sites.\n      [4,5,6]",
+        "content_hash": "483087710d89b987102dcf1c25d7ccdf0c36386913596ba93a6fd6bc9dd850f6",
+        "id": "gcn_80526abae33f4039",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867754418865439606::P8",
+            "package_id": "paper:867754418865439606",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867754418865439606"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Two separate and systematic contributions to errors in generalized gradient approximation (GGA) density-functional calculated oxidation energies for 3d transition metal oxides are identified: (a) an error that arises when the oxidant is molecular oxygen, namely the overbinding of the gas-phase O2 molecule in the GGA approximation, which produces an approximately constant energetic bias in oxidation energies that involve O2; and (b) a distinct, more general error present in all oxidation reactions that stems from GGA self-interaction error and the associated missing on-site correlation energy in the localized metal 3d orbitals, which systematically penalizes reduced states (states with more occupied metal 3d orbitals) relative to oxidized states and thereby leads to computed oxidation enthalpies that are too negative in magnitude after removal of the O2-related bias.",
+        "content_hash": "aa4229446e64f8254af095c9ecee002c0153f30e49d44b259ab40921b28a0a70",
+        "id": "gcn_af70e8a16f224591",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812095357981818881::conclusion_1",
+            "package_id": "paper:812095357981818881",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812095357981818881"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Self-interaction error denotes the spurious interaction of an electron with its own mean-field potential present in semilocal density-functional approximations, and removing that error approximately via GGA+U or hybrid-exchange functionals increases orbital polarization and corrects on-site energies; for YCu3Co4O12 the fact that semilocal GGA gives a non-magnetic metal whereas applying GGA+U or hybrid functionals opens a non-magnetic insulating gap indicates that opening the gap is plausibly connected to the removal of self-interaction on transition-metal d states, so that YCCO is appropriately characterized as a correlated band insulator whose insulating behavior is not captured by semilocal DFT alone, without asserting that GGA+U yields quantitatively exact results.\n      M.A. Korotin et al., Phys. Rev. B 54, 5309 (1996)",
+        "content_hash": "0b5b99e732f484cdf8975b0e864adf510dca6034ce8e55e81c1f0e7e7f2ca47c",
+        "id": "gcn_64b2d4e1d143444c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813328877215547392::P13",
+            "package_id": "paper:813328877215547392",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813328877215547392"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The differential adsorption energy used to analyze CO adsorption is defined by $\\Delta E_{\\mathrm{diff}}(N)=E_{\\mathrm{slab+}N\\text{-ads}}-E_{\\mathrm{slab+}(N-1)\\text{-ads}}-E_{\\mathrm{g}}$, where $E_{\\mathrm{slab+}N\\text{-ads}}$ is the DFT total energy of the periodic slab with $N$ CO adsorbates in the chosen supercell, $E_{\\mathrm{slab+}(N-1)\\text{-ads}}$ is the DFT total energy with $N-1$ CO adsorbates, and $E_{\\mathrm{g}}$ is the DFT gas-phase CO energy; DFT results for GaPd₂(010) show that $\\Delta E_{\\mathrm{diff,CO}}$ changes from roughly $-1.09\\ \\mathrm{eV}$ at $1/12$ ML to about $-1.02\\ \\mathrm{eV}$ at $1/6$ ML and then increases by approximately $+0.13\\ \\mathrm{eV}$ when adding further CO beyond $1/6$ ML, and the proposition is that this $\\sim$0.13 eV destabilization when crossing $1/6$ ML constitutes the physical signature of the onset of strong lateral CO–CO interactions rather than an artefact of the finite supercell size, the specific adsorption configurations sampled, or the discrete coverage increments used.",
+        "content_hash": "01f6cf1acd8341ecbfe703711b9e48a288ed4cb294564acd55b2d89f57f56e6d",
+        "id": "gcn_a305a76492574380",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812592790755082240::P5",
+            "package_id": "paper:812592790755082240",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812592790755082240"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Applying a literature-derived correction of 0.68 eV per oxygen atom (equivalently 1.36 eV per O_2 molecule) to compensate for GGA overbinding of triplet O_2, while using GGA+$U$ total energies for the solids (the mixed $E_{\\mathrm{vf2}}$ scheme), is a pragmatic approach that mitigates two opposing DFT errors—GGA O_2 overbinding and self-interaction error on reduced $d$ states—and produces corrected vacancy formation energies that often improve agreement with experiment, on the assumption that the empirically fitted correction (derived from a dataset of oxide formation enthalpies) is applicable to the present transition-metal-oxide defect energetics without introducing a strong system-specific bias.\n      [5]",
+        "content_hash": "f49d9415e4553570a12a00747604ba072128890f4e39f9ab96ea61d0f785ce27",
+        "id": "gcn_f771a0d53a3a46b8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811829380505403392::P12",
+            "package_id": "paper:811829380505403392",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811829380505403392"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "52d97b8242fc56c294a1daa9655d098b"
+}

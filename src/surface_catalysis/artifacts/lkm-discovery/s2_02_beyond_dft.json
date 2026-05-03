@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811265329152917504": {
+        "area": "Physics and Astrophysics",
+        "authors": "P. Skudlarski | G. Vignale",
+        "available_online": "1992-8-10",
+        "cover_date_start": "1992-08-10",
+        "created_at": "2022-12-18T07:58:47+08:00",
+        "doi": "10.1103/physrevlett.69.949",
+        "en_title": "Effect of exchange and correlation on the Fermi momenta of an electron liquid in a magnetic field",
+        "id": "811265329152917504",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "交换关联对磁场中电子液体费米动量的影响"
+      },
+      "paper:811660556573343745": {
+        "area": "Physics and Astrophysics",
+        "authors": "Philipp Haas | Fabien Tran | Peter Blaha | Karlheinz Schwarz",
+        "available_online": "2011-5-19",
+        "cover_date_start": "2011-05-19",
+        "created_at": "2022-12-19T10:09:17+08:00",
+        "doi": "10.1103/physrevb.83.205117",
+        "en_title": "Construction of an optimal GGA functional for molecules and solids",
+        "id": "811660556573343745",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "用于分子和固体的最优广义梯度近似（GGA）泛函的构建"
+      },
+      "paper:811663537121263619": {
+        "area": "Geoscience",
+        "authors": "Yong-Hui Zhao | Keju Sun | Xiufang Ma | Jinxun Liu | Dapeng Sun | Hai-Yan Su | Wei-Xue Li",
+        "available_online": "2011-5-6",
+        "cover_date_start": "2011-05-06",
+        "created_at": "2022-12-19T10:21:08+08:00",
+        "doi": "10.1002/ange.201100735",
+        "en_title": "Carbon Chain Growth by Formyl Insertion on Rhodium and Cobalt Catalysts in Syngas Conversion",
+        "id": "811663537121263619",
+        "keywords": "",
+        "publication_date": "2011-5-27",
+        "publication_id": "12462",
+        "publication_name": "Angewandte Chemie _ Angew. Chem.",
+        "research_categories": "",
+        "zh_title": "合成气转化中铑和钴催化剂上通过甲酰基插入实现的碳链增长"
+      },
+      "paper:811768037458837505": {
+        "area": "Engineering Technology",
+        "authors": "Mauricio Garza Castañón | S. Velumani | Oxana Vasilievna Kharissova | Marco A. Jiménez | Arunachala M. Kannan",
+        "available_online": "2011-5-6",
+        "cover_date_start": "2011-05-06",
+        "created_at": "2022-12-19T17:16:22+08:00",
+        "doi": "10.1002/er.1714",
+        "en_title": "CO adsorption in PdxCoyXz (X = Au, Mo, Ni) tertiary alloy nanocatalysts for PEM fuel cells-a theoretical analysis",
+        "id": "811768037458837505",
+        "keywords": "",
+        "publication_date": "2011-6-10",
+        "publication_id": "4185",
+        "publication_name": "International Journal of Energy Research _ Int. J. Energy Res.",
+        "research_categories": "[\"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "PEM 燃料电池用 PdxCoyXz (X = Au, Mo, Ni) 三元合金纳米催化剂对 CO 的吸附——理论分析"
+      },
+      "paper:812720866608545792": {
+        "area": "Physics and Astrophysics",
+        "authors": "V. I. Kuz'min | Yu. S. Orlov | A. E. Zarubin | T. M. Ovchinnikova | S. G. Ovchinnikov",
+        "available_online": "2019-10-21",
+        "cover_date_start": "2019-10-21",
+        "created_at": "2022-12-22T08:22:36+08:00",
+        "doi": "10.1103/physrevb.100.144429",
+        "en_title": "Magnetism in spin crossover systems: Short-range order and effects beyond the Heisenberg model",
+        "id": "812720866608545792",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "自旋交叉体系中的磁性：短程有序及海森堡模型之外的效应"
+      },
+      "paper:813321028854874113": {
+        "area": "Chemistry",
+        "authors": "Ozan Karalti | Dario Alfè | Michael J. Gillan | Kenneth D. Jordan",
+        "available_online": "",
+        "cover_date_start": "2012-01-01",
+        "created_at": "2022-12-24T00:07:25+08:00",
+        "doi": "10.1039/c2cp00015f",
+        "en_title": "Adsorption of a water molecule on the MgO(100) surface as described by cluster and slab models",
+        "id": "813321028854874113",
+        "keywords": "",
+        "publication_date": "2012",
+        "publication_id": "3439",
+        "publication_name": "Physical Chemistry Chemical Physics _ Phys. Chem. Chem. Phys.",
+        "research_categories": "",
+        "zh_title": "用团簇模型和平板模型描述水分子在MgO(100)表面的吸附 "
+      },
+      "paper:814650940794601472": {
+        "area": "Physics and Astrophysics",
+        "authors": "Petr Lazar | Michal Otyepka",
+        "available_online": "2015-3-2",
+        "cover_date_start": "2015-03-02",
+        "created_at": "2022-12-27T16:12:01+08:00",
+        "doi": "10.1103/physrevb.91.115402",
+        "en_title": "Accurate surface energies from first principles",
+        "id": "814650940794601472",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "基于第一性原理的精确表面能"
+      },
+      "paper:867751005083665056": {
+        "area": "arXiv-Physics",
+        "authors": "Edgar A. Engel | Venkat Kapil | Michele Ceriotti",
+        "available_online": "",
+        "cover_date_start": "2021-06-27",
+        "created_at": "2023-05-23T04:52:41+08:00",
+        "doi": "10.48550/arXiv.2106.14171",
+        "en_title": "The importance of nuclear quantum effects for NMR crystallography",
+        "id": "867751005083665056",
+        "keywords": "",
+        "publication_date": "2021-06-27",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics _ Physics.physics.chem-ph",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "核量子效应对核磁共振晶体学的重要性"
+      },
+      "paper:867767318044738213": {
+        "area": "arXiv-Physics",
+        "authors": "Sara E. Mason | Ilya Grinberg | Andrew M. Rappe",
+        "available_online": "",
+        "cover_date_start": "2003-10-29",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0310688",
+        "en_title": "First-principles extrapolation method for accurate CO adsorption energies on metal surfaces",
+        "id": "867767318044738213",
+        "keywords": "",
+        "publication_date": "2003-10-29",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "用于精确计算金属表面CO吸附能的第一性原理外推方法"
+      },
+      "paper:909619003352154849": {
+        "area": "Material science",
+        "authors": "Ge Meng | Ziwei Chang | Libo Zhu | Chang Chen | Yafeng Chen | Han Tian | Wenshu Luo | Wenping Sun | Xiangzhi Cui | Jianlin Shi",
+        "available_online": "",
+        "cover_date_start": "2023-09-15",
+        "created_at": "2023-09-15T17:41:13+08:00",
+        "doi": "10.1007/s40820-023-01185-4",
+        "en_title": "Adsorption Site Regulations of [W–O]-Doped CoP Boosting the Hydrazine Oxidation-Coupled Hydrogen Evolution at Elevated Current Density",
+        "id": "909619003352154849",
+        "keywords": "[{\"en_name\": \"Dehydrogenation kinetics\", \"ch_name\": \"\"}, {\"en_name\": \"Electron redistribution\", \"ch_name\": \"\"}, {\"en_name\": \"Self-powered H2 production system\", \"ch_name\": \"\"}, {\"en_name\": \"[W–O] dopant\", \"ch_name\": \"\"}]",
+        "publication_date": "",
+        "publication_id": "2041",
+        "publication_name": "Nano-Micro Letters _ ",
+        "research_categories": "",
+        "zh_title": "[W–O]掺杂CoP的吸附位点调控促进高电流密度下肼氧化耦合析氢反应"
+      }
+    },
+    "variables": [
+      {
+        "content": "The DFT-GGA chemisorption energy $E_{\\mathrm{chem}}^{\\mathrm{GGA}}$ for CO at a given adsorption site and substrate can be corrected to a first-principles benchmark by shifting it along the site- and substrate-specific linear relation $E_{\\mathrm{chem}}^{\\mathrm{GGA}}=E_{0}+m\\,\\Delta E_{S-T}^{\\mathrm{GGA}}$ to the gas-phase singlet–triplet target value obtained from high-level wavefunction calculations; explicitly, the corrected chemisorption energy is given by $E_{\\mathrm{chem}}^{\\mathrm{corr}}=E_{\\mathrm{chem}}^{\\mathrm{GGA}}+\\left(\\Delta E_{S-T}^{\\mathrm{CI}}-\\Delta E_{S-T}^{\\mathrm{GGA}}\\right)\\,m$, where $\\Delta E_{S-T}^{\\mathrm{CI}}$ is the coupled-cluster/configuration-interaction (CC/CI) benchmark singlet–triplet splitting for gas-phase CO (coupled-cluster and large configuration-interaction calculations reproduce the experimental value $6.095\\,$eV within their stated uncertainties), $\\Delta E_{S-T}^{\\mathrm{GGA}}$ is the DFT-GGA gas-phase CO singlet–triplet splitting computed with the same pseudopotential set used for the surface calculation, and $m=\\delta E_{\\mathrm{chem}}^{\\mathrm{GGA}}/\\delta\\Delta E_{S-T}^{\\mathrm{GGA}}$ is the slope of the DFT-GGA linear fit determined for that specific adsorption site and metal surface.",
+        "content_hash": "f0ea6786ebe0407e9f7552c6007fc8651e4ebfcbf1ec06b1e77431126cd6aa92",
+        "id": "gcn_244409c845cd4a6d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044738213::conclusion_2",
+            "package_id": "paper:867767318044738213",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044738213"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03177805800756621,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "All reported electronic-structure energies and forces were obtained with density-functional theory (DFT) using the PW91 generalized-gradient-approximation (GGA) exchange-correlation functional and projector-augmented-wave (PAW) potentials, and it is assumed that total energies, adsorption energies, and activation energy barriers for the adsorbed species HCO, CO, and CH_x (CH, CH₂, CH₃) and for the transition-state geometries on the modeled Rh(111) and Co(0001) surfaces are accurate to approximately ±0.20 eV relative to results that would be obtained using higher-level electronic-structure methods or experiment for the same atomistic model systems.\n      [Original citation text, unchanged]",
+        "content_hash": "d22a19c94f95f7353f2c82f37dd20a445b82a79bad75a6460b176f1485e09580",
+        "id": "gcn_6b2f99b74a644b98",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811663537121263619::P1",
+            "package_id": "paper:811663537121263619",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811663537121263619"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the set of materials LiH(001), Mg(0001), MgO(001), Pb(111), and NiAl(001), surface energies and cleavage/decohesion properties computed as the sum of exact-exchange (EXX) and RPA correlation energies evaluated non-self-consistently on PBE Kohn–Sham orbitals using hard PAW potentials and the converged slab, cutoff, and $k$-point settings described above produce numerical results that are in close agreement with available high-level theoretical benchmarks (hierarchical coupled-cluster and quantum Monte Carlo) and with a range of experimental determinations (cleavage, calorimetry, and extrapolated liquid-surface-tension data), demonstrating that the EXX + RPA approach, applied within three-dimensional periodic boundary conditions and with the stated numerical protocol, is broadly applicable for obtaining accurate first-principles surface energies.",
+        "content_hash": "0c9c0265eef350f74495ad1ad271166f93dd034bf056b22951841342721cef6a",
+        "id": "gcn_c895d2ae62ac4ce3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814650940794601472::conclusion_9",
+            "package_id": "paper:814650940794601472",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814650940794601472"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The change in chemisorption energy for carbon monoxide (CO) on the Pt (1 1 0) surface at one monolayer (1 ML) CO coverage and at room temperature (20°C, 1 atm) was computed as ΔE_chemisorption = (1/2) E_{CO on supercell (110)} − E_{surface(110)} − E_{CO}, where E_{CO on supercell (110)} is the total energy of a periodic vacuum‑slab supercell of the Pt (1 1 0) surface with two equivalent adsorbed CO molecules, E_{surface(110)} is the total energy of the corresponding clean Pt (1 1 0) vacuum‑slab supercell, and E_{CO} is the per‑molecule total energy of a periodic crystalline model of solid CO used as the reference; these total energies were obtained with plane‑wave DFT calculations using the GGA‑RPBE functional, ultrasoft pseudopotentials, vacuum slab supercells and a BFGS geometry optimizer (CASTEP), and the resulting ΔE_chemisorption for the Pt reference is −1.847 eV per CO molecule.",
+        "content_hash": "bd36d09ff6cc17c6ef5470e5ce49a52d1693b2d59c41cc78b8b693a0301ae83d",
+        "id": "gcn_4e8b3d5115964277",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811768037458837505::conclusion_2",
+            "package_id": "paper:811768037458837505",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811768037458837505"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a single-layer 2×2 MgO cluster model of the MgO(100) surface (where the 2×2 cluster contains two rows of two atoms in the top layer and where R denotes the distance between the oxygen atom of the water molecule and the nearest magnesium atom of the surface), coupled-cluster CCSD(T) with explicitly correlated F12 corrections (CCSD(T)-F12) predicts a potential-energy minimum at R = 2.14 Å with a binding energy of −25.0 kcal mol⁻¹, and the CCSD(T)-F12, density-fitted coupled-MP2 with F12 corrections (MP2C-F12), and diffusion Monte Carlo (DMC) potential-energy curves computed for that same 2×2 single-layer model are nearly identical over the scanned R range, indicating mutual agreement of these high-level wavefunction and quantum Monte Carlo approaches for this smallest cluster model.",
+        "content_hash": "510286802c9a9a803fdf594b52ca3e191a1175cd17ba8b3ff7c7a294daddcca6",
+        "id": "gcn_1f952ecd410546da",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813321028854874113::conclusion_1",
+            "package_id": "paper:813321028854874113",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813321028854874113"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The first-principles calculations use the revised Perdew–Burke–Ernzerhof (RPBE) generalized gradient approximation exchange-correlation functional augmented with Grimme's DFT-D3 empirical van der Waals correction, a plane-wave cutoff of 400 eV, and a $3\\times3\\times1$ k-point sampling for the supercell. The proposition is: the RPBE+D3 level of theory with the stated computational parameters yields adsorption energies and activation barriers for small adsorbates (H$_2$O, N$_2$H$_4$ and related fragments) on CoP-derived surfaces that are qualitatively reliable and quantitatively accurate to within a typical error margin (order of a few tenths of an eV, e.g., $\\sim0.1$–$0.3\\ \\mathrm{eV}$) for comparing trends between pure CoP and a WO–CoP model. This is a methodological assumption about the characteristic accuracy and transferability of RPBE+D3 for such systems; absolute errors may be larger for charged/proton-coupled electron-transfer steps or when solvation/electric-field effects are significant.",
+        "content_hash": "96aa4f1fef95d0a22e0efbcb56533a43eab319834da492c5271e26dabfcb0fba",
+        "id": "gcn_694bafff1c5b42f6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:909619003352154849::P5",
+            "package_id": "paper:909619003352154849",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:909619003352154849"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider replacing the PBE0-MBD energy/force reference and the GIPAW-DFT shielding reference used for training with higher-level electronic-structure methods such as MP2, the random phase approximation (RPA), coupled-cluster theory, or quantum Monte Carlo, and consider training machine-learning interatomic potentials and shielding surrogates on datasets obtained at these higher levels of theory. The proposition is that it is computationally and methodologically feasible to extend the integrated ML workflow to use such higher-level reference data and to develop more transferable, compound-class-agnostic ML models (for example by combining baselining strategies and active-learning data acquisition guided by uncertainty estimation), so that the same general approach can provide ensemble-averaged, first-principles-accurate NMR shieldings for a substantially broader range of condensed-matter systems without prohibitive cost or sampling requirements.\n      [73–76, 63, 77]",
+        "content_hash": "f4f85187bf6c76eb520ee59bdd065f7dbe4ca4aa260b132c60fe447144dedf85",
+        "id": "gcn_71bc1d48f36844ad",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751005083665056::P10",
+            "package_id": "paper:867751005083665056",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751005083665056"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $E_{\\\\sigma}$ denote the computed surface energy per unit surface area for a clean metal surface model and $E_{\\\\mathrm{ads}}$ denote the computed chemisorption energy of a CO molecule on the same surface site using consistent geometries; for the CO chemisorption problems considered on Rh(111) and Pt(111) surface models, HTBS departs from the near-linear trend observed for common GGAs between $E_{\\\\sigma}$ and $E_{\\\\mathrm{ads}}$: HTBS retains surface energies similar to the Wu–Cohen (WC) GGA (the WC functional being a “weaker” GGA with a slowly rising enhancement factor) while significantly improving the CO adsorption energies $E_{\\\\mathrm{ads}}$ toward values at least as good as those obtained with the Perdew–Burke–Ernzerhof (PBE) GGA; the random-phase approximation (RPA) remains more accurate for these surface and adsorption energies but requires substantially higher computational cost.",
+        "content_hash": "ba5d08280fef37d1741a9e099126a67c3ecba8f91eca6ea1e3fa40389dd081f9",
+        "id": "gcn_9171eace9fe94dcb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811660556573343745::conclusion_5",
+            "package_id": "paper:811660556573343745",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811660556573343745"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The interaction-driven changes of per-subband Fermi momenta and the predicted discontinuous subband population changes computed within the RPA for quasi-three-dimensional wide parabolic GaAs quantum wells should be experimentally observable by tuning a strong magnetic field: in particular, a measurement sensitive to the longitudinal Fermi edge of a given Landau subband (for example angle-resolved tunneling, magneto-transport signatures tied to Fermi-surface geometry, or ballistic focusing signals) should be able to detect a sharp drop in the Fermi momentum of a lower subband coincident with the onset of population of the next higher Landau subband, provided experimental broadening and resolution allow it. As a complementary theoretical verification, first-principles quantum Monte Carlo simulations, such as Green's-function Monte Carlo calculations, are recommended to compute subband occupations beyond RPA and to assess the quantitative accuracy of the RPA predictions.",
+        "content_hash": "c8c5347b6141e913e0723f40a4c8325a5c8d9fb507372215f151b4b9193d5f2f",
+        "id": "gcn_d2985745115c4ec2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811265329152917504::conclusion_5",
+            "package_id": "paper:811265329152917504",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811265329152917504"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Bulk-site staggered magnetization $m(N_c)$ and ground-state energy $E_0(N_c)$ computed within the cluster mean-field (CMF) approach for clusters of $N_c$ sites display systematic finite-size trends that interpolate between single-site mean-field (MF) results and many-body benchmark methods such as the random-phase approximation (RPA) or quantum Monte Carlo: (i) inclusion of short-range intracluster correlations in CMF reduces both the zero-temperature magnetization and the Neel temperature relative to single-site MF and produces results intermediate between MF and RPA; (ii) over the accessible cluster sizes the dominant finite-cluster-size dependence of the bulk staggered magnetization behaves approximately as $m(N_c)\\propto 1/\\sqrt{N_c}$ so that least-squares extrapolation using a $1/\\sqrt{N_c}$ ansatz yields an extrapolated magnetization $m(\\infty)\\approx0.81$; and (iii) ground-state-energy extrapolation using the same empirical scaling gives $E_0(\\infty)\\approx-2.31$, in close agreement with quantum Monte Carlo benchmark values $\\approx-2.33$ for the studied Heisenberg-like limit. All symbols ($m(N_c)$, $E_0(N_c)$, $N_c$, MF, RPA, and $m(\\infty)$) are defined here.",
+        "content_hash": "6775a3fedaf314c817a88f9e5112049e00d106ec20b4f15b77447040304a2d83",
+        "id": "gcn_7adf4443d73a4e2e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812720866608545792::conclusion_7",
+            "package_id": "paper:812720866608545792",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812720866608545792"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "5a1328767041684d4179cfd73e53fc39"
+}
